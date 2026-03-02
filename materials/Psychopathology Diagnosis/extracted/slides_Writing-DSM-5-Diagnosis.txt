@@ -1,0 +1,69 @@
+Communicating a DSM-5 Diagnosis
+Michael Lee Zwiers, Ph.D., R.Psych., 2014 www.psychstar.ca
+The DSM-5 manual provides little guidance on how a DSM-5 diagnosis should be
+communicated in writing. However, as clinicians, we need to consider both the
+purpose of our communication and the audience for that communication. As
+professionals, we must also consider the potential misuse of documents by others,
+which will influence the way that we present our findings. This document will provide
+some guidance for clinicians.
+What does DSM-5 say about presenting diagnostic conclusions?
+• DSM-5 does not tell us how we must present our diagnostic conclusions.
+• DSM-5 does state that there is no axial framework for presenting results.
+• DSM-5 does insist that the principal diagnosis be listed first, and suggests that in
+most cases the qualifying phrase “(principal diagnosis)” or “(reason for visit)”
+should be added afterwards. (The principal diagnosis is considered to be the
+mental health condition that is the primary reason for the referral, or that is the main
+focus of clinical attention or treatment.)
+• DSM-5 does insist that multiple diagnoses must be presented in a hierarchy
+descending from the condition of most significance to that of the least concern (i.e., it
+must reflect the client’s presentation at the time of assessment and be based on the
+reason for referral / focus of clinical attention or treatment).
+• DSM-5 does insist that we consider all relevant subtypes and specifiers.
+• DSM-5 does suggest that we consider, and report, psychosocial and contextual
+factors and influences when formulating and reporting our diagnostic conclusions.
+• DSM-5 reminds us that V Codes are not mental disorders.
+Although DSM-5 has not provided a clear reporting format, many organizations may
+choose to develop a model or framework for presenting DSM-5 diagnoses. In addition,
+some agencies or organizations may have specific requirements or guidelines around
+what is considered acceptable documentation in order for clients to access services,
+accommodations, or funding. This can include eligibility for government funding,
+insurance benefits, and access to disability services. It may also include eligibility for
+accommodations, supports, or modifications in the workplace, at school, and for high-
+stakes exams. In addition, documentation for use in the legal system or during legal
+proceedings will have its own unique requirements.
+
+-- 1 of 2 --
+
+Communicating a DSM-5 Diagnosis
+Michael Lee Zwiers, Ph.D., R.Psych., 2014 www.psychstar.ca
+The following examples offer suggestions for how to write relevant DSM-5 diagnosis.
+Note that these examples do not include important information that would be relevant to
+communicating a diagnostic formulation (e.g., background history, presenting concerns,
+manifestation and progression of behavioural signs and symptoms over time).
+Example 1: Client with a single disorder
+“Client X presents with symptoms and behaviours that are consistent with
+a DSM-5 diagnosis of Major Depressive Disorder, Single Episode, Mild
+(296.21), with Anxious Distress”
+Note: Given that there is only one disorder the principle diagnosis would be assumed and it is
+therefore not required to state: Principal Diagnosis.
+Note: DSM-5 presents diagnostic specifiers in lowercase rather than capitalized letters.
+However, in order to ensure that readers recognize that all words are part of the diagnostic
+description, I recommend that the entire diagnosis be capitalized, including specifiers.
+Example 2: Client with two mental health disorders
+“Client Y meets criteria for the following DSM-5 diagnoses:
+300.02 Generalized Anxiety Disorder (Principal Diagnosis)
+315.00 Specific Learning Disorder, With Impairment in Reading”
+Example 3: Client with two mental health disorders (one a Subtype)
+“Client Z meets criteria for the following DSM-5 diagnoses:
+309.81 Posttraumatic Stress Disorder” (Principal Diagnosis)
+300.4 Persistent Depressive Disorder (Dysthymia), Moderate, With Pure
+Dysthymic Syndrome, with Peripartum Onset
+Example 4: Client with a mental health disorder and a primary medical condition
+“Client P meets criteria for the following DSM-5 and ICD-10 diagnoses:
+250 Diabetes Mellitis (Principal Diagnosis)
+307.51 Bulimia Nervosa, Moderate”
+Note: When a medical condition if the primary concern (including medical condition-induced
+mental disorders), then the principle diagnosis is attached to that disorder.
+
+-- 2 of 2 --
+

@@ -1,0 +1,955 @@
+Evaluation of the Dawson College Shooting Psychological Intervention:
+Moving Toward a Multimodal Extensive Plan
+Monique Se´guin and Nadia Chawky
+Universite´ du Que´bec en Outaouais and McGill University
+Alain Lesage, Richard Boyer, and Ste´phane Guay
+Universite´ de Montre´al and Centre de Recherche Fernand-
+Seguin de l’Hoˆpital Louis-H. Lafontaine, Montre´al, Que´bec,
+Canada
+Pierre Bleau
+McGill University
+Paule Miquelon
+Universite´ du Que´bec a` Trois-Rivie`res
+Nadia Szkrumelak and Warren Steiner
+McGill University
+Denise Roy
+Centre de Recherche Fernand-Seguin de l’Hoˆpital Louis-H.
+Lafontaine, Montre´al, Que´bec, Canada
+In 2006, following the shooting at Dawson College, the authorities implemented an intervention plan.
+This provided an opportunity to analyze the responses to services offered, and afforded a learning
+opportunity, which led to the proposal of an extensive multimodal short- and long-term psychological
+plan for future needs. Both quantitative and qualitative data were gathered 18 months after the event,
+involving the participation of 948 students and staff. Mental health problems and the perception of
+services offered after the shooting were investigated, using standardized measures. Second, focus groups
+and individual interviews were conducted among a subgroup of participants (support team members;
+teachers and employees; students and parents) and permitted to gather data on services received and
+services required. Individual report of events, the extent of psychological impact and services offered and
+received were analyzed in terms of the following dimensions: intervention philosophy, training, ongoing
+offer of services and finally, detection and outreach. A significant incidence of disorders and a high rate
+of exacerbation of preexisting mental disorders were observed within the 18 months following the
+shooting. Postimmediate and short-term intervention appeared adequate, but the long-term collective
+vision toward community support and availability of mental health services were lacking. Lessons
+learned from this evaluation and other school shootings suggest that preparedness and long-term
+community responses are often overlooked. A multimodal extensive plan is proposed based on a
+theoretical model from which interventions strategies could be drawn.
+Keywords: posttraumatic intervention, school shooting, trauma, PTSD, mental health
+In the last decade, the psychological intervention plans follow-
+ing disasters, including school emergency plans for a critical
+incident, have been developed at local, national, and international
+levels to offer support to survivors. The number of psychological
+first-aid programs is on the rise and targets specific disasters:
+disaster-related trauma; complex trauma; exposure to violence;
+traumatic loss; nonspecific mass trauma; organizational crisis
+management, and so forth (Jaycox et al., 2006; Hutchins & Wang,
+2008). These include the International Crisis Response Network
+(ICRN) developed by the International School Psychology Associ-
+ation (Jimerson, Brock, & Pletcher, 2005), the National Organization
+for Victim Assistance (NOVA), the Community Crisis Response
+Team Protocol (Young, 2002), the Intervention, known as BASIC ID
+and BASIC Ph (Lahad, 1997), as well as the Psychological First Aid
+This article was published Online First April 30, 2012.
+Monique Se´guin and Nadia Chawky, Department of Psychology,
+Universite´ du Que´bec en Outaouais, Gatineau, Que´bec, Canada, and
+McGill Group on Suicide Studies, McGill University, Montre´al, Que´-
+bec, Canada; Alain Lesage and Richard Boyer, Department of Psychi-
+atry, Universite´ de Montre´al and Centre de Recherche Fernand-Seguin
+de l’Hoˆ pital Louis-H. Lafontaine, Montre´al, Que´bec, Canada; Ste´phane
+Guay, Centre de Recherche Fernand-Seguin de l’Hoˆ pital Louis-H.
+Lafontaine, and E´ cole de Criminologie, Universite´ de Montre´al, Mon-
+tre´al, Que´bec, Canada; Pierre Bleau, Department of Psychiatry, McGill
+University, Montre´al, Que´bec, Canada; Paule Miquelon, Department of
+Psychology, Universite´ du Que´bec a` Trois-Rivie`res, Montre´al, Que´bec,
+Canada; Nadia Szkrumelak and Warren Steiner, Department of Psychi-
+atry, McGill University Health Centre, McGill University; Denise Roy,
+Centre de Recherche Fernand-Seguin de l’Hoˆ pital Louis-H. Lafontaine,
+Montre´al, Que´bec, Canada.
+This project was supported financially by the Ministry of Justice of Quebec.
+Correspondence concerning this article should be addressed to Mo-
+nique Se´guin, Universite´ du Que´bec en Outaouais, De´partement de
+Psychoe´ducation et de Psychologie, C-2821, Pavillon Alexandre-Tache´,
+283, Boulevard Alexandre-Tache´, C.P. 1250 Succ Hull, Gatineau,
+(Que´bec) J8X 3X7. E-mail: monique.seguin@uqo.ca
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Psychological Trauma: Theory, Research, Practice, and Policy 	© 2012 American Psychological Association
+2013, Vol. 5, No. 3, 268 –276 	1942-9681/13/$12.00 DOI: 10.1037/a0027745
+268
+
+-- 1 of 9 --
+
+(PFA) Field Operations Guide developed by the National Child Trau-
+matic Stress Network of the National Center for PTSD (Vernberg et
+al., 2008). In Quebec, the 1989 shooting of 22 young women at the
+E´ cole Polytechnique de Montre´al prompted the development of a
+psychosocial approach to public security (Martel & Brunet, 2006).
+Despite the fact that each program has a different and specific
+emphasis, they share a common foundation: (1) they are based on
+theories of stress, coping, adaptation, and resilience after exposure
+to a traumatic event; (2) the programs are applicable and can be
+implemented in almost any environment (school, community, or
+other); (3) the programs are adapted to different types of clientele
+and the different developmental stages of life, even though there
+are specific indications for children, teenagers, and adults; and (4)
+the programs are sensitive to different cultural contexts, allowing
+for flexible and adapted interventions (Pynoos et al., 2008).
+Another shared resemblance of the posttrauma and postcritical
+incident plans is that they are based on a medical model for
+emergency intervention. As such, psychological interventions are
+planned for the identification and emergency interventions of acute
+symptomatology, which, more often, requires quick short-term
+interventions. Most of the emergency psychological plans focus on
+the identification and detection of difficulties in the realm of stress,
+acute stress, and posttraumatic stress disorders, and offer long lists
+of intervention activities to implement at different times in the first
+weeks or months of the critical incident. Only a few programs
+systematically include detection and active identification of indi-
+viduals who may have developed other mental health disorders,
+such as affective disorders, substance abuse disorders, and so forth.
+Some more recent models are now characterized by key prin-
+ciples instead of prescribed actions. From this perspective, Hobfoll
+et al. (2007) suggested that the state of knowledge points to basic
+principles for interventions following a violent and traumatic
+event, which they called evidence-informed principles. Five key
+principles should be at the center of crisis planning: promoting a
+sense of safety; calming; promoting a sense of self and community
+efficacy; connectedness; and hope. On a public-health level, a
+sense of safety is established by bringing people to a safe place and
+making it clear that the environment is safe, and, by extension, safe
+from rumors and other interpersonal factors that may increase the
+perception of a threat. Promotion of calming in the initial stages is
+important. Some level of stress and anxiety is normal and is a
+healthy response in the initial stage; most individuals will return to
+a more manageable level of emotions within days or weeks. In
+some cases, some individuals will continue to have heightened
+levels of anxiety, which will need to be addressed. Treatments
+targeted to calming the extreme emotions associated with trauma
+are suggested at this phase, such as relaxation, stress inoculation
+training, problem-focused coping, and so forth (Hobfoll, 2007).
+Promoting a sense of self-efficacy in the belief of a positive
+outcome through self-regulation of thoughts, emotions and behav-
+iors (Carver & Scheier, 1998), and collective efficacy, creates a
+sense of belonging and connectedness. From this perspective,
+Hawdon and Ryan (2011) found a heightened sense of solidarity
+after the Virginia Tech shooting and argued that emotionally
+intense collective events focused on tragedy promote solidarity
+and create communities. If elevated social support facilitates well-
+being, it is important to keep in mind that change will occur in the
+social support system, which might wear out over time, leaving
+some individuals especially vulnerable (Kaniasty & Norris, 1993).
+Lastly, instilling hope is critical because mass trauma is accom-
+panied by a “shattered world vision” (Janoff–Bulman, 1992).
+Despite the relatively wide distribution of posttrauma programs,
+they were not validated empirically. This is understandable, since
+the methodological challenges are enormous, and it is unlikely that
+clinical trials could eventually be conducted in situations of mass
+trauma. Still there is no evidence base for a specific “best practice”
+global program, or for each of the psychological or psychoeduca-
+tional interventions suggested for these programs. Recent findings
+concerning the use of psychological debriefing have left the field
+of trauma intervention with no specific framework for postimme-
+diate disaster psychological intervention (Hobfoll et al., 2007).
+This void prompted suggestions by an international expert
+panel, which has made recommendations on screening, outreach
+and intervention for mental health, and substance abuse needs
+following disasters and mass violence (Gibson et al., 2006). Al-
+though there is a consensus on the short-term model and interven-
+tion needed during the first phases of intervention, there has been
+much less discussion about long-term interventions, and about the
+presence or emergence of psychological difficulties other than
+PTSD after a critical incident.
+Lessons Learned From Recent School Shootings
+Newly published systematic data collection and analysis after
+the school shootings at Virginia Tech offers other perspectives on
+the recently implemented intervention plan. Wang and Hutchins
+(2010) conducted an analysis of the crisis management imple-
+mented at Virginia Tech using six phases of analysis: 1. signal
+detection that involves recognizing and responding to the existence
+of early crisis indications; 2. preparation of a systematic plan
+management; 3. actions to contain the impact of the crisis; 4.
+recovery promoting procedures to resume normal activities; 5.
+learning involves critical reflection on the crisis experience; and 6.
+reanalysis that generates change and restructuring (Mitroff, 2005).
+The results from this analysis suggest that difficulties were impor-
+tant during in the first two phases. It appears that the lack of
+detection and preparedness were most critical and resulted even-
+tually in a state-wide policy change with regard to medical report-
+ing, gun policy, and emergency notification procedures (Wang &
+Hutchins, 2010).
+Since the shooting at Virginia Tech in 2007, a number of articles
+have been published reflecting on lessons learned from the inter-
+vention plan implemented. The conclusions usually suggest the
+importance of preventive measures, such as the necessity of iden-
+tifying potential shooters before the act (Greenberg, 2011); the
+need to support public health preparedness for a mass casualty
+incident (Armstrong & Frykberg, 2011); and the importance of
+evaluating the impact of the event on psychological functioning. In
+fact, a number of studies have evaluated different dimensions of
+mental health, such as short-term levels of distress (Vicary &
+Frley, 2010), or the impact of maladaptive coping and general
+psychological distress for vulnerable students (Littleton et al.,
+2011), or different aspect of posttraumatic symptoms. Grills-
+Taquechel, Littleton, & Axsom, (2011) have found that those
+severely exposed to the shooting bore a greater belief in the lack of
+control and self-worth.
+Most of the studies have examined one part of the process of the
+intervention plan by focusing either on the organizational level or
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+269	DAWSON COLLEGE SHOOTING PSYCHOLOGICAL INTERVENTION
+
+-- 2 of 9 --
+
+on the outcome on mental health issues. No single study evaluated
+the whole process including the implementation of the intervention
+plan, the short- or long-term outcome for students and faculty
+members, and the implication for health prevention, and so forth.
+The purpose of our study is to analyze the complete process of the
+intervention plan, including short- and long-term effects of a
+school shooting. Our aim is to discuss the lessons learned from the
+services offered at Dawson College in the aftermath of the shoot-
+ing of September 2006. The “de facto” intervention plan imple-
+mented after the shooting offered the opportunity to: (1) analyze
+the mental health status of the college community 18 months after
+the shooting; (2) take into account the experiences and perceptions
+of the intervention plan offered; and (3) suggest, based on the
+lessons learned, a comprehensive multimodal intervention protocol
+for future postcritical situations.
+Method
+Evaluation of the Services Offered at Dawson College
+In the first few weeks of September 2006, a shooting took place
+at Dawson College, which resulted in the death of two people and
+the physical injury of 17 students. In the aftermath of this tragedy,
+the population, health and social services, justice and school sec-
+tors, and government rallied together to offer psychological and
+clinical services to the community of students, parents, and staff of
+the college. One year after the event, the Que´bec government
+announced an evaluation of the Emergency Psychological Inter-
+vention Plan. A case study research design using qualitative and
+quantitative methodology was implemented 18 months afterward
+among the students and employees who were at Dawson College
+on September 13, 2006.
+The first arm is the evaluation of psychological impact and
+individual services involved a survey of the 10,000 students and
+employees, 948 agreed to answer a questionnaire, either computer-
+assisted in a room set up for this purpose at the college (28%) or
+on a secure Web site (72%). The questionnaires evaluated lifetime
+and postincident mental disorders and health perception and use of
+services. The questionnaires were adapted from those used in 2002
+by Statistics Canada in the Canadian Community Health Survey,
+Cycle 1.2 on Mental Health and Well-being (CCHS 1.2).
+The second arm of the evaluation gathered and analyzed data
+qualitatively (Mayer & Ouellet, 1991) with focus groups and
+individual interviews conducted with students, employees, admin-
+istrative personnel, parents of students, and caregivers, in order to
+first assess their appreciation and evaluation of the psychological
+and the clinical services offered at the college in the aftermath of
+the shooting. The second objective was to allow the participants to
+voice, in hindsight, what types of psychological and clinical ser-
+vices would have been required. The interviews were recorded and
+then transcribed verbatim. The individual interviews lasted an
+average of 1 hour while the group interviews took 2 hours. Ques-
+tions involved their assessment of services received, satisfaction
+and perception of the services accessed, and services that would
+have been needed and why. The comments were coded by theme
+and subsequently analyzed. The key players’ descriptions of events
+were recorded. The verbatim transcription of every focus group
+and individual interviews were analyzed and contrasted in the four
+different dimensions of the crisis management plan—intervention
+philosophy; training; ongoing offer of services; and detection and
+outreach—in order to delineate the principles and impact of the
+psychological intervention plan (Contandriopoulos Champagne,
+Denis, & Avargues, 2000). Table 1 summarizes the themes that
+emerged during the focus groups.
+Finally, the third arm of this research project is the development
+of the multimodal plan. By triangulating all the results from the
+survey on the psychological impact and the “de facto” plan, unmet
+needs emerged with potential recommendations for future plans.
+The project had received the approval of the research ethics
+committees at Dawson College, the McGill University Health
+Centre, and the Fernand-Seguin Research Centre of the Louis-H.
+Lafontaine Hospital affiliated with the University of Montre´al.
+Results
+First Arm: Evaluation of Mental Disorders, Health
+Perception, and Use of Services
+The vast majority of respondents (79%) were present at the
+college during the shooting. More than one third of the respondents
+said they witnessed someone being wounded or killed by the
+shooter; 50% heard gunshots; and 52% hid with other people (the
+respondents may have experienced more than one of these situa-
+tions). After the shooting, approximately 18% of the respondents
+developed a mental disorder for the first time in their life. The
+incidence of episodes of posttraumatic stress disorder (PTSD) was
+observed among 1.8% of the participants, major depression among
+5%, alcohol dependency among 5%, and social phobia among 3%
+of the participants. Moreover, an additional 12% of the respon-
+dents, having already experienced mental disorders in their life-
+time before the shooting, continued to experience the presence of
+disorders in the 18 months following the shooting. The greater and
+the closer the exposure was to the event, the greater the risk was
+of developing a mental disorder. Taking into account comorbidity
+of disorders in some individuals, this total of 30% of respondents
+who suffered from one of the mental disorders in the aftermath of
+the mass violent incident is actually twice as many as the number
+observed in the 2002 Canadian general population survey on
+mental health and well-being conducted with similar question-
+naires.
+More than 80% of those having consulted at least one resource
+felt they had received at least one satisfactory service, but close to
+half said they would have needed additional service. Among the
+additional services required, information and psychotherapy/
+counseling were cited most frequently. The majority of people
+presenting a mental disorder after the shooting did not consult
+professional services, but this was no different from the search for
+support in the 2002 mental health and well-being survey popula-
+tion reporting a mental disorder. The reason cited most often for
+that was acceptability (the problem will go away by itself), even
+though this was clearly not the case after 18 months for many
+respondents based on the 30% prevalence of PTSD, affective and
+anxiety disorders, and substance abuse disorders.
+Accessibility to services was identified by 14% of the respon-
+dents, as a reason explaining why their need for support was not
+met. The majority of students and employees with psychological
+wounds did not consult professionals, but evidence from the sur-
+vey suggests that they used the Internet as a resource to inform
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+270 	SE´ GUIN ET AL.
+
+-- 3 of 9 --
+
+Table 1
+Description of Objectives and Tasks of the Multimodal Intervention Plan
+Period 	Period I (preimpact) 	Period II (impact) 	Period III (postimmediate)
+Period IV (first weeks
+posttrauma)
+Period V (long-term
+vigilance)
+Conceptual
+models
+Healthy workplace model and
+prevention of violence
+Emergency intervention and posttraumatic
+treatment models
+Crisis/trauma intervention model as well
+as the enhancing of resilience in the
+community
+Crisis intervention and resiliency
+models
+Maintaining a healthy
+environment
+depends on a
+holistic approach to
+both physical and
+mental health
+Objective 	To enhance resilience among
+individuals
+The interventions during the first moments
+after the shooting are generally
+coordinated with emergency services
+(police, medical emergency services,
+etc.) and their goal is to ensure
+immediate medical help for the
+wounded, securing the premises, etc.
+To ensure the identification of individuals/
+subgroups recognized at higher risk of
+psychological difficulties and plan the
+follow-up
+To target people with acute stress,
+posttraumatic stress disorder
+and problems in functioning in
+order to increase empowerment
+and resilience in the community
+It relies upon the
+ability of the
+community-at-large
+to accommodate
+the increased needs
+for people with
+mental disorders in
+schools and the
+workplace
+To prevent violence
+To prevent mental disorders
+and substance abuse
+To act on psychosocial factors
+present in the work
+organization
+To prepare a multimodal
+intervention plan (see task
+below)
+Task 	(1) Training personnel for
+logistical and psychosocial
+needs
+(1) Helping people in danger 	(1) Organizing informational activities of
+re-appropriation and return to school
+(1) Providing psychosocial
+education, in class
+(1) Preventing
+violence
+(2) Updating emergency
+protocols regularly
+(2) Making them feel safe 	(2) Providing information on the signs and
+symptoms associated with the risk of
+posttraumatic stress disorder,
+depression, etc.
+(2) Providing accessibility of
+screening tools on the Web site
+(2) Identifying risk
+factors in the
+workplace
+environment
+(3) Ensuring, with local and
+regional authorities, that they
+have access to the necessary
+material (psychological
+intervention kits)
+(3) Securing the premises 	(3) Promoting the presence of
+psychological services
+(2) Maintaining psychological
+services within the school
+(3) Planning the
+therapeutic
+management of
+common mental
+health disorders
+(4) Maintaining links with their
+partners who will have to
+intervene in the event that an
+emergency plan is set in
+motion
+(4) Filling practical needs 	(4) Encouraging people to consult services (2) Allowing easy and immediate
+access to support
+(5) Maintaining a healthy
+school and workplace
+environment
+(5) Dealing with the surge of people
+converging on the school and local
+hospitals to receive help or obtain
+information about a loved one
+(5) Developing support 	(3) Providing accessibility to
+specialized mental health
+services must also be planned
+for in order to be able to refer
+people with more complex
+problems
+(6) Providing psychological support
+(Orange Code)
+(6) Providing information and referral
+services for parents, families and loved
+ones
+(7) Providing online consultation tools,
+information about symptoms and
+services
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+271
+DAWSON COLLEGE SHOOTING PSYCHOLOGICAL INTERVENTION
+
+-- 4 of 9 --
+
+themselves on mental health issues and services. In that sense, the
+majority would therefore have been willing to consult if there had
+been a link between the Web sites and mental health services,
+facilitating the expressed wish to receive psychotherapy/
+counseling.
+Second Arm: Evaluation of the Experiences and
+Perceptions of the Intervention Plan
+Intervention philosophy. 	The intervention plan imple-
+mented at Dawson College after the shooting of September 13,
+although created in an ad hoc manner, was based upon a theoretical
+framework focusing on posttraumatic intervention, crisis interven-
+tion, and resilience. In the first moments of the shooting, while
+police authorities were searching for other potential shooters inside
+the college and were evacuating the school and helping with
+medical emergencies, the first psychosocial crisis team clinicians
+were waiting outside the school for permission from authorities to
+go in the school and help with psychological interventions. This
+authorization never came, since the school was treated and pro-
+tected as a crime scene, which created resentment between the
+interveners and the authorities, because one group believed that
+they were not able to do their work. However, when the students
+were asked about what they needed at that moment, they all had
+but one objective—to get home to their families, illustrating the
+need for safety as being the first principle of a trauma-based
+intervention strategy suggested by Hobfoll et al. (2007). These
+conflicted ideas of what should be the best intervention, even if it
+demonstrates willingness by everyone to help, are examples of a
+lack of a shared common intervention philosophy.
+Another example of conflicted ideas has to do with restoring a
+sense of self-efficacy versus collective efficacy. The crisis inter-
+vention team relied on the students’ and employees’ capacity for
+resilience as a major variable in their recovery. Taking these
+factors into consideration, a number of interventions were put into
+place: the preparation of the college for the return of the employ-
+ees, and then the students several days later (as quickly as possible
+in order to reestablish a support structure); the reappropriation of
+the campus by the college population; the presence of numerous
+mental health professionals on site to support anyone requiring
+intervention; the possibility of meeting with mental health profes-
+sionals upon request in the days and weeks after classes resumed;
+and the planning of rituals and commemorations, to name a few.
+Throughout these activities of reintegration on campus and the
+return to school, a culture of collective resilience emerged that
+provided strength to the campus community, as well as the sense
+that they had the ability to overcome adversity.
+In the days and weeks after the return to the college, the
+students and employees were invited to consult mental health
+professionals on the premises. Because the lack of space did not
+allow closed offices to be available for everyone, during the
+first week, mental health professionals were set-up in the library
+and received “patients” in semiopen cubicles. It was felt that
+this setup set a tone of openness to the consultation and en-
+couraged an attitude of nondramatization and normalization to
+the consultation process, which would have been perceived as
+natural under the circumstances. While some people understood
+this approach and were comfortable with this arrangement,
+others felt too exposed, and that they had little or no privacy.
+Some people chose not to consult, concerned with the lack of
+confidentiality. Others, especially teachers and employees,
+were concerned about taking the place of students who may
+have needed protection and support more than they did. For
+some teachers, as well as for other employees who wanted to be
+perceived by students as potential sources of support, it was felt
+that having to consult mental health professionals in the same
+place as students undermined or discredited this role. Therefore,
+two core values were at odds: normalization associated with the
+request for support, and wanting to maintain a supportive role
+for the students. This example illustrates the potential problems
+that can arise when services are offered using a single mode of
+intervention even in the immediate aftermath of the event.
+Training of mental health professionals. 	During the period
+of reappropriation of the college, several mental health profession-
+als were solicited to offer consultations to the Dawson College
+community. This approach was intended to foster timely interven-
+tions to address emerging problems. However, not all mental
+health professionals had training or expertise in posttraumatic or
+crisis intervention. Conducting interviews in such a context may be
+different from what they do in their usual practice. In crisis
+situations, mental health professionals must be more active and
+directive, and must target their diagnostic evaluations toward the
+detection of specific risk factors. A number of students and com-
+munity members felt that the clinicians seemed too tired, and were
+unable to give the proper counseling. It is possible that several
+professionals, without the proper training, felt overwhelmed in
+these first weeks, which may explain why some respondents indi-
+cated that the engagement in treatment was not met.
+Ongoing offer of services. 	Gradually, according to reduced
+requests for support, the mental health professionals still at the
+college moved from cubicles to enclosed offices; some re-
+mained on the premises for 6 months following the shooting.
+These mental health professionals were less visible, and there-
+fore not as sought out. In this context, their presence became of
+secondary importance. This illustrates the difficulties of con-
+tinuous accessibility to services specialized in mental health.
+The regular presence of professionals trained in detecting and
+treating common mental health disorders (like depression/
+adaptation difficulties, substance abuse, and anxiety disorders)
+in the school and workplace should encourage students to adopt
+the habit of consulting when necessary. This habit would not
+have to be developed only during critical situations. As reported
+mainly by students and parents, many of them recognized the
+need for help and consultation only months, and even 2 years,
+following the event. In many cases, the disorders were not
+temporary, and the need for support that was clearly identifiable
+in the first days, even in the first months, was still present, 18
+months after the event, hence the importance of having ongoing
+services and long-term outreach activities. Moreover, detection
+activities in an outreach mode would have allowed some people
+to be referred to mental health services. As well, unknown to
+mental health professionals, there was extensive use of the
+Internet; more than 14% of students and employees sought and
+received information on mental health issues by visiting various
+Web sites (Roy et al., 2010; Boyer et al., 2010). However, the
+Internet was not used by mental health professionals to follow
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+272 	SE´ GUIN ET AL.
+
+-- 5 of 9 --
+
+up providing confidential detection tools or offer consultation
+services.
+Detection of individuals in need and the importance of out-
+reach activities. 	The philosophy of the crisis intervention team
+relied on the capacity for resilience of the college community and
+on their ability to express their needs and to request psychological
+help. There were very few detection, identification, and outreach
+activities. It would probably have been preferable to develop
+detection activities specifically for the groups at risk, that is,
+systematic detection activities for individuals who were directly
+exposed to the shooting, as well as education and psychosocial
+education based on theoretical knowledge such as information
+about mental disorders and the efficacy of psychotherapy. These
+activities might have been beneficial and would have fostered a
+greater capacity for detection by teachers, friends, parents, and so
+forth, as well as self-detection. Consequently, this would have
+encouraged the community to make greater use of the psycholog-
+ical services offered. Lastly, along the same lines, the lack of
+structured, specific outreach philosophy did not ensure compre-
+hensive follow-up and case management for vulnerable students
+and especially wounded students and their families. It should be
+noted, however, that numerous interventions were made infor-
+mally, either by a teacher toward a student, or a manager toward a
+student or staff member. In some cases, formal and structured
+interventions were offered by mental health professionals. It is
+therefore necessary to set up a formal and extensive mental health
+program of prevention and intervention in a school or workplace
+community in preparation and following a disaster like mass
+violent incidents.
+Third Arm: Implications for Practice
+Comprehensive multimodal intervention protocol for future
+postcritical situations. 	Based on the lessons learned through the
+evaluation of the psychological impact and intervention plan ob-
+served at Dawson, we suggested a multimodal intervention plan
+for future postcritical situations (Se´guin et al., 2010). In essence,
+this protocol suggests that interventions should be based on clear
+theoretical models, which should guide the choices of interven-
+tions. Any intervention must be guided by a theoretical framework,
+which allows justifying a model of intervention. In the case of a
+long-term intervention plan dealing with a violent and traumatic
+event, no single theoretical model can support and orient actions
+over a long period. By combining theoretical models, we can better
+conceptualize the needs for each phase in the intervention process
+(see Figure 1). As the people’s needs evolve, it is appropriate to
+adopt different theoretical models in order to better respond to the
+needs of the population at risk. Over time, the actions to be taken
+and the people responsible for these interventions will change.
+Since there is no “one-size-fits-all” model, events, context, and
+environmental variables should be considered in the development
+of any trauma-based intervention model and should be based on
+evidence-informed literature (Hobfoll et al., 2007).
+Period I (Pre-impact). 	This period is based on a healthy
+workplace model that enhances resilience among individuals and
+prevents the development violence, of new cases of mental disor-
+ders and substance abuse by acting on psychosocial factors present
+in the work organization that a school represents, decreasing
+stigma associated with mental disorders/substance abuse and con-
+sulting facilitated within the work environment (Institute of Health
+Economics & Mental Health Commission of Canada, 2008).
+Period II (impact). 	Emergency intervention and posttrau-
+matic treatment models must take precedence during this period,
+and the goal is to ensure immediate medical help for the wounded,
+securing the premises, and so forth. Care for the victims and their
+loved ones must be a priority. During this period, hospitals often
+experience a surge, consisting of the arrival of victims and family
+members and friends seeking information about their loved ones.
+Hospitals must include a plan to provide psychological support to
+those who will learn of the death or precarious health status of a
+loved one in their emergency medical protocols (Code Orange).
+This plan must also provide care for psychologically traumatized
+people who will show up. Families, visitors, and onlookers must be
+separated into subgroups and helped accordingly.
+Period III (postimmediate). 	During the days following the
+impact, a crisis/trauma intervention model, as well as the enhanc-
+ing of resilience in the community, must guide actions. Most
+individuals will have sufficient capacities to overcome this adver-
+sity, but some will need support. One must ensure that individuals
+recognized as presenting a higher risk of psychological trauma are
+identified and implement all activities to assure engagement in
+services and their follow-up activities (International Crisis Re-
+sponse Network, ICRN). This model, developed by the Interna-
+tional School Psychology Association (Jimerson et al., 2005), aims
+for the reappropriation of premises, the return to school, the
+identification of subgroups at risk, and so forth.
+Figure 1. 	Multimodal plan: A sequential process over time with interventions specific to each phase.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+273	DAWSON COLLEGE SHOOTING PSYCHOLOGICAL INTERVENTION
+
+-- 6 of 9 --
+
+Based on evidence gathered during the Dawson College study,
+it seems that the risk of psychological trauma increases with
+proximity to violence (Boyer et al., 2010; Roy et al., 2010). As
+well, the individuals who had previously experienced mental
+health problems were more at risk of being affected. It may
+therefore be necessary to develop interventions specifically for the
+specific groups. The primary group shall be considered psycho-
+logically wounded and in need of active outreach and long-term
+case management: 1) people wounded physically, as well as the
+families, friends, and loved ones of those wounded or killed; and
+2) people who were present at the college and directly exposed to
+the violence (direct witnesses). The secondary group shall be
+considered with lower resilience or at higher risk, and systemati-
+cally identified and outreached: 1) people with preexisting mental
+health disorders as well as those at risk for suicidal or aggressive
+behaviors who are not included in the primary groups; and 2)
+people exposed by virtue of their positions at the college either
+through therapeutic relationships, or administrative or support
+implications (e.g., those who participated in the physical clean-up
+of the premises after the incident). The tertiary group at similar risk
+as the general population shall be outreached as in the good
+practice preimpact environments suggested above, namely, people
+not falling in the preceding groups, on the premises, but not
+directly exposed (indirect witnesses).
+After the period of impact, the repercussions of the events
+become more real, it becomes more pressing to identify people
+who maintain temporary stress reactions days following a violent
+and traumatic event.
+Period IV (the first weeks posttrauma). 	During this period,
+interventions are proactive and their goal is to screen for individ-
+uals with acute disorders. Psychosocial education, which gives
+better understanding of the various aspects of mental health, must
+be set up and maintained regularly. These activities can be carried
+out in classes or staff meetings (for employees) allowing for small
+group discussions, fostering literacy on mental health problems
+and possibly helping individuals identify that they need help.
+Screening tools on the college’s Web site can also prove to be
+effective not only with students, but also with employees. These
+electronic screening tools can be linked to a mental health profes-
+sional that can then refer vulnerable people to the appropriate
+services.
+Period V (period of long-term vigilance). 	Period V refers
+to the long term, which extends into the months and years
+following the event. It relies upon the ability of the community-
+at-large to better accommodate the needs of people with mental
+disorders in schools and the workplace. Maintaining a healthy
+environment depends on a holistic approach to both physical
+and mental health, identification of risk factors in the workplace
+environment (Ve´zina, Bourbonnais, Brisson, & Trudel, 2004;
+BNQ, 2008) and the therapeutic management of common men-
+tal health disorders according to the chronic disease model
+(Institute of Health Economics & Mental Health Commission of
+Canada, 2008). It moves toward the good workplace practices
+suggested to preimpact.
+Discussion
+Lessons learned from this evaluation and other school shootings
+suggest that preparedness and long-term community responses are
+often overlooked. Based on results obtained during the focus
+groups, the individual interviews and the answers on the question-
+naires about their health perceptions of need of services, the
+community pointed to difficulties in the preimpact/impact, and the
+long-term period.
+The preimpact period points to the difficulties in identifying
+students and/or community members who are vulnerable and in
+implementing an atmosphere of healthy mental health workplace/
+environment. The presence of ongoing activities such as mental
+health literacy and accessibility of consultation may help members
+of communities to identify their own vulnerability and seek help
+when experiencing mental health difficulties, especially in situa-
+tions of traumatic experiences. Therefore, these habits of seeking
+help would not need to be learned during a crisis period, which is
+often an objective in most intervention plans. Another example
+underscored in the coroners’ investigation identified the presence
+of Internet messages, aggressive behaviors and the purchase of
+firearms by the shooter (Coroner’s Office, 2009). Again, the im-
+portance of a national mental health program promoting a sound
+mental health environment could help in the detection of vulner-
+able individuals.
+The difficulties during the impact period were mostly based on
+the lack of a common intervention model, which opposes the needs
+of security services (police), the needs of clinicians to help with
+psychological emergency, and the needs of the Dawson commu-
+nity who wanted to “go home.” Shared common intervention
+conceptualization could help identify the choice of interventions
+and subgroups to target for interventions.
+Difficulties in the long-term period suggest that mental health
+difficulties have been underestimated. The most common problem
+observed was that the identification of chronic difficulties, such as
+affective disorders, addictive disorders, and violent behaviors,
+were often overlooked. A balanced psychological intervention
+program promotes a feeling of empowerment, and, although it
+relies on the resilience of students and employees, it does not
+assume that, in time, all members of the community will heal. It is
+necessary to maintain a positive outlook regarding resilience, but
+also to recognize that individual vulnerabilities may be present as
+well. Psychosocial education and a watchful attitude can foster
+ongoing screening activities and social networking initiatives, as
+well as the self-screening of vulnerable students and staff. It will
+be necessary to adapt these interventions since different types of
+mental health problems may changes from acute to more chronic
+difficulties with time. Appropriate training and the competencies
+of the mental health professionals will ensure their ability to
+screen, identify, evaluate, and appropriately intervene with the
+groups at risk.
+Limitations
+There are numbers of limitations. First, the recall biases or
+imprecise information (Beskow, Runeson, & Asgard, 1990; Bur-
+gess, Pirkis, Morton, & Croke, 2000) are among the limitations of
+assessing psychopathology and life events. Nevertheless, studies
+show (Lin, Ensel, & Lai, 1997) that the recall error usually
+reflected underreporting rather than overreporting, and the extent
+of recall errors tends to be greater for chronic and routine changes
+and less for personal and family experience. We recognize that our
+findings are based on a small sample which may not be represen-
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+274 	SE´ GUIN ET AL.
+
+-- 7 of 9 --
+
+tative of the Dawson population. It is difficult to assess the needs
+of those who did not participate in the study.
+Conclusion
+Posttraumatic programs must move toward a shift in paradigm
+to become multimodal and comprehensive. In suicide prevention,
+rare empirically evidenced effective populational programs are
+indeed multilayered (Knox et al., 2010). It must be rooted in the
+community’s capacity— beyond immediate emergency psychoso-
+cial response—to detect, identify, and respond to common mental
+health disorders. This paradigm shift must include various psycho-
+logical interventions, with built-in flexibility during the period of
+detection and intervention for acute disorders, as well as for
+chronic disorders, which may exacerbate or be perpetuated over a
+longer period of time. Crisis management plans should be based on
+common shared theoretical models of support and mental health
+wellness, instead of offering long checklists of targeted interven-
+tions for different specific periods of interventions. Thus, this
+common vision will necessitate a shared understanding of mental
+health issues and interventions, and require well-trained mental
+health and community interveners.
+References
+Armstrong, J., & Frykberg, E. (2011). Lessons from the response to the
+Virginia Tech shootings. Disaster Medicine and Public Health Pre-
+paredness, 1, 7– 8. doi:10.1097/DMP.0b013e3181514969
+Beskow, J., Runeson, B., & Asgard, U. (1990). Psychological autopsies:
+Methods and ethics. Suicide Life Threatening Behavior, 20, 307–323.
+Boyer, R., Lesage, A., Guay, S., Bleau, P., Se´guin, M., Steiner,
+W., . . . Chawky, N. (2010). Report on a study conducted with students
+and staff of Dawson College on the psychological impact of the incident
+and the search for support. Second of four reports presented to the
+Ministe`re de la Justice du Que´bec on the evaluation of the psychological
+impact and intervention after the shooting at Dawson College on Sep-
+tember 13, 2006. ISBN-978 –2-922577– 89-1. Available at http://
+www.hlhl.qc.ca/dawsonproject.html#reports
+Burgess, P., Pirkis, J., Morton, J., & Croke, E. (2000). Lessons from a
+comprehensive clinical audit of users of psychiatric services who com-
+mitted suicide. Psychiatric Services, 51, 1555–1560. doi:10.1176/
+appi.ps.51.12.1555
+Carver, C. S., & Scheier, M. F. (1998). On self-regulation of behavior.
+New York, NY: Cambridge University Press.
+Contandriopoulos, A. P., Champagne, F., Denis, J. L., & Avargues, M. C.
+(2000). Evaluation in the health sector: Concepts and methods. Revue
+E´ pide´miologique de Sante´ Publique, 48, 517–539.
+Gibson, E. L., Ruzek, J., Naturale, A., Watson, P., Bryant, R., Rynearson,
+T., . . . Hamblen, J. (2006). Intervention for individuals after mass vio-
+lence and disaster: Recommendations from the Roundtable on Screening
+and Assessment, Outreach and Intervention for Mental Health and
+Substance Abuse Needs Following Disasters and Mass Violence. Jour-
+nal of Trauma Practice, 5, 1–28. doi:10.1300/J189v05n04_01
+Government of Que´bec. Bureau de Normalisation du Que´bec. (2008).
+Standard BNQ 9700-800/2008. Prevention, Promotion and Organisa-
+tional Practices Contributing to Health in the Workplace. ISBN 978-2-
+551-23735. Available at http://www.bnq.qc.ca/en/index.html
+Government of Que´bec. Bureau du Coroner. (2008). Rapport du coroner
+suite a` la fusillade au Colle`ge Dawson. Rapport et recommandations.
+Dossier 133713, 133714. Accessible online at http://www.coroner.gouv
+.qc.ca/index.php/id/rechercher_recommandations
+Greenberg, S. (2011). Active shooters on college campuses: Conflicting
+advice, roles of the individual and first responder, and the need to
+maintain perspective. Disaster Medicine and Public Health Prepared-
+ness, 1, 57– 61. doi:10.1097/DMP.0b013e318149f492
+Grills–Taquechel, A., Littleton, H., & Axsom, D. (2011). Social support,
+world assumptions and exposure as predictors of anxiety and quality of
+life following a mass trauma. Journal of Anxiety Disorders, 25, 498 –
+506. doi:10.1016/j.janxdis.2010.12.003
+Hawdon, J., & Ryan, J. (2011). Social relations that generate and sustain
+solidarity after a mass tragedy. Social Forces, 89, 1363–1384. doi:
+10.1093/sf/89.4.1363
+Hobfoll, S., Watson, P., Bell, C., Bryant, R., Brymer, M., Friedman,
+M., . . . Ursano, R. (2007). Five essential elements of immediate and
+mid-term mass trauma intervention: Empirical evidence. Psychiatry, 70,
+283–315. doi:10.1521/psyc.2007.70.4.283
+Hutchins, H., & Wang, J. (2008). Organizational crisis management and
+human resource development: A review of the literature and implica-
+tions to HRD research and practice. Advances in Developing Human
+Resources, 10, 310 –330. doi:10.1177/1523422308316183
+Institute of Health Economics, Alberta Health Services & Mental Health
+Commission of Canada. (2008). Consensus statement on depression in
+adults. How to improve prevention, diagnosis and treatment. Accessible
+online at www.ihe.ca. ISBN 978 –1-897443– 43-9
+Janoff-Bulman, R. (1992). Shattered assumptions: Towards a new psychol-
+ogy of trauma. New York, NY: Free Press.
+Jaycox, L., McCaffrey, D., Eiseman, B., Aronoff, J., Shelly, G., Collins, R.,
+& Marshall, G. (2006). Impact of a school-based dating violence pre-
+vention program among Latino teens: Randomized controlled effective-
+ness trial. Journal of Adolescent Health, 39, 694 –704. doi:10.1016/
+j.jadohealth.2006.05.002
+Jimerson, S. R., Brock, S. E., & Pletcher, S. W. (2005). An integrated
+model of school crisis preparedness and intervention. School Psychology
+International, 26, 275–296. doi:10.1177/0143034305055974
+Kaniasty, K., & Norris, F. H. (1993). A test of the social support deteri-
+oration model in the context of natural disaster. Journal of Personality
+and Social Psychology, 64, 395– 408. doi:10.1037/0022-3514.64.3.395
+Knox, K. L., Litts, D. A., Talcott, W. G., Feig, J. C., & Caine, E. D. (2003).
+Risk of suicide and related adverse outcomes after exposure to a suicide
+prevention programme in the US Air Force: Cohort study. British
+Medical Journal, 327, 1–5. doi:10.1136/bmj.327.7428.1376
+Lahad, M. (1997). “Basic ph: The story of coping resources.” In M. Lahad
+& A. Cohen (Eds) Community stress prevention, (Vols 1 and 2, pp.
+117–143). Kiryat Shmona, Israel: Community Stress Prevention Center.
+Lin, N., Ensel, W., & Lai, W. (1997). Construction and use of the life
+history calendar: Reliability and validity recall data. In I. H. Gotlib & B.
+Wheaton (Eds), Stress and adversity over the life course. Trajectories
+and turning points. (pp. 178 –204). New York, NY: Cambridge Univer-
+sity Press. doi:10.1017/CBO9780511527623.013
+Littleton, H., Axsom, D., & Grills-Taquechel, A. E. (2011). Longitudinal
+evaluation of the relationship between maladaptive trauma coping and
+distress: Examination following the mass shooting at Virginia Tech.
+Anxiety, Stress & Coping: An International Journal, 24, 273–290. doi:
+10.1080/10615806.2010.500722
+Martel, C., & Brunet, A. (2006). L’intervention psychosociale lors de
+sinistres. In M. Se´guin, A. Brunet, & L. Leblanc, Intervention en
+situation de crise et en contexte traumatique (pp. 1712–1706). Montre´al,
+Que´bec, Canada: Chenelie`re Education, Gae´tan Morin Ed.
+Mayer, R., & Ouellet, F. (1991). Me´thodologie de recherche pour les
+intervenants sociaux. Montre´al, Que´bec, Canada: Gae´tan Morin Ed.
+Mitroff, I. (2010). Why some companies emerge stronger and better from
+a crisis. New York, NY: AMACOM.
+Pynoos, R. S., Fairbank, J. A., Steinberg, A. M., Amaya–Jackson, L.,
+Gerrity, E., Mount, M. L., & Maze, J. (2008). The National Traumatic
+Stress Network: Collaborating to Improve the Standard of Care. Profes-
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+275	DAWSON COLLEGE SHOOTING PSYCHOLOGICAL INTERVENTION
+
+-- 8 of 9 --
+
+sional Psychology: Research and Practice, 39, 389 –395. doi:10.1037/
+a0012551
+Roy, D., Lesage, A., Se´guin, M., Chawky, N., Boyer, R., Guay,
+S., . . . Miquelon, P. (2010). Evaluation of the emergency psychological
+intervention plan. First of four reports presented to the Ministe`re de la
+Justice du Que´bec on the evaluation of the psychological impact and
+intervention after the shooting at Dawson College on September 13,
+2006. September 2010. ISBN-978 –2-922577– 87-7. Available at http://
+www.hlhl.qc.ca/dawsonproject.html#reports
+Schmeidler, J., & Laraque, D. (2007). Children who lost a parent as a result
+of the terrorist attacks of September 11, 2001: Registry construction and
+population description. Death Studies, 31, 87–100. doi:10.1080/
+07481180600995263
+Se´guin, M., Chawky, N., Guay, S., Szkrumelak, N., Lesage, A., Bleau,
+P., . . . Roy, D. (2010). SECUR: Plan multimodal d’intervention psy-
+chologique en cas de fusillade en milieu scolaire. Troisie`me de 4
+rapports de´pose´s au Ministe`re de la Justice du Que´bec sur l’e´valuation
+de l’impact psychologique et de l’intervention psychologique suite a` la
+fusillade au Colle`ge Dawson le 13 septembre 2006. ISBN-978 –2-
+922577–90-7. Retrieved from http://www.hlhl.qc.ca/publications/centre-
+de-recherche-fernand-seguin/etudes.html
+Vernberg, E. M., Steingerg, A. M., Jacobs, A. K., Brymer, M. J., Watson,
+P. J., Osofsky, J. D., . . . Ruzek, J. I. (2008). Innovation in disaster
+mental health: Psychological first aid. Professional Psychology: Re-
+search and Practice, 39, 381–388. doi:10.1037/a0012663
+Ve´zina, M., Bourbonnais, R., Brisson, C., & Trudel, L. (2004). Workplace
+prevention and promotion strategies. Healthcare Papers, 5, 32– 44.
+Vicary, A., & Fraley, C. (2010). Student reactions to the shootings at
+Virginia Tech and Northern Illinois University: Does sharing grief
+support over the Internet affect recovery? Personality and Social Psy-
+chology Bulletin, 36, 1555–1563. doi:10.1177/0146167210384880
+Wang, J., & Hutchins, H. (2010). Crisis management in higher education:
+What have we learned from Virginia Tech? Advances in Developing
+Human Resources, 12, 552–572. doi:10.1177/1523422310394433
+Young, M. (2002). The community crisis response team: The National and
+Organization for Victim Assistance protocol. In S. E. Brock, P. J.
+Lazarus, & S. R. Jmerson (Eds.) Best practices in school crisis preven-
+tion and intervention (pp. 333–354). Bethesda, MD: National Associa-
+tion of School Psychologists.
+Received June 9, 2011
+Revision received November 15, 2011
+Accepted December 28, 2011 
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+276 	SE´ GUIN ET AL.
+
+-- 9 of 9 --
+

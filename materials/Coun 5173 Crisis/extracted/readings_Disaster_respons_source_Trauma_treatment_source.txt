@@ -1,0 +1,818 @@
+ARTICLE
+Coming to terms with Fukushima disaster-related trauma and
+earlier trauma by constructing a new identity. About a case
+A. Hori *
+Department of Psychiatry, Hori Mental Clinic, Minami-soma, Fukushima, Japan.
+Received: 24 September 2020 / Accepted: 26 November 2020
+Abstract – The incidence of post-traumatic stress disorder, depression, and anxiety generally increases
+after disasters, and the 2011 Great East Japan Earthquake and nuclear power plant accident were no
+exception. Psychological first aid providers who deliver interventions to address mental health issues do not
+emphasize psychiatric expertise, but instead go into the field to help residents rebuild and stabilize their daily
+lives and provide a link between them and supporters. When psychiatric problems do not improve with such
+interventions and persist for more than a few years, specialized psychiatric interventions are considered. Past
+studies have examined the experience of prolonged exposure therapy (a specialized cognitive behavioral
+therapy for post-traumatic stress disorder) among survivors of the Fukushima nuclear power plant accident.
+The participant in this study was a survivor who was evacuated from the nuclear power plant accident but
+had experienced multiple traumas and had been a victim of domestic violence before the disaster. Recovery
+in this case did not involve a simple psychiatric treatment for trauma, but rather a process of overcoming the
+values that caused indulgence in victimization to form a new identity.
+Keywords: dwelling / health impact / nuclear accident / professional ethics / treatment
+1 Introduction
+Victims 	of 	nuclear 	accidents 	experience 	significant
+psychological impact. The most significant public health
+impact of the 1986 Chernobyl disaster was identified as the
+psychological effect of the accident (Bromet et al., 2011;
+Bromet, 2012). A survey of the affected population found high
+rates of clinical and subclinical depression, anxiety, and post-
+traumatic stress disorder (PTSD) (Bromet, 2012). In a survey
+of residents evacuated by evacuation order after the nuclear
+accident in Fukushima, the rates of suspected PTSD were
+19.0% at 10 months and 17.8% at 35 months for men and
+25.3% and 23.3% at 10 months and 35 months for women
+(Kukihara et al., 2014; Maeda and Oe, 2017). In addition, the
+rate of depression among evacuated residents of Fukushima
+was estimated to be 14.6% in 2012, 11.9% in 2013, and 9.3% in
+2014 (Oe et al., 2016; Maeda and Oe, 2017).
+Depression and PTSD are known to increase after other
+types of disasters as well. For example, surveys conducted 14,
+30, 43, and 54 months after the earthquake and tsunami off the
+coast of Miyagi Prefecture, which was less affected by the
+nuclear accident but severely affected by the Great East Japan
+Earthquake, found that 62.7% of medical personnel and
+government officials in the coastal areas of Miyagi Prefecture
+demonstrated resistance to PTSD symptoms, 24.3% had
+subsyndromal symptoms and 6.3% were recovered. However,
+3.5% had fluctuating symptoms and 3.2% had chronic
+symptoms (Sakuma et al., 2020) suggesting that they needed
+treatment.
+On the other hand, a study on the rates of suicides related to
+the Great East Japan Earthquake up to 2017 found that the
+disaster-related suicide rate, which increased after the disaster
+in Iwate, Miyagi, and Fukushima prefectures, which were
+severely affected by the disaster, decreased in Iwate and
+Miyagi prefectures where the impact of the nuclear accident
+was small, but not in Fukushima prefecture (Takebayashi et al.,
+2020). In addition, a cohort study of Estonians who were clean-
+up workers after the Chernobyl disaster found an increase in
+suicide rates among the group compared with the general
+population, even 17 years after the disaster (Rahu et al., 2006).
+These findings suggest that although other disasters also have a
+significant impact on the mental health of the victims, nuclear
+accidents have a longer and more severe impact.
+Residents involved in a nuclear accident are required to
+make a number of important decisions at different times. The
+biggest one will be whether to evacuate. They will have to
+make decisions about the basic aspects of their lives, including
+the environment in which they will live and the food they will
+eat. Consensus building among stakeholders is very important	*Corresponding author: arinobu.h@gmail.com
+Radioprotection 2020, 55(4), 283–290
+© The Authors, published by EDP Sciences 2021
+https://doi.org/10.1051/radiopro/2020088
+Available online at:
+www.radioprotection.org
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0), which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+-- 1 of 8 --
+
+in deciding the type of environment in which they will live.
+The prerequisite for such discussions is a healthy mind, but, as
+mentioned above, a certain percentage of the residents are
+likely to have mental health problems after the accident.
+Intervention studies that promote improvement in the
+mental health of the affected population may be important to
+reduce distress and loss and to support better decision-making
+in complex situations. North and Pfefferbaum (2013) reviewed
+the research on post-disaster interventions for mental problems
+and recommended less-invasive interventions such as psycho-
+logical first aid (PFA) (National Child Traumatic, 2006; World
+Health 	Organization, 	2011; 	Edward 	and 	Davis, 	2012)
+immediately after a disaster. The main objective of PFA after
+a disaster is to provide practical assistance for coping with
+difficult living situations, such as ensuring physical safety and
+restoring connections among people. Trauma-focused cogni-
+tive behavioral therapy is only recommended for patients who
+are struggling with disaster-related traumatic memories even
+after the use of interventions such as PFA (North and
+Pfefferbaum, 2013). The critical incident stress debriefing
+(Mitchell, 1983), which encourages patients to talk about their
+traumatic memories in the acute post-disaster period, is
+currently of questionable effectiveness and is not recom-
+mended (van Emmerik et al., 2002). As mentioned above, a
+survey of the general population in Fukushima Prefecture after
+the nuclear accident showed an increase in depression and
+other symptoms, but the number of visits to psychiatric
+institutions in Fukushima Prefecture for depression actually
+decreased in 2011 (Hori et al., 2016). Against this background,
+systematic interventions to address mental health issues after
+disasters are difficult to implement.
+Despite the limitations of post-disaster research, we
+reported a post-disaster PTSD patient to whom we have used
+prolonged exposure (PE) therapy (Foa and Kozak, 1986), a
+trauma-focused cognitive behavioral therapy with a growing
+body of evidence on the efficacy (Hori et al., 2019). In the
+present study, we also report the case of a patient with post-
+disaster PTSD who was treated with PE (Foa and Kozak,
+1986), but the process was more complicated. The patient’s
+symptoms were related not only to the trauma of the disaster
+but also to the trauma experienced during the post-disaster
+evacuation period and problems of domestic violence that
+existed before and after the disaster. Recovery was not simply a
+matter of ameliorating symptoms, but also of overcoming old
+values, constructing a new identity, and renewing relation-
+ships. This recovery of the individual is a prerequisite for the
+recovery of the whole community and consensus building
+through the participation of the people in the true sense of the
+word.
+2 Materials and methods
+The author is a psychiatrist who lived in Tokyo before the
+Great East Japan Earthquake. Since April 2012, he has been
+living within 20–30 km of the crippled nuclear power plant in
+Minamisoma (Fig. 1), Fukushima Prefecture. Since 2016, he
+has operated his own mental health clinic in Minamisoma City
+(Fig. 1), outside the 30-km radius of the nuclear power plant.
+The case reported here is one in which the author became
+involved as an attending physician while working at a
+psychiatric hospital and has since continued to treat the patient
+Fig. 1. The municipalities associated with this case.
+284 	A. Hori: Radioprotection 2020, 55(4), 283–290
+
+-- 2 of 8 --
+
+at his own clinic. As a result of support from the Japanese
+government for the victims, the patient and her family continue
+to be exempt from paying medical expenses.
+The author’s clinic uses PE therapy (Foa and Kozak, 1986),
+a cognitive behavioral therapy for PTSD. Sessions are
+90 minutes in length and are often conducted once a week
+for a total of 6 to 20 sessions. The treatment program included
+psycho-education on the symptoms of PTSD and training in
+breathing techniques. The Subjective Units of Discomfort
+Scale (SUDS), a tool for measuring the intensity of emotions
+such as fear and distress that is experienced at the time of
+measurement, was used in this study. The level of intensity is
+expressed as a specific number, which ranges from 0 to 100.
+After patients understand the SUDS, they perform the
+exposure technique, gradual exposure to avoided stimuli,
+which makes patients recall their traumatic memories. At this
+time, it is not therapeutically desirable for the intensity of the
+emotional stimuli to be either too strong or too weak for the
+patient to experience. It is important that the patient’s distress
+from exposure to traumatic stimuli is maintained within an
+appropriate range, and the SUDS is used as a reference for this
+purpose. There are two types of exposure techniques: reality
+exposure and imaginary exposure. Reality exposure is a
+gradual exposure to a real situation that is avoided when, for
+example, a person affected by a tsunami is not allowed to go to
+the sea or a person affected by a car accident is not allowed to
+go to the scene of an accident. Imaginary exposure is the
+deliberate recall and recounting with the therapist of memories
+about the trauma that are painful to recall. Prolonged exposure
+therapy is designed to habituate patients to avoided trauma
+stimuli through repeated exposure to the stimuli carried out in
+an appropriate manner. This form of therapy involves a process
+of exposure to trauma stimuli, in which trauma memories are
+reviewed and discussed in terms of their meaning and value to
+the individual. The Post-traumatic Diagnostic Scale (Foa et al.,
+1997), a measure of the intensity of trauma response, and the
+Beck Depression Inventory, second edition (Beck et al., 1996),
+a measure of the intensity of depressive symptoms, were
+administered at the beginning of each session.
+Written consent to report this case was obtained from the
+patient.
+3 Case description
+The patient was a housewife in her early 40s when the
+Great East Japan Earthquake struck.
+Diagnosis: PTSD, dissociative disorder.
+She was born in the town of Odaka, Minamisoma (Fig. 1),
+and married into a fisherman’s family on the coast of Namie
+Town in her 20s (Fig. 1). Until the earthquake, the patient
+herself worked as a housewife at home and also helped the
+fishermen with their work. She gave birth and raised two
+children while caring for her grandparents-in-law and parents-
+in-law. She has been exposed to constant violence and verbal
+abuse, especially from her grandmother-in-law, and experi-
+enced verbal abuse and intimidation from her father-in-law.
+When the earthquake and tsunami struck in 2011, her
+house, which was a fisherman’s house, was completely washed
+away. The entire municipality in which she lived was forced to
+evacuate due to the nuclear accident, and she had to remain
+evacuated for years afterward. Had it not been for the nuclear
+accident, she could have returned and rebuilt her home earlier.
+Victims 	of 	the 	Great 	East 	Japan 	Earthquake 	received
+compensation from the government, and more money was
+paid out to those whose daily lives were more severely affected
+by the nuclear accident. Because she was ordered to evacuate,
+she received more compensation than victims in areas where
+the evacuation order was not issued. People in areas where
+mandatory evacuation orders were issued were sometimes
+envied by those in areas where they were not, and this was the
+case for her family too. However, her house and the
+surrounding area near the sea had lower radiation levels after
+the accident, so she received less compensation than the
+victims in the higher radiation level areas, a complicated and
+difficult situation for others to understand.
+4 History of trauma
+4.1 Domestic violence before the earthquake
+More than 10 years before the earthquake, the patient’s
+father died of gastric cancer. In addition, her mother-in-law,
+who had been the primary caregiver for her grandmother-in-
+law who had dementia, died, and the patient was left to deal
+with the care of her grandmother-in-law. Although her mother-
+in-law, who died early, was a calm person, the patient
+frequently witnessed violence being inflicted on her mother-in-
+law by her father-in-law. There was also constant verbal abuse
+and violence from the grandmother-in-law to the patient
+herself. Her father-in-law forced her to help him launch his
+boat to go fishing in the early morning. In addition to taking
+care of her grandmother-in-law, she worked part-time to
+support her daughter’s schooling, and she was forced to work
+on her father-in-law’s boat every day. Her grandmother-in-law
+also died before the disaster. Her husband’s intervention in this
+matter was limited. The bullying she received from her
+grandmother-in-law was so severe that she tried to commit
+suicide by hanging herself while having what appeared to be
+dissociative symptoms and was rescued by her dog.
+4.2 Effects of the earthquake
+The patient experienced the effects of the Great East Japan
+Earthquake at her home near the coast. The ground in the
+garden was cracked. She went upstairs to bring her dog even
+though her father-in-law was complaining about it. Desperate
+to escape the tsunami, she drove with her family to her sister’s
+house in the mountains away from the sea. The fact that they
+had practiced evacuation in the event of a tsunami on a regular
+basis came in handy. Many of her son’s classmates and
+acquaintances had died. Her home was swept away and
+destroyed completely by the tsunami.
+4.3 Life after evacuation
+After the earthquake, she moved repeatedly and experi-
+enced life in seven different places. The gymnasium that was
+used as a shelter immediately after the earthquake was
+partitioned with only cardboard boxes. After that, she moved to
+a hotel in Koriyama City (Fig. 1), where pets are allowed and
+A. Hori: Radioprotection 2020, 55(4), 283–290 	285
+
+-- 3 of 8 --
+
+lived there for 1 month. She stayed at a shelter in Inawashiro
+City (Fig. 1) for 6 months, where she developed high blood
+pressure and began to experience stomach pain. At the end of
+2011, while she was living in this temporary housing, she was
+found to have gastric cancer and had a total resection of her
+stomach. After the surgery, she developed dumping syndrome
+and had to eat six separate meals a day. Next, she lived in
+temporary housing in Soma City (Fig. 1) for about 4 years.
+4.4 Current medical history
+In early 2014, doctors found that her father-in-law had
+cancer, and the patient, who accompanied him to the hospital,
+was informed by the doctor. Her father-in-law underwent an
+operation, and immediately afterward, he became delirious,
+and the hospital requested that his family members attend to
+him 24 hours a day. There was an episode in which her father-
+in-law, who was suffering from delirium at that time, hit her
+hard in the hospital intensive care unit. The patient began to
+experience headaches and other problems and began visiting
+the physician’s office. Despite this condition, she continued to
+take care of her father-in-law by preparing meals for him and
+accompanying him to hospital visits. Although her father-in-
+law himself did not remember hitting the patient because he
+was delirious, people around him did not tell her father-in-law
+that he had hit the patient, out of concern for his emotions. She
+started to have a major hyperventilation attack and was
+admitted by ambulance to a psychiatric hospital for one night.
+The author has been the attending physician since that time.
+After that, she continued to receive outpatient treatment.
+Frequent dissociative symptoms, such as amnesia, were
+observed. Next, she moved out of temporary housing in
+Soma City and began living in a rented house in Haramachi,
+Minamisoma 	City 	(Fig. 	1). 	She 	became 	unstable 	and
+repeatedly suffered hyperventilation attacks when she heard
+neighbors, saying that the reason she was not working was
+because she was receiving compensation and that they were
+going to build a bigger house and move out sooner or later. “If
+it hadn’t been for the nuclear accident caused by Tokyo
+Electric Power Company (TEPCO), this wouldn’t have
+happened”, she said. It seemed to the patient that people in
+Minamisoma’s Haramachi Ward (Fig. 1) believe that because
+the mandatory evacuation order was not implemented at the
+time of the disaster, the compensation payments ended more
+quickly for them than their counterparts in Namie Town
+(Fig. 1), which was subject to the mandatory evacuation order.
+However, the only compensation she received was for the
+evacuation of her house as a result of the disaster. Most of the
+damage was caused by the tsunami and compared with those
+who were directly affected by the nuclear accident, she had less
+security for her life, and felt very nervous. She was told by
+neighbors that it would be good because she was receiving
+monthly compensation for the mandatory evacuation order.
+Finally, she built a house in Haramachi Ward, Minamisoma
+City (Fig. 1), and moved out of a rented house. It was at this
+time that she was shocked to be told that she was lucky to have
+a nice house built (with compensation money). In addition, her
+father-in-law would complain about the relocation, and she
+would shake all over when her father-in-law would say things
+strongly to her. At that time, her daughter gave birth to her
+grandson. Taking care of her grandson offered the patient
+support and comfort. Her father-in-law’s general condition
+worsened and he had to be admitted and discharged from the
+hospital repeatedly because he did not restrict salt intake even
+though he had renal dysfunction, but she often escorted him to
+the hospital despite the patient’s great distress. Eventually, her
+father-in-law started dialysis. At that time, her mother, who
+had been living in temporary housing after the earthquake,
+moved into her neighborhood. Having her mother in the
+neighborhood provided her with a great source of support.
+5 Implementing prolonged exposure therapy
+Because the patient refused to talk about her trauma and
+domestic violence for a while after the start of treatment, and
+her symptoms (mainly panic attacks) were severe, the author
+tried to alleviate her anxiety symptoms with supportive
+measures and medication in the form of anxiolytic drugs,
+selective serotonin reuptake inhibitors, and a small amount of
+antipsychotic drugs. It became clear that her father-in-law’s
+repeated verbal threats caused her symptoms to become
+unstable. As her condition worsened, she recalled the memory
+of people around her gossiping about the compensation she had
+received. They believed evacuees were “sucking the good
+soup”, and she was unable to go outside her house. Eventually,
+it was discovered that she had frequent symptoms of PTSD
+with flashbacks of her father-in-law striking her on the head at
+the time of his surgery. Nevertheless, she would accompany his
+father-in-law during hospital visits and spend time with him in
+a greasy sweat for 4 to 5 hours. While she was in the middle of
+remembering what happened in the earthquake and tsunami in
+order to prepare a document to compensate for the accident at
+TEPCO, she began to have dissociative symptoms and started
+talking about things that made no sense, and she lost her
+memory of that time. Medication alone did not provide
+adequate control of the anxiety symptoms, and the introduction
+of PE therapy was considered.
+One concern with regard to the introduction of the
+therapy was whether the living environment at the time the
+trauma-focused psychotherapy was being implemented was
+sufficiently safe. The party who hit the patient continued to
+live with her while maintaining an intimidating attitude and
+there was a risk that he would not be able to cope with the
+patient’s worsening symptoms during the course of the
+psychotherapy. However, at that point in time, the patient’s
+situation had become critical due to frequent panic attacks
+and dissociative symptoms. She and her family were
+refusing to seriously consider separation or divorce, and
+she 	was 	able 	to 	obtain 	the 	full 	understanding 	and
+cooperation of her husband and other family members,
+mainly her own mother, who lived in the neighborhood.
+Therefore, it was decided to implement PE therapy. Just
+prior to the implementation of this treatment, the patient
+expressed the desire to return to her old self again.
+5.1 Implementing prolonged exposure therapy
+A total of 15 sessions of PE therapy, a cognitive-behavioral
+therapy for PTSD, were administered once a week. After
+treatment, the Beck Depression Inventory, second edition score
+286 	A. Hori: Radioprotection 2020, 55(4), 283–290
+
+-- 4 of 8 --
+
+decreased from 40 to 25 points, and the Post-traumatic
+Diagnostic Scale score decreased from 31 to 8 points.
+5.1.1 Session 1
+The patient was asked to recount details from her father-in-
+law’s cancer diagnosis as well as details of his delirium and
+beatings after surgery. In the course of recounting the details,
+she recalled another traumatic memory of being abused by her
+grandmother-in-law and attempting to commit suicide by
+hanging herself. At this time, she recalled an episode in which
+her dog barked, which led to her recovery from dissociative
+symptoms and saved her own life.
+5.1.2 Session 2
+When looking at the face of her father-in-law, who lived
+with her, her Subjective Units of Distress Scale would rise to
+80–90 (100 being the highest score). She practiced getting used
+to hearing her father-in-law’s “coughing”.
+5.1.3 Session 3
+She recorded her father-in-law on her smartphone and
+practiced viewing him. It was observed that she frequently
+hyperventilated spontaneously in the closed bathroom at home.
+5.1.4 Session 4
+She practiced looking at the picture of her father-in-law
+from the front.
+5.1.5 Session 5
+The patient recalled and discussed the experience of being
+struck in the head by her father-in-law. After only one session,
+habituation to recalling this memory occurred and anxiety
+about recalling it was reduced. It was evident that there were
+many other experiences that were similarly traumatic.
+The total number of traumatic memories addressed during
+the treatment was six. The six traumatic memories were as
+follows: being struck in the head by her father-in-law; a patient
+in the same room as her father-in-law suddenly dying; her own
+father’s death as a result of cancer; having cancer herself and
+undergoing surgery; being abused by her grandmother-in-law
+and the suicide attempt; and the earthquake, tsunami, and
+initial evacuation during the disaster.
+5.1.6 Session 6
+She recalled the moment when a patient in the same room
+as her father-in-law suddenly died.
+5.1.7 Session 7
+She recalled the memory of her father’s death from gastric
+cancer. The patient said afterward that it was quite hard to think
+of this part of her life and she was sick for a week.
+5.1.8 Session 8
+As a continuation of session 7, the patient recalled and
+recounted the scene of her father’s death. At this time, the
+patient recounted how she experienced her first hyperventila-
+tion attack and fainting.
+5.1.9 Session 9
+As an imaginary exposure, she recalled and talked about
+how she had gastric cancer. A period of time existed when she
+remembered her father’s death and feared that she was going to
+die too.
+By session 9, she had little or no fear of looking at the
+picture of her father-in-law from the front, which she had
+practiced. She was now mentally strong enough to leave the
+house on her own for about 30 minutes per day.
+5.1.10 Session 10
+The patient recalled memories of her grandmother-in-law.
+The grandmother had become paranoid due to her dementia
+and told relatives that she was bullied by the patient. In fact,
+however, the opposite was true; for example, whenever the
+patient tried to get her grandmother-in-law to change clothes,
+her grandmother-in-law would pull her hair or scratch her and
+once scarred her for 2 years. At this time, the patient also
+recounted the episode at home where she became dissociative
+and attempted suicide, but her dog barked, and the dissociative
+symptoms subsided, and her life was saved. This memory
+caused the most intense fear felt by the patient throughout the
+entire course of treatment.
+5.1.11 Sessions 11–13
+The patient continued to recall the memories of her
+grandmother-in-law. This part of the story was found to be the
+traumatic memory that had the greatest impact on the patient
+and caused the most intense fear. However, when the patient
+refused to recall the scene in which she had nearly committed
+suicide 	by 	hanging 	herself 	before 	repeated 	imaginary
+exposures provided habituation, we stopped working on this
+part of the story. She also talked about how she had once
+harbored feelings of hatred for her grandmother-in-law and
+her husband who had not helped her in that situation.
+However, she now felt closer to her husband, who was
+concerned about her current condition. At this point in her
+treatment, she no longer felt fearful of seeing her father-in-
+law in person.
+5.1.12 Session 14
+She recalled her experiences in the early days of the
+tsunami and evacuation in the aftermath of the Great East
+Japan Earthquake. It was difficult to find a place that would
+accept her and her dog, but she could not imagine leaving her
+dog, who had saved her life, behind. The patient and her family
+were told that they would be accepted if they went to Koriyama
+City, so they went there, but they were shocked when they were
+first treated like mold during the screening phase. They were
+moved to a community center that was used as a shelter, but
+they felt fearful because of the strict attention given to the
+patients’ families. In the end, her dog was not accepted, and
+they had to move elsewhere. During the processing part of the
+therapy, she made the following comments: “There’s so much
+going on, I just don’t know what it is.”, “It’s sad to remember.
+A. Hori: Radioprotection 2020, 55(4), 283–290 	287
+
+-- 5 of 8 --
+
+It’s all gone.”, “I couldn’t get the thought of dying out of my
+mind until I was treated like this, but it’s improved.”
+5.1.13 Session 15
+In the final PE therapy session, the patient once again
+recalled her father’s death, her grandmother-in-law’s abuse,
+the earthquake, her own gastric cancer, her father-in-law’s
+cancer and delirium, and the sudden death of another patient in
+her father-in-law’s room. At the end of the session, she shared
+her thoughts about the therapy, saying that she had not thought
+that her condition was this serious when she started PE therapy.
+She continued to have hyperventilation attacks in response
+to her father-in-law’s threatening attitude. The period of time
+when she was mainly afraid continued for a long time, but
+gradually she started to talk back to her father-in-law in a state
+of dissociation from his words. She left her home for 2 months
+because of her rebellion against her father-in-law and lived
+with her mother for the first time. At this stage, her husband
+told his father (i.e., her father-in-law) that he had struck her in
+the intensive care unit and urged him to pay attention to her.
+The patient continued to become increasingly affected by her
+father-in-law’s attitude. She was increasingly supported by the
+care of her grandchildren and the care she received from her
+own mother. Gradually, her husband’s attitude changed to
+become more cooperative and he became more protective of
+the patient and willing to confront his father. She was able to
+cope with the event of separation by focusing on her eldest
+son’s marriage. However, episodes of panic attacks and
+dissociative symptoms increased again due to the death of her
+dog and the second episode in which her father-in-law, whose
+authority in the household had been shaken, hit the patient for
+the second time, and so episodes of leaving home and living
+with her own mother appeared again.
+6 Discussion
+The patient had severe PTSD following the Great East
+Japan Earthquake and nuclear accident, but at the initial stage
+of her treatment, her PTSD was not fully recognized. Although
+the introduction of intensive treatment in this case allowed us
+to get a fuller picture of her condition, it cannot be denied that
+there may be other patients with PTSD in the community who
+do not primarily complain of traumatic reactions to trauma that
+have been overlooked. This is an area that warrants further
+investigation.
+6.1 Therapeutic measures
+The patient presented with severe panic attacks and
+dissociative symptoms that did not improve sufficiently with
+supportive responses and medication alone, and a trauma-
+focused psychotherapy led to symptom control. As treatment
+progressed, it became clear that the patient had experienced
+multiple traumatic experiences before the disaster. The
+experiences were categorized along two axes: problems that
+existed before the disaster/occurred after the disaster, and
+problems caused by personal circumstances/experienced by
+the community as a whole, as shown in Table 1.
+Table 1 does not list any direct health risks from radiation
+exposure. This is because, during this study, the patient never
+mentioned the threat of direct health effects from radiation
+exposure, but repeatedly talked about the distress experienced
+as a result of the evacuation and deterioration of human
+relationships due to suspicion and resentment over compensa-
+tion payments. Hori et al. reported on a case of a municipal
+employee who developed PTSD and bipolar disorder after the
+Great East Japan Earthquake and, for that case, there was also
+no mention of the direct health effects of radiation. The authors
+attributed this to “the fact that residents who choose to live in
+relatively close proximity to the accident site can be seen as a
+biased group that does not take the possible damage of
+radiation exposure seriously. It is also possible to think that a
+manic avoidance of anxiety may be at work here. Alternatively,
+it could be an outcome of the risk communication that took
+place after the disaster” (Hori et al., 2020). This explanation
+would apply to the present case as well.
+For “problems that existed before the earthquake due to
+personal circumstances”, if the effects of the problems are still
+present at the time of treatment, psychotherapy based on the
+theme of trauma and grief is appropriate. Prolonged exposure
+therapy was carried out in this case, and was effective.
+Next, with regard to “problems caused by personal
+circumstances and triggered by the earthquake”, the first goal
+is to solve the practical problems. In response to the “violence
+by the father-in-law” (problem 4), countermeasures such as
+Table 1. Traumatic events and situations experienced by the patient.
+Problems that existed before the disaster 	Problems that occurred after the disaster
+Problems caused by
+personal circumstances
+1. Violence and verbal abuse from her
+grandmother-in-law
+2. Intimidating words and actions from
+her father-in-law
+3. The death of her own father
+4. Violence from her father-in-law (during his delirium)
+5. Being present during the sudden death of a patient
+who shared a hospital room with her father-in-law
+6. Having been diagnosed with gastric cancer herself
+7. The death of her dog
+Problems experienced by
+the community as a whole
+8. A trend of disdain for women
+9. A strict seniority system
+10. Community exclusivity
+10. Earthquake
+11. Tsunami
+12. Health hazards related to the nuclear power
+plant accident
+13. The harshness of living in an evacuation
+14. Radical changes in living conditions
+15. Facing jealousy over possible compensation
+288 	A. Hori: Radioprotection 2020, 55(4), 283–290
+
+-- 6 of 8 --
+
+separation were considered, but these were rejected by the
+patient. Instead, trauma-focused psychotherapy was effective
+for 4.5. Conventional medical treatment was also given
+priority for 6 (“own stomach cancer”). In response to “the
+death of her dog” (problem 7), we considered both working on
+the real-life environment (e.g., getting another dog) and a
+psychotherapeutic approach to deal with the loss.
+“The problems experienced by the community as a whole
+that existed before the disaster” are cultural issues, and
+addressing them in earnest is not possible at the individual
+level. What would be possible in individual clinical situations
+would be to consider how to respond to the problem as it
+materializes in one’s life and to acknowledge that it is a
+difficult problem to change in the community in which one
+lives, to determine one’s attitudes toward it, and to deal with
+the psychological conflicts associated with it. The patient had a
+strong tendency to accept problems 8 to 10 as natural, and
+rarely spoke of the conflicts associated with them. On the other
+hand, an important development was the change in her ability
+to express anger and to defend herself against her father-in-law
+as her treatment progressed.
+In addition, the problems experienced by the community as
+a whole and triggered by the earthquake could be treated as a
+psychological problem, but before treating it as so, a practical
+solution to the problem should be considered. The psycholog-
+ical impact was then examined; in addition to supportive
+medical treatment for issues 11, 12, 14, and 15, trauma-focused
+treatment for 11, 12, and 14 was also provided in the form of
+imaginary exposure techniques for 11, 12, and 14 during
+sustained exposure. With regard to problem 13, on several
+occasions, strong anger at TEPCO, the operator of the nuclear
+power plant that caused the accident, was expressed, and this
+was responded to in a supportive manner, assuring her that the
+anger was justified. Problem 16 was closely related to problem
+10 and similar responses were implemented. For each issue,
+Table 2 summarizes the principles of therapeutic responses.
+6.2 Conflicts between strong local values and those
+of supporters
+As the attending physician in charge of this case, I was
+troubled by the fact that the patient took on the responsibility of
+handling the major problems in the family, which resulted in a
+significant loss of health. However, the entire family, including
+the patient herself, took it for granted that the patient should
+bear the burden in this way. Although it might be possible to
+view this situation as a “custom of disdain for women”, “a
+trend of seniority” and “community exclusivity”, the reality
+was very harsh. In contrast, the best course of action, derived
+from the values that informed clinical psychiatry, would be to
+encourage the patient to become more independent, specifi-
+cally to get her to leave the place in the form of separation.
+However, that option did not seem to be considered by her at
+all, and I could imagine that it would not be easy for her to
+carry out this action in the local community. In fact, with other
+patients that the author has treated at the clinic, even if
+domestic violence was occurring at the time of the patient’s
+visit, the probability of dropping out of treatment early was
+high if separation or consultation with the administration is
+urged to the patient at the earliest opportunity. This forces us to
+tolerate the patients’ traditional values in the early stages of
+treatment, but this can lead to an ethical dilemma for the
+physician in charge, as it seems to allow the patient to continue
+to be subjected to various forms of abuse. In practice, it is
+important to avoid making this conflict structure manifest at
+least in the early stages of treatment, as in the present case. This
+allows time to build a trusting relationship with the patient and
+to have him or her gradually accept respect for basic human
+rights as a part of a practical therapeutic response, such as
+temporary refuge. The psychotherapeutic process also aims to
+modify the excessive fear of authority held by local elders and,
+within reasonable limits, to facilitate the patient’s acknowl-
+edgment 	of 	his 	or 	her 	appropriate 	feelings 	of 	anger,
+resentment, and frustration. In this process, the establishment
+of a “new identity” without extremes of either of the two values
+emerged, in parallel with her overcoming the effects of the
+complicated trauma she had experienced.
+7 Conclusions
+This paper has presented a case of a woman who had been
+subjected to long-term physical domestic violence in her
+home, both before the earthquake and after it. She had
+frequent panic attacks and dissociative symptoms and
+received psychiatric treatment during a long period of
+evacuation. It should be noted again that the fear of direct
+health effects of radiation exposure was rarely mentioned by
+the patient. Although the patient’s treatment did not begin
+until 3 years after the 2011 accident, it is likely that even this
+patient felt more fear about radiation exposure at the
+beginning of the accident. However, nearly a decade after
+the disaster, that fear seems to have become relative to the
+many fears she felt in her life. In terms of the effects of
+radiation, indirect factors such as evacuation and conflicts
+with others over compensation payments seem to have had a
+greater impact on her mental health.
+Table 2. Principles of therapeutic responses to the problems of the patient.
+Problems that existed before the disaster 	Problems that occurred after the disaster
+Problems caused by personal
+circumstances
+Supportive responses
+Psychotherapy focused on trauma and grief
+Realistic problem-solving
+Supportive responses
+Psychotherapy focused on trauma and grief
+Problems experienced by the
+community as a whole
+Acceptance of unresolved issues
+Support in determining one’s own attitudes toward
+cultural realities and handling conflicts
+Implementing long-term and realistic solutions
+Realistic problem-solving
+Acceptance of unresolved issues
+Supportive responses
+Trauma-focused psychotherapy
+A. Hori: Radioprotection 2020, 55(4), 283–290 	289
+
+-- 7 of 8 --
+
+She experienced much of the distress experienced by
+residents of the nuclear power plant disaster area, but it was the
+repeated domestic violence that had the most profound effect on
+her. It is assumed that there is an increase in abuse and domestic
+violence associated with the Great East Japan Earthquake;
+however, few of these cases have been reported. In general, when
+domestic violence is still ongoing, the recommended response
+for supporters, including the attending physician, is to prioritize
+environmental adjustments, such as encouraging the victim to
+leave the home and treating the individual’s symptoms.
+However, in the present case, the individual and those around
+her initially had values that made domestic violence acceptable,
+and strongly recommending evacuation from the home was
+considered to undermine trust. Under such circumstances, I
+treated the patient as she was in such a situation, even though I
+was aware that the domestic violence continued in the family, and
+I prioritized the improvement of her symptoms. Through the
+course of such treatment, the patient and her family gradually
+came to accept the value of viewing domestic violence as a
+problem, and to feel that it was right to be angry at and oppose
+those involved in the violence. At the same time, this also led to a
+change in the author’s view of the need to identify and address the
+problem as soon as possible, which had been held by the author as
+a therapist and researcher. This meant that a new identity was
+established for the individuals involved as they worked through
+their own traumatic experiences and situations. The recovery of
+these individuals is a precondition for the community to truly
+recover and for consensus building to take place on important
+matters among residents.
+References
+Beck AT, Steer RA, Brown GK. 1996. BDI-II: Beck Depression
+Inventory Manual. 2nd ed. San Antonio, TX: Psychological
+Corporation.
+Bromet EJ, Havenaar JM, Guey LT. 2011. A 25-year retrospective
+review of the psychological consequences of the Chernobyl
+accident. Clin. Oncol. (R. Coll. Radiol.) 23(4): 297–305. https://
+doi.org/10.1016/j.clon.2011.01.501.
+Bromet EJ. 2012. Mental health consequences of the Chernobyl
+disaster. J. Radiol. Prot. 32(1): N71– N75. https://doi.org/10.1088/
+0952-4746/32/1/N71.
+Edward MK, Davis RB. 2012. Psychological first aid. In: Disaster
+psychiatry: readiness, evaluation, and treatment (F.J. Stoddard, A.
+Pandya, C.L. Katz, Eds.), pp. 203–212. Washington, DC:
+American Psychiatric Publishing.
+van Emmerik AA, Kamphuis JH, Hulsbosch AM, Emmelkamp PM.
+2002. Single session debriefing after psychological trauma: a
+meta-analysis. Lancet 360(9335): 766–771. https://doi.org/
+10.1016/S0140-6736(02)09897-5.
+Foa EB, Kozak MJ. 1986. Emotional processing of fear: exposure to
+corrective information. Psychol. Bull. 99(1): 20–35.
+Foa EB, Cashman L, Jaycox L, Perry K. 1997. The validation of a self-
+report measure of posttraumatic stress disorder: the posttraumatic
+diagnostic scale. Psychol. Assess. 9: 445–451. https://doi.org/
+10.1037/1040-3590.9.4.445.
+Hori A, Hoshino H, Miura I, Hisamura M, Wada A, Itagaki S, Kunii Y,
+Matsumoto J, Mashiko H, Katz CL, Yabe H, Niwa SI. 2016.
+Psychiatric outpatients after the 3.11 complex disaster in
+Fukushima, Japan. Ann. Glob. Health 82(5): 798–805. https://
+doi.org/10.1016/j.aogh.2016.09.010.
+Hori A, Takebayashi Y, Tsubokura M, Kim Y. 2019. Efficacy of PE
+therapy for a patient with late-onset PTSD affected by evacuation
+due to the Fukushima nuclear power plant accident. BMJ Case
+Rep. 12(12): e231960. https://doi.org/10.1136/bcr-2019-231960.
+Hori A, Takebayashi Y, Tsubokura M, Kim Y. 2020. PTSD and
+bipolar II disorder in Fukushima disaster relief workers after the
+2011 nuclear accident. BMJ Case Rep. 13(9): e236725. https://doi.
+org/10.1136/bcr-2020-236725.
+Kukihara H, Yamawaki N, Uchiyama K, Arai S, Horikawa E. 2014.
+Trauma, depression, and resilience of earthquake/tsunami/nuclear
+disaster survivors of Hirono, Fukushima, Japan. Psychiatry Clin.
+Neurosci. 68: 524–533. https://doi.org/10.1111/pcn.12159.
+Maeda M, Oe M. 2017. Mental health consequences and social issues
+after the Fukushima disaster. Asia Pac. J. Public Health 29
+( 2 _ S u p p l . ) : 	3 6 S – 4 6 S . 	h t t p s : / / d o i . o r g / 1 0 . 1 1 7 7 /
+1010539516689695.
+Mitchell JT. 1983. When disaster strikes. The critical incident stress
+debriefing process. JEMS 8(1): 36–39.
+National Child Traumatic Stress Network/National Center for PTSD.
+2006. Psychological first aid: field operations guide. 2nd ed.
+https://www.nctsn.org/resources/psychological-first-aid-pfa-field-
+operations-guide-2nd-edition (accessed 14 Sep 2020).
+North CS, Pfefferbaum B. 2013. Mental health response to
+community disasters: a systematic review. JAMA 310(5): 507–
+518. https://doi.org/10.1001/jama.2013.107799.
+Oe M, Fujii S, Maeda M, Nagai M, Harigane M, Miura I, Yabe H,
+Ohira T, Takahashi H, Suzuki Y, Yasumura S, Abe M. 2016.
+Three-year trend survey of psychological distress, posttraumatic
+stress, and problem drinking among residents in the evacuation
+zone after the Fukushima Daiichi Nuclear Power Plant accident
+[The Fukushima Health Management Survey]. Psychiatry Clin
+Neurosci 70: 245–252. https://doi.org/10.1111/pcn.12387.
+Rahu K, Rahu M, Tekkel M, Bromet E. 2006. Suicide risk among
+Chernobyl cleanup workers in Estonia still increased: an updated
+cohort study. Ann. Epidemiol. 16(12): 917–919. https://doi.org/
+10.1016/j.annepidem.2006.07.006.
+Sakuma A, Ueda I, Shoji W, Tomita H, Matsuoka H, Matsumoto K.
+2020. Trajectories for post-traumatic stress disorder symptoms
+among local disaster recovery workers following the Great East
+Japan Earthquake: group-based trajectory modeling. J. Affect.
+Disord. 274: 742–751. https://doi.org/10.1016/j.jad.2020.05.152.
+Takebayashi Y, Hoshino H, Kunii Y, Niwa SI, Maeda M. 2020.
+Characteristics of disaster-related suicide in Fukushima Prefecture
+after the nuclear accident. Crisis: 1–8. https://doi.org/10.1027/
+0227-5910/a000679.
+World Health Organization. 2011. Psychological first aid: guide for
+field workers. Geneva: World Health Organization. https://www.
+who.int/mental_health/publications/guide_field_workers/en/
+(accessed 14 Sep 2020).
+Cite this article as: Hori A. 2020. Coming to terms with Fukushima disaster-related trauma and earlier trauma by constructing a new identity.
+About a case. Radioprotection 55(4): 283–290
+290 	A. Hori: Radioprotection 2020, 55(4), 283–290
+
+-- 8 of 8 --
+

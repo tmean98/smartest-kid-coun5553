@@ -1,0 +1,291 @@
+If this PowerPoint presentation contains mathematical equations, you may need to check that your computer has the following installed:
+1) MathType Plugin
+2) Math Player (free versions available)
+3) NVDA Reader (free versions available)
+Crisis Assessment, Intervention, and Prevention
+Chapter 6: Risk Assessment and Intervention: Suicide, Nonsuicidal Self-Injury, and Homicide
+Prevalence and Rates of Suicide, Homicide, and Nonsuicidal Self-Injury
+Counselors should know what the terms prevalence and rate mean to interpret how members of certain at-risk groups might require more attentive care:
+Prevalence—a nominal figure that states how many lives were lost to suicide (or any other type of malady)
+Rate or crude rate—a value explaining data that has been interpreted by leveling the playing field, so to speak; if all members of a population (or an age group, gender, or ethnic group) were divided into groups of 100,000, the rate would indicate how many people died per 100,000 people
+Prevalence and Rates of Suicide, Homicide, and Nonsuicidal Self-Injury 
+Suicide is a public health problem that all crisis counselors, regardless of setting, must learn to assess and treat because of its prevalence in society.
+In the United States in 2020, suicide claimed 45,979 lives, with about one person dying from suicide every 11.1 minutes.
+Suicide happens in all age groups; it’s the second leading cause of death for youth age 10–14 and adults age 25–34 years.
+Women attempt suicide more often than men, at a ratio of
+Men die more often than women, mainly because of more lethal means
+Nonsuicidal self-injury (N S S I) behaviors are less often reported in the literature and often not the focus of a risk assessment unless it is the presenting problem.
+NSSI is reported to occur among 13–17% of American adolescents and young adults.
+Suicide Terminology
+The phrase “committed suicide” implies a negative perspective of the person.
+Language such as “died by suicide,” “suicide death,” or “took their own life” offer a more humanistic approach.
+Suicide Terminology
+Risk Factors, Protective Factors, and Warning Signs 
+Defining
+Risk Factors
+Risk factors increase the likelihood of a person experiencing suicidal thoughts or behaviors.
+They are often seen as the absence of something (e.g., supports, medication compliance, medical wellness, loss of loved ones) but may include underlying meaning-related factors (e.g., feelings of guilt/shame, abandonment, being a burden) that often increase risk lethality.
+Many special groups have a heightened risk for suicide. These include Native Americans; members of the military or veterans; first responders; older persons; persons with life-threatening depression and/or bipolar disorder; victims of bullying; and youth who are lesbian, gay, bisexual, transgender, questioning, and other (LGBTQ+).
+External determinants elevate the risk that members of these groups may become self-violent.
+Risk factors are placed into three main categories:
+Protective Factors
+Protective factors make a client less likely to engage in suicidal behavior and can also promote resilience and ensure connectedness with others during difficult times, thereby making suicidal behaviors less likely. Often, the factors listed as risk factors for some clients may also be protective factors.
+Protective factors include, but are not limited to:
+Hopefulness
+Restricted access to highly lethal means of suicide
+Strong connections to family, friends, social, and community supports
+Skills in problem solving, conflict resolution, handling problems in a nonviolent way, and lack of impulsivity in past situations
+Ability to see alternatives, limited cognitive distortions, and less impulsivity
+Cultural or religious beliefs that discourage suicide and support self-preservation
+Medication compliance
+Warning Signs 
+Warning Signs 
+Common warning signs of suicide include, but are not limited to:
+Talking about wanting to die
+Researching methods of dying, preparations, or rehearsal of taking one’s own life
+Talking about feeling hopeless or having no purpose; self-hate statements
+Talking about feeling trapped or being in unbearable pain
+Talking about being a burden to others; recent hospital discharge
+Increasing use of alcohol or drugs
+Acute versus Chronic Suicide Risk 
+Acute suicidal risk is defined as an individual who reports or presents with a desire to die in a foreseeable time frame—usually 24 hours or less—with statements about a specific plan, intent, means, and method. Require immediate professional intervention.
+Chronic suicidal risk is often connected with long-term patterns of relationship difficulties, interpersonal conflicts, poor decision making in various aspects of life, and repetitive destructive patterns causing life situation difficulties.
+Assessing Suicide Risk
+Level of Suicidal Risk 
+The gathering of information regarding risk factors, protective factors, warning signs. Most counselors assess a client’s suicidal risk on a continuum of low, moderate, or high:
+No Risk-There should also be a note if there is no (or none) suicidal risk detected.
+Low suicidal risk includes the presence of suicidal ideation/behaviors or infrequent thoughts without a plan and means to carry out the plan.
+Moderate suicidal risk includes serious thoughts and desire to die with ideas of a plan and means, often no access, some existence of social support, but also some risk factors.
+High suicidal risk includes details of a plan and means to carry out the plan, presence of risk factors, and absence of protective factors including support.
+Level of Suicidal Risk 
+The National Suicide Prevention Lifeline (N S P L) recommends following a rubric of assessing suicide risk based on the individual’s desire, capability to attempt, and intent to die or attempt suicide.
+Suicidal desire is indicated by:
+Desire to harm self or others
+Psychological pain such as hopelessness, helplessness, or feeling trapped
+Perceiving oneself to be a burden on others
+Suicidal capability is evidenced by:
+History of suicide attempts
+Exposure to someone else’s death by suicide
+History of or even current violent behaviors toward oneself or others
+Having the means to hurt oneself or others
+Current intoxication or excessive substance use
+Recent dramatic mood changes or loss of orientation to reality
+Extreme agitation, rage, increased anxiety, decreased sleep, and recent acts or threats of aggression
+Assessing Risk
+Pg. 173 and Safe-T
+Case Studies
+Case Studies
+Main concerns with this client?
+Thoughts about the counselor's approach?
+What level would you rate your client? (low, moderate, or high risk) Why?
+How would you gather additional information to identify impairments in functioning?
+What parts of the SAFE-T model could you see applied to this client?
+Level of Suicidal Risk 
+Suicidal intent is reflected by:
+Attempt in progress
+Plan with a known method to hurt oneself or others
+Preparatory behaviors (e.g., giving away possessions, finalizing one’s business affairs, saying goodbye [perhaps cryptically], counting pills, reading up on how to use the method, loading and reloading the gun, rehearsing the method) and stated intent to die
+Level of Suicidal Risk 
+The field has produced a variety of acronyms to assist counselors in recalling risk and protective factors and warning signs during suicide assessments.
+Examples include:
+I S P A T H W A R M: Ideation, Substances, Purpose, Anxiety, Trapped, Hopelessness, Withdrawal, Anger, Reckless, and Mood
+S I M P L E S T E P S: S–are you Suicidal?, I—Ideation, M—Means, P— Perturbation, L—Loss, E–Earlier attempts, S–Substance abuse, T—Troubleshooting the client’s problem-solving ability, E–Emotion, P–Parents or family history/exposure, S–Stress and life events
+M A N T H I S I S N’T F A I R: M—Mental issues, A—Attempts at self-destruction, N— No positive support from family/peers, T–Triggering stressors, H—Hopelessness, I—Ideas and intent, S— Substance abuse, I—Illness/chronic pain, S—Suicide in family history, N’T—(suicide) Note, F—Final arrangements/saying goodbye/giving away possessions, A—Access to means, I— Isolation, R—Recent psychiatric hospitalization
+Effective Questions and Assessment Strategies for Suicide Intervention
+A suicide risk assessment should always begin at the first session in traditional counseling, and it should be the main assessment goal in any crisis.
+An effective suicide risk assessment relies heavily on clinical judgment and interpretation of available facts, indicators, evidence of past behaviors, rating of current mood and symptoms, and consideration of all these data against the backdrop of the field’s knowledge of risk factors, protective factors, epidemiology, and causative factors that are known to increase the risk of suicidal death.
+Practice
+With a partner, ask “have you ever thought about suicide?
+No response needed.
+Find another partner, ask “Are you having thoughts of suicide?”
+Question-Tree Approach for Suicide Assessment: Essential Questions 
+Using a question-tree (Q-tree) approach allows the counselor to weigh the risk and protective factors and formulate the most appropriate plan for a client experiencing suicidal thoughts or behaviors.
+Some indicators may be difficult to assess by a question.
+Desire to die, for example, may not, by itself, indicate an individual’s risk level. Thus, the counselor must ask further questions to assess how capable the client is to follow through on the desire.
+Question-Tree Approach for Suicide Assessment: Essential Questions 
+Counselors should observe a client’s:
+Affective factors (e.g., nonverbals such as being withdrawn, uncooperative, distant, disinterested in taking part in a plan)
+Behavioral factors (e.g., how likely a client is to act on their thoughts or follow through on a plan to stay alive)
+Cognitive factors (e.g., Does a client seem rigid in their thought process or open to exploring the situation and options for life? Are thoughts distorted?)
+Developmental factors (e.g., the perception of death as related to a client’s understanding of death by age, cognitive level, or developmental abilities and limitations)
+Environmental factors (e.g., various cultural values important to the individual)
+Pre-Suicide Dimensions
+Unbearable Psychological/Emotional Distress- can involve many factors, or center around one main trauma, loss, or another psychologically activating experience. · 
+Problem-Solving Impairment- takes the form of seeing only two choices: either something painfully unsatisfactory or cessation. ·
+Agitation or Arousal- seems to push patients toward acting on suicide as a solution to their distress. 
+Thwarted Belongingness and Perceived Burdensomeness- Suicidal thoughts and impulses are likely to increase when patients are in situations that trigger thoughts of social disconnection. 
+Hopelessness- Patients with depressive symptoms may make unequivocal statements representing hopelessness. 
+Suicide Desensitization- Patients may acquire, through desensitization, a numbness that reduces natural fears of pain and suicide. 
+Suicide Plan or Intent- The standard approach to evaluating patients’ suicide plans is to follow the acronym, S-L-A-P (specificity, lethality, availability, and proximity of social support). ·
+Lethal Means- researchers have repeatedly found that access to firearms greatly magnifies suicide risk
+Q-Tree
+Let’s Develop a Q-Tree of questions for a first session.
+Potential Questions to Ask
+Have you intentionally hurt yourself in any way?
+When you hurt yourself, were you trying to commit suicide?
+How old were you when you first hurt yourself?
+How often do you hurt yourself?
+Have you had to seek medical treatment for hurting yourself?
+How do you feel after you hurt yourself?
+Do you ever have the urge to hurt yourself?
+Do you want to stop hurting yourself?
+Do you have friends or anyone you know who hurts themselves?
+Have you ever been able to stop right before you hurt yourself?
+Do you use drugs or alcohol before you hurt yourself?
+Is there a certain time of day that makes you feel like hurting yourself?
+Is there a certain situation or place that makes you feel like hurting yourself?
+Is there a certain person or people who make you feel like hurting yourself?
+Do you know of anyone in your family who has hurt themselves?
+Assessment
+Goal/Outcome- gather information about the crisis and activate supports for client
+Process-on going throughout the crisis intervention using interview skills
+Relationship to treatment- help client re-establish equilibrium 
+Materials needed-depends
+Time involved-minimum 5 minutes until crisis is resolved
+Information gathered- varies, but needs to include safety, the crisis situation, support
+Training- no further education, but training in assessment needed
+What is assessed? Client's level of functioning
+Crisis Intervention Assessments
+Safety
+Suicide Lethality Assessments
+Suicide lethality assessments include:
+Beck Scale for Suicide Ideation (B S I)
+Chronological Assessment of Suicide Events (C A S E)
+Collaborative Assessment for Managing Suicide (C A M S)
+Columbia-Suicide Severity Rating Scale (C-S S R S)
+Mini-Mental Status Examination (M M S E)
+Positive and Negative Suicide Ideation Inventory (P A N S I)
+Suicide Assessment Five-Step Evaluation and Triage (S A F E-T)
+Task Model of Crisis Assessment and Intervention
+Should never be the only measure of used in suicide risk assessments
+SLAP
+You won’t always have an assessment with you, so you need to know what to ask.
+Specificity- Are there specific steps? Or general thoughts?
+Lethality- would this plan result in a suicide?
+Accessibility- Do they have access to the items that they would need?
+Proximity- How close are the items to the client?
+Treatment Planning and Care Management with a Suicidal Client 
+After assessing a client’s acute or chronic risk and determining the level of risk, many mental health professionals might again ask, “Now what do I do?”
+Assessment is only part of the intervention process.
+The assessment process yields valuable information to assist with the design of appropriate treatment interventions, beginning perhaps with the most important intervention of all: the development of a customized safety plan.
+What comes next?
+Treatment Planning and Care Management with a Suicidal Client 
+Developing a safety plan with the client is an industry standard and expectation.
+Stanley and Brown, considered the experts on safety planning, recommend that clients ask the following questions:
+When should I use the plan?
+What can I do to calm/comfort myself if I am feeling suicidal? 
+What are my reasons for living?
+Who can I talk to?
+Who can I talk to if I need professional assistance?
+How can I make my environment safe?
+What should I do if I am still not feeling safe?
+Treatment Planning and Care Management with a Suicidal Client 
+A comprehensive safety plan addresses specific behavioral actions, determined in concert with the client.
+Counselors developing safety plans should include a focus on means removal. It is best to engage a safety partner to assist with means removal to guarantee the means restriction more fully, rather than counting on the client to do so.
+Safety plans should always involve resources, actions, and coping mechanisms that the client is able and willing to put into place, that are specific to the situation, and that are written with clear behaviorally specific verbiage.
+No-Suicide Contract
+Not considered a best practice but sometimes still utilized. 
+Connection with Training Videos
+How did you notice Dr. Sommers-Flannagen respond to clients? 
+What interventions did he use?
+Therapeutic Interactions
+Validation
+Don’t give false hope or simple statements (it will all be okay.”
+Tell clients that their feelings are normal and typical for someone experiencing this type of situation. 
+“I know that right now you feel that everything is falling apart, but many people have gone through the same situation and have survived. You have every reason to believe you can survive, too.” 
+Education
+Providing factual information, whether developmental or situational, is vital in every crisis. 
+Clients often suffer merely because they lack or have incorrect knowledge about the precipitating event and aspects associated with it. 
+Picture a woman who has been completely isolated from others because she is in an ongoing battering relationship. She will most likely perceive herself as abnormal and bizarre. When she learns that about 30 percent of women live in such relationships, she may feel differently about herself and the abnormality of the situation. Without this issue to deal with, the counselor is now free to process other issues.
+Empowerment
+Clients who are in certain crisis situations in which they feel violated, victimized, or helpless respond well to empowering statements. 
+Clients are presented with choices and are encouraged to take back personal power by making helpful choices. Battered women, rape survivors, and survivors of child abuse often suffer from learned helplessness stemming from the abuse. 
+Example: A rape victim might be told, “You did not have a choice in being raped, but now you do have a choice of what to do. You can call the police, go to counseling, tell a friend, or not do any of these things. Let us talk about your feelings and thoughts on each of these choices.”
+Reframe
+Defining a situation differently from the way the client is defining it. It is a cognitive-restructuring tactic that aims at changing the crisis from danger to opportunity. 
+American clichés such as “Every cloud has a silver lining” and “When life gives you lemons, make lemonade” convey this idea quite clearly.
+Reframing may seem like rationalizing away a problem to some. However, it is probably one of the strongest healing skills available to the crisis worker and for people in general. 
+It allows us to acknowledge that life is a struggle, that we are not perfect, and that dwelling on our failings is not necessary or helpful. 
+Reframing is possible only if the counselor first understands fully the client’s current frame of reference. Otherwise, the counselor would not know what should be reframed. 
+Case Study
+A 30-year-old woman feels hopeless and despondent. She thinks she is a bad mother and wife and cannot manage her household. She has no appetite and cannot sleep. She has little involvement with her children. She spends her days crying while the children are left to look after themselves. She has some vague thoughts that maybe it would be better if she were not around.
+Reframe: A bad mother would not care if her children were not being cared for. This mother is not bad; she is just depressed.
+Support: Let her know that being a mother is hard. It is not necessarily easy to manage a home and children.
+Education: From what she is describing, she sounds like she is suffering from depression. Many people experience these same symptoms and there are many medications and types of counseling that are very effective in alleviating depression.
+Empowerment: She is in control of how she proceeds to manage her depression. Her first sign of being in control was coming to this appointment.
+Outpatient and Inpatient Treatment Decisions and Management
+When a client is in immediate risk to self, the decision for hospitalization may be required to keep the person safe.
+States and counties within states differ as to the process for involuntary and voluntary hospitalizations, and it is essential that clinicians understand the laws and policies in the state and county where their clients live.
+Voluntary hospitalization is preferred over involuntary hospitalization as it allows the client (and supports) to be part of the decision-making process. In many states, when a person voluntarily seeks hospitalization, they may have more control in their discharge.
+When clients and families agree to voluntary hospitalization, the crisis counselor should obtain a release of information and gain as much information as to where the client will be seeking admission so they can follow up.
+A well-being check can be requested if there is any thought the client (or guardians) did not follow through. Law enforcement conducts the well-being check.
+Outpatient and Inpatient Treatment Decisions and Management 
+Involuntary hospitalization differs from state to state.
+Some states require courts to mandate the commitment of an individual; others allow licensed professionals to initiate an emergency petition for involuntary hospitalization; some states integrate mobile crisis teams or crisis intervention teams, while others rely on a community service board that would make the final assessment and determination based on the clinicians’ observations.
+Once a client is involuntarily hospitalized, the client will likely not have further contact with the crisis counselor, and clients will be discharged to outpatient mental health counselors
+Outpatient and Inpatient Treatment Decisions and Management 
+Partial hospitalizations are often referred to as a step down from a hospitalization when a person may need additional or more intense support than outpatient mental health.
+Medical stabilization and pharmacological intervention are the goals of hospital mental health administrators, and discharge planning begins at admission.
+Discharge planning and collaboration is essential between hospital personnel and outpatient counselors to eradicate the high window of risk for suicide after discharge.
+The follow-up with a client who is at risk for suicide is critical practice; follow-up is a form of active postvention that is postventive, preventive, and interventive.
+Follow-ups may include regularly scheduled phone calls, letters, or notes, and even texting or e-mailing, or they may include memoranda of agreements with provider organizations (e.g., between agencies or practices and hospital E D s).
+Outpatient and Inpatient Treatment Decisions and Management 
+Documentation of lethality
+It is important that the counselor notes what a client reports and how they present.
+Not asking does not mean a client is not suicidal. It means the standard of care was not met sufficiently.
+A common risk statement should show that a verbal assessment was made as well as an observation of nonverbal behaviors.
+This statement implies that the counselor has asked the appropriate questions and the client has been evaluated based on their behavioral presentation.
+This documentation should also be extended to N S S I and homicide risk assessments.
+Postvention 
+Postvention has grown to include the care practices that practitioners provide to persons who have survived a suicide attempt.
+Postvention with attempt survivors can include ongoing stabilization, long-term therapy, and improvement of help-seeking skills and overall self-care, with a goal of long-term improvements in quality of life and functioning.
+Postvention has also been the type of care provided to survivors of suicide loss.
+Survivors of suicide or homicide loss can develop protracted symptoms of grief, depression, anxiety, PTSD, longer and more complicated grief and bereavement; more demands on medical and mental health services; and greater potential for lost time at work and at school.
+Survivors of suicide loss also have an elevated risk for suicide attempts.
+Postvention 
+Whether working with an individual or with a group, there are common factors to take into consideration that may be unique to those grieving the loss due to suicide:
+(1) prevention of further suicides, 
+(2) reconstructing the “why,” 
+(3) commemorating the positive, 
+(4) saying goodbye, and 
+(5) an assessment of guilt/shame and absolution of guilt.
+NSSI
+Nonsuicidal Self-Injury (N S S I)
+NSSI is the intentional, self-inflicted, immediate destruction of body tissue, without suicidal intent, that is not viewed as culturally acceptable behavior.
+The severity of N S S I can range from superficial wounds to long-term disfigurement.
+The most common N S S I behavior continues to be reported as cutting; other common behaviors or methods of N S S I include, but are not limited to:
+Burning
+Skin picking
+Hair pulling
+Banging or hitting the head or other body parts
+Rubbing objects onto the skin
+Skin erasing or carving
+Nonsuicidal Self-Injury (NSSI)
+NSSI increases substantially in early adolescence and decreases during late adolescence and early adulthood with more incidents of NSSI behaviors by females.
+The likelihood that counselors and medical professionals will encounter NSSI is quite high.
+NSSI has been viewed as not linked with suicidal intent, but most clinicians and researchers suggest that NSSI is a strong predictor of future suicidal behavior.
+Assessments and Q-Tree 
+It is a standard of care to integrate an N S S I assessment as part of all suicide risk assessments.
+It is essential to understand the intentions of those who participate in N S S I to properly assess intent, implement the most effective treatment strategy, or appropriately refer to additional care.
+Kruzan and Whitlock adapted the transtheoretical model (T T M) of behavior change proposed by Prochaska and DiClemente to assess motivation for change.
+T T M integrates the following while assessing motivation of change: (1) precontemplation (with no intent to stop N S S I); (2) contemplation (intent to stop N S S I within 6 months); (3) preparation (intention of taking steps to stop N S S I within next month); (4) action (currently taking steps to stop N S S I); (5) maintenance (steps have been taken for more than 6 months); and (6) termination (cessation of N S S I for over 3 years).
+Assessments and Q-Tree (2 of 2)Crisis counselors can integrate a Q-tree into the T T M to assess and identify a timeline of N S S I, risk factors, and motivation for change (protective factors) to provide referral for treatment.According to Wester and Trepal, the N S S I assessment should gather: (1) basic information, (2) contextual information, and (3) functional/reasoning information.N S S I assessment often requires long-term care, which may exceed the time a true crisis counselor can offer. 
+Interventions for NSSI
+Ineffective Interventions for Self-Harm
+Summary
+Suicide, NSSI, and homicide are crises that counselors will encounter during their careers.
+No single universally recognized rubric for predictability of suicide, NSSI, or homicidal behaviors exists; however, it is a standard of care to approach these risk assessments with models for assessment to provide effective intervention.
+Three primary goals to help crisis counselors dealing with a person threatening suicide or homicide are 
+(1) ensure client safety, 
+(2) assist the client in achieving immediate short-term mastery of self and situation, and 
+(3) connect the client with formal and informal supports.
+Practice
+Suicide Risk Assessments
+Practice
+Practice conducting a suicide assessment and intervention. The person role playing the client should act as one of the clients presented in the training videos.
+Use the SAFE-T model to identify the precipitating event, cognitions, emotional distress, and impairments in functioning.
+ The person who is role-playing the client should be creative and should embellish the situation based on knowledge of the emotional and cognitive elements that were presented in the training videos.
+The practicing counselor should use the suggested therapeutic comments included at the end of the case description. (reframe, support, education, or empowerment)
+Feel free to be creative and create scenarios that include low-, middle-, and high-risk clients. 
+Once you decide at which risk level the client is, discuss appropriate interventions. Any of these cases could be made into low, middle or high risk depending on the responses the client gives to the counselor’s questions.
+Case Studies

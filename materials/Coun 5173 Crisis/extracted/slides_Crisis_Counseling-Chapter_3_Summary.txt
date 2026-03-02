@@ -1,0 +1,203 @@
+If this PowerPoint presentation contains mathematical equations, you may need to check that your computer has the following installed:
+1) MathType Plugin
+2) Math Player (free versions available)
+3) NVDA Reader (free versions available)
+Crisis Assessment, Intervention, and Prevention
+Chapter 3: Ethical and Legal Considerations in Crisis Counseling
+Agenda
+6-6:45: Chapter 3-Ethics
+6:45-7:30- Chapter 4- Review Skills
+7:30-8-Dinner
+8-9: Chapter 6-Suicide Assessments
+9-10: practice Suicide Assessments
+The illustration shows three overlapping circles. The circle on the left represents H I P P A. The college or university clinic only treats nonstudents AND is a covered entity. The circle on the center represents BOTH. The college or university clinic treats both students and nonstudents AND is a covered entity OR treats only students AND is a covered entity. The circle on the right represents F E P R A. The college or university clinic only treats students AND is not a covered entity AND the students records are education records, not treatment records. A text inside the rectangle below the circle reads, Neither the college or university clinic treats only non students AND is not a covered entity. 
+Considerations to Prevent Ethical and Legal Problems
+Counselors can focus on five areas to foster core prevention:
+A compromised condition may leave the counselor vulnerable to ethical or legal lapses, making attention to the well-being of the counselor vital as a preventive measure.
+Wellness
+A compromised condition may leave the counselor vulnerable to ethical or legal lapses, making attention to the well-being of the counselor vital as a preventive measure.
+Pearlman and MacIan (1995) noted 10 helpful strategies for crisis counselors to use to promote and maintain wellness:
+Continuing Education
+Required by certifying and licensing bodies to help counselors’ practice remain both competent and current
+Counselors practicing in isolation without peer contact are at higher risk for impairment, and in-person continuing education is an important component in counselor wellness
+Peer Supervision and Consultation
+Counselors should prepare for crisis situations by preestablishing sources of in-person and online supervision and peer consultation.
+Remote supervision requires mindfulness of power differentials and technological communication nuances. Cameron et al. (2020) found that remote supervision via videoconferencing provided increased confidence, new learning strategies, and reduced feelings of isolation for clinicians in rural areas.
+Ethical Decision-Making Models
+There are a variety of ethical decision-making models a counselor can use.
+ Regardless of the model chosen, counselors should apply the core principles of autonomy, nonmaleficence, beneficence, justice, fidelity, and veracity when making ethical decisions.
+A Practitioner’s Guide to Ethical Decision Making (Forester-Miller & Davis, 2016)
+The basis for the ethical decision-making standards of the A C A Code of Ethics (2014, section I.1.b).
+The practitioner’s guide outlines a seven-step decision-making model:
+Examples of Other Ethical Models
+Relevant Laws
+Hippa, Ferpa, Duty to Warn, etc.
+Health Insurance Portability and Accountability Act
+The Health Insurance Portability and Accountability Act (H I P A A) of 1996 is federal legislation that was implemented to address numerous perceived shortcomings in the management of information in the health care industry.
+The first federal legislation to protect automated client records, and it mandated that all electronic transactions include only H I P A A-compliant codes, provide security provisions, and require national provider identification numbers.
+Four areas of legislation:
+privacy requirements (the specific rules for which would be subsequently constructed)
+electronic transactions
+security requirements
+national identifier requirements
+Addendums to HIPAA
+Privacy Rule	
+Added in 2003
+A few of the provisions include:
+Patients must be able to access their records.
+Patients have the right to request and/or make corrections to their records.
+Patients must be informed of how their personal information will be used.
+Patient information may not be used for marketing purposes without prior consent.
+Health insurers or providers must designate a privacy officer and train employees (Pozgar, 2018).
+Security Rule
+Added in 2005
+The Security Rule requires that covered entities maintain three safeguards—administrative, physical, and technical—so that electronic protected health information remains confidential, secure, and integral.
+How H I P A A Affects Crisis Counseling
+A crisis typically occurs quickly and often in unanticipated ways, so counselors must respond immediately to stabilize the situation and provide a way for people to move forward.
+According to D H H S (2022b, 2022c), H I P A A is not intended to interfere with the provision of emergency medical care associated with declared emergencies such as hurricanes, and covered health care providers may exercise their professional judgment and act if such actions are in the best interests of the patient.
+Family Education Rights and Privacy Act
+In 1974, Congress passed the Family Educational Rights and Privacy Act (FERPA) prompted by concerns about privacy violations and the inclusion of immaterial comments and personal opinions in educational records.
+Confusion regarding HIPAA and FERPA continues to be of concern as institutions of higher education and governmental partners struggle to strike a balance between the two federal laws.
+What Is F E R P A?
+How F E R P A Affects Crisis Counseling
+According to the U.S. Department of Education (2020a), an emergency situation creates an exception, and schools may release information from general, medical, or mental health records to protect the health and safety of others.
+In situations concerning health and safety, higher education institutions may disclose educational records to a parent if the student is involved in a health or safety issue or is under 21 years of age and has violated the school’s drug and alcohol policies.
+According to the U.S. Department of Education (2021), “a school official may generally share information with parents that is based on that official’s personal knowledge or observation of the student.” Therefore, in situations where a student’s behavior involves the health and safety of self and others, school officials can communicate with parents.
+The Application of H I P A A and F E R P A to College and University Student Records
+The interplay between H I P A A and F E R P A has yet to be fully understood, and higher education institutions currently interpret H I P A A and F E R P A in different ways.
+The Tarasoff versus Regents Decision (1 of 2)
+In 1969, Prosenjit Poddar was seen by a psychologist on a voluntary outpatient basis at the University of California, Berkeley. Poddar confided his intent to kill a woman he claimed to be his girlfriend, a woman the psychologist surmised to be Tatiana Tarasoff, when she returned from Brazil.
+The psychologist contacted the campus police and then began proceedings to have Poddar committed for a psychiatric evaluation.
+The police questioned him and found Poddar to be rational and promised not to have contact with Tarasoff, so the police released him.
+The psychologist followed up on his concerns with a letter to the campus police chief in which he again expressed his concern; however, the supervisor of the psychologist requested that the letter be returned, ordered all case notes destroyed, and ordered that no further action be taken.
+The Tarasoff versus Regents Decision (2 of 2)
+Poddar did not return to see the psychologist, nor was he committed or evaluated by any additional mental health professionals.
+No one contacted Tarasoff or her family to alert them that a threat had been made.
+Two months later, Tarasoff was stabbed to death by Poddar; her parents sued the University of California Board of Regents.
+Initially, a trial court ruled that the university was not liable because Tarasoff was not the patient in this case, and therefore it had no duty of care toward her.
+Upon appeal, the California Supreme Court ruled there are some circumstances in which a therapist should break confidentiality, specifically when such a disclosure is necessary to avert danger to the client or others.
+This act of breaking confidentiality when disclosure is necessary to avert danger is known as the duty to warn.
+What Was the Effect of Tarasoff versus Regents?
+The terms duty to warn and duty to protect are often used interchangeable, adding to the confusion in the field. Definitions of each term vary by state.
+The Tarasoff ruling establishes a duty to protect and a duty to warn. The ruling and interpretation of the Tarasoff principle for counseling professionals involves the awareness of the protective measure as a legal obligation to warn an intended victim of potential harm.
+It is highly recommended that counselors seek peer supervision and consultation on a regular basis, but particularly whenever the issue of breaking confidentiality becomes a factor in practice. This principle is known as the duty to consult principle and can assist crisis counselors in decreasing liability issues in similar cases.
+Washington Law- Duty to Warn
+RCW 71.05.120
+Exemptions from liability.
+(1) No officer of a public or private agency, nor the superintendent, professional person in charge, his or her professional designee, or attending staff of any such agency, nor any public official performing functions necessary to the administration of this chapter, nor peace officer responsible for detaining a person pursuant to this chapter, nor any designated crisis responder, nor the state, a unit of local government, an evaluation and treatment facility, a secure withdrawal management and stabilization facility, or an approved substance use disorder treatment program shall be civilly or criminally liable for performing duties pursuant to this chapter with regard to the decision of whether to admit, discharge, release, administer antipsychotic medications, or detain a person for evaluation and treatment: PROVIDED, That such duties were performed in good faith and without gross negligence.
+(2) Peace officers and their employing agencies are not liable for the referral of a person, or the failure to refer a person, to a behavioral health agency pursuant to a policy adopted pursuant to RCW 71.05.457 if such action or inaction is taken in good faith and without gross negligence.
+(3) This section does not relieve a person from giving the required notices under RCW 71.05.330(2) or 71.05.340(1)(b), or the duty to warn or to take reasonable precautions to provide protection from violent behavior where the patient has communicated an actual threat of physical violence against a reasonably identifiable victim or victims. The duty to warn or to take reasonable precautions to provide protection from violent behavior is discharged if reasonable efforts are made to communicate the threat to the victim or victims and to law enforcement personnel.
+How Tarasoff versus Regent Affects Crisis Counseling?
+Collins and Collins’s (2005) developmental-ecological model of crisis
+Intervention identifies three goals for a crisis worker dealing with a potentially violent individual:
+Ensure that the client remains safe, reduce lethality, and stabilize the environment.
+Help the client to regain short-term control.
+Connect the client with appropriate resources.
+The course of accomplishing these three goals, however, is balanced against the counselor’s decision that a duty to warn exists and confidentiality must be broken in part to accomplish those very goals.
+While the principles of duty to warn and duty to protect are useful, counselors should not assume that Tarasoff applies without explicitly researching their state law. Counselors should be aware of the changing nature of legislation and of the pertinent regulations for their own state.
+Harm to Others
+From Chapter 6
+Homicide
+Homicide can be defined as the willful killing of one person by another person.
+The potential for violence and homicide exists in families, schools, colleges, the workplace, and across all communities. Thus, it is essential that counselors in all practice settings be equipped to assess the lethality of clients with homicidal ideation and be capable of making decisions regarding the referral and treatment of dangerous clients.
+Counselors in all settings may be called on to provide services to survivors of loss due to homicide.
+Assessment of Homicide: Risk Factors
+While they may assist crisis counselors in assessment, the existence of risk factors does not mean the client will become violent, and, conversely, the absence of risk factors does not indicate a lack of homicidal intention.
+Individual risk factors include a history of violence victimization, attention deficit or learning disorders, history of early aggressive behavior, use of drugs, alcohol, or tobacco, and low I Q.
+Family risk factors include authoritarian parents, inconsistent disciplinary practices, low parental involvement, low emotional attachment to parents or caregivers, and low education and income of parents.
+Peer and social risk factors include delinquent peers, involvement in gangs, social rejection by peers, and lack of involvement in acceptable activities.
+Community risk factors include diminished economic opportunities, high level of transiency, high level of family disruption, and low levels of community participation.
+School Homicide and Violence
+There is not a simple or obvious profile of a student who might enact a school shooting.
+School shootings are precipitated by a complex interplay of personal issues and environmental circumstances.
+By using systematic threat assessment and being attuned to warning signs, educational settings can more clearly identify individuals with violent intent.
+There is a need to educate students, school staff and faculty, and the public about leakage, as violence in school is usually planned, and school staff and faculty need to be particularly attentive to signs and symptoms of violence as well as to school environmental factors that give rise to bullying, rejection, and the promotion of violence.
+School Homicide and Violence 
+Meloy et al. developed a typology of eight warning behaviors that can indicate amplified risk of targeted violence and should be used when assessing a threat:
+Pathway warning behavior—the individual plans an attack
+Fixation warning behavior—the individual becomes obsessed with a person or cause
+Identification warning behavior—the individual identifies with attackers or warriors
+Novel aggression warning behavior—the individual tries out violent behavior as a test
+Energy burst behavior—the individual increases activities related to the intended victim(s)
+Leakage warning behavior—the individual tells another person about the plans
+Directly communicated threat warning behavior—the individual makes an explicit threat to the target or police
+Last resort warning behavior—the individual displays an increase in distress and comes to believe that there is no other way forward but violence toward the target
+Assessing Harm to Others
+The following six questions can be used to assess a person’s potential for harming others:
+Is the subject actively or passively engaged in violent or dangerous behavior?
+Does the subject state that he or she is going to carry out violent or dangerous behavior?
+Does the subject have a plan to follow through with this behavior?
+Does the subject have the means to follow through with this plan?
+Does the subject have a background of violent or dangerous behavior?
+Has the subject acted on plans for violence in the past?
+School Homicide and Violence 
+In general, college campuses are safe environments, and there is a lower rate of crime on college campuses compared to off-campus.
+Horrific shootings on college campuses are more reflective of problems with mental health access and compliance than of problems with campus safety.
+access to mental health care, foster social and emotional support in residential facilities, and improve morale across group.
+Workplace Violence and Homicide
+The number of workplace homicides has decreased overall since 1993. Still, homicide in the workplace is the fourth leading cause of fatality at work and remains a disturbing reality.
+Most workplace homicides involve robberies, and individuals who work in retail and hospitality establishments are at greater risk, as are customers and bystanders in these settings.
+Approximately 80% of workplace fatalities result from shootings.
+Workplaces should have clearly stated policies regarding violence and threats, a way for employees to communicate concerns, a system to promptly investigate concerns, a discipline policy, training for all employees on the signs and symptoms of violent intent, and an Employee Assistance Program that can counsel employees in distress to help prevent acts of violence.
+Threat Level Assessment 
+Threat Level Assessment
+Low Level of Threat: A threat that poses a minimal risk to victim and public safety.
+Medium Level of Threat: A threat that could be carried out, although it may not appear to be entirely realistic.
+High Level of Threat: A threat that appears to pose an imminent and serious danger to the safety of others.
+When dealing with a client expressing homicidal intent, crisis counselors must always keep the ethical obligation of public safety and the duty to warn at the forefront of their minds, even with low-threat clients.
+Referral
+Because of the danger to others and the possible existence of mental disorders in homicidal clients, counselors usually refer clients to or work collaboratively with other mental health providers, particularly psychiatrists, when treating clients who pose a threat to others.
+Violent clients often need the help of specialists in forensic mental health, and it is a good idea for crisis counselors to be familiar with forensic specialists in their local area.
+In instances with out-of-control and impulsive clients, homicidal and suicidal ideation may coexist and, therefore, such a client poses a threat to both self and others.
+Treatment Options 
+A therapeutic alliance is particularly imperative with potential homicide offenders, since client investment in treatment compliance is necessary for public safety.
+Once the immediate homicidal crisis has been dealt with, the safety of others has been assured, and appropriate medical treatment has begun, long-term treatment planning can proceed.
+Ongoing assessment of the client is crucial to both treatment outcomes and public safety.
+Needs of Survivors of Homicide Loss
+Homicide survivors may:
+ Experience symptoms consistent with complicated grief due.
+Need to be able to openly express what has happened to them and to fight for change in a system where they have felt injustice. 
+Want to find meaning in the death of their loved one by working to benefit others experiencing similar circumstances; this gives meaning to the loss as well as purpose to the survivor.
+Crisis counselors should:
+Be prepared for complex and varied reactions.
+Be sensitive to cultural differences in grief expression.
+Special Considerations Related to Crisis
+Negligence and malpractice
+Documentation and record keeping
+Informed consent
+Confidentiality
+Termination in crisis intervention
+Negligence and Malpractice
+Negligence and Malpractice
+A breach of duty owed to another is considered negligence; negligence that occurs in a professional setting is malpractice.
+Professional negligence results when a counselor departs from the usual standard of practice that is expected of professionals in a similar situation.
+Malpractice is established if the court finds that a counselor has breached a professional duty, failed to take appropriate action (omission), or did something that should not have been done (commission) relative to the standard of care.
+To prove malpractice, four factors (the four Ds) must be present: “a dereliction of duty that directly results in damages”
+In the event of a lawsuit, a counselor’s only defense is documentation in the case file that proves that the counselor conformed to the standard of care. A means of protection is to never practice without having professional liability insurance.
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.hpso.com/getmedia/a3cd0d3c-d774-4103-8c74-8804d719b4d0/CNA_CLS_COUN24_061824_CF_PROD_ASIZE_SEC.pdf
+Documentation and Record Keeping
+“If it’s not written down, it didn’t happen.”
+Documentation is an essential part of the standard of care of the counseling relationship.
+Good documentation is particularly crucial in crisis situations such as suicide, homicide, mandated reporting (e.g., children, older adults, vulnerable persons), and disaster relief where the risk of litigation increases.
+Inappropriate information should not be included in client records, meaning anything that is not treatment related and that could be problematic if viewed by others.
+Crisis conditions (e.g., a disaster site) are not always conducive to writing case notes, but counselors working with clients in crisis need to clearly document exact dates, pertinent details, assessments, and treatment decisions.
+Informed Consent in Crisis Settings
+Confidentiality
+Confidentiality is “the professional, ethical, and legal obligation of counselors that they not disclose client information revealed during counseling without the client’s written consent” (Gladding, 2017).
+In crisis and disaster circumstances, provisions for confidentiality are certainly more challenging; however, the ethical standards and requirements of the profession still apply.
+Counselors working with children need to explain confidentiality in developmentally appropriate language. Parents and guardians are often hypervigilant and overprotective during crisis interventions, so counselors must be clear about boundaries and limitations while still establishing rapport, a therapeutic alliance, and intervening to benefit the child.
+Termination in Crisis Intervention
+Appropriate termination should not only bring closure for the crisis counseling relationship but also bolster the goals and plans laid out in the crisis counseling process.
+The ACA Code of Ethics (2014) prohibits abandonment;. The counselor provides the client with referral information for other appropriate mental health providers.
+A final termination summary should be added to the client file. Bond and Mitchels (2014) recommend that this summary include the reason for termination, a summary of progress, the final diagnostic impression, a follow-up plan, and other pertinent information.
+Spiritual Considerations
+Multicultural Considerations
+Crisis Intervention in a Technological World
+Crises are more likely to be reported immediately to authorities and help is often obtained quickly and in some instances in real time (e.g., via Skype or Zoom).
+Counselors must be aware of accurate information in real time to help clients navigate anxieties caused by false information spread by social media.
+Furber et al. (2014) found that both text messaging and phone-based psychotherapy were beneficial resources for clients in crisis.
+Online crisis counseling services are a valuable resource for clients in crisis who are geographically isolated, self-sequestered, or have limited access to face-to-face counseling (e.g., transportation problems, work release time).
+Resources
+National Hotline 988
+King County-  1-866-4-CRISIS or 206-461-3222
+Text START to 741741

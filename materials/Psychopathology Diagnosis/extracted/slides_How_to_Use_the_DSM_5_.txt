@@ -1,0 +1,11 @@
+How to Use the DSM 5
+This document is not intended to be an exhaustive set of instructions for using the DSM 5. Rather, it is a quick, basic guide on how to approach using the DSM 5 and its related tools. 
+Using a diagnostic interview, determine the client’s primary area of complaint (e.g. depression, anxiety, sexual dysfunction, sleep issues, etc.) 
+As a starting point in your intake process you also include the Crosscutting Tools provided by the APA. See the measure online at https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/assessment-measures 
+Read about the primary area of complaint. 
+Start with the Diagnostic Features. Consider if the symptoms and experiences described in the DSM fit with those described by your client. 
+If so, focus on the Diagnostic Criteria. Be sure you understand the specific requirements for a diagnosis of that disorder. Remember each disorder has different criteria and you must be sure a client meets the appropriate number of criteria for a diagnosis.
+If the client meets criteria move on to differential diagnosis.
+According to First (2014), the steps in the process of differential diagnosis are ruling out malingering (faking symptoms), rule out substance related symptoms/causes, rule out medical related causes, determine the primary disorder, explore adjustment disorder, and finally determine if the client meets full criteria for a mental disorder.
+If not, move on the next possible condition and repeat.
+Additional considerations to be aware of are cultural differences in presentation of symptoms, and understanding prevalence rates for disorder. This information is included for each disorder in the DSM. 

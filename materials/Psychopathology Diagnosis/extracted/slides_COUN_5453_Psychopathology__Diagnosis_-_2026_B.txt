@@ -1,0 +1,630 @@
+1
+College of Social and Behavioral Sciences
+Master of Arts in Clinical Mental Health Counseling
+COUN 5453 Psychopathology and Diagnosis
+Spring 2026
+Instructor:
+Robert Campbell, Psy.D.
+Office: 214
+Phone 425.889.5221
+E-mail: Robert.campbell@northwestu.edu
+Office Hours:
+By Appointment
+Class Schedule:
+1. Friday, January 9, 2026 - 6:00 pm to 10:00 pm
+2. Tuesday, January 13, 2026 - 6:00 pm to 10:00 pm
+3. Tuesday, January 27, 2026 - 6:00 pm to 10:00 pm
+4. Tuesday, February 10, 2026 - 6:00 pm to 10:00 pm
+5. Tuesday, February 24, 2026 - 6:00 pm to 10:00 pm
+6. Tuesday, March 10, 2026 - 6:00 pm to 10:00 pm
+7. Tuesday, March 24, 2026 - 6:00 pm to 10:00 pm
+8. Tuesday, April 7, 2026 - 6:00 pm to 10:00 pm
+Required Text:
+1. American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental
+Disorders, DSM-5-TR (5th Edition). Washington, D.C: American Psychiatric Publishing.
+ISBN 978-0-89042-576-3
+2. Castonguay, L. G., & Oltmanns, T. F. (Eds.). (2021). Psychopathology: From Science to
+Clinical Practice (Second edition). The Guilford Press. ISBN 9781462547616
+3. Morrison, J. (2016) The First Interview (4th edition) New York, New York. The
+Guildford Press. ISBN 9781462529834
+
+-- 1 of 12 --
+
+2
+Course Description:
+This course focuses on the diagnosis process, differential diagnosis, and treatment of the
+psychopathologies and how those pathologies differ in various cultures. Emphasis is placed on
+the use of the current Diagnostic and Statistical Manual of Mental Disorders (DSM).
+Course Objectives:
+• Apply processes of differential diagnosis using the DSM.
+• Evaluate cultural and spiritual differences in definitions of psychopathology.
+• Integrate understanding of psychopathology with counseling theory and practice.
+CACREP Standards:
+5C.1.c principles, models, … of biopsychosocial case conceptualization …
+5C.2.b etiology, nomenclature, … of mental and emotional disorders
+5C.2.d diagnostic process, including differential diagnosis and the use of current
+diagnostic classification systems, including the Diagnostic and Statistical Manual of Mental
+Disorders (DSM) and the International Classification of Diseases (ICD)
+5C.3.a intake interview, mental status evaluation, biopsychosocial history, mental health
+history, …
+CACREP Standards (cont.):
+Outcomes Measurement
+Objectives Vignettes Final Exam Diagnostic Interview
+Assignment
+Course
+Reading
+5C.1.c X X
+5C.2.b X X X
+5C.2.d X X X X
+5C.3.a X X X
+KPI Addressed
+7. Diagnostic Systems (Introduction)- Utilize differential diagnostic process and systems
+The final exam in the course is the key assessment for this KPI.
+Academic Honesty:
+Northwest University expects honesty from students in all areas, including their academic lives.
+Academic dishonesty is a serious violation of university standards and may result in the students’
+receiving an “F” on the assignment, receiving an “F” for the course, or possibly being dismissed
+from the University. Instances of academic dishonesty are coordinated through the respective
+graduate program office and typically reported to the Provost’s Office.
+Academic dishonesty includes cheating on assignments or examinations, submitting the same (or
+essentially the same) paper in more than one course without prior consent of the current
+assigning professor(s), sabotaging another student’s work, and plagiarizing. Plagiarism is “using
+
+-- 2 of 12 --
+
+3
+someone else’s ideas or phrasing and representing those ideas or phrasing as our own, either on
+purpose or through carelessness” (MLA). Any student disciplined by a faculty member for
+alleged academic dishonesty has the right to appeal the disciplinary action. The student should
+initiate his/her appeal according to procedures outlined in the Northwest University Student
+Academic Appeals Policy, which is available in the Provost Office.
+Attendance Policy:
+Class attendance is extremely important for student learning and achievement of specified course
+outcomes and, in turn, the program aims. Hence, attendance at all class sessions is expected. At
+minimum, students absent for a class session will need to make up any missed assignments or
+exercises and complete the expected readings. A grade penalty will be applied if more than one
+class session is missed. Additional policies and consequences are at the discretion of the
+individual professor of the course. More than one missed class session will result in failure of the
+course and require a retake to continue in the program. In this circumstance, the student is
+encouraged to withdraw from the course and retake the class when it is offered again. In the
+event of unusual circumstances (e.g., extended illness, emergency), a student may appeal the
+automatic course failure. A proposal outlining a plan for satisfactory course completion will be
+required, composed by the professor and agreed to by the student. In addition, the plan will
+require approval by the program director and Dean.
+Disability Accommodations and Procedures:
+For students with learning differences and/or physical disabilities, as defined by the ADA and
+Section 504 of the Rehabilitation Act, Northwest University takes an individual and holistic
+approach to providing accommodations. Accommodations are developed and approved on an
+individual basis by the Student Development Office, not the CMHC program or individual
+faculty members. Students needing accommodations for a diagnosed disability should follow the
+procedures provided on the Student Development Office’s website for disability
+accommodations.
+Communication Policy:
+Timely communication between the professor and students is important to the overall
+functioning of the program. Therefore, both students and faculty should respond to email or
+phone messages within two business days. If the professor is out-of-office, he or she should have
+an automatic reply message (on email) or voicemail recording (phone) providing the date of
+his/her return, as well as an in-office contact for urgent requests.
+Grading Policy:
+Grading is conducted on the Discovery Grade Book page of the course. Students are expected to
+monitor their progress accordingly. Assignments and tests will generally be graded within two
+weeks. Final papers and projects may take up to three weeks. The professor will let you know if
+there are exceptional circumstances preventing a timely return of grades. If you have concerns
+about grading timing, please check with the professor, program coordinator, or program Chair.
+Late Work Policy:
+It is the student’s responsibility to meet all deadlines for class assignments. Grades for each late
+
+-- 3 of 12 --
+
+4
+assignment submitted may be penalized by 20%. It is up to the professor whether they will
+accept late work. It is your responsibility to communicate with the professor in a timely manner
+regarding late work and absences.
+Mechanics of the Course:
+A) Class Sessions
+Class sessions will be used for a variety of purposes including:
+Lecture
+Class and Group Discussion
+Diagnostic practice
+Examinations
+B) Exams
+Final Exam- Diagnostic Case Vignette: There is one written exam in this course. The exam
+will require students to provide an accurate diagnosis based on information gathered from a
+vignette provided by the professor. In the response, students will describe symptoms that meet
+diagnostic criteria, provide an accurate diagnosis and thorough differential diagnosis using all the
+steps of differential diagnosis, and a basic treatment plan. A rubric for the exam is provided at
+the end of the syllabus.
+THIS IS A KEY ASSESSMENT: This exam serves as one of the key assessments for the
+program and is used to evaluate entry level diagnostic skills. As such, students must pass the
+exam to receive a passing grade in the class. Given the significance of the exam, students who do
+not pass the exam will be offered the opportunity to engage in remediation of skills and retake
+the exam.
+C) Response, Research, or Other Written Assignments
+Case Vignettes
+Students select a mental health disorder from the readings covered in each class session and
+write a detailed vignette that includes the following:
+• A brief description of the client including mental status, relevant mental health, medical,
+personal history and demographic information.
+• A detailed description of symptoms relevant to mental health disorder selected. The
+description of symptoms should allow classmates to confirm or rule out a diagnosis
+• A properly formatted DSM diagnosis for the case.
+Vignettes are due before class and will be posted to discovery.
+Additionally, students will need to bring a copy of the vignette to share in class. The copy shared
+in class should not include the DSM diagnosis as it will be used as a part of an in-class exercise
+which will require students to evaluate the vignette and provide an accurate diagnosis.
+Case Vignette are due on the following Dates:
+• Vignette 1- 1/13/26
+
+-- 4 of 12 --
+
+5
+• Vignette 2- 1/27/26
+• Vignette 3- 2/10/26
+• Vignette 4- 2/24/26
+• Vignette 5- 3/10/26
+Clinical Interview Video- Due March 25
+Students will work with a partner to take turns recording a clinical interview role play. For this
+project, each student will take the role of the clinician and the client.
+As the clinician, the student must conduct a brief, 10-minute diagnostic interview using the skills
+covered in the course. The aim of the assignment is to practice asking open and closed questions
+to explore the client’s experience with symptoms that may help inform a diagnosis. NOTE- a
+diagnosis is not required as the time frame for the interview is limited. Rather, the exercise is the
+demonstration of skills related to the clinical interview.
+As the client, the student will role play one of the characters created from the case vignettes. The
+student should be prepared to answer clinical interview questions that help lead to greater
+understanding of symptoms and a possible diagnosis. Therefore, the student should be familiar
+with the client’s history and history of the illness (IE, onset, duration and frequency of
+symptoms, severity, any related specifiers, etc.).
+The video may be recorded via Microsoft Stream or Teams. Students will save the video to their
+NU One Drive and share the link with the professor by submitting a document with the link to
+Discovery.
+See. Discovery for more details.
+D) Participation
+A portion of the student's final grade will be based on their participation in class and
+group discussions, in class exercises, individual and group presentations, and attendance. Full
+points will be rewarded to those students who attend all class sessions and actively participate in
+class activities.
+E) Grading
+Vignettes will be graded within a week of being submitted and/or prior to when the next
+vignette is due. Exams and clinical interview videos will be graded within 2 weeks. If you have
+concerns about grading timing, please check with the professor, program coordinator, or
+program Chair.
+The students course grade will be based upon her/his mastery of course terms, concept,
+and objections as demonstrated by classroom attendance, participation, presentations, and papers.
+Please be on time with all assignments, if late, there will be a deduction of grade points.
+Grading is conducted on the Discovery Grade Book page of the course. Students are expected to
+monitor their progress.
+Grading Scale:
+A 100-94% C 76-74%
+A- 93-90% C- 73-70%
+
+-- 5 of 12 --
+
+6
+B+ 89-87% D+ 69-67%
+B 86-84% D 66-64%
+B- 83-80% D- 63-60%
+C+ 79-77% F 59% and below
+F) Course Values
+Item Point Value
+Case Vignettes 10 points each x 5 50 points
+Final Exam- Diagnostic
+Vignette
+100 points
+Diagnostic Interview 30 Points
+Class
+Attendance/Participation
+20 points
+Total: 200 points
+G) Lecture, Reading, and Assignment Outline
+This guide serves as an outline for the course. Included is a recommendation for weekly reading
+as well as descriptions of topics and assignments for class sessions. Please refer to Discovery for
+detailed instructions for assignments, reading, and specific due dates for this course. Dates for
+specific lecture topics may change and material may need to be added or deleted. If any changes
+are made, they will be announced in class.
+Week/Date Reading Topics Assignments
+Due
+CACREP
+Standards
+Met/Covered
+January
+5-9
+Class
+Session
+Jan. 9 (1)
+Castonguay and Oltmanns:
+Chapters 1, 2, 3
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+*** See Discovery for
+Optional Resources.
+Introduction to
+Psychopathology,
+Depression,
+Generalized
+Anxiety
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+
+-- 6 of 12 --
+
+7
+January
+12-16
+Class
+Session
+Jan.13 (2)
+Morrison Chapters 1-4 Introduction to
+Psychopathology,
+Depression,
+Generalized
+Anxiety, Clinical
+interview
+opening, chief
+complaint,
+developing
+rapport,
+managing the
+interview
+Vignette #1
+Due
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+January
+19-23
+Castonguay, Oltmanns,
+Power Lott- Chapters 4
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Generalized
+Anxiety, Panic
+Disorder
+Intro to
+diagnosing
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+January
+26-30
+Class
+Session
+Jan.27 (3)
+Morrison Chapters 5-8
+Castonguay, Oltmanns,
+Power Lott- Chapters 5
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Clinical
+Interviewing-
+History of
+present illness,
+fact collecting,
+feelings, personal
+and social
+history,
+obsessive
+compulsive
+disorders
+Case
+Vignette #2
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+
+-- 7 of 12 --
+
+8
+Feb. 2-6 Castonguay, Oltmanns,
+Power Lott- Chapters 6
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Post traumatic
+stress,
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+February
+9-13
+Class
+Session
+Feb.10 (4)
+Morrison Ch 9-12
+Castonguay, Oltmanns,
+Power Lott- Chapters 7
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Differential
+Diagnosis,
+Clinical
+Interviewing-
+sensitive
+subjects, mental
+status exam,
+Eating disorders
+Case
+Vignette #3
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+
+-- 8 of 12 --
+
+9
+February
+18-20
+Castonguay, Oltmanns,
+Power Lott- Chapters 8
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Required Article:
+Trice, P. D., & Bjorck, J. P.
+(2006). Pentecostal
+perspectives on causes and
+cures of depression.
+Professional Psychology:
+Research and Practice, 37(3),
+283–294. doi:10.1037/0735-
+7028.37.3.283
+Substance related
+disorders
+Spiritual
+perspectives of
+mental heath
+Case
+Vignette #4
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+February
+23-27
+Class
+Session
+Feb. 24
+(5)
+Morrison Chapter 13
+Castonguay, Oltmanns,
+Power Lott- Chapters 9
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Cultural
+Considerations,
+Spiritual
+Personality
+Disorders
+Clinical
+interviewing
+practice
+Case
+Vignette #4
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+
+-- 9 of 12 --
+
+10
+March 2-6 Castonguay, Oltmanns,
+Power Lott- Chapters 10
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Bipolar disorders 5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+March 9-
+13
+Class
+Session
+Mar. 10
+(6)
+Morrison Chapters 17-20
+Castonguay, Oltmanns,
+Power Lott- Chapters 11
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Case
+Formulation,
+Treatment
+planning,
+Schizophrenia
+related disorders,
+Differential
+diagnosis and
+clinical
+interviewing
+practice
+Case
+Vignette #5
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+March 16-
+20
+Castonguay, Oltmanns,
+Power Lott- Chapters 12
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Marial
+relationship
+discord,
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+
+-- 10 of 12 --
+
+11
+March 23-
+27
+Class
+Session
+March 24
+(7)
+Castonguay, Oltmanns,
+Power Lott- Chapters 13, 14
+DSM- Review Diagnostic
+criterial, diagnostic features,
+differential diagnosis
+sections for disorders coved
+in this week’s reading
+Sexual
+dysfunction,
+sleep wake
+disorders,
+Differential
+diagnosing final
+exam- prep
+Clinical
+Interview
+Video Due
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+March 30-
+April 3
+Castonguay, Oltmanns,
+Power Lott- Chapters 15
+&16
+Suicide,
+Differential
+diagnosing final
+exam- prep
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+April
+6-10
+Class
+Session
+April 7
+Differential
+diagnosing final
+exam
+Final Exam
+In class
+5C.1.c
+5C.2.b
+5C.2.d
+5C.3.a
+KPI-7
+Final Exam Rubric
+
+-- 11 of 12 --
+
+12
+Criteria 	Excels In all Criteria 	Meets most Criteria 	Meets Some Criteria 	Criteria Not Met
+Approximate
+Range A 	B + to A- 	B- to B+ 	Below B-
+Accurate Diagnosis
+Includes accurate DSM
+Diagnosis with all specifiers,
+detailed and accurate
+description of how symptoms
+meet diagnostic criteria
+Includes accurate diagnosis but
+incomplete specifiers,
+description of how symptoms
+meet diagnostic criteria
+Includes accurate diagnosis but
+missing or incorrect specifies,
+limited and description of how
+symptoms meet diagnostic criteria
+Includes
+inaccurate/incomplete
+diagnosis, diagnosis missing,
+inaccurate or missing
+description of how symptoms
+meet diagnostic criteria
+Differential Diagnosis
+Includes all steps of differential
+diagnosis, accurate and
+thorough differential diagnosis
+of disorders relevant to case,
+detailed description of how
+symptoms differ from
+diagnostic criteria of other
+disorders
+Includes all steps of differential
+diagnosis, accurate differential
+diagnosis of some disorders
+relevant to the case, a limited
+description of how symptoms
+differ from diagnostic criteria of
+other disorders
+Some but not all steps of
+differential diagnosis included,
+differential diagnosis is partially
+accurate, limited or inaccurate
+description of how symptoms differ
+from diagnostic criteria of other
+disorders
+Missing, incomplete,
+inaccurate differential
+diagnosis, incorrect or missing
+description of how symptoms
+differ from diagnostic criteria
+of other disorders
+Treatment Planning
+Clear and relevant treatment
+plan based on evidence based
+treatments, description of
+rational for treatment
+Treatment plan is included,
+based on evidence based
+treatment, adequate rational
+provided
+Treatment plan included but lacks
+clarity, some evident based
+treatments included, rational
+limited
+Treatment plan not included,
+not based on evidence
+rational not included or
+grossly inaccurate.
+
+-- 12 of 12 --
+
