@@ -1,0 +1,145 @@
+If this PowerPoint presentation contains mathematical equations, you may need to check that your computer has the following installed:
+1) MathType Plugin
+2) Math Player (free versions available)
+3) NVDA Reader (free versions available)
+Chapter 7
+Understanding and Treating Substance Use Disorders with Clients in Crisis
+Substance Use and Society
+Data from the 2019 National Survey on Drug Use and Health (S A M H S A)
+Over 50% of Americans age 12 years and older (about 132 million people) are current consumers of alcohol.
+Over 21% of Americans age 12 years and older (nearly 58 million people) are current users of tobacco products.
+Over 20% of Americans age 12 years and older (nearly 57 million people) reported using an illicit drug in 2019.
+A majority (53%) of those reporting use of nonmedical prescription type drugs indicated the illicit substances were acquired from family and friends.
+Of the 20.4 million who reported needing treatment for an illicit drug or alcohol problem, only 2.3 million (11%) received treatment.
+Classification of Drugs (1 of 2)
+Current drug classifications include:
+Cannabinoids (e.g., marijuana, hashish, dronabinol)
+Depressants (e.g., alcohol, tranquilizers, barbiturates, sleeping pills, inhalants)
+Stimulants (e.g., cocaine, amphetamines, methamphetamine, caffeine)
+Hallucinogens (e.g., LSD, phencyclidine, ketamine, mescaline, psilocybin)
+Opiates (e.g., heroin, morphine, OxyContin, codeine, methadone, nicotine)
+Psychotherapeutics (e.g., Prozac, Zoloft, Ativan, Xanax, BuSpar, Cymbalta, Abilify, lithium, Geodon, Zyprexa, Risperdal)
+Some drugs can have multiple effects and may fall under several classifications.
+Classification of Drugs (2 of 2)
+The Comprehensive Drug Abuse Prevention and Control Act of 1970 classified controlled drugs into five schedules based on a continuum of potential for abuse, accepted medical use, and potential for dependence.
+Drugs listed under Schedule I
+have the highest potential
+for abuse and dependence and have no current medical application in the United States (e.g., heroin, L S D).
+Drugs listed under Schedule V
+have the lowest potential
+for abuse and dependence and have an established medical application (e.g., cough syrups with codeine).
+Research on Substance Use, Crisis, and Society
+Several studies documented the relationship between natural and human-generated disasters and subsequent patterns of substance use.
+Researchers found an increased use of substances in the 2 years following terrorist events in the United States, and the rates of use were likely higher than estimated (DiMaggio et al., 2009).
+Substance use can not only result from crisis situations, it can also affect crisis situations
+Individuals who use substances are nearly six times more likely to attempt suicide than those who report no substance use problems (Dragisic et al., 2015).
+Factors That Increase Risk for Substance Use Disorders
+Since initial use often occurs during adolescence, most risk factors reflect events and issues relevant to that developmental stage. 
+Factors include poor academic performance, alcohol and other drug (A O D) availability, peer pressure, living in a dysfunctional family environment, and undiagnosed problems, such as learning disabilities
+Differentiating between risk factors for initial use and S U D is an important consideration given that a majority of those using substances do not develop problematic usage behaviors.
+Counselors need to be aware of other potential risk factors such as self-esteem and self-worth issues, isolation, intimacy issues and fear of rejection, poor coping mechanisms, and impulsivity and compulsivity patterns.
+Key psychiatric disorders that co-occur with S U D s include major depressive disorders, anxiety disorders, schizophrenia, bipolar disorder, and certain personality disorders.
+Screening for Substance Use Disorders
+Screening clarifies whether there is sufficient evidence of problematic substance use and, if yes, whether this use warrants further investigation (assessment).
+Questions are designed to determine patterns of use and often focus on frequency, quantity, and problem areas.
+Examples of frequency and quantity questions that might be asked during the screening process include “During the past 30 days, how many days per week did you drink alcohol or use drugs?” or “On a day when you did drink alcohol or use drugs, how many drinks did you have (or what quantity of drugs did you use)?”
+Commonly Used Assessment Instruments (1 of 2)
+The following considerations apply when using an assessment instrument:
+The client must sign an informed consent form (e.g., a form that addresses the purpose of the assessment, risks, benefits, how the information will be used, the client’s right to refuse consent).
+The counselor should see the client as more than the results (the assessment is only one of many pieces of the clinical picture).
+The counselor should ensure that the assessment instrument is applicable and appropriate for the population it will be used to measure.
+The counselor should have training and competency in administering the assessment.
+The counselor must be able to interpret the results (Stauffer et al., 2020).
+Commonly Used Assessment Instruments (2 of 2)
+Four commonly used assessment instruments are the:
+Alcohol Use Disorders Identification Test (AUDIT; Babor et al., 2001)
+Michigan Alcoholism Screening Test (MAST; Selzer, 1971)
+Substance Abuse Subtle Screening Inventory–4 (SASSI-4;Lazowski et al., 2016)
+CAGE (Ewing, 1984)
+Assessment for Substance Use Disorders
+An assessment is conducted for the following purposes:
+to ascertain the degree and severity of a problem
+to determine the presence of co-occurring disorders
+to make accurate diagnoses
+to assess the scope of the problem (i.e., whether it is specific to the individual or systemic, such as within the family or support system)
+to guide the treatment planning process
+to provide a mechanism for communication across treatment personnel (Erford, 2021)
+Assessment for Substance Use Disorders
+The primary focus of substance use assessment is to gather detailed information on substance use patterns, including drug(s) used; progression of use (amount and frequency of use over time); route of administration; reason for periods of increased usage or abstinence; treatment history; and evidence of tolerance, dependence, and withdrawal.
+When conducting a substance use assessment, counselors should also evaluate the client’s current level of mental functioning, which is often done using the Mini-Mental State Examination in crisis situations.
+Diagnosis
+A well-conducted, thorough assessment should yield sufficient data and documentation to make accurate decisions and establish the degree of impairment.
+With most other mental health diagnoses, providing a full diagnosis during a crisis phase would be premature and inappropriate due to the symptoms and period of time needed to accurately offer a valid diagnosis.
+Documenting prior diagnoses, onset, relapse, current client reports, and presentations are essential to provide for the next phase of the treatment so the next clinician can formulate a diagnosis.
+Substance Use Disorder Diagnosis (1 of 2)
+According to D S M-5-T R, at least two of the following criteria must be met for an individual to be diagnosed with a S U D:
+significant problems exist at home, school, or work due to use
+physical hazards occur due to repeated episodes of impaired driving or operating machinery while under the influence
+substance use results in recurring legal problems (e.g., public intoxication)
+tolerance increases
+withdrawal occurs
+increasing amounts of the substance are taken over time
+usage levels are not being reduced
+Substance Use Disorder Diagnosis (2 of 2)
+a lot of time is spent acquiring the substance
+social or work activities are sacrificed due to use or recovery from use
+use continues despite interpersonal and physical effects
+there is craving, a strong urge, or desire for the substance
+Severity is determined by the number of presenting criteria (i.e., mild: two to three criteria; moderate: four to five criteria; severe: six or more criteria).
+Assessing a Client’s Readiness to Change
+Norcross et al. identified the following five stages of change:
+Motivational Interviewing
+engaging—establishing a connection between counselor and client that helps to build the working alliance
+focusing—involves the counselor developing and maintaining a focused direction in the discussion about change
+evoking—assisting the client to take ownership for their motivation for change
+planning—establishing a commitment to change with a specific course of action where talk shifts from whether and why it happens to when and how to change
+Treatment Admission and Placement (1 of 2)
+Treatment Admission and Placement (2 of 2)
+A S A M has developed six dimensions that practitioners can use to assess clients at each level and provide a rationale/justification for a particular level of care. The dimensions also serve as standardized assessment language for general health care and mental health practitioners.
+Counselors want to select the treatment level that is least intensive but the safest level of care based on the client’s presenting issue and assessed dimensions.
+Substance Use Treatment and Crisis
+Treating SUDs and symptoms becomes more complex when the client is also experiencing a crisis.
+Given that brief interventions and motivational enhancement approaches were two of the highest-ranked, most effective approaches to address S U D s and symptoms, integrating a crisis model that aligns with these approaches allows the counselor to effectively address both the crisis response and S U D.
+Relapse and Crisis
+During treatment, counselors need to prepare for relapse by helping clients explore triggers and learn new cognitive-behavioral strategies. Even in short-term crisis centers, these triggers can be identified, explored, and documented when clients are referred for treatment.
+Counselors need to help clients differentiate when use is viewed as a “lapse” or a “relapse.”
+A lapse is a single episode of using a substance following a period of abstinence. The individual often takes responsibility for this lapse and examines the specific experience or trigger(s) that resulted to build on recovery.
+A relapse is a return to sustained use of the same substance or another mood-altering substance following a defined period of abstinence.
+Harm Reduction
+Harm reduction approaches are tools to help the client reduce the negative consequences associated with use, regardless of one’s usage pattern. It can be helpful to find a common ground and meet clients where they are.
+Marlatt et al. (2011) identified five underlying principles of harm reduction:
+Strive for abstinence while considering alternative options to help minimize harm.
+View prevention as a way to reduce the negative consequences or harmful outcomes associated with use but not focusing specifically on usage. 
+Focus approaches on where the client is at that point in their use or addiction and develop approaches accordingly.
+View harm reduction as a community-oriented process where action is taken at the grassroots level to advocate for change specific to the needs within that community.
+Focus on minimizing harmful consequences and not about judging or criticizing client behavior.
+Support Groups
+Clients with SUDs or significant symptoms often find that as the condition progresses, they become alienated and isolated from family, friends, and coworkers as they spend more time in relationships with their substances and those who enable the behavior.
+A common treatment goal is to learn to establish social and coping skills, which are critical components in developing and maintaining abstinence. Support groups play an instrumental role in facilitating and practicing these skills.
+Encouraging support group attendance should align with the client’s stage of change.
+Clients may also report feeling discouraged or frustrated after attending a meeting and should be encouraged to try out different meetings to find out which best match their needs.
+Marital and Family Treatment
+Research findings have demonstrated a reciprocal relationship between problem drinking and family and marital discord.
+In cases where abstinence has been achieved, those individuals who continue to deal with unresolved marital and family conflicts may be at a higher risk for relapse.
+Counselor attributes that tend to lead to successful outcomes include addressing client and family members simultaneously; focusing on alcohol problems first; using empathetic listening and dealing effectively with intense anger during the initial stages of counseling; developing a structured, directive approach that includes establishing rules, boundaries, and consequences; and viewing the change process as long term.
+Co-Occurring Disorders and Crisis
+SAMHSA (2022) defines a co-occurring disorder as the concomitant occurrence of a substance use and mental health disorder.
+Counselors working with clients with co-occurring disorders must be competent in understanding each disorder as well as how to integrate treatment to ensure that the disorders are addressed simultaneously.
+Counselors need to understand how substance use can present symptoms that mimic mental illness and other medical conditions.
+Multicultural Perspectives, Substance Abuse, and Crisis
+Counselors working with clients with S U D s or significant symptoms and in crisis need to understand how the culture of substance use influences each client’s worldview.
+Historically, treatment has focused on reduction or abstinence goals, often with little consideration for understanding the role that culture plays in etiology or maintenance of use.
+Counselors should maintain a cultural focus when working with clients through the five stages of change. Moreover, triggers for relapse behavior should be examined from a cultural perspective.
+Safety and Self-Care
+Counselors need to be aware of the dangers of working with clients who pose a threat to public safety or who have a history of violence, especially those who may also be under the influence of a substance.
+Counselors should gauge the risk in working with clients who pose safety concerns and can take steps to minimize the risk by screening high-risk clients, avoiding seeing clients when there is a lack of physical security available, recognizing warning signs of violence, avoiding working alone during in-home counseling, and establishing rules prohibiting weapons in session.
+Working with clients who have S U D s and significant symptoms creates unique challenges for counselors. Counselors who constantly face client resistance, ambivalence, motivational concerns, and relapse issues may question their effectiveness in facilitating change.
+Diagnostic Considerations during a Crisis
+A crisis can exacerbate and confound the diagnostic process, especially if the client has co-occurring issues.
+The first consideration is to differentiate among symptoms that are due to the acute crisis and symptoms that present as part of the pathology.
+Differentiating crisis symptom presentations from pathological symptoms helps counselors explain to clients that their experiences are normal by associating those symptoms with the crisis, which can help minimize the client’s stress.
+Caution is warranted when providing a mental health diagnosis that may require more information than can be obtained in an assessment during crisis intervention.
+Essential Substance Use–Specific Crisis Intervention Skills
+Use of attending behaviors and active listening skills is important in crisis situations.
+Creating warmth, expressing genuineness, and creating an atmosphere of trust, safety, and acceptance not only target the motivational factors inherent with treating S U D s and symptoms but also help clients in crisis deescalate from the acute stressor and feel more at ease and comfortable with the counselor.
+Using a directive approach, conducted in a compassionate and empathic manner, allows for clarification and understanding of the crisis threat so that appropriate courses of action can be taken.
