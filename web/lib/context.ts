@@ -1,8 +1,8 @@
 import type { Chunk } from "./materials";
 import type { CourseConfig } from "./courses";
 
-const MAX_CHUNKS = 8;
-const MAX_CONTEXT_CHARS = 150_000; // ~37K tokens
+const MAX_CHUNKS = 5;
+const MAX_CONTEXT_CHARS = 100_000; // ~25K tokens
 
 interface ScoredChunk {
   chunk: Chunk;

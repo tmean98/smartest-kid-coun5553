@@ -68,13 +68,33 @@ export async function POST(req: Request) {
   // Build system prompt with selected chunks
   const systemPrompt = buildSystemPrompt(config, selectedChunks, mode);
 
-  const modelMessages = await convertToModelMessages(messages);
+  // Cap history to prevent unbounded token growth in long quiz sessions
+  const MAX_HISTORY = 20;
+  const trimmedMessages = messages.length > MAX_HISTORY
+    ? messages.slice(-MAX_HISTORY)
+    : messages;
+  const modelMessages = await convertToModelMessages(trimmedMessages);
+
+  // Route to Haiku for quiz answer turns — they only need brief feedback + tool call
+  const model = isQuizAnswer
+    ? anthropic("claude-haiku-4-5-20251001")
+    : anthropic("claude-sonnet-4-5-20250929");
 
   const result = streamText({
-    model: anthropic("claude-sonnet-4-5-20250929"),
+    model,
     system: systemPrompt,
     messages: modelMessages,
     tools,
+    onFinish: ({ usage }) => {
+      const inTok = usage.inputTokens ?? 0;
+      const outTok = usage.outputTokens ?? 0;
+      const inputCost = (inTok / 1_000_000) * (isQuizAnswer ? 0.80 : 3.00);
+      const outputCost = (outTok / 1_000_000) * (isQuizAnswer ? 4.00 : 15.00);
+      console.log(
+        `[tokens] ${courseId ?? "coun5553"} | ${isQuizAnswer ? "haiku" : "sonnet"} | ` +
+        `in=${inTok} out=${outTok} | ~$${(inputCost + outputCost).toFixed(4)}`
+      );
+    },
   });
 
   return result.toUIMessageStreamResponse();
