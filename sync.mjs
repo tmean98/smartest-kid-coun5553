@@ -10,27 +10,61 @@ const __dirname = dirname(__filename);
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
-const { LMS_USERNAME, LMS_PASSWORD, COURSE_URL } = process.env;
-if (!LMS_USERNAME || !LMS_PASSWORD || !COURSE_URL) {
-  console.error('Missing .env variables. Set LMS_USERNAME, LMS_PASSWORD, COURSE_URL');
+const { LMS_USERNAME, LMS_PASSWORD } = process.env;
+if (!LMS_USERNAME || !LMS_PASSWORD) {
+  console.error('Missing .env variables. Set LMS_USERNAME, LMS_PASSWORD');
   process.exit(1);
 }
 
-const DIRS = {
-  slides:    join(__dirname, 'materials', 'slides'),
-  readings:  join(__dirname, 'materials', 'readings'),
-  syllabus:  join(__dirname, 'materials', 'syllabus'),
-  acaCode:   join(__dirname, 'materials', 'aca-code'),
-  textbooks: join(__dirname, 'materials', 'textbooks'),
-  html:      join(__dirname, 'materials', 'html'),
-  videos:    join(__dirname, 'materials', 'videos'),
-  extracted: join(__dirname, 'materials', 'extracted'),
+const COURSE_MAP = {
+  coun5553: {
+    url: process.env.COURSE_URL_COUN5553 || process.env.COURSE_URL,
+    dir: 'Coun 5553 Professional orientaion',
+  },
+  coun5773: {
+    url: process.env.COURSE_URL_COUN5773,
+    dir: 'coun5773 theology',
+  },
+  coun5453: {
+    url: process.env.COURSE_URL_COUN5453,
+    dir: 'Psychopathology Diagnosis',
+  },
+  coun5173: {
+    url: process.env.COURSE_URL_COUN5173,
+    dir: 'Coun 5173 Crisis',
+  },
 };
+
+// Parse --course <id> or default to all configured courses
+const args = process.argv.slice(2);
+let coursesToSync;
+const courseIdx = args.indexOf('--course');
+if (courseIdx !== -1 && args[courseIdx + 1]) {
+  coursesToSync = [args[courseIdx + 1]];
+} else {
+  coursesToSync = Object.keys(COURSE_MAP).filter(id => COURSE_MAP[id].url);
+}
+
+// DIRS is set per-course during the sync loop
+let DIRS = {};
+
+function setDirsForCourse(courseId) {
+  const courseDir = COURSE_MAP[courseId].dir;
+  DIRS = {
+    slides:    join(__dirname, 'materials', courseDir, 'slides'),
+    readings:  join(__dirname, 'materials', courseDir, 'readings'),
+    syllabus:  join(__dirname, 'materials', courseDir, 'syllabus'),
+    acaCode:   join(__dirname, 'materials', courseDir, 'aca-code'),
+    textbooks: join(__dirname, 'materials', courseDir, 'textbooks'),
+    html:      join(__dirname, 'materials', courseDir, 'html'),
+    videos:    join(__dirname, 'materials', courseDir, 'videos'),
+    extracted: join(__dirname, 'materials', courseDir, 'extracted'),
+  };
+  for (const dir of Object.values(DIRS)) mkdirSync(dir, { recursive: true });
+}
 
 const AUTH_DIR = join(__dirname, '.auth');
 const SESSION_FILE = join(AUTH_DIR, 'session.json');
-
-for (const dir of Object.values(DIRS)) mkdirSync(dir, { recursive: true });
 mkdirSync(AUTH_DIR, { recursive: true });
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
@@ -56,7 +90,7 @@ function categoryDirName(category) {
 }
 
 function extractedName(category, filename) {
-  const stem = filename.replace(/\.pdf$/i, '');
+  const stem = filename.replace(/\.(pdf|pptx|docx|doc)$/i, '');
   const dirName = categoryDirName(category);
   return `${dirName}_${stem.replace(/ /g, '_')}.txt`;
 }
@@ -138,7 +172,7 @@ async function login(browser, headless) {
   return { context, page };
 }
 
-async function getAuthContext(browser) {
+async function getAuthContext(browser, testUrl) {
   // Try reusing saved session
   if (existsSync(SESSION_FILE)) {
     log('Reusing saved session...');
@@ -146,7 +180,8 @@ async function getAuthContext(browser) {
     const context = await browser.newContext({ storageState: storage, acceptDownloads: true });
     const page = await context.newPage();
 
-    await page.goto(COURSE_URL, { waitUntil: 'networkidle' });
+    await page.goto(testUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    await page.waitForTimeout(3000); // let Moodle JS settle
 
     // Check if session is still valid (not redirected to login)
     if (!page.url().includes('/login/')) {
@@ -163,9 +198,10 @@ async function getAuthContext(browser) {
 
 // ─── Course Scraping ─────────────────────────────────────────────────────────
 
-async function discoverResources(page) {
+async function discoverResources(page, courseUrl) {
   log('Discovering course resources...');
-  await page.goto(COURSE_URL, { waitUntil: 'networkidle' });
+  await page.goto(courseUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+  await page.waitForTimeout(3000); // let Moodle JS settle
 
   const resources = await page.evaluate(() => {
     const items = [];
@@ -208,6 +244,19 @@ async function discoverResources(page) {
           type: 'folder',
           url: href,
           name: link.textContent.trim(),
+        });
+      }
+    }
+
+    // Also check for Panopto iframes embedded directly on the course page
+    const iframes = document.querySelectorAll('iframe');
+    for (const iframe of iframes) {
+      const src = iframe.src || '';
+      if (src.includes('panopto') || src.includes('Panopto') || src.includes('kaltura')) {
+        items.push({
+          type: 'video',
+          url: src,
+          name: iframe.title || iframe.getAttribute('aria-label') || 'Embedded Video',
         });
       }
     }
@@ -292,9 +341,7 @@ async function downloadFiles(page, resources) {
         log(`  DOWNLOADED → ${categoryDirName(category)}/${filename}`);
         downloaded++;
 
-        if (filename.toLowerCase().endsWith('.pdf')) {
-          await extractText(destPath, category, filename);
-        }
+        await extractText(destPath, category, filename);
       } else if (response) {
         // Direct response (PDFs often render inline)
         const contentType = response.headers()?.['content-type'] || '';
@@ -380,26 +427,36 @@ async function downloadFiles(page, resources) {
 
 // ─── Text Extraction ─────────────────────────────────────────────────────────
 
-async function extractText(pdfPath, category, filename) {
+async function extractText(filePath, category, filename) {
   try {
-    const { PDFParse } = await import('pdf-parse');
-    const dataBuffer = readFileSync(pdfPath);
-    const pdf = new PDFParse({ data: new Uint8Array(dataBuffer) });
-    await pdf.load();
-    const result = await pdf.getText();
-
-    // result.text can be a string or an array of { text, num } per page
-    const fullText = typeof result.text === 'string'
-      ? result.text
-      : Array.isArray(result.text)
-        ? result.text.map(p => p.text).join('\n\n')
-        : String(result.text);
-
     const extractedFilename = extractedName(category, filename);
     const extractedPath = join(DIRS.extracted, extractedFilename);
 
     if (existsSync(extractedPath)) {
       log(`  SKIP extraction (exists): ${extractedFilename}`);
+      return;
+    }
+
+    const ext = filename.toLowerCase().split('.').pop();
+    let fullText;
+
+    if (ext === 'pdf') {
+      const { PDFParse } = await import('pdf-parse');
+      const dataBuffer = readFileSync(filePath);
+      const pdf = new PDFParse({ data: new Uint8Array(dataBuffer) });
+      await pdf.load();
+      const result = await pdf.getText();
+      fullText = typeof result.text === 'string'
+        ? result.text
+        : Array.isArray(result.text)
+          ? result.text.map(p => p.text).join('\n\n')
+          : String(result.text);
+    } else if (ext === 'pptx' || ext === 'docx' || ext === 'doc') {
+      const { parseOffice } = await import('officeparser');
+      const result = await parseOffice(filePath);
+      fullText = typeof result === 'string' ? result : result.toText();
+    } else {
+      log(`  SKIP extraction (unsupported type .${ext}): ${filename}`);
       return;
     }
 
@@ -416,18 +473,43 @@ async function extractHTMLPages(page, resources) {
   const pageResources = resources.filter(r => r.type === 'page');
   log(`Processing ${pageResources.length} HTML page resources...`);
 
+  const embeddedVideoResources = [];
   let extracted = 0;
+
   for (const resource of pageResources) {
     const safeName = resource.name.replace(/[/\\?%*:|"<>]/g, '-').trim();
     const filename = `${safeName}.html`;
 
-    if (existsSync(join(DIRS.html, filename))) {
-      log(`  SKIP (exists): ${filename}`);
-      continue;
-    }
-
     try {
       await page.goto(resource.url, { waitUntil: 'networkidle' });
+
+      // Check for embedded Panopto iframes within this page resource
+      const embeddedVideos = await page.evaluate((re) => {
+        const found = [];
+        for (const iframe of document.querySelectorAll('iframe')) {
+          const src = iframe.src || '';
+          if (src.includes('panopto') || src.includes('Panopto') || src.includes('kaltura') || src.includes('/mod/lti/')) {
+            found.push({ url: src, name: iframe.title || iframe.getAttribute('aria-label') || 'Embedded Video' });
+          }
+        }
+        for (const link of document.querySelectorAll('a[href]')) {
+          const href = link.href || '';
+          if (href.includes('panopto') || href.includes('Panopto') || href.includes('/mod/lti/')) {
+            found.push({ url: href, name: link.textContent.trim() || 'Video Link' });
+          }
+        }
+        return found;
+      }, SESSION_ID_RE.source);
+
+      for (const v of embeddedVideos) {
+        log(`  Found embedded video in page "${resource.name}": ${v.name}`);
+        embeddedVideoResources.push({ type: 'video', url: v.url, name: v.name });
+      }
+
+      if (existsSync(join(DIRS.html, filename))) {
+        log(`  SKIP (exists): ${filename}`);
+        continue;
+      }
 
       // Extract the main content area from Moodle page
       const content = await page.evaluate(() => {
@@ -444,6 +526,7 @@ async function extractHTMLPages(page, resources) {
   }
 
   log(`Extracted ${extracted} new HTML pages`);
+  return embeddedVideoResources;
 }
 
 // ─── Panopto Transcript Scraping ─────────────────────────────────────────────
@@ -470,14 +553,26 @@ async function extractSessionIds(page) {
   const match = url.match(SESSION_ID_RE);
   if (match) return [match[1]];
 
-  // Check for a folder/list page with video links
+  // Check for links and iframes containing Panopto session IDs
   return page.evaluate((re) => {
     const ids = [];
-    const links = document.querySelectorAll('a[href*="Viewer.aspx"]');
-    for (const link of links) {
+    const seen = new Set();
+
+    const addId = (id) => { if (!seen.has(id)) { seen.add(id); ids.push(id); } };
+
+    // Direct viewer links
+    for (const link of document.querySelectorAll('a[href*="Viewer.aspx"]')) {
       const m = link.href.match(new RegExp(re));
-      if (m) ids.push(m[1]);
+      if (m) addId(m[1]);
     }
+
+    // Embedded iframes (Panopto embed or LTI that lands on Panopto)
+    for (const iframe of document.querySelectorAll('iframe')) {
+      const src = iframe.src || '';
+      const m = src.match(new RegExp(re));
+      if (m) addId(m[1]);
+    }
+
     return ids;
   }, SESSION_ID_RE.source);
 }
@@ -521,9 +616,6 @@ async function scrapePanoptoTranscripts(page, resources) {
         // If this isn't the page we're already on, navigate via the course page
         // to preserve Panopto auth (direct viewer URLs redirect to login)
         if (!page.url().includes(sessionId)) {
-          const ltiUrl = resource.url.includes(sessionId)
-            ? resource.url
-            : `${COURSE_URL}`;  // fall back to re-navigating from course
           await page.goto(resource.url, { waitUntil: 'networkidle', timeout: 30000 });
           await page.waitForTimeout(2000);
         }
@@ -595,8 +687,23 @@ async function scrapePanoptoTranscripts(page, resources) {
 
 // ─── Main ────────────────────────────────────────────────────────────────────
 
+async function syncCourse(page, courseId) {
+  const courseConfig = COURSE_MAP[courseId];
+  log(`\n>>> Syncing ${courseId} (${courseConfig.dir}) <<<`);
+  log(`  URL: ${courseConfig.url}`);
+
+  setDirsForCourse(courseId);
+
+  const resources = await discoverResources(page, courseConfig.url);
+
+  await downloadFiles(page, resources);
+  const embeddedVideos = await extractHTMLPages(page, resources);
+  await scrapePanoptoTranscripts(page, [...resources, ...embeddedVideos]);
+}
+
 async function main() {
   log('=== LMS Sync Starting ===');
+  log(`Courses to sync: ${coursesToSync.join(', ')}`);
 
   // Use headed mode for first run (no session), headless for subsequent
   const headless = existsSync(SESSION_FILE);
@@ -605,13 +712,22 @@ async function main() {
   const browser = await chromium.launch({ headless });
 
   try {
-    const { context, page } = await getAuthContext(browser);
+    // Auth once, reuse for all courses
+    const firstUrl = COURSE_MAP[coursesToSync[0]].url;
+    const { context, page } = await getAuthContext(browser, firstUrl);
 
-    const resources = await discoverResources(page);
-
-    await downloadFiles(page, resources);
-    await extractHTMLPages(page, resources);
-    await scrapePanoptoTranscripts(page, resources);
+    for (const courseId of coursesToSync) {
+      if (!COURSE_MAP[courseId]?.url) {
+        log(`Skipping ${courseId} — no URL configured`);
+        continue;
+      }
+      try {
+        await syncCourse(page, courseId);
+      } catch (err) {
+        log(`ERROR syncing ${courseId}: ${err.message}`);
+        log('Continuing with next course...');
+      }
+    }
 
     await context.close();
   } catch (err) {
