@@ -1,0 +1,48 @@
+{
+  "id": "T3ulkXXhcgk11ywIcGRNL",
+  "courseId": "coun5553",
+  "title": "Last class someone asked a question about malpract",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "Last class someone asked a question about malpractice insurance tiers, can you find and cite that portion of the lecture"
+        }
+      ],
+      "id": "dVOLmhG2j61bvkEs",
+      "role": "user"
+    },
+    {
+      "id": "1po2lUQLieKHA2QL",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-flashcard",
+          "toolCallId": "toolu_01HiNqkCTjmWT9Z4g7WjFXVw",
+          "state": "output-available",
+          "input": {
+            "front": "What was Dr. Rachel Kerrigan's response about malpractice insurance tiers and coverage limits?",
+            "back": "From the Class 5 lecture (February 19, 2026), when asked about malpractice insurance limits and tiers, Dr. Kerrigan explained that there are different tiers of malpractice insurance and different levels that you can get. She noted that it's a little confusing when filling out the paperwork because they ask how many clients you're seeing and try to determine what coverage to suggest. She mentioned that if a claim goes above your maximum coverage, you're liable for the difference. At the student level, however, students just get the standard student insurance. She also noted that if you read the fine print, policies specify what they don't cover and what additional boxes you can check for expanded coverage.",
+            "source": "Class 5 Lecture, February 19, 2026"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-25T02:17:40.566Z",
+  "updatedAt": "2026-02-25T02:17:40.566Z"
+}

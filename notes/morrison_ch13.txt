@@ -1,0 +1,1086 @@
+MORRISON — The First Interview (5th ed.)
+Chapter 13: Signs and Symptoms in Areas of Clinical Interest
+================================================================================
+
+Signs and Symptoms in Areas
+of Clinical Interest
+The areas of clinical interest are simply a way of thinking about historical
+and mental status information. The eight groups I’ll discuss here include
+most of the signs and symptoms a mental health professional can expect
+to encounter. The areas of clinical interest should help you focus your
+inquiry on the information you will need to devise a differential diagno-
+sis.
+Your job is to obtain the facts necessary to assess the importance of
+any of these areas you encounter to the overall evaluation. Remember
+that each of them comprises a number of clinical diagnoses that have
+symptoms in common. In order to decide which diagnosis fits best, you
+must inquire about symptoms of each of the disorders you have in mind.
+As an example of how this process works, consider a patient who
+has complained of feeling depressed, blue, or “bummed out.” You would
+expect to find some of these additional symptoms of a mood disorder:
+crying spells, hopelessness, change in appetite and sleep patterns, feeling
+worse at certain times of the day, low energy, poor concentration, pessi-
+mistic outlook, and suicidal ideas or behaviors. Most patients won’t have
+all of these symptoms, but even a couple of them would suggest that your
+patient could suffer from some kind of a depressive condition. In that
+case, you should learn whether the symptoms and course of the illness
+will support one of the mood disorder diagnoses. In other words, first
+get the data. Later, when all the facts are in, you can decide which of the
+diagnoses best fits the facts.
+In discussing each area of clinical interest, I will present these fea-
+tures:
+
+-- 176 of 385 --
+
+Signs and Symptoms 	161
+1. Tip-offs, or the “red flag” symptoms that should alert you to
+explore further.
+2. The main diagnoses. This section covers the most important dis-
+orders covered by that area of clinical interest, plus the principal
+differential diagnoses. I’ve marked with an asterisk (*) those that
+I’ve included in the Appendix B description of diagnoses.
+3. Historical information. Here, I briefly explain the importance of
+each bit of historical data you should ask about.
+4. Typical features from the MSE. The current mental status is usu-
+ally not as helpful as history in sorting out the differential diagno-
+sis, so I have just listed the typical symptoms.
+At times it is hard to know where history ends and the mental status
+begins. For that reason, you might find that some features mentioned
+under one section seem to belong in another. For example, a patient
+might report some moods that are not observed during the interview.
+In Appendix D, you’ll find a semistructured interview that covers the
+major mental health diagnoses. It gives readers who want it a way to ensure
+that they’ve touched all the bases in their interview. I do want to warn you,
+however, to be careful about interviewing for a particular diagnosis. The
+purpose of the initial interview is to determine what’s wrong, not merely to
+find evidence that will reaffirm your preconceptions— or what another cli-
+nician has already claimed. In other words, don’t bait a hook to catch a par-
+ticular kind of fish; rather, you should cast a net to see what you bring up.
+psYchosis
+Psychosis means simply that the patient is out of touch with reality, as
+judged by the presence of hallucinations, delusions, or markedly loosened
+thought associations. This condition may be either transient or chronic,
+although with today’s treatment methods it is unusual for a person to
+remain psychotic for extended periods.
+Tip‑Offs
+Symptoms that would make you consider psychosis as an area of clinical
+interest include the following:
+Affect that is flat or inappropriate
+Bizarre behavior
+Confusion
+Delusions
+
+-- 177 of 385 --
+
+162 	THE FIRST InTERvIEW
+Fantasies or illogical ideas
+Hallucinations (of any of the senses)
+Insight or judgment that is disturbed
+Muteness
+Perceptual distortions or misinterpretations
+Social withdrawal
+Speech that is incoherent or hard to follow
+Main Diagnoses
+A patient who presents with psychosis is likely to have one of three prin-
+cipal diagnoses: an organic psychosis (that is, one due to a medical ill-
+ness or to substance use), schizophrenia, or some sort of mood episode—a
+major depressive episode with psychosis (which could signal either major
+depressive disorder or bipolar I disorder) or severe mania (bipolar I).
+Of those, you’ll encounter mood episodes and schizophrenia most fre-
+quently. However, here is a more complete list:
+Schizophrenia*
+Major depressive episode*
+Manic episode*
+Neurocognitive disorders, such as delirium* due to a variety of causes
+Substance/medication-induced psychotic disorder* (e.g., due to alcohol)
+Brief psychotic disorder
+Schizophreniform disorder*
+Schizoaffective disorder*
+Delusional disorder*
+Historical Information
+Age at onset. Schizophrenia tends to begin early (late teens or 20s);
+delusional disorder starts in middle to late life.
+Alcohol or drugs. Many psychotic patients use substances. Check the
+chronology. If the psychosis began first, schizophrenia with secondary
+substance misuse is more likely. If substance use began first, the psychosis
+could be a secondary diagnosis; schizophrenia is less likely.
+Depression. If there is a past or present severe depression, consider
+the diagnosis of a mood disorder with psychosis.
+
+-- 178 of 385 --
+
+Signs and Symptoms 	163
+Environmental stress. Severe stress that precedes the onset of psycho-
+sis suggests a diagnosis of brief psychotic disorder.
+Family history. Schizophrenia and mood disorders tend to run in fam-
+ilies; having a relative with either condition increases the likelihood of
+that diagnosis for the patient.
+Length of illness. The longer a psychosis has lasted, the more likely
+schizophrenia is to be the final diagnosis.
+Loss of drive, volition, interest. These symptoms are typical of the later
+phases of schizophrenia.
+Onset. Sudden onset (a few days to a few weeks) suggests a cogni-
+tive or mood disorder with psychosis. The longer and more gradual the
+onset—up to several years in some cases—the more likely this psychosis is
+to be schizophrenia.
+Physical illness. Cognitive psychoses are associated with a number
+of health risk factors: endocrine or metabolic disorders, tumors, toxic
+substance exposure, trauma, and a variety of neurological and medical
+diseases.
+Previous episode with recovery. Mood disorders tend to be episodic ill-
+nesses; these patients are more likely to recover completely than are those
+with schizophrenia.
+Schizoid or schizotypal premorbid personality. Long- standing character
+traits such as aloofness, emotional withdrawal, few friends, or odd beliefs
+or behaviors sometimes precede the onset of schizophrenia.
+Unemployment or reduced job level. If unemployment or underemploy-
+ment has been present for years, and especially if the reduced job level con-
+tinues after recovery from an acute episode, schizophrenia is more likely
+than if the patient worked at a high-grade, demanding job until just recently.
+Note on first-rank symptoms. A much- discussed set of hallucinations
+and delusions is that of Kurt Schneider’s first-rank symptoms, any one of
+which he believed was diagnostic of schizophrenia. Although subsequent
+research has shown that patients with other disorders may also report
+these symptoms, you will encounter the concept of first-rank symptoms
+often enough to warrant a brief listing:
+Audible thoughts
+Delusional perception, in which a normal observation has abnor-
+mal significance for a patient; for example, when a patient was
+served a grilled cheese sandwich for lunch, he “knew” that his aunt
+was about to die
+Delusions of influence
+
+-- 179 of 385 --
+
+164 	THE FIRST InTERvIEW
+Delusions of thought control
+More than one voice talking about the patient
+Voices commenting on the patient’s actions
+Somatic hallucinations (body sensations produced by outside influ-
+ence)
+Thought broadcasting
+Mental Status Examination
+Appearance and behavior 	Hallucinations (cont.)
+Abnormalities of motion 	Auditory
+Reduced activity 	Voices?
+Pacing 	If so, whose?
+Posturing 	Audible thoughts?
+Rigidity 	Visual
+Negativism 	Tactile
+Grimacing 	Taste
+Stereotypies 	Smell
+Clothing eccentric or
+disheveled
+Delusions
+Death
+Hyperalertness 	Erotomania
+Neglect of hygiene 	Grandeur
+Mood 	Guilt
+Flat or silly 	Ill health or bodily change
+Perplexity about identity 	Jealousy
+Flow of thought 	Passivity
+Speech restricted in amount 	Persecution
+Mute 	Poverty
+Incoherent 	Reference
+Loosened associations 	Language usually not impaired
+Illogical ideas 	Cognition generally preserved
+Preoccupied with fantasies 	Insight often absent
+Content of thought 	Judgment may be impaired in
+the acute phase	Hallucinations: When? Where?
+mood disTurBance: depression
+Depression means a mood that is variously described as “blue,” “low,” or
+“melancholy”—as well as “depressed.” This low mood must be persistent,
+usually lasting at least a week or two. It is often described as a marked
+change from the patient’s normal mood. Some people will tell you that
+they don’t feel depressed; they just don’t experience pleasure (this state is
+
+-- 180 of 385 --
+
+Signs and Symptoms 	165
+called anhedonia). The information needed for the history of the present
+illness addresses both cause of depression (see later) and severity.
+Tip‑Offs
+You should investigate depression if your patient presents with any of
+these symptoms:
+Activity level that is either markedly decreased or increased (agitated)
+Anxiety symptoms
+Appetite changes
+Concentration poor
+Death wishes
+Depressed mood
+Interest decreased for usual activities (including sex)
+Sleeplessness or excessive sleepiness
+Suicidal ideas
+Tearfulness
+Use of drugs or alcohol
+Weight loss or gain
+Worthlessness
+Main Diagnoses
+Many of the same physical diseases that produce psychosis can also lead
+to depression. However, the principal problem with diagnosis is differen-
+tiating primary depression (or depression that is chronologically the first
+disorder to appear) from secondary depression (or depression that begins
+after and is caused by another mental or personality disorder). Principal
+diagnoses to consider are these:
+Major depressive episode* (as part of either major depressive disor-
+der or bipolar I or bipolar II disorder)
+Melancholia*
+Dysthymia (now called persistent depressive disorder in DSM-5)*
+Premenstrual dysphoric disorder
+Seasonal pattern in mood disorder
+Secondary depression
+
+-- 181 of 385 --
+
+166 	THE FIRST InTERvIEW
+Historical Information
+Alcohol and drugs. Substance use is a principal finding preceding the
+onset of secondary depression.
+Anhedonia. The patient cannot feel pleasure. In some patients, this
+feeling may occur as an alternative to the mood of depression.
+Atypical features. Stress-related depression may have symptoms of
+excessive sleep (hypersomnia), increased appetite, and weight gain;
+patients may feel better in the mornings and when they are with people
+they like. These features are called atypical because depressed patients
+more usually have insomnia, feel better in the evenings, complain of
+decreased appetite and weight, and don’t feel better with pleasant society.
+Change from usual self. Patients who have severe bipolar depressed
+episodes or unipolar depression often report that the way they feel is a
+“complete change from the way I used to feel.”
+Environmental stress. Any severe environmental stressor can be asso-
+ciated with depressed mood. A depression that remits as soon as the
+stressor lifts is sometimes called reactive. Non- stress-related depressions
+are sometimes referred to as endogenous (springing from within); people
+sometimes describe them as “coming out of nowhere.” Reactive depres-
+sions are usually less severe than those of the endogenous type, and are
+less likely to require treatment.
+Episodic illness. Has there been a previous episode of depression? Did
+the patient recover completely? “Yes” answers suggest bipolar depressed
+episodes, unipolar depression, or a mood disorder with seasonal pattern
+(see below). A chronic, low-intensity depression that has been present for
+years is typical of persistent depressive disorder (dysthymia).
+Family history of mood disorder. This is a classical finding in severe
+mood disorder, which is often at least partly inherited.
+Indecisiveness. Inability to make up one’s mind, even regarding minor
+details, is emblematic of severe depression.
+Isolation. Withdrawal from friends or family suggests a severe depres-
+sion such as melancholia.
+Mania ever. The distinction between a bipolar depressed episode and
+major depressive disorder is easily made with the finding of previous epi-
+sodes of mania.
+Neglect of hobbies, activities. Loss of interest in usual activities accom-
+panies severe depression.
+Premenstrual pattern. Women whose depressive symptoms occur mainly
+before their periods begin may have premenstrual dysphoric disorder.
+
+-- 182 of 385 --
+
+Signs and Symptoms 	167
+Recent loss (bereavement). This is another common environmental
+stressor that can precede depression.
+Seasonal pattern. Some patients report regular onset of depression at
+a particular season of the year (typically fall or winter), with full remission
+later (typically springtime). Such patients may be diagnosed as having a
+mood disorder with seasonal pattern.
+Sex interest decreased. Loss of libido is a classical symptom of moder-
+ate to severe depression.
+Suicide ideas, attempts. For any depression, ask about psychological
+and physical seriousness of previous attempts. Are there current ideas
+about suicide? Does the patient have a plan, and the means, to act upon
+these ideas?
+Trouble thinking or concentrating. These symptoms are usually found
+in moderate to severe depression.
+Vegetative symptoms. Classical for severe depression with melancholia
+are terminal insomnia (the patient awakens early and cannot return to
+sleep), decreased appetite, weight loss, and low energy or fatigue. Patients
+tend to feel better in evenings than mornings, and don’t improve much
+when with people whose company they normally enjoy.
+Mental Status Examination
+Appearance and behavior 	Content of thought (cont.)
+Tearful 	“Better off dead”
+Decreased attention to
+appearance
+Death wishes
+Suicide ideas, plans
+Decreased interest in usual
+activities
+Mood- congruent delusions
+Guilt
+Slowed actions 	Sin
+Agitation 	Worthlessness
+Mood 	Ill health
+Sad face 	Poverty
+Anxiety 	Language not usually affected
+Flow of thought 	Cognition
+Slowing 	Usually intact
+Content of thought 	May have “pseudodementia”
+Guilt feelings 	Insight and judgment
+Ruminations 	May deny feeling depressed
+Hopelessness 	May deny possibility of
+improvement	Worthlessness
+Loss of pleasure
+
+-- 183 of 385 --
+
+168 	THE FIRST InTERvIEW
+mood disTurBance: mania
+Manic patients describe their moods as “high,” “hyper,” “exalted,”
+“excited,” or “euphoric”; sometimes they are mainly irritable. Although
+the condition of mania has been recognized for more than 100 years,
+these patients are often misdiagnosed as having schizophrenia. Cognitive
+disorders can sometimes present with symptoms of mania.
+Tip‑Offs
+Consider mania when you are confronted with any of the following symp-
+toms:
+Activity level increased
+Distractibility
+Grandiose sense of self-worth
+Judgment deteriorating
+Mood euphoric or irritable
+Planning many activities
+Sleep decreased (reduced need for sleep)
+Speech rapid, loud, hard to interrupt
+Substance use recently begun or increased
+Thoughts moving rapidly from one idea to another
+Main Diagnoses
+Most manic patients also have episodes of (often severe) depression.
+Cyclothymia, a milder condition in which high moods that are not psy-
+chotic alternate with depressed ones, is the other principal possibility to
+consider. Differential diagnoses includes the following:
+Mania* (bipolar I disorder, manic episode)
+Bipolar II disorder
+Cyclothymia
+Organic mood disorder
+Historical Information
+Alcohol misuse. Sometimes this can be an attempt to lessen the
+uncomfortable feelings of being speeded up.
+Concentration decreased. Manic patients often start projects that they
+do not complete.
+
+-- 184 of 385 --
+
+Signs and Symptoms 	169
+Episodic illness. A previous episode of mania or depression with com-
+plete recovery usually clinches the diagnosis. If so, look especially for
+rapid cycling (four or more switches between highs and lows in the course
+of a year). These episodes, which may be as brief as a few days, have impli-
+cations for the type of treatment that may be effective.
+Insomnia. This is often experienced as decreased need for sleep.
+Judgment poor. This appears as a history of spending sprees, legal
+troubles, or sexual indiscretions.
+Libido increased. Manic exuberance can lead to promiscuity, preg-
+nancy, and the risk of sexually transmitted disease.
+Personality change. At the extreme, a normally quiet, unassuming
+person abruptly becomes boisterous, argumentative, or ill-tempered.
+Physical conditions. Disinhibition similar to mania can be encoun-
+tered after head trauma and in various conditions such as brain tumors
+and endocrine disorders.
+Relationships disrupted. Friends and family have difficulty coping with
+markedly changed behavior.
+Sociability increased. Manic patients may excessively enjoy parties and
+other social gatherings.
+Work-related problems. Loss of concentration and preoccupation with
+grandiose plans contribute to decreased performance on the job or in
+school.
+Mental Status Examination
+Appearance and behavior 	Flow of thought (cont.)
+Excited, agitated 	Wordplay, jokes
+Hyperactive 	Distractible
+Increased energy 	Content of thought
+Loud speech 	Self- confident
+Flamboyant or bizarre dress 	Increased religiosity
+May be threatening or
+assaultive
+Full of schemes and plans
+Grandiosity that may be
+delusional	Mood
+Euphoric 	Language usually not affected
+Irritable 	Cognition usually intact
+Rapidly changing moods 	Insight and judgment
+Flow of thought 	Lack of insight into the fact of
+being ill	Racing thoughts
+Flight of ideas 	Poor judgment (refuses
+hospitalization, treatment)	Pressured speech
+
+-- 185 of 385 --
+
+170 	The FirsT inTerview
+SubStance uSe DiSorDerS
+Substance misuse is defined by the culture in which it occurs. In most
+segments of our culture (some religions, such as the Mormons, for exam-
+ple, are significant exceptions), the majority of adults use substances—if
+only caffeine. Whether we consider a person to be misusing a substance
+depends not simply on the amount or frequency of use, but also on the
+consequences of this behavior. These consequences may be behavioral,
+cognitive, legal, financial, and physical. Many of them also affect society
+as a whole.
+Tip‑Offs
+The following symptoms should lead you to consider a diagnosis of a sub-
+stance use disorder:
+Alcohol use greater than one or two drinks per day
+Arrests or other legal problems
+Financial problems: the patient spends money needed for other pur-
+poses
+Health problems: blackouts, cirrhosis, abdominal pain, vomiting
+Illegal substance use
+Job loss, tardiness, demotions
+Memory impairment (blackouts from drinking or drug use)
+Social problems: fights, loss of friends
+Main Diagnoses
+In DSM-5, these disorders are called [substance] use disorders and [sub-
+stance/medication]-induced [mood, psychotic, etc.] disorders. Substance-
+induced neurocognitive disorders, the brain syndromes that many people
+who heavily use substances also have at one time or another, will be con-
+sidered in the “Difficulty Thinking (Cognitive Problems)” section.
+The classes of substances that are recognized as subject to misuse
+are given below. Many substance users will use more than one of these
+classes.
+Alcohol
+Amphetamines
+Cannabis
+Cocaine
+
+-- 186 of 385 --
+
+Signs and Symptoms 	171
+Hallucinogens (including phencyclidine [PCP])
+Inhalants
+Nicotine
+Opioids
+Sedatives, hypnotics, anxiolytics
+Substance use can occur as a solitary diagnosis, but it is often associ-
+ated with another major mental health diagnosis or personality disorder.
+Those you should especially look for include the following:
+Mood disorders (depression and mania)
+Schizophrenia
+Somatization disorder (somatic symptom disorder in DSM-5)
+Antisocial personality disorder
+Historical Information
+Abuse. Formerly used to denote those who had problems resulting
+from use but were not actually dependent, this term should now be under-
+stood simply to mean use of any substance, including prescription medi-
+cations, that’s greater than is good for the individual.
+Activities used to obtain supply. These include drug sales, theft, rob-
+bery, and prostitution.
+Age at onset. How old was the patient when substance use began? For
+alcohol use, women may have a much later age of onset than men.
+Chronology. If there is an associated mental disorder, which came
+first? For example, if alcoholism chronologically precedes depression, the
+depression is regarded as secondary.
+Dependence. Dependence means, in essence, that behavior changes
+because of the person’s use of the substance. The following symptoms are
+the sorts of behavioral alterations that DSM-5 uses to define a substance
+use disorder. (The first two don’t usually apply to cannabis or the hallu-
+cinogens.)
+1. Tolerance (the patient needs more of the substance to produce
+the same effect or obtains less effect with the same dose).
+2. Withdrawal (the patient experiences withdrawal symptoms
+typical for the substance or takes more of it to avoid with-
+drawal).
+3. More of the substance is used than the patient intends.
+4. The patient tries without success to control substance use.
+
+-- 187 of 385 --
+
+172 	THE FIRST InTERvIEW
+5. The patient spends much time obtaining or using the sub-
+stance or recovering from its effects.
+6. Substance use causes the patient to give up important work/
+educational, social, or recreational activities.
+7. Despite awareness that it has caused physical or psychological
+problems, the patient continues to use the substance.
+8. The patient repeatedly uses substances even when it is physi-
+cally dangerous to do so (such as driving while intoxicated).
+9. Because of repeated use, the patient fails to carry out major
+obligations at home or work/school (repeated absences,
+neglect of children or house, poor work performance).
+10. The patient keeps using the substance despite knowing that
+it has caused or worsened social or interpersonal problems
+(fights, arguments).
+11. Finally, the patient craves the substance. Of course, this
+intense desire is not itself a behavior, but rather the driving
+force behind the above-listed behavioral symptoms.
+Emotional/behavioral 	disorders. 	Especially 	frequent 	complications
+include psychosis, mood syndromes, anxiety syndromes, delusional disor-
+der, and delirium on withdrawal.
+Frequency of use. How often has each substance been used? Has the
+pattern changed with the current episode?
+Health problems. Has deteriorating health been suggested by evidence
+such as cirrhosis, stomach disorders, wasting, tuberculosis, or respiratory
+problems?
+Legal problems. Has the patient been arrested or jailed for possession,
+sales, or for criminal activities to finance supply? A history of criminal
+activity occasioned by the need to obtain money for drugs must be distin-
+guished from antisocial personality disorder (which may be the correct
+diagnosis if illegal activities have been undertaken when the patient was
+clean and sober).
+Needle sharing. If intravenous usage is reported, has the patient ever
+used dirty needles? Had hepatitis? How recently has there been a test for
+HIV?
+Pattern of use. Has there been continuous, episodic, or binge usage?
+If more than one drug is involved, what is the pattern for each?
+Personality change. How has drug use affected the way the patient
+relates to others? Has there been a general loss of motivation (especially
+likely with long-term use of cannabis or hallucinogens)?
+
+-- 188 of 385 --
+
+Signs and Symptoms 	173
+Relationship problems. These include divorces, separations, and fight-
+ing. Some couples stay together only because of a common interest in
+drug use.
+Route of administration. Any of the following means can be used: swal-
+lowing, snorting, smoking, subcutaneous, intravenous, rectal, vaginal.
+Mental Status Examination
+Appearance 	Language
+Red-faced 	Fluency reduced (mumbling,
+slurred speech)	Tremor
+Disheveled 	Cognitive
+Mood 	May show cognitive signs if
+there is a concomitant
+neurocognitive disorder
+Depressed
+Anxious
+Belligerent 	Insight and judgment
+Flow of thought 	May reject the diagnosis
+Often talkative 	Patients often refuse treatment
+or sign out against advice	Content of thought
+Maudlin
+Demanding
+Hallucinations
+More often visual
+May be auditory
+social and personaliTY proBlems
+Personality traits are patterns of behavior or thought that persist through-
+out adult life. To be diagnosable as personality disorders, traits must be
+pronounced enough to cause the patient functional impairment (work/
+educational, social, or emotional) or personal distress.
+Tip‑Offs
+You should consider social and personality problems whenever your
+patient has any of the following characteristics:
+Anxiety
+Behaviors that seem odd or bizarre
+Dramatic presentation
+Drug or alcohol misuse
+
+-- 189 of 385 --
+
+174 	THE FIRST InTERvIEW
+Interpersonal conflict
+Job problems
+Legal difficulties
+Marital conflicts
+Personality disorders must be distinguished from ordinary problems
+of living that are not mental disorders. The latter can include borderline
+intellectual functioning, academic problems, marital and other family
+problems, job problems, and uncomplicated bereavement.
+Main Diagnoses
+Although many personality disorders have been proposed over the years,
+only the 10 given below currently enjoy official diagnostic blessing. Adult
+patients who do not fully meet criteria for one of these diagnoses but have
+long- standing impairments of self (that is, identity or self- direction) and
+impairments of an interpersonal nature (empathy or intimacy) may be
+diagnosed as having unspecified personality disorder.
+Antisocial*
+Avoidant*
+Borderline*
+Dependent
+Histrionic
+Narcissistic*
+Obsessive–compulsive (personality disorder)*
+Paranoid
+Schizoid
+Schizotypal*
+Important differential diagnoses for any personality disorder, includ-
+ing those other than the officially recognized 10 listed above, include
+these mental disorders:
+Bipolar I disorder*
+Major depressive disorder*
+Dysthymia (persistent depressive disorder)*
+Schizophrenia*
+Delusional disorder*
+
+-- 190 of 385 --
+
+Signs and Symptoms 	175
+Substance use disorders
+Obsessive–compulsive disorder*
+Personality change due to another medical condition
+Historical Information
+Many traits have been linked to personality disorders. For purposes of
+description, I have used several common headings. This list makes no
+pretense of completeness; it does present traits that clinicians consider
+important in defining currently recognized personality disorders. This is
+some of the information you should pursue in the quest of a personality
+disorder diagnosis.
+Callousness. Forces sexual activity on others; takes advantage of oth-
+ers for personal gain; humiliates others publicly; uses harsh discipline;
+takes pleasure in suffering of others.
+Carries grudges.
+Childhood delinquency. Truancy; starts fights; fights with weapons;
+runs away; is cruel to animals or people; destroys property; sets fires.
+Compliance is excessive. Volunteers for unpleasant tasks so as to be
+liked by others; agrees with people to avoid rejection.
+Concern for others is lacking. Self- centered; unable to recognize how
+others feel.
+Criticism is rejected. Resents useful suggestions; easily hurt by others.
+Dishonesty. History of frequent lying; history of stealing, robbery, or
+conning others.
+Impulsivity. Wanders without a fixed abode; sexual indiscretions;
+shoplifts; reckless disregard for personal safety.
+Indecisiveness. Avoids making decisions or depends on others to
+make them; vague about goals.
+Indifferent to praise.
+Inflexibility. Reluctant to do things that differ from routine; perfec-
+tionism that interferes with task completion; preoccupation with rules,
+lists, order; misses the forest for the trees; resists letting others have their
+way; rigid about morality, ethics.
+Insecurity. Feels uncomfortable when alone; won’t get involved unless
+sure of being liked; fearful of self- embarrassment in social situations;
+
+-- 191 of 385 --
+
+176 	THE FIRST InTERvIEW
+exaggerates risks of doing something outside the routine; afraid of being
+abandoned; feels helpless or uncomfortable, so avoids being alone.
+Irresponsibility. Defaults on financial obligations such as family sup-
+port or debts; unable to hold a job; fails to do a reasonable share of the
+work; “forgets” obligations; puts things off.
+Mood instability. Mood fluctuates more rapidly or more widely than is
+usually considered normal for the circumstances. May be quick to show
+anger; “hair-trigger temper.”
+Physical aggression. Fighting or assaults.
+Saves objects of no value.
+Sex drive is low.
+Sociability is low. Is a loner (prefers solitary activities); uncomfortable
+in social situations or with strangers; avoids close relationships.
+Stinginess. Shows lack of generosity with money or time.
+Suicidal ideas or behavior; nonsuicidal self-harm.
+Suspiciousness. Reluctance to confide in others; easily slighted;
+reads hidden meaning into innocent remarks or situations; expects to be
+exploited or harmed by others; questions loyalty of friends or fidelity of
+spouse/partner.
+Trusts others excessively. Chronically chooses associates or situations
+that lead to disappointment.
+Unstable interpersonal relationships.
+Workaholism.
+Mental Status Examination
+Appearance and behavior 	Mood
+Lacks sense of humor 	Hostile or defensive
+Hypervigilant 	Temper; inappropriate,
+intense anger	Argumentative
+Appears tense 	Exaggeratedly emotional
+speech, behavior	Reluctant to confide
+Sexual seductiveness that is
+inappropriate
+Denies experiencing strong
+emotions
+Overly concerned with
+appearance,
+attractiveness
+Feels empty or bored
+Lacks remorse for hurting
+others
+
+-- 192 of 385 --
+
+Signs and Symptoms 	177
+Mood (cont.) 	Content of thought (cont.)
+Shallow, shifting emotions 	Frequently requests
+reassurance or approval;
+fishes for compliments
+Apathy
+Restricted or inappropriate
+affect 	Fears being embarrassed
+Cool, aloof, or silly 	Judgmental of self and/or
+others	Flow of thought
+Vague speech 	Unreasonably devalues
+authority figures	Odd speech (vague, digressive,
+impoverished) 	Language: no abnormalities
+are typical	Content of thought
+Expects to be exploited 	Cognition: no abnormalities
+are typical	Questions loyalty of friends
+Suspects hidden meanings 	Insight and judgment
+Fantasies of success, power 	Exaggerates
+accomplishments	Ideas of reference (e.g., “as
+if” strangers talk about
+patient)
+Lacks remorse for behavior
+Feels others make
+unreasonable demands	Odd beliefs, superstitions or
+magical thinking, illusions 	Overvalues own work;
+self-important; feels
+problems are unique;
+sense of entitlement
+Uncertainty about identity
+(self-image, sexual
+orientation, long-term
+goals, values)
+diFFiculTY Thinking (cogniTive proBlems)
+A wide variety of physical and chemical insults can interfere with think-
+ing. These causes include the following:
+Brain tumors
+Head trauma
+Hypertension
+Infections
+Metabolic disorders
+Postoperative complications
+Seizure disorders
+Toxic substances or withdrawal from psychoactive substances
+Vitamin deficiency
+
+-- 193 of 385 --
+
+178 	THE FIRST InTERvIEW
+Tip‑Offs
+Any of the following should stimulate further investigation of cognitive
+problems:
+Bizarre behavior
+Confusion
+Decreased judgment
+Delusions
+Hallucinations
+Memory defects
+Mood fluctuations
+History of ingesting toxins
+Main Diagnoses
+Physical or chemical brain dysfunction produces abnormalities of behav-
+ior or thinking that can be either temporary or permanent. The types of
+problems include these:
+Amnestic syndrome
+Anxiety disorders
+Delirium*
+Delusional syndrome
+Dementia (DSM-5 calls it major neurocognitive disorder)*
+Dissociative disorders
+Intoxication and withdrawal
+Psychosis of intoxication or withdrawal
+Mood syndrome
+Personality change due to another medical condition
+The important differential diagnoses include the starred diagnoses/syn-
+dromes in the previous group, plus these:
+Depression*
+Schizophrenia*
+Substance use disorders*
+Note that delirium and dementia may coexist.
+
+-- 194 of 385 --
+
+Signs and Symptoms 	179
+Historical Information
+Age at onset. Dementia is most commonly encountered in elderly per-
+sons; delirium is common in children and in older people. Either can
+occur across the age spectrum.
+Course. May be stable, fluctuating, deteriorating, or improving. If
+the damage is structural (such as following massive brain trauma), there
+tends to be some permanent dysfunction, even though improvement may
+occur. Patients with dementia (such as due to Alzheimer’s disease) tend to
+deteriorate progressively.
+Depressive disorder. It is especially important to know about a history
+of depression and current depressive features, because pseudodementia,
+one of the possible presentations of severe depression, is a completely
+treatable mood disorder that isn’t a neurocognitive disorder at all.
+Difficulty providing self-care. Often this is what drives family members
+to bring demented patients for care.
+Fluctuating symptoms and mental status. Such fluctuations are espe-
+cially characteristic of delirium.
+Head trauma. Trauma can produce a subdural hematoma, which
+causes symptoms days to weeks later. Bleeding inside the skull can also
+cause an epidural hematoma, producing symptoms within hours or days.
+Also be alert for loss of memory that can result from concussion.
+Impulsivity. Demented patients lose the ability to judge what is accept-
+able behavior; consequently, they act on impulses they previously would
+have suppressed. As a reaction to either fear or confusion, delirious or
+demented patients may run away. Demented patients may spend money
+heedlessly, though this behavior occurs without the grandiose quality it
+has in mania.
+Laboratory testing. This should be consistent with the suspected cause
+of any cognitive syndrome.
+Memory loss. Defective memory is characteristic of the dementias.
+Recent memory is affected most often, though long-term memory can
+also be involved in severe dementia. Some patients consciously try to com-
+pensate for defects in memory by confabulating—making up stories.
+Onset. The development of symptoms may be rapid or insidious,
+depending on the cause and nature of the disorder. Rapid onset is charac-
+teristic of disorders caused by strokes, infections, or trauma; defects from
+vitamin deficiencies and brain tumors may develop gradually.
+Personality change. Many symptoms of cognitive syndromes involve a
+change from the patient’s previous personality. These include outbursts of
+rage or combativeness, social withdrawal, coarsening of behavior (crude
+
+-- 195 of 385 --
+
+180 	THE FIRST InTERvIEW
+jokes), and neglect of grooming or hygiene. One patient with Alzheim-
+er’s dementia who had always welcomed racial diversity shouted racist
+comments. Excessive neatness (sometimes called organic orderliness) can
+develop.
+Psychotic symptoms. Delusions, usually persecutory, can occur in
+dementia (patients with Alzheimer’s often believe that people steal from
+them). Delusions may be indistinguishable from those of schizophrenia.
+Hallucinations commonly occur in delirium, but they are usually visual.
+Sleep–wake cycle changes. Delirious patients are typically drowsy,
+although some have trouble falling asleep; vivid dreams or nightmares
+occur.
+Suicide attempts. The presence of suicidal behavior should cause you
+to consider the diagnosis of major depression, although attempts (and
+completions) can occur in the dementias.
+Mental Status Examination
+Appearance and behavior 	Language
+Disheveled 	Comprehension decreases
+with advancing dementia	Tremor
+Restlessness 	Fluency is often preserved,
+even with moderate
+dementia
+Picking at bedclothes, clothing
+Mood
+Affect bland or shallow 	Naming: aphasias
+Anger 	Cognition
+Anxiety 	Drowsy, hard to stay awake
+Apathy 	Disorientation
+Depression 	Not knowing the date may
+be an early symptom of
+delirium
+Euphoria
+Fear
+Irritability 	Disorientation to place,
+person are later
+symptoms (especially
+dementia)
+Flow of thought
+Slurred speech
+Perseveration
+Rambling, incoherent 	Impaired abstract thinking
+(similarities)	Loosening of associations
+Content of thought 	Low attention span (easily
+distractible) is found
+especially in delirium
+Suspiciousness
+Current suicidal ideas
+Illusions 	Impaired memory
+Psychotic features 	Insight and judgment
+Delusions 	Impaired judgment
+Hallucinations (especially visual)
+
+-- 196 of 385 --
+
+Signs and Symptoms 	181
+anxieTY, avoidance Behavior, and arousal
+Conditions in this area of clinical interest have in common anxiety symp-
+toms that can result in attempts to avoid the stimulus.
+Tip‑Offs
+Symptoms that would cause you to explore this area include any expres-
+sion of anxiety or fear, as well as somatic symptoms that suggest breathing
+or heartbeat problems when there is no known basis for concern.
+Anxiety
+Chest complaints (pain, heaviness, trouble breathing, palpitations)
+Compulsive behavior
+Fear of objects, situations, dying, impending doom, going crazy
+Nervousness
+Obsessional ideas
+Panic
+Trauma (history of severe emotional or physical experience)
+Worries
+Main Diagnoses
+The principal disorders covered by this area of clinical interest include:
+Panic disorder*
+Generalized anxiety disorder*
+Specific phobia*
+Agoraphobia*
+Obsessive–compulsive disorder*
+Posttraumatic stress disorder (PTSD)*
+Although anxiety symptoms are found in nearly every mental disorder,
+the important differential diagnoses include the following:
+Depression (various specific diagnoses)*
+Substance-induced disorders
+Schizophrenia*
+Somatization disorder (somatic symptom disorder in DSM-5)*
+
+-- 197 of 385 --
+
+182 	THE FIRST InTERvIEW
+Historical Information
+Age at onset. Most of these conditions begin when the patient is rela-
+tively young. Animal phobias begin in childhood; situational phobias usu-
+ally begin in the 30s.
+Agoraphobia. May occur with or without panic disorder. Occurs in
+situations from which escape is difficult or embarrassing, such as being
+away from home, in a crowd, in a car, or on a bridge.
+Alcohol or drug use. This could be either a cause or an effect of anxiety
+symptoms.
+Anticipatory anxiety. Common in phobias, this sensation of dread is
+experienced for minutes to hours before the arrival of a feared stimulus
+(such as speaking in public).
+Caffeine intake. Excessive coffee (or tea) drinking can cause anxiety
+symptoms.
+Circumstances of panic attacks. How many attacks have there been,
+and in what period of time? Were they unexpected? (Attacks in panic
+disorder tend to arise spontaneously.)
+Compulsions. The most common compulsions are handwashing,
+checking, counting, and routines that must be followed (such as at bed-
+time). They may occur as rituals (rules) or as “antidotes” or responses to
+obsessions.
+Depressive symptoms. Determine whether these came before the anxi-
+ety syndrome, (suggesting primary depression) or after (suggesting that
+the depression is secondary).
+Duration of panic attacks. Individual panic attacks last only a few min-
+utes, but they may recur over a period of weeks, months, or years.
+Frequency of panic attacks. They usually occur several times a week.
+Lifestyle constriction. As a result of anxiety, does the patient stay at
+home or avoid specific situations or objects? This may be true for specific
+phobia, obsessive–compulsive disorder, PTSD, agoraphobia, and panic
+disorder.
+Mental content of panic attacks. Patients may fear that they are going
+to die, lose control, or lose their minds.
+Obsessions. Most common are ideas of (1) harming or killing and (2)
+swearing (blaspheming). These ideas persist despite the patient’s recogni-
+tion that the ideas are senseless and alien.
+
+-- 198 of 385 --
+
+Signs and Symptoms 	183
+Physical symptoms of anxiety. Most of the same physical sensations
+occur in panic attacks and in anxiety and related disorders:
+Breathlessness 	Heart palpitations
+Chest pain 	Lump in throat
+Chills or flushes 	Muscle tension
+Dizziness 	Nausea
+Dry mouth 	Restlessness
+Fatigability 	Sweating
+Frequent urination 	Tremor
+Prescription medication use. Clinicians often prescribe, and patients
+with anxiety often resort to, drugs in an attempt to keep symptoms in
+check.
+Social anxiety disorder. This typically involves fear of performing,
+speaking, or eating in public; of using a public toilet; or of trying to write
+when someone is watching.
+Specific phobias. The most common are fears of air travel, animals,
+blood, closed-in places, heights, and injury.
+Stressors. A severely traumatic physical or emotional experience is a
+required precipitant for PTSD.
+Worry. Unwarranted or excessive concern about multiple real-life cir-
+cumstances is characteristic of generalized anxiety disorder. Examples
+would include losing the house to the bank just months before the mort-
+gage is paid off, and being fired when one is the favorite of the company
+president.
+Mental Status Examination
+Appearance and behavior 	Insight and judgment
+Hypervigilance (scanning the
+environment)
+Insight usually retained that
+the fear or behavior is
+unreasonable	Mood
+Depression 	Tries to resist
+Anxiety
+Content of thought
+Obsessional ideas
+Killing
+Blasphemy
+
+-- 199 of 385 --
+
+184 	THE FIRST InTERvIEW
+phYsical complainTs
+Physical illness (anatomically demonstrable heart attacks, asthma, ulcers,
+allergies, and the like) must always be a prime concern of any clinician
+whose patient voices somatic complaints. But many patients come to men-
+tal health care complaining of physical symptoms for which inadequate
+basis in physiology, chemistry, or anatomy can be found. Such symptoms
+have historically been called hypochondriacal or psychosomatic. Often, by the
+time such a patient finally seeks help from a mental health clinician, there
+has already been a full range of medical tests and evaluations. Because
+certain demographic and symptom features are held in common, I have
+included anorexia nervosa and bulimia nervosa in this group.
+Tip‑Offs
+Consider this area of clinical interest if your patient presents any of the
+following problems:
+Appetite disturbance
+Depression that is chronic
+History that is complicated
+Multiple complaints
+Physical symptoms unexplained by known illness (especially neuro-
+logical symptoms such as pain, convulsions, sensory loss)
+Sexual or physical abuse in childhood
+Substance misuse in a woman
+Treatment failures that are repeated
+Vague history
+Weakness that is chronic
+Weight changes (up or down)
+Main Diagnoses
+The principal diagnoses in this area include the following:
+Anorexia nervosa*
+Body dysmorphic disorder
+Bulimia nervosa
+Hypochondriasis (illness anxiety disorder in DSM-5)
+
+-- 200 of 385 --
+
+Signs and Symptoms 	185
+Pain disorder or chronic pain syndrome (somatic symptom disorder
+with predominant pain in DSM-5)
+Somatization disorder (somatic symptom disorder in DSM-5)*
+Other disorders that should be considered in patients who complain of
+physical symptoms are these:
+Depression*
+Panic disorder*
+Physical illness
+Substance-related disorders*
+Historical Information
+Age at onset. Most of the mental disorders in this group begin early
+(childhood or adolescence). Hypochondriasis usually begins in the 20s,
+and pain disorder in the 30s or 40s.
+Childhood physical or sexual abuse. You should always ask about abuse,
+which is common in patients with somatization disorder.
+Chronic pain. In pain disorder, there is no known basis for pain, or the
+pain is out of keeping with a known physical cause.
+Doctor shopping. A relentless search for a cure frequently accompa-
+nies the DSM-IV somatoform disorders (DSM-5 somatic symptom and
+related disorders). It may lead to repeated, fruitless medical evaluations.
+Environmental stress. Social problems (marital, job, interpersonal)
+may impel patients to seek mental health treatment for what they perceive
+as physical problems.
+Fear of medical illness that the patient doesn’t have. The nondelusional
+idea that the person is ill persists despite (often repeated) reassurances to
+the contrary. This is the cardinal symptom of hypochondriasis (DSM-5
+illness anxiety disorder).
+Operations. Patients with somatoform disorders (somatic symptom
+and related disorders) often have a history of multiple surgical proce-
+dures.
+Medical illness in childhood. Did the patient receive attention for being
+ill as a child? In some cases this factor may underlie the somatization.
+Physical defect (imagined or exaggerated). The essential symptom in
+body dysmorphic disorder, this idea is not usually of delusional intensity.
+
+-- 201 of 385 --
+
+186 	THE FIRST InTERvIEW
+Patients with anorexia nervosa typically regard themselves as appearing
+overweight, even when they are obviously emaciated.
+Secondary gain. This occurs when a person receives attention or
+support for being ill; it is classical for somatization disorder and other
+somatic symptom disorders.
+Suicidal ideas, behavior. These patients often threaten or attempt sui-
+cide; occasionally, they succeed.
+Substance use. Misuse of alcohol or drugs frequently complicates the
+disorders in this group.
+Mental Status Examination
+Appearance and behavior 	Content of thought
+Dramatic presentation 	Centers on physical
+(sometimes imagined)
+mental illness
+Flashy dress
+Ingratiating manner
+Exaggerated mannerisms 	Language: no abnormalities are
+typical	Marked wasting
+Mood 	Cognition: no abnormalities are
+typical	Indifference toward symptom
+(la belle indifférence) 	Insight and judgment
+Anxiety 	Overinterprets physical
+symptoms	Depression
+Flow of thought: no
+abnormalities are typical
+
+-- 202 of 385 --
+
+187
+c h a p T e r 	1 4

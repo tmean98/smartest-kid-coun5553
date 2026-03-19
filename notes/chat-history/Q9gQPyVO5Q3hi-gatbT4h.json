@@ -1,0 +1,33 @@
+{
+  "id": "Q9gQPyVO5Q3hi-gatbT4h",
+  "courseId": "coun5453",
+  "title": "Differential Diagnosis",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "What are the steps of differential diagnosis"
+        }
+      ],
+      "id": "N7Vngv7XH8hTvoIJ",
+      "role": "user"
+    },
+    {
+      "id": "7Vu2XD1ortuV45RX",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Based on the Class 4 lecture by Dr. Robert Campbell, there are six steps of differential diagnosis, developed by First (one of the developers of the DSM diagnostic process). Here's a breakdown:\n\n## The Six Steps of Differential Diagnosis\n\n### Important Context\n\nFrom the Class 4 lecture, Dr. Robert Campbell emphasized that these steps are not necessarily sequential - they can happen in any order based on the information your client provides. However, you should include all six steps in your diagnostic process.\n\n### Step 1: Rule Out Malingering or Factitious Disorder\n\n- Malingering: Falsification of symptoms for some external gain (insurance, disability, paid leave, avoiding legal consequences)\n- Factitious Disorder: Faking symptoms with no obvious personal gain - it's the disorder itself that compels them to falsify\n\nMethods to detect:\n- Review medical and psychological history\n- Look for inconsistencies in their story\n- Notice if presentation matches reported symptoms\n- Be alert if symptoms are presented too perfectly, line-by-line with diagnostic criteria (unless they have long treatment history)\n\n### Step 2: Rule Out Substance Use or Medical Condition\n\nDetermine if symptoms are actually due to:\n- Medication effects\n- Other physical/medical issues\n- Substance use\n\n### Step 3: Establish Specific Disorder\n\nDetermine which diagnostic category fits best. Ask:\n- Does the client meet full diagnostic criteria?\n- Walk through each criterion systematically\n- Don't just check if symptoms exist - verify they meet the specific thresholds\n\n### Step 4: Differential Diagnosis Within That Disorder Category\n\nOnce you've identified the primary disorder:\n- Proceed to differential diagnosis for that specific disorder category\n- Use decision trees and tables (some are built into the DSM)\n- Confirm this is the right specific diagnosis within the category\n\n### Step 5: Rule Out Other Mental Health Disorders\n\nStep back and ask: \"Could this be better explained by another mental health disorder?\"\n\nDr. Campbell's recommendation: Start with lower thresholds and work up\n- Could it be adjustment disorder?\n- Could it be other specified or unspecified disorder?\n- Then move toward major disorders if criteria are fully met\n\nLook for:\n- Life stressors\n- Changes in work or relationships\n- Loss events\n- Whether it's below the threshold of clinical significance\n\n### Step 6: Determine Clinical Significance\n\nAsk the final question: Does this experience pass the threshold of disorder vs. not disorder?\n\nConsider:\n- Intensity of symptoms\n- Pervasiveness (does it interrupt multiple areas of life?)\n- Level of disruption\n- Does it cause clinically significant distress in work, relationships, or other important areas?\n\nDr. Campbell noted: \"Everyone can experience symptoms of most mental health issues on a continuum. But there's a threshold of intensity, pervasiveness, and significant disruption that justifies a disorder.\"\n\n## Key Takeaway\n\nFrom the Class 4 lecture: \"This process is a little bit fluid. But each step needs to happen.\" The steps inform your \"what and why\" - what the client is experiencing and why you're providing a specific diagnosis. The clinical interview is your \"how\" - how you gather the data to answer these questions.",
+          "state": "done"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-25T02:32:03.505Z",
+  "updatedAt": "2026-02-25T02:33:47.607Z"
+}

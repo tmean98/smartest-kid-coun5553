@@ -1,0 +1,998 @@
+Toward an Evidence-based Standard of Professional Competence
+Page 1 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Subject: Philosophy, Philosophy of Mind Online Publication Date: Sep 2020
+DOI: 10.1093/oxfordhb/9780198817338.013.79
+Toward an Evidence-based Standard of Professional
+Competence
+Scott D. Miller, Joshua W. Madsen, and Mark A. Hubble
+The Oxford Handbook of Psychotherapy Ethics
+Edited by Manuel Trachsel, Jens Gaab, Nikola Biller-Andorno, Şerife Tekin, and John Z. Sadler
+Abstract and Keywords
+Psychotherapists are ethically bound to provide services within the boundaries of their
+competence traditionally delimited by their education, training, and supervised experi
+ence. Throughout this chapter, two historical examples illustrate the shortcomings of the
+current standard as well as the promise of an alternative. The guidelines now in place are
+critiqued in light of the empirical evidence. The authors propose that effectiveness be
+come the foundation of any formulation and assessment of competence. Developments
+over the last two decades make it possible for clinicians to measure their results and com
+pare them to international norms—a process known as routine outcome monitoring. How
+ever, mere measurement and comparison to benchmarks are insufficient. To be ethical, to
+protect public welfare, practitioners must also act on the data provided by routine out
+come monitoring. Using feedback informed treatment and deliberate practice therapists
+can both enhance their responsiveness to individual clients and continuously improve
+their outcomes. Challenges of implementation are discussed. A case study of an agency
+that successfully adopted routine outcome monitoring coupled with deliberate practice
+using best practices gleaned from the implementation science literature is offered.
+Keywords: competence, routine outcome monitoring, feedback informed treatment, deliberate practice
+“The only ‘good’ learning is that which is in advance of development.”
+—Lev S. Vygotsky
+Introduction
+Competence killed George Washington. It was December 1799. A physician had been
+summoned to the Mount Vernon estate to treat the former, first president of the United
+States. For reasons unknown, a minor sore throat had suddenly and unexpectedly wors
+ened. The family and household staff were worried.
+
+-- 1 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 2 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Three doctors eventually made the trek through the snowy, winter weather to
+Washington’s bedside. After examining their patient and agreeing on the diagnosis, one
+administered the accepted therapy of the day. By all accounts, it was executed with the
+utmost skill. When no results were observed, the three healthcare professionals con
+ferred and agreed more treatment was necessary. Several hours and two additional appli
+cations later, the president was dead.
+The cause of death? Historians agree George Washington likely did not die of some
+strange or exotic disease. Rather, like many of his contemporaries, the care he received
+killed him. The intervention, of course, was bloodletting, the “best practice” of its day, the
+chief tool of which remains the title of one of medicine’s leading research journals, i.e.,
+The Lancet (Flexner 1974).1 The question is, did Washington’s physicians act ethically?
+According to the ethical codes of the four largest mental health provider organizations in
+the United States—the American Psychological Association, American Counseling Associ
+ation, National Association of Social Workers, and American Association for Marriage and
+Family Therapy—the answer is an unsatisfying and deeply disconcerting, yes. Standard
+2.01 of the Ethical Principles of Psychologists (APA 2017), for example, merely requires
+practitioners “provide services … with populations and in areas … within the boundaries
+of their competence, based on their education, training, supervised experience, consulta
+tion, study, or professional expertise”—conditions easily met by Washington’s physicians.
+Before objecting that professionals should not be held accountable for standards of care
+yet to be developed, vetted by science, and accepted by peers and regulatory bodies, con
+sider another historical example. The year is 1846. Hungarian-born physician Ignaz Sem
+melweis is in his first month of employment at Vienna General Hospital when he notices a
+troublingly high death rate among women giving birth in the obstetrics ward. At 25–30
+percent, many expectant mothers prefer to give birth in the street rather than the clinic.
+Medical science at the time attributes the problem to “miasma,” an invisible, poisonous
+gas believed responsible for a variety of illnesses. Semmelweis has a different idea. Hav
+ing noticed midwives at the hospital have a death rate six times lower than physicians, he
+concludes prevailing medical beliefs cannot possibly be correct. The final breakthrough
+comes when a male colleague dies after puncturing his finger while performing an autop
+sy. Reasoning that contact with corpses is somehow involved he orders physicians to
+wash their hands prior to interacting with patients. In no time, the mortality rate on the
+maternity ward plummets, dropping to the same level as that of midwives. Similar results
+obtain when he implements the same practice in another hospital in Pest, Hungary.
+Nowadays, of course, handwashing is considered a “best practice.” Decades of research
+show it to be the single most effective way to prevent the spread of infections. Science
+has also provided an explanation in the form of “germ theory.” Such information was not
+available, however, during Semmelweis’s day. His was merely a hunch—one which, by the
+way, fell outside the boundaries of then current medical standards, his professional expe
+rience, education, and training. What’s more, he continued to promote the practice even
+after it was deemed unscientific by his peers and the broader professional community. Re
+
+-- 2 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 3 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+turning to the earlier question, did Semmelweis act ethically? Once again, the answer is
+both unsatisfying and unsettling. According to the field’s current codes, it is no.
+If “ethics” is the “systematizing, defending, and recommending [of] principles for right
+and wrong conduct,” it’s hard to defend a standard that deems a practitioner who compe
+tently delivers an unhelpful, even deadly service (e.g., Washington’s physicians) morally
+superior to one who is actually helpful but working beyond the limits of their “education,
+training, supervised experience, consultation, study or professional expertise” (e.g., Sem
+melweis) (Fieser 2005). That said, equating competence with education, training, supervi
+sion, and experience is nothing new. Neither is it unique to the practice of psychotherapy.
+What is more, the current competence criterion may not align with accepted definitions
+of competence. For example, the definition provided by the American Psychological Asso
+ciation Dictionary of Psychology is “one’s developed repertoire of skills, especially as it is
+applied to a task or set of tasks. A distinction is sometimes made between competence
+and performance, which is the extent to which competence is realized in one’s actual
+work on a problem or set of problems” (https://dictionary.apa.org/competence). A reper
+toire of skills is ostensibly distinct from education, training, supervised experience, con
+sultation, study, or professional expertise, although presumably these experiences con
+tribute to skill development. With respect to the second half of this definition, even if
+“competence” and “performance” are not conflated, can an adequate standard of the for
+mer not incorporate serious consideration of the latter?
+Philosophical and historical discussions aside, one way to evaluate the validity of the cur
+rent standard is to examine it in light of the empirical literature.
+The Empirical Status of the Current Compe
+tence Criterion
+“Nor would a wise man, seeing that he was in a hole, go to work and blindly dig it
+deeper.”
+—The Washington Post, October 25, 1911
+What does the evidence show regarding education, training, supervision, and experience?
+In short, none are strongly or unequivocally related to outcome. At best, the data are
+mixed. Consider supervision. To become a licensed practitioner, most jurisdictions in the
+United States require between 1,500 and 3,000 hours of supervised experience in the
+form of practica, internships, postgraduate training, and oversight. And yet, after review
+ing a century of literature and research on the subject, Watkins (2011: 235) concluded,
+“We do not seem any more able to say now (as opposed to 30 years ago) that psychother
+apy supervision contributes to patient outcome.”.
+
+-- 3 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 4 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+More recently, Rousmaniere et al. (2016) examined the impact of supervision on out
+comes using hierarchical linear modeling (clients nested within therapists and therapists
+nested within supervisors). Data were gathered for more than five years on 23 supervi
+sors working with 175 trainee therapists in a real-world setting. Supervision was not
+found to be a significant contributor to outcome, accounting for less than 1 percent of
+variability. Neither did the supervisors’ experience level, profession (social work versus
+psychology), or qualifications predict differences between supervisors in client outcomes.
+Put bluntly, supervisors did not matter much, if at all.
+Educational level, pre- and postgraduate training, and experience in the field fare no bet
+ter (Atkins and Christensen 2001; Hill et al. 2017; Malouff 2012). For example, despite
+the years-long training process and required coursework, no evidence exists connecting
+any specific class or classes to the outcome of students’ future clients (Malouff 2012).
+More, the research that does exist shows no relationship between the amount of graduate
+training (i.e., years, degrees earned) and therapist effectiveness (Anderson et al. 2016;
+Boswell et al. 2010; Fals-Stewart and Birchler 2002). Finally, and perhaps most damning,
+studies, meta-analyses, and reviews have found minimally trained paraprofessionals
+achieve results equal to or better than licensed service providers (Berman and Norton
+1985; Durlak 1979; Hattie et al. 1984; Montgomery et al. 2010; Weisz et al. 1995).
+Worldwide, most clinicians are required to engage in postgraduate, continuing education
+to maintain their license or certification. Available research shows practitioners are gen
+erally satisfied with such experiences. Unfortunately, attending these events has never
+been shown to improve either the quality or outcome of psychological services (Neimeyer
+et al. 2009). Worse, studies have found an association between participation and practi
+tioner perception of enhanced competence (Neimeyer et al. 2012)—an unfortunate state
+of affairs that may contribute to, and even exacerbate, therapists’ well-documented ten
+dency to overestimate their effectiveness (Chow 2014; Walfish et al. 2012).
+Finally, what about professional experience? Not surprisingly, large, multinational sur
+veys show therapists link professional growth and development to the amount of time
+they spend performing psychotherapy (Orlinsky and Rønnestad 2005). Here again, the ev
+idence provides a different picture. Instead of improving with time and experience, the ef
+fectiveness of the average practitioner tends to plateau early, followed by a slow deterio
+ration (Miller et al. 2017). For example, in the largest study on the subject to date, Gold
+berg et al. (2016b) documented an erosion in performance in a sample of 170 therapists
+working with more than 6,500 clients, tracked over a five-year period. Importantly, the
+decline was shown to be unrelated to client severity, number of sessions, early termina
+tion, caseload size, or a host of other therapist factors (e.g., age, years of experience, the
+oretical orientation).
+In sum, the evidence simply does not support treating education, training, supervision, or
+experience as proxies for competence (Grus and Rozensky 2019). More, doing so, as Muir
+et al. (2019) point out, gives rise to a conflict with Standard 2.04 of the APA’s ethical code
+which mandates “Psychologists’ work is based upon established scientific and profession
+
+-- 4 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 5 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+al knowledge of the discipline” (APA 2017: 5). If, as psychologist John Malouff (2012: 29)
+argues, “the ultimate goal of standards is to benefit clients,” then current ethical codes of
+the major mental health provider organizations fail completely. They must be changed.
+Adding Effectiveness to the Criteria for Compe
+tence
+“The proof of the pudding is in the eating.”
+—William Camden
+Fortunately, an evidence-based alternative exists for ensuring the “maintenance of com
+petence … and the protection of the public” (Neimeyer et al. 2019: 63). Known in the lit
+erature as Routine Outcome Monitoring, it involves using standardized measures to as
+sess formally and routinely clients’ experience of the process and outcome of care. Then,
+by comparing the results to established norms for quality and progress, it is possible to
+determine in real time whether an individual practitioner’s clinical work meets or ex
+ceeds empirically derived standards for effectiveness.
+To date, two routine outcome monitoring systems—the Partners for Change Outcome
+Management System (PCOMS) and the Outcome Questionnaire Psychotherapy Quality
+Management System (OQ-Analyst)—have been the focus of the largest amount of re
+search on tracking the performance of mental health practitioners (Lambert 2010;
+Prescott et al. 2017). Both were purposefully designed to be used across treatment
+modalities, diagnoses, client populations, and professional disciplines. They are simple in
+construction, require little time to administer and score, and yield valid and reliable mea
+sures of client engagement and progress. Computerized systems are available which au
+tomate data aggregation and interpretation and permit comparison of practitioner results
+to national and international norms.
+The availability of tools for monitoring performance in real time provides an opportunity
+to move beyond definitions of competence which have always aimed at, but ultimately
+failed to, ensure the quality or outcome of care. In place of the proxies of education, train
+ing, supervision, and experience, routine outcome monitoring offers facts, permitting a
+new, evidence-based standard; namely, determining whether a practitioner is working
+within the boundaries and limits of their own and the field’s known level of effectiveness.
+In fact, based on the available evidence, professional and regulatory bodies in the United
+States and abroad have already deemed routine outcome monitoring a “standard” of care
+in the delivery of psychological services and clinical supervision (American Psychological
+Association Presidential Task Force on Evidence-Based Practice 2006; Association of
+State and Provincial Psychology Boards 2019; Joint Commission 2018, Tasca et al. 2019).
+
+-- 5 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 6 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+The Trouble with Thresholds
+“Be careful what you wish for, you may receive it.”
+—W. W. Jacobs
+In 2015, researchers Imel, Sheng, Baldwin, and Atkins reported the results of a provoca
+tive thought experiment. Using a statistical procedure, they simulated the impact of re
+placing poorly performing therapists—those falling in the bottom 5 percent of clinical ef
+fectiveness—with clinicians randomly drawn from the overall population of practitioners.
+Turns out, performing this procedure on a quarterly basis over a ten-year period resulted
+in dramatic improvements in the number of people ultimately benefiting from psychother
+apy. Even when the difference in outcome between clinicians was small, thousands more
+ended up being helped over time when the worst performers were removed. When more
+liberal estimates of therapist differences were employed—consistent with the variability
+in therapist outcomes reported in naturalistic and experimental studies (cf. Johns et al.
+2019)—the impact was far greater, with up to a third more clients experiencing recovery
+(see Table 1). The authors conclude, “it is ethically questionable to continue to expose pa
+tients to therapists who provide them little opportunity for improvement,” suggesting,
+“performance-based retention of therapists could improve the … average response rate
+and decreas[e] the probability that a patient will be treated by a therapist who has little
+chance of helping” (Imel et al. 2015: 329).
+Table 1. Change in total responses after removing lowest performing
+therapists
+Total responses (%)*
+No removal 	30,000 (50)
+ICC = 0.05 (Small) 	34,266 (57)
+ICC = 0.10 (Medium) 	36,404 (61)
+ICC = 0.20 (Large) 	39,307 (66)
+(*) Note: Total number of potential responses over 40 iterations (10
+years) is 60,000.
+Reproduced from Imel, Z. E., Sheng, E., Baldwin, S. A., and Atkins, D.
+C. (2015). “Removing Very Low-Performing Therapists: A Simulation
+of Performance-Based Retention in Psychotherapy.” Psychotherapy 52:
+329–336, https://doi.org/10.1037/pst0000023 Copyright © 2015,
+American Psychological Association.
+
+-- 6 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 7 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Several surveys reveal practitioners harbor concerns about routine outcome monitoring
+that directly impact their willingness to employ measures in their clinical work. One that
+stands out for many is fear about the misuse of the resulting data (Boswell et al. 2015;
+Gleacher et al. 2016; Johnston and Gowers 2005; Unsworth et al. 2012). Despite evidence
+that most clinicians achieve outcomes on par with those obtained in randomized con
+trolled trials (Minami et al. 2008; Saxon et al. 2017; Stiles et al. 2008; Wampold and
+Brown 2005), it is safe to assume Imel et al.’s (2015) proposal, summarized in the previ
+ous paragraph, would likely exacerbate such worries—a fact the authors acknowledge,
+noting their “basic premise might be troublesome for some therapists and health care
+professionals” (Imel et al. 2015: 329). Indeed, in a recent study on the implementation of
+routine outcome monitoring in Britain’s National Health Service, Waldron et al. (2018)
+found clinician concerns did not abate over a six-month period despite the adoption of for
+mal outcome monitoring policies, training in how to use measures, and the reassurance of
+management.
+Beyond the concerns of clinicians, equating competence with practicing within the bound
+aries and limits of a therapist’s and the field’s known level of effectiveness inadvertently
+perpetuates the same static, either/or quality of the current standard. In effect, one
+threshold—producing results equivalent to colleagues—is simply replacing another—hav
+ing the requisite training, supervision, and practice experience. Ultimately, both ap
+proaches treat competence as a state achieved rather than an active, dynamic process of
+continuous achieving.
+On reflection, neither standard would have “served to protect” the women of Vienna or
+former first president of the United States. Indeed, an argument can easily be made that
+the professionals in both circumstances were practicing within the accepted norms of the
+time. For history to have been different, Washington’s physicians and Semmelweis’s con
+temporaries would not only need to have been held accountable for the effectiveness of
+their practices, but also been ethically bound to work at improving their results. Had such
+a standard been in place, those treating the president would have been compelled to re
+gard his deterioration as “feedback,” a signal to change their treatment and possibly seek
+outside consultation (Babins-Wagner 2017; Lambert 2010; Maeschalck and Barfknecht
+2017). In the case of Semmelweis, guided more by outcomes than by conventional wis
+dom, physicians of the period would have been encouraged to embrace his innovative hy
+giene practices, thereby preventing the deaths of many future Viennese mothers, and po
+tentially hastening the discovery and acceptance of germ theory. In sum, the truly compe
+tent practitioner not only works within, but also continuously to extend, their own and the
+field’s effectiveness.
+
+-- 7 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 8 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Operationalizing a Dynamic, Evidence-Based
+Competence Standard
+“Certain therapists are more effective than others … because [they are] appropri
+ately responsive … providing each client with a different, individually tailored
+treatment.”
+—Stiles and Horvath (2017: 71)2
+On the heels of what was just discussed, we should note that mere measurement and
+comparison to effectiveness benchmarks are insufficient to ensure either competence or
+the public welfare. To be ethical, practitioners must also act on the data that routine out
+come measures make available. Specifically, when client engagement or progress falls
+short, several options must be considered: adjusting services, seeking consultation, mak
+ing a referral, and exploring innovative and promising practices (Lambert 2010; Prescott
+et al. 2017).
+Dozens of randomized controlled trials and multiple meta-analyses now show that provid
+ing clinicians with feedback, generated by ongoing measurement of the quality and out
+come of care, leads to better results (cf. Knaup et al. 2009; Lambert and Shimokawa
+2011; Lambert et al. 2003; Shimokawa et al. 2010; Østergård et al. 2018). Individual stud
+ies document, for example, significant increases in the amount of client improvement as
+well as the efficiency of treatment while simultaneously reducing the risk of dropout and
+deterioration (Lambert 2010; Schuckard et al. 2017). Evidence supporting what is termed
+“feedback informed treatment” continues to mount, appearing in the literature with in
+creasing frequency (Goodman et al. 2013; Pinner and Kivlighan 2018).
+As an example, the PCOMS system, introduced earlier in this chapter, tracks client scores
+in real time using two brief, easy-to-use scales. The first, administered at the outset of
+each session, is the Outcome Rating Scale (ORS; Miller and Duncan 2000). It is designed
+to assess client progress. The second is the Session Rating Scale (SRS; Miller et al.
+2000a). Given at the end of the visit, this tool measures the quality of the relationship or
+working alliance, an essential component of all effective psychotherapy (Bachelor and
+Horvath 1999; Norcross 2011). Together, the two scales take a minute or less to complete
+and score. Both are free to use in paper and pencil format and available in more than 30
+languages.3
+Multiple, proprietary computer-based platforms are available that use predictive algo
+rithms derived from a large and growing normative database to provide immediate alerts
+to clinicians whenever treatment deviates from expected rates of progress or levels of
+client engagement (Miller 2011; Schuckard et al. 2017). As an example, consider the
+chart presented in Figure 1 showing the results of two treatment sessions with an adult.
+The client’s scores on the ORS are represented with a thick black line. Two lines emerge
+from the first session ORS score, dividing the graph into three differently shaded areas.
+Over the course of treatment, scores falling in the topmost section are predictive of even
+
+-- 8 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 9 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Figure 1. Graphic representation of two sessions of
+psychotherapy using the PCOMS progress and al
+liance scores
+tual success; in the darker gray area, a negative or null outcome; and in between, in the
+light gray area, an indeterminate result.
+In this instance, the client’s scores have declined from the first to the second visit. Now in
+the dark gray area, they indicate treatment is “at risk” for a negative or null outcome
+(e.g., lack of progress over time or dropout). The darker, dotted line on the graph repre
+sents the client’s scores on the SRS. Falling below the established clinical cutoff of 36
+(represented by a light gray, dashed line), such results provide additional evidence that
+action is required (Miller and Bertolino 2011). Indeed, an inquiry into the client’s experi
+ence of the relationship would be in order. Multiple studies, in fact, document that im
+proving SRS scores results in increases in both retention and outcome (Goldberg in press;
+Miller et al. 2007; Owen et al. 2016).
+Recently, researchers Brown and Cazauvielh (2019) provided novel and compelling evi
+dence that feedback, in the manner described above, improves outcomes by increasing
+clinician responsiveness to the needs and characteristics of the individual client. Using
+frequency as an indication of engagement, they found therapists who most often logged
+into a computerized routine outcome monitoring system to check client progress were
+significantly more effective than their peers, with an average effect size difference of 0.2
+between the two groups. That is, clients of responsive practitioners were better off than
+close to 60 percent of those seen by their less engaged peers (McGough and Faraone
+2009). Although a third variable—such as trait responsivity or conscientiousness produc
+ing both more engagement with the monitoring system and outcome—cannot be ruled
+out, randomized designs of routine outcome monitoring suggest that its impact is not due
+merely to therapist variables (Schuckard et al. 2017). It is therefore reasonable to sus
+pect that degree of engagement with these procedures is similarly not fully explainable
+by therapist traits.
+New and promising research on the subject of deliberate practice points to one additional
+pathway for operationalizing a dynamic, evidence-based standard of competence. The re
+search to be reviewed next, documents reliable and valid improvement in the effective
+
+-- 9 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 10 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+ness of agencies, clinics, and individual therapists. Moreover, if implemented as part of a
+new ethical standard, deliberate practice has the potential to increase the outcomes of
+the profession as a whole.
+Improving the Outcome of Psychotherapy One
+Clinician at a Time
+“Most people never run far enough on their first wind to find out they’ve got a sec
+ond. Give your dreams all you’ve got and you’ll be amazed at the energy that
+comes out of you.”
+—William James
+Until very recently, no reference to deliberate practice could be found in the clinical psy
+chology or psychotherapy literature (Miller et al. 2020). Originally coined by psychologist
+K. Anders Ericsson in 1993, the term refers to the process by which individuals across a
+wide range of human endeavors can continuously improve their performance. Deliberate
+practice has been researched for decades in many fields, including medicine, teaching,
+sports, music, and chess and enjoys substantial empirical support (Miller et al. 2018).
+In brief, deliberate practice involves continuously and systematically pushing performers
+to reach for objectives just beyond their current abilities. It relies on four specific compo
+nents (see Figure 2; Miller et al. 2018). The first is the identification of individualized
+learning objectives—specifically, focusing on behaviors that consistently undermine or de
+tract from success. Next is involvement of a coach, a person whose job is to design prac
+tice activities which either correct or serve to enhance a performer’s skills or abilities.
+Ongoing feedback is the third. In their recent review of the research on this component,
+Miller et al. (2020) report feedback is most likely to be effective when it is timely, continu
+ous, individualized, focused on specific goals, and designed for remediating deficits ver
+sus reinforcing existing strengths. Fourth and final is successive refinement. Here, the
+difference between deliberate practice and traditional definitions of practice becomes
+most apparent. In place of mindless repetition, emphasis is intentionally directed to con
+tinuous improvement, pushing the envelope of performance to a “just noticeable differ
+ence” in every episode of practice.
+
+-- 10 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 11 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Figure 2. The four components of deliberate practice
+Miller et al. (2007) were the first to discuss deliberate practice in relation to psychothera
+py, introducing the concept to explain a finding that had long defied understanding;
+namely, some therapists are consistently more effective than others (cf. Ricks 1974; Oki
+ishi et al. 2003; Saxon and Barkham 2012). Within a few short years, Chow et al. (2015)
+had provided the first empirical evidence that the time therapists spend engaged in delib
+erate practice predicts effectiveness. Based on data gathered in real-world treatment set
+tings, the study showed the best therapists spent two and a half times more hours en
+gaged in deliberate practice in a typical work week than their less effective counterparts.
+One year later, Goldberg et al. (2016a) reported gradual but significant improvements in
+outcome over a seven-year period resulting from the combined use of routine outcome
+monitoring, feedback-informed treatment, and deliberate practice. Importantly, their
+study, also conducted in an actual clinical setting, was the first in the history of the field
+to document improvements in effectiveness at both the agency and individual therapist
+level. Finally, and most recently, Miller et al. (2020) provided detailed, transtheoretical
+guidelines practitioners can use to evaluate their results, improve their responsiveness to
+clients, and identify targets for deliberate practice, thereby enabling them to meet the
+new standard of working within and continuously to extend their own and the field’s ef
+fectiveness.
+To recap, routine outcome monitoring is designed to assess the quality and effectiveness
+of treatment. Feedback informed treatment prompts therapists to take action when the
+work with a particular client is at risk for a negative or null outcome. When employed, the
+evidence indicates, it increases a clinician’s responsiveness, a quality research suggests
+is characteristic of highly effective therapists (Stiles & Horvath 2017). If routine outcome
+monitoring is thought of as a smoke detector—a device constantly monitoring for evi
+dence of a fire—feedback informed treatment is the alarm, signaling immediate attention
+and investigation are required. The final element for facilitating an improvement in per
+formance is deliberate practice. It works either by remediating recurring errors or foster
+ing growth beyond current levels of effectiveness. Staying with the analogy, deliberate
+
+-- 11 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 12 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+practice represents both the effort invested in improving the response to fires when they
+inevitably occur, and investing the time, energy, and effort necessary to create the condi
+tions (i.e., innovative practices and structures) that make their outbreak less likely in the
+future.
+The potential benefits of the new standard notwithstanding, the stories of Washington
+and Semmelweis, along with contemporary findings from implementation science, illus
+trate the very real challenges of putting routine outcome monitoring/feedback informed
+treatment/deliberate practice into practice.
+Implementing an Evidence-Based Standard of
+Professional Competence
+“In theory, there is no difference between theory and practice. In practice, there
+is.”
+—Walter J. Savitch
+Translating healthcare-related research findings into standards of care is known to take
+time. In medicine, a figure often cited is seventeen years—a number one might consider
+overly hopeful given that handwashing remains, nearly two centuries after Semmelweis’s
+discovery, a significant challenge in healthcare (Joint Commission 2015; Morris et al.
+2011; Rodak 2013). Studies show, for example, that medical providers clean their hands
+less than 50 percent of the times they should (Centers for Disease Control and Prevention
+2019). The result? Annually, a million people in the United States acquire an infection
+while hospitalized, resulting in thousands of deaths (Reed and Kemmerly 2009).
+On the subject of routine outcome monitoring and feedback informed treatment, while a
+recent study found clients of therapists who used measures to inform their clinical work
+were 2.5 times more likely to experience benefit from treatment, the impact on outcomes
+was not immediate (Brattland et al. 2018). Indeed, during the first two years of implemen
+tation, measures and feedback made little difference. Only at year four did the practice
+begin to exert a significant effect—a figure consistent with findings from the broader im
+plementation literature (Fixsen et al. 2005).
+Other studies have revealed additional challenges. Evidence indicates, for instance, ther
+apists do not appear to learn from the information provided by routine outcome monitor
+ing and feedback informed treatment. In a series of ingenious experiments, Lambert et al.
+(2001, 2002) provided progress feedback to clinicians on half of their cases. With the oth
+er half, measures were administered, but the results withheld. Consistent with findings
+already cited, outcomes improved when information regarding client progress was made
+available to clinicians in real time. However, when the data were not shared, no improve
+ment obtained. The results were troubling given that therapists in the study were all ex
+perienced and understood the purpose of the investigation: to identify clients at risk for
+deterioration or dropout and then take steps to prevent these undesirable outcomes.
+
+-- 12 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 13 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+What is more, the measures were simple and straightforward, so much so a reasonable
+person would expect that, with time and experience, clinicians would come to recognize
+the “tells” indicative of potential negative results. Still, Lambert reported, “even though
+therapists ha[d] gotten feedback on half their cases for over three years, [they did] not
+learn how to detect failing cases” on their own (Miller et al. 2004: 16).
+Finally, several studies indicate the effects of routine outcome monitoring and feedback
+informed treatment are not distributed equally across practitioners. As is true of thera
+pists in randomized controlled tests of specific treatment approaches, the impact of rou
+tine outcome monitoring and feedback informed treatment on outcome varies by clini
+cian. In some as many as half do not benefit from measurement and receiving feedback
+about their results (de Jong and De Goede 2015; Lutz 2014; Simon et al. 2012). Not sur
+prisingly, those who experience the greatest impact have been found: (1) to be receptive
+to feedback; (2) actively incorporate it in their work; (3) possess higher self-efficacy; and
+(4) put less stock in their own assessment/feelings regarding client progress (de Jong et
+al. 2012).
+Altogether, the foregoing results make clear that broad utilization of routine outcome
+monitoring/feedback informed treatment/deliberate practice will take time and consider
+able effort. Findings from the emerging field of “Implementation Science” further indi
+cate addressing the variability in therapist receptiveness—what is learned and applied,
+and its ultimate impact on performance—will require much more. Evidence shows suc
+cessful adoption is more likely when the focus of implementation initiatives is on cultural
+and structural change within organizations, when any training provided is composed of
+practice, feedback, and “live,” on the job coaching, and finally, when leaders, rather than
+practitioners, are held accountable for putting new practices and standards into effect
+(Fixsen et al. 2009).
+The Goldberg et al. (2016a) study of routine outcome monitoring/feedback informed
+treatment/deliberate practice cited earlier provides an excellent example of applying the
+findings from implementation research. Recall, this study is the first to show it is not only
+possible for therapists to document they are working within, but also to extend continu
+ously their own and the field’s effectiveness. As a first step, agency management commit
+ted to creating a practice environment conducive of professional growth. Following a pe
+riod of exploration, consensus building, training, and piloting, a policy was adopted re
+quiring the collection of progress and outcome measures at each and every session. It is
+worth noting, during the exploratory phase of implementation, when therapists were sim
+ply asked to try routine outcome monitoring, the majority (60 percent) used the measures
+inconsistently. Following formal adoption, 40 percent of the licensed staff left the agency
+within four months despite explicit reassurance from management that staff outcomes
+would not be linked to performance evaluations. While the “exodus” may, at first blush,
+strike one as alarming, the agency was soon fully staffed with individuals who were inter
+ested in working in an agency setting that made effectiveness and continuous profession
+
+-- 13 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 14 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+al growth, through routine outcome monitoring/feedback informed treatment/deliberate
+practice, the standard of competence.
+As the implementation continued, agency leaders also used the data resulting from rou
+tine outcome monitoring to enact structural and procedural changes friendly to a “culture
+of feedback.” For example, an expert in routine outcome monitoring/feedback informed
+treatment/deliberate practice was hired to provide monthly two-hour videoconference
+clinical consultations. At each meeting, practitioners brought cases identified by the mea
+sures as “at risk” for dropout or a negative or null outcome. As opposed to the traditional
+focus on diagnosis and treatment techniques, special attention was directed to under
+standing and acting on the feedback clients gave regarding their experience of the thera
+peutic alliance. Together with colleagues, the therapist and consultant openly shared
+ideas for improving responsiveness to the individual client. When a recurring error or po
+tential areas for professional growth became apparent, specific suggestions for subse
+quent skill practice and refinement were provided which could later be addressed during
+in-house supervision.
+In sum, beyond any efforts aimed at securing practitioner compliance, successful imple
+mentation of an evidence-based competence standard will necessitate change at the pro
+fessional organizational level. The old way is the wrong way. That is, the customary ap
+proach of just drafting rules, demanding adherence, and dispensing discipline for infrac
+tions ignores the evidence about “what works” in sponsoring change. As Boswell et al.
+(2015: 11) assert, the undue focus on the behavior of the individual practitioner fails to
+consider systemic and contextual factors which “facilitate or inhibit … adoption, imple
+mentation, and sustainability.” True, too, “overly authoritative dissemination methods
+may reduce the chance a practice change is successfully implemented” (Creason et al.
+2019: 410).
+Summary Conclusions
+A key plank in the ethical codes of all of the major mental health provider organizations in
+the United States is that practitioners “provide services … with populations and in areas
+… within the boundaries of their competence, based on their education, training, super
+vised experience, consultation, study, or professional expertise” (APA 2017: 5). Presently,
+competence is equated with educational attainment and professional experience; howev
+er, research reviewed in this chapter shows clearly that neither ensures skillful or effec
+tive practice. Replacing the field’s current definition of competence with a standard of
+“working within and continually to extend the field’s and one’s own level of effectiveness”
+would serve to protect public welfare and facilitate ongoing improvement in the results of
+clinical services, meeting this new ethical standard. This would also resolve the inconsis
+tency between standards equating competence with indicators that do not hold up under
+empirical scrutiny (e.g., supervision, continuing education, experience) and those dictat
+ing that “scientific and professional knowledge of the discipline” (APA 2017: 5) guides
+
+-- 14 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 15 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+professional practice (e.g., Standards 2.01 and 2.04, respectively, of the APA Ethical Prin
+ciples of Psychologists and Code of Conduct).
+The combination of routine outcome monitoring, feedback informed treatment, and delib
+erate practice, as reviewed in this chapter, provides an evidence-based approach for oper
+ationalizing and meeting this new ethical standard—one which, research is showing, en
+hances outcomes at both the agency and practitioner level. Regardless of the possibili
+ties, significant challenges to implementation exist. Should the profession wish to move
+forward, the responsibility for success cannot be placed on the shoulders of individual
+therapists. Organizational leadership, informed by evidence-based implementation princi
+ples, will be needed to create the cultural shift necessary to place effectiveness at the
+forefront of clinical work and professional identity.
+References
+American Psychological Association (2017). Ethical Principles of Psychologists and Code
+of Conduct. Retrieved from https://www.apa.org/ethics/code/ethics-code-2017.pdf
+American Psychological Association Presidential Task Force on Evidence-Based Practice
+(2006). “Evidence-Based Practice in Psychology.” American Psychologist 61: 271–285.
+Anderson, T., Crowley, M. E. J., Himawan, L., Holmberg, J. K., and Uhlin, B. D. (2016).
+“Therapist Facilitative Interpersonal Skills and Training Status: A Randomized Clinical
+Trial on Alliance and Outcome.” Psychotherapy Research 26: 511–529.
+Association of State and Provincial Psychology Boards (2019). Supervision Guidelines for
+Licensed Psychological Associates. Retrieved from https://cdn.ymaws.com/
+www.asppb.net/resource/resmgr/guidelines/supervision_guidelines_for_l.pdf
+Atkins, D. C. and Christensen, A. (2001). “Is Professional Training Worth the Bother? A
+Review of the Impact of Psychotherapy Training on Client Outcome.” Australian Psycholo
+gist 36: 122–130.
+Babins-Wagner, R. (2017). “Feedback-Informed Treatment in Agency and Clinic Settings.”
+In Feedback-Informed Treatment in Clinical Practice: Reaching for Excellence (ed. D. S.
+Prescott, C. L. Maeschalck, and S. D. Miller, pp. 167–185). Washington, DC: American
+Psychological Association.
+Bachelor, A. and Horvath, A. (1999). “The Therapeutic Relationship.” In The Heart and
+Soul of Change: What Works in Therapy (ed. M. A. Hubble, B. L. Duncan, and S. D. Miller,
+pp. 133–178). Washington, DC: American Psychological Association.
+Berman, J. S. and Norton, N. C. (1985). “Does Professional Training Make a Therapist
+More Effective?” Psychological Bulletin 98: 401–407.
+
+-- 15 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 16 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Boswell, J. F., Castonguay, L. G., and Wasserman, R. H. (2010). “Effects of Psychotherapy
+Training and Intervention Use on Session Outcome.” Journal of Consulting and Clinical
+Psychology 78: 717–723.
+Boswell, J. F., Kraus, D. R., Miller, S. D., and Lambert, M. J. (2015). “Implementing Rou
+tine Outcome Monitoring in Clinical Practice: Benefits, Challenges, and Solutions.” Psy
+chotherapy Research 25: 6–19.
+Brattland, H., Koksvik, J. M., Burkeland, O., Gråwe, R. W., Klöckner, C., Linaker, O. M., …
+Iversen, V. C. (2018). “The Effects of Routine Outcome Monitoring (ROM) on Therapy Out
+comes in the Course of an Implementation Process: A Randomized Clinical Trial.” Journal
+of Counseling Psychology 65: 641–652.
+Brown, J. and Cazauvielh, C. (2019). “Clinician Engagement in Feedback Informed Treat
+ment (FIT) and Patient Outcomes.” Retrieved from https://acorncollaboration.org/
+blog/2019/2/12/therapist-engagement
+Centers for Disease Control and Prevention (2019). “Hand Hygiene in Healthcare Set
+tings.” Retrieved from https://www.cdc.gov/handhygiene/index.html
+Chow, D. (2014). “The Study of Supershrinks: Development and Deliberate Practices of
+Highly Effective Psychotherapists.” Doctoral dissertation, Curtin University, Perth, Aus
+tralia.
+Chow, D. L., Miller, S. D., Seidel, J. A., Kane, R. T., Thornton, J. A., and Andrews, W. P.
+(2015). “The Role of Deliberate Practice in the Development of Highly Effective Psy
+chotherapists.” Psychotherapy 52: 337–345.
+Creason, A. H., Ruscio, A. C., Tate, K. E., and McGraw, K. L. (2019). “Accelerating Psycho
+logical Health Research Findings into Clinical Practice through the Practice-Based Imple
+mentation Network Model.” Military Medicine 184: 409–417.
+de Jong, K. and De Goede, M. E. E. (2015). “Why Do Some Therapists Not Deal with Out
+come Monitoring Feedback? A Feasibility Study on the Effect of Regulatory Focus and
+Person–Organization Fit on Attitude and Outcome.” Psychotherapy Research 25: 661–668.
+de Jong, K., van Sluis, P., Nugter, M. A., Heiser, W. J., and Spinhoven, P. (2012). “Under
+standing the Differential Impact of Outcome Monitoring: Therapist Variables that Moder
+ate Feedback Effects in a Randomized Clinical Trial.” Psychotherapy Research 22: 464–
+474.
+Durlak, J. A. (1979). “Comparative Effectiveness of Paraprofessional and Professional
+Helpers.” Psychological Bulletin 86: 80–92.
+Fals-Stewart, W. and Birchler, G. R. (2002). “Behavioral Couples Therapy with Alcoholic
+Men and their Intimate Partners: The Comparative Effectiveness of Bachelor’s- and
+Master’s-Level Counselors.” Behavior Therapy 33: 123–147.
+
+-- 16 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 17 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Fieser, J. (2005). “Ethics.” Internet Encyclopedia of Philosophy. Retrieved from https://
+www.iep.utm.edu/ethics/
+Fixsen, D. L., Blasé, K. A., Naoom, S. F., and Wallace, F. (2009). “Core Implementation
+Components.” Research on Social Work Practice 19. Retrieved from https://
+doi.org10.1177/1049731509335549
+Fixsen, D. L., Naoom, S. F., Blasé, K. A., Friedman, R. M., and Wallace, F. (2005). Imple
+mentation Research: A Synthesis of the Literature. Tampa, FL: University of South Flori
+da, Louis de la Parte Florida Mental Health Institute, The National Implementation Re
+search Network (FMHI Publication #231).
+Flexner, J. T. (1974). Washington: The Indispensable Man. Boston: Little, Brown, & Com
+pany.
+Gleacher, A. A., Olin, S. S., Nadeem, E., Pollock, M., Ringle, V., Bickman, L., … Hoagwood,
+K. (2016). “Implementing a Measurement Feedback System in Community Mental Health
+Clinics: A Case Study of Multilevel Barriers and Facilitators.” Administration and Policy in
+Mental Health and Mental Health Services Research 43: 426–440.
+Goldberg, S. B., Babins-Wagner, R., Rousmaniere, T., Berzins, S., Hoyt, W. T., Whipple, J.
+L., … Wampold, B. E. (2016a). “Creating a Climate for Therapist Improvement: A Case
+Study of an Agency Focused on Outcomes and Deliberate Practice.” Psychotherapy 53:
+367–375.
+Goldberg, S. B., Rousmaniere, T., Miller, S. D., Whipple, J., Nielsen, S. L., Hoyt, W. T., and
+Wampold, B. E. (2016b). “Do Psychotherapists Improve with Time and Experience? A Lon
+gitudinal Analysis of Outcomes in a Clinical Setting.” Journal of Counseling Psychology
+63: 1–11.
+Goldberg, S. B., Rowe, G., Malte, C. A., Ruan, H., Owen, J. J., and Miller, S. D. (in press).
+“Routine Monitoring of Therapeutic Alliance to Predict Treatment Engagement in a Veter
+an Affairs Substance Use Disorders Clinic.” Psychological Services.
+Goodman, J. D., McKay, J. R., and DePhilippis, D. (2013). “Progress Monitoring in Mental
+Health and Addiction Treatment: A Means of Improving Care.” Professional Psychology:
+Research and Practice 44: 231–246.
+Grus, C. L. and Rozensky, R. H. (2019). “Competency-Based Continuing Education in
+Health Service Psychology: Ensuing Quality, Recommendations for Change.” Professional
+Psychology: Research and Practice 50: 106–112.
+Hattie, J. A., Sharpley, C. F., and Rogers, H. J. (1984). “Comparative Effectiveness of Pro
+fessional and Paraprofessional Helpers.” Psychological Bulletin 95: 534–541.
+Hill, C. E., Spiegel, S. B., Hoffman, M. A., Kivlighan, D. M., Jr., and Gelso, C. J. (2017).
+“Therapist Expertise in Psychotherapy Revisited.” The Counseling Psychologist 45: 7–53.
+
+-- 17 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 18 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Imel, Z. E., Sheng, E., Baldwin, S. A., and Atkins, D. C. (2015). “Removing Very Low-Per
+forming Therapists: A Simulation of Performance-Based Retention in Psychotherapy.” Psy
+chotherapy 52: 329–336.
+Johns, R. G., Barkham, M., Kellett, S., and Saxon, D. (2019). “A Systematic Review of
+Therapist Effects: A Critical Narrative Update and Refinement to Baldwin and Imel’s
+(2013) Review.” Clinical Psychology Review 67: 78–93.
+Johnston, C. and Gowers, S. (2005). “Routine Outcome Measurement: A Survey of UK
+Child and Adolescent Mental Health Services.” Child and Adolescent Mental Health 10:
+133–139.
+Joint Commission (2015). “Sustaining and Spreading Improvement in Hand Hygiene and
+Compliance.” Journal on Quality and Patient Safety 41(1).
+Joint Commission (2018). New Outcome Measures Standard. Retrieved from https://
+www.jointcommission.org/accreditation/
+bhc_new_outcome_measures_standard.aspx
+Knaup, C., Koesters, M., Schoefer, D., Becker, T., and Puschner, B. (2009). “Effect of Feed
+back of Treatment Outcome in Specialist Mental Healthcare: Meta-Analysis.” British Jour
+nal of Psychiatry 195: 15–22.
+Lambert, M. J. (2010). Prevention of Treatment Failure: The Use of Measuring, Monitor
+ing, and Feedback in Clinical Practice. Washington, DC: American Psychological Associa
+tion.
+Lambert, M. J. and Shimokawa, K. (2011). “Collecting Client Feedback.” Psychotherapy
+48: 72–79.
+Lambert, M. J., Whipple, J. L., Hawkins, E. J., Vermeersch, D. A., Nielsen, S. L., and Smart,
+D. W. (2003). “Is it Time for Clinicians to Routinely Track Patient Outcome? A Meta-Analy
+sis.” Clinical Psychology: Science and Practice 10: 288–301.
+Lambert, M. J., Whipple, J. L., Smart, D. W., Vermeersch, D. A., Nielsen, S. L., and
+Hawkins, E. J. (2001). “The Effects of Providing Therapists with Feedback on Patient
+Progress during Psychotherapy: Are Outcomes Enhanced?” Psychotherapy Research 11:
+49–68.
+Lambert, M. J., Whipple, J. L., Vermeersch, D. A., Smart, D. W., Hawkins, E. J., Nielsen, S.
+L., & Goates, M. (2002). “Enhancing Psychotherapy Outcomes via Providing Feedback on
+Client Progress: A Replication.” Clinical Psychology and Psychotherapy 9: 91–103.
+Lutz, W. (2014). “Why, When and How do Patients Change? Identifying and Predicting
+Progress and Outcome in Psychotherapy.” Presentation delivered at the Calgary Counsel
+ing Center. Calgary, Canada. Retrieved from https://www.scottdmiller.com/wp-con
+tent/uploads/2016/09/Lecture-Wolfgang-Lutz-Calgary2014_send.pdf
+
+-- 18 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 19 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+McGough, J. J. and Faraone, S. V. (2009). “Estimating the Size of Treatment Effects: Mov
+ing beyond P Values.” Psychiatry (Edgemont) 6: 21–29.
+Maeschalck, C. L. and Barfknecht, L. R. (2017). “Using Client Feedback to Inform Treat
+ment.” In Feedback-Informed Treatment in Clinical Practice: Reaching for Excellence (ed.
+D. S. Prescott, C. L. Maeschalck, and S. D. Miller, pp. 53–77). Washington, DC: American
+Psychological Association.
+Malouff, J. (2012). “The Need for Empirically Supported Psychology Training Standards.”
+Psychotherapy in Australia 18: 28–32.
+Miller, S. D. (2011). “Cutting Edge Feedback.” Retrieved from https://
+www.scottdmiller.com/cutting-edge-feedback/
+Miller, S. D. and Bertolino, B. (eds.) (2011). The Feedback-Informed Treatment and Train
+ing Manuals (Vols. 1–6). Chicago, IL: ICCE.
+Miller, S. D., Chow, D., Wampold, B. E., Hubble, M. A., Del Re, A. C., Maeschalck, C., and
+Bargmann, S. (2018). “To Be or Not to Be (an Expert)? Revisiting the Role of Deliberate
+Practice in Improving Performance.” High Ability Studies (December). Retrieved from
+https://doi.org/10.1080/13598139.2018.1519410
+Miller, S. D. and Duncan, B. L. (2000). Outcome Rating Scale. Chicago, IL: ICCE.
+Miller, S. D., Duncan, B. L., and Hubble, M. A. (2004). “Beyond Integration: The Triumph
+of Outcome over Process in Clinical Practice.” Psychotherapy in Australia 10: 2–19.
+Miller, S. D., Duncan, B. L., and Johnson, L. (2000a). Session Rating Scale. Chicago, IL:
+ICCE.
+Miller, S. D., Duncan, B. L., Johnson, L. D., & Hubble, M. A. (2000b). “Jurassic Practice:
+Why the Field is on the Verge of Extinction and What We Can Do to Save It.” Professional
+Counselor 15: 28–35.
+Miller, S. D., Hubble, M., and Chow, D. (2020). Better Results: Using Deliberate Practice
+to Improve Therapeutic Effectiveness. Washington, DC: American Psychological Associa
+tion.
+Miller, S. D., Hubble, M., and Chow, D. L. (2017). “Professional Development: An Oxy
+moron?” In The Cycle of Excellence: Using Deliberate Practice in Supervision, Training,
+and Independent Practice (ed. T. Rousmaniere, R. K. Goodyear, S. D. Miller, and B.
+Wampold, pp. 23–47). Hoboken, NJ: Wiley.
+Miller, S. D., Hubble, M. A., and Duncan, B. L. (2007). “Supershrinks: Learning from the
+Field’s Most Effective Practitioners.” The Psychotherapy Networker 31: 26–35, 56.
+Minami, T., Wampold, B. E., Serlin, R. C., Hamilton, E. G., Brown, G. S. J., and Kircher, J.
+C. (2008). “Benchmarking the Effectiveness of Psychotherapy Treatment for Adult De
+
+-- 19 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 20 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+pression in a Managed Care Environment: A Preliminary Study.” Journal of Consulting
+and Clinical Psychology 76: 116–124.
+Montgomery, E. C., Kunik, M. E., Wilson, N., Stanley, M. A., and Weiss, B. (2010). “Can
+Paraprofessionals Deliver Cognitive-Behavioral Therapy to Treat Anxiety and Depressive
+Symptoms?” Bulletin of the Menninger Clinic 74: 45–62.
+Morris, Z. S., Wooding, S., and Grant, J. (2011). “The Answer is 17 Years, What is the
+Question: Understanding Time Lags in Translational Research.” Journal of the Royal Soci
+ety of Medicine 104: 510–520.
+Muir, H. J., Coyne, A. E., Morrison, N. R., Boswell, J. F., and Constantino, M. J. (2019).
+“Ethical Implication of Routine Outcomes Monitoring for Patients, Psychotherapists, and
+Mental Health Care Systems.” Psychotherapy. Advance online publication. Retrieved from
+http://dx.doi.org/10.1037/pst0000246
+Neimeyer, G. J., Minniti, A., and Taylor, J. M. (2019). “Critical Conversations in Continuing
+Education: Contemporary Memes, Themes, and Dreams.” Professional Psychology: Re
+search and Practice 50: 63–69.
+Neimeyer, G. J., Taylor, J. M., and Cox, D. R. (2012). “On Hope and Possibility: Does Con
+tinuing Professional Development Contribute to Ongoing Professional Competence?” Pro
+fessional Psychology: Research and Practice 43: 476–486.
+Neimeyer, G. J., Taylor, J. M., and Wear, D. M. (2009). “Continuing Education in Psycholo
+gy: Outcomes, Evaluations, and Mandates.” Professional Psychology: Research and Prac
+tice 40: 617–624.
+Norcross, J. C. (ed.) (2011). Psychotherapy Relationships That Work (2nd ed.). New York:
+Oxford University Press.
+Okiishi, J., Lambert, M. J., Nielsen, S. L., and Ogles, B. M. (2003). “Waiting for Super
+shrink: An Empirical Analysis of Therapist Effects.” Clinical Psychology & Psychotherapy
+10: 361–373.
+Orlinsky, D. E. and Rønnestad, M. H. (2005). How Psychotherapists Develop: A Study of
+Therapeutic Work and Professional Growth. Washington, DC: American Psychological As
+sociation.
+Østergård, O. K., Randa, H., and Hougaard, E. (2018). “The Effect of Using the Partners
+for Change Outcome Management System as Feedback Tool in Psychotherapy: A System
+atic Review and Meta-Analysis.” Psychotherapy Research. Advance online publication. Re
+trieved from https://doi.org/10.1080/10503307.2018.1517949
+Owen, J., Miller, S. D., Seidel, J. A., and Chow, D. L. (2016). “The Working Alliance in the
+Treatment of Military Adolescents.” Journal of Consulting and Clinical Psychology 84:
+200–210.
+
+-- 20 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 21 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Pinner, D. H. and Kivlighan, D. M., III (2018). “The Ethical Implications and Utility of Rou
+tine Outcome Monitoring in Determining Boundaries of Competence in Practice.” Profes
+sional Psychology: Research and Practice 49: 247–254.
+Prescott, D., Maeschalck, C., and Miller, S. D. (eds.) (2017). Feedback-Informed Treat
+ment in Clinical Practice: Reaching for Excellence. Washington, DC: American Psychologi
+cal Association.
+Reed, D. and Kemmerly, S. A. (2009). “Infection Control and Prevention: A Review of Hos
+pital-Acquired Infections and the Economic Implications.” The Ochsner Journal 9: 27–31.
+Ricks, D. F. (1974). “Supershrink: Methods of a Therapist Judged Successful on the Basis
+of Adult Outcomes of Adolescent Patients.” In Life History Research in Psychopathology
+(ed. D. F. Ricks and M. Roff, pp. 275–297). Minneapolis: University of Minnesota Press.
+Rodak, S. (2013). “Why is Hand Hygiene Still a Problem in Healthcare? Four Common
+Culprits.” Retrieved from https://www.beckersasc.com/asc-quality-infection-control/
+why-is-hand-hygiene-still-a-problem-in-healthcare-4-common-culprits.html?
+goback=%2Egde_1805565_member_229507621
+Rousmaniere, T. G., Swift, J. K., Babins-Wagner, R., Whipple, J. L., and Berzins, S. (2016).
+“Supervisor Variance in Psychotherapy Outcome in Routine Practice.” Psychotherapy Re
+search 26: 196–205.
+Saxon, D., Ashley, K., Bishop-Edwards, L., Connell, J., Harrison, P., Ohlsen, S., … Barkham,
+M. (2017). “A Pragmatic Randomised Controlled Trial Assessing the Non-Inferiority of
+Counselling for Depression versus Cognitive-Behaviour Therapy for Patients in Primary
+Care Meeting a Diagnosis of Moderate or Severe Depression (PRaCTICED): Study Proto
+col for a Randomised Controlled Trial.” Trials. Retrieved from https://doi.org/10.1186/
+s13063-017-1834-6
+Saxon, D. and Barkham, M. (2012). “Patterns of Therapist Variability: Therapist Effects
+and the Contribution of Patient Severity and Risk.” Journal of Consulting and Clinical Psy
+chology 80: 535–546.
+Schuckard, E., Miller, S. D., and Hubble, M.A. (2017). “Feedback-Informed Treatment:
+Historical and Empirical Foundations.” In Feedback-Informed Treatment in Clinical Prac
+tice: Reaching for Excellence (ed. D. S. Prescott, C. L. Maeschalck, and S. D. Miller, pp.
+13–35). Washington, DC: American Psychological Association.
+Shimokawa, K., Lambert, M. J., and Smart, D. W. (2010). “Enhancing Treatment Outcome
+of Patients at Risk of Treatment Failure: Meta-Analytic and Mega-Analytic Review of a
+Psychotherapy Quality Assurance System.” Journal of Consulting and Clinical Psychology
+78: 298–311.
+
+-- 21 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 22 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Simon, W., Lambert, M. J., Harris, M. W., Busath, G., and Vazquez, A. (2012). “Providing
+Patient Progress Information and Clinical Support Tools to Therapists: Effects on Patients
+at Risk of Treatment Failure.” Psychotherapy Research 22: 638–647.
+Stiles, W. B., Barkham, M., Mellor-Clark, J., and Connell, J. (2008). “Effectiveness of Cog
+nitive-Behavioural, Person-Centred, and Psychodynamic Therapies in UK Primary-Care
+Routine Practice: Replication in a Larger Sample.” Psychological Medicine 38: 677–688.
+Stiles, W. B. and Horvath, A. O. (2017). “Appropriate Responsiveness as a Contribution to
+Therapist Effects.” In How and Why Are Some Therapists Better than Others? Under
+standing Therapist Effects (ed. L. G. Castonguay and C. E. Hill, pp. 71–84). Washington,
+DC: American Psychological Association.
+Tasca, G. A., Angus, L., Bonli, R., Drapeau, M., Fitzpatrick, M., Hunsley, J., and Knoll, M.
+(2019). “Outcome and Progress Monitoring in Psychotherapy: Report of a Canadian Psy
+chological Association Task Force.” Canadian Psychology/Psychologie canadienne 60:
+165–177.
+Unsworth, G., Cowie, H., and Green, A. (2012). “Therapists’ and Clients’ Perceptions of
+Routine Outcome Measurement in the NHS: A Qualitative Study.” Counselling and Psy
+chotherapy Research 12: 71–80.
+Waldron, S. M., Loades, M. E., and Rogers, L. (2018). “Routine Outcome Monitoring in
+CAMHS: How Can We Enable Implementation in Practice?” Child and Adolescent Mental
+Health 23: 328–333.
+Walfish, S., McAlister, B., O’Donnell, P., and Lambert, M. J. (2012). “An Investigation of
+Self-Assessment Bias in Mental Health Providers.” Psychological Reports 110: 639–644.
+Wampold, B. E. and Brown, G. S. (2005). “Estimating Variability in Outcomes Attributable
+to Therapists: A Naturalistic Study of Outcomes in Managed Care.” Journal of Consulting
+& Clinical Psychology 73: 914–923.
+Watkins, C. E., Jr. (2011). “Does Psychotherapy Supervision Contribute to Patient Out
+comes? Considering Thirty Years of Research.” The Clinical Supervisor 30: 235–256.
+Weisz, J. R., Weiss, B., Han, S. S., Granger, D. A., and Morton, T. (1995). “Effects of Psy
+chotherapy with Children and Adolescents Revisited: A Meta-Analysis of Treatment Out
+come Studies.” Psychological Bulletin 117: 450–468.
+Notes:
+(1.) The story of George Washington originally appeared in Miller et al. (2000b) and is re
+told here with permission of Professional Counselor magazine.
+(2.) Reproduced from Stiles, W. B. and Horvath, A. O., ‘Appropriate Responsiveness as a
+Contribution to Therapist Effects’, in L. G. Castonguay and C. E. Hill (eds.), How and Why
+
+-- 22 of 23 --
+
+Toward an Evidence-based Standard of Professional Competence
+Page 23 of 23
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: OUP-Reference Gratis Access; date: 02 September 2020
+Are Some Therapists Better than Others? Understanding Therapist Effects, p. 71, https://
+dx.doi.org/10.1037/0000034-005 Copyright © 2017, American Psychological Association.
+(3.) Clinicians in independent practice can access the measures at: https://scott-d-miller-
+ph-d.myshopify.com/collections/performance-metrics/products/performance-metrics-li
+censes-for-the-ors-and-srs
+Scott D. Miller
+International Center for Clinical Excellence
+Joshua W. Madsen
+Department of Psychology, University of Calgary
+Mark A. Hubble
+Institute for the Study of Therapeutic Change
+
+-- 23 of 23 --
+

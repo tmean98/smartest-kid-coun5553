@@ -1,0 +1,3506 @@
+{
+  "id": "d5_vk4PiENdofiJcYF7YV",
+  "courseId": "coun5173",
+  "title": "/quiz Can you make me a 60 question quiz that focu",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "/quiz Can you make me a 60 question quiz that focuses on the specification given in Dr. E's email: the exam will be closed-book and will cover chapters 1-4 and 6.\n\nHere are some areas that I would focus on in your studies:\n\n·       Define crisis, stress, trauma, coping, adaptation, resilience, and other key terms\n·       Double ABC-X Model\n·       Six Guiding Principles of Trauma-Informed Care\n·       Apply ethical principles and relevant laws in crisis scenarios\n·       SOLER and microskills\n·       Identify suicide risk levels (low, moderate, acute)\n·       Warning signs vs risk factors"
+        }
+      ],
+      "id": "NugJ8SHSoGANwjcp",
+      "role": "user"
+    },
+    {
+      "id": "OE6STaW0GVQRJkgR",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "I'll create a comprehensive 60-question quiz covering the material Dr. E specified. Let me start the session first, then deliver the questions one at a time.",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_session_start",
+          "toolCallId": "toolu_01RZC83SYPsHBR4ErjxUiVQJ",
+          "state": "output-available",
+          "input": {
+            "title": "Crisis Counseling Chapters 1-4 & 6 Exam Prep",
+            "instructions_summary": "60-question closed-book exam covering chapters 1-4 and 6, focusing on key definitions, models, ethical principles, microskills, and suicide risk assessment",
+            "total_questions": 60,
+            "topics": [
+              {
+                "name": "Key Terms and Definitions",
+                "question_count": 10
+              },
+              {
+                "name": "Double ABC-X Model",
+                "question_count": 5
+              },
+              {
+                "name": "Trauma-Informed Care Principles",
+                "question_count": 5
+              },
+              {
+                "name": "Ethics and Legal Issues",
+                "question_count": 10
+              },
+              {
+                "name": "SOLER and Microskills",
+                "question_count": 10
+              },
+              {
+                "name": "Suicide Risk Assessment",
+                "question_count": 12
+              },
+              {
+                "name": "Warning Signs vs Risk Factors",
+                "question_count": 8
+              }
+            ],
+            "question_types": "Multiple choice, true/false, and short answer"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "ready!"
+        }
+      ],
+      "id": "7E2OgLorVrvWNso9",
+      "role": "user"
+    },
+    {
+      "id": "59FwZwvRf9niybUA",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_015H8y1pvfWmFwwaJpM3Tuas",
+          "state": "output-available",
+          "input": {
+            "question": "A crisis is best defined as an event that includes which three essential elements?",
+            "type": "multiple_choice",
+            "options": [
+              "A) A precipitating event, a perception of the event leading to subjective distress, and diminished functioning when distress is not alleviated by customary coping mechanisms",
+              "B) A traumatic experience, psychological symptoms, and need for hospitalization",
+              "C) Stress, anxiety, and depression that last more than 30 days",
+              "D) An unexpected event, family involvement, and professional intervention"
+            ],
+            "correct_answer": "A",
+            "explanation": "According to Chapter 1, a crisis is described using a trilogy definition with three essential elements: (1) a precipitating event, (2) a perception of the event that leads to subjective distress, and (3) diminished functioning when the distress is not alleviated by customary coping mechanisms or other resources.",
+            "source": "Chapter 1 slides and Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: A) A precipitating event, a perception of the event leading to subjective distress, and diminished functioning when distress is not alleviated by customary coping mechanisms. I got it right. Next question please."
+        }
+      ],
+      "id": "IOYYQsrwbt1Sxonu",
+      "role": "user"
+    },
+    {
+      "id": "1y3B09jFSxk3pMnw",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You nailed the trilogy definition of crisis.\n\nQuestion 2 of 60 — Key Terms and Definitions (2 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01JFqstfH6bLiQPUPSteqhdu",
+          "state": "output-available",
+          "input": {
+            "question": "Stress is a continuous variable that can be measured by degree, whereas crisis is a dichotomous variable (either is or is not a crisis).",
+            "type": "true_false",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct_answer": "True",
+            "explanation": "According to Boss (2006) cited in Chapter 1, stress is a continuous variable (measured by degree), whereas crisis is a dichotomous variable (there either is or is not a crisis). Stress exists over time as a process, while crisis is a temporary period of intense disorganization and disequilibrium.",
+            "source": "Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: True. I got it right. Next question please."
+        }
+      ],
+      "id": "EXfqtb9onhNLIH08",
+      "role": "user"
+    },
+    {
+      "id": "ZDqYnfE8LmZxbKH5",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You're 2 for 2.\n\nQuestion 3 of 60 — Key Terms and Definitions (3 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01HW2Tum3YUo2vX4oQfexwbr",
+          "state": "output-available",
+          "input": {
+            "question": "According to Hans Selye, what are the two types of stress he distinguished between?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Acute stress and chronic stress",
+              "B) Distress and eustress",
+              "C) Primary stress and secondary stress",
+              "D) Internal stress and external stress"
+            ],
+            "correct_answer": "B",
+            "explanation": "Hans Selye distinguished between distress (changes perceived negatively) and eustress (changes perceived positively). He noted that distress tends to cause more biological damage than eustress, with the latter seeming to contribute to well-being.",
+            "source": "Chapter 1 slides and Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: A) Acute stress and chronic stress. I got it wrong. Next question please."
+        }
+      ],
+      "id": "nmTfUS1lCtxTmkMs",
+      "role": "user"
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "next question"
+        }
+      ],
+      "id": "SWeUaq2uey2GMgCa",
+      "role": "user"
+    },
+    {
+      "id": "NvOJfqprI4gzkxjk",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "That's incorrect. The answer is B) Distress and eustress. Hans Selye differentiated between negative stress (distress) and positive stress (eustress). You're doing great overall though!\n\nQuestion 4 of 60 — Key Terms and Definitions (4 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01Epjdd9urjwGCj11JCMSzST",
+          "state": "output-available",
+          "input": {
+            "question": "A traumatic event, according to the DSM, must involve which of the following?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Actual death, serious injury, or threat to physical integrity only if the threat was real and verified",
+              "B) Threatened or actual death, serious injury, or threat to well-being of oneself or another person (can include perceived threats)",
+              "C) Only events that result in physical harm to the individual",
+              "D) Exposure to combat, natural disasters, or violent crime exclusively"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to the Class 1 lecture, a traumatic event per the DSM is defined as threatened or actual death, serious injury, or threat to well-being of oneself or another person. Dr. McCartney noted that updates to the DSM recognize that perceived threats can be just as traumatic as actual threats.",
+            "source": "Class 1 lecture transcript"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Threatened or actual death, serious injury, or threat to well-being of oneself or another person (can include perceived threats). I got it right. Next question please."
+        }
+      ],
+      "id": "D2kWhRhUjy7EA6gc",
+      "role": "user"
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "next question please"
+        }
+      ],
+      "id": "8a71smirkMPPUoQ6",
+      "role": "user"
+    },
+    {
+      "id": "TTCxpyneGGxp9yUl",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You're back on track.\n\nQuestion 5 of 60 — Key Terms and Definitions (5 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01LfmgsVBFjrpjmDpf1KMmEe",
+          "state": "output-available",
+          "input": {
+            "question": "What is the key difference between a crisis event and trauma?",
+            "type": "short_answer",
+            "options": [],
+            "correct_answer": "A crisis is the event itself, while trauma is the individual's reaction to that event. The crisis event can happen to multiple people, but not everyone will experience it as traumatic.",
+            "explanation": "According to Chapter 1, a crisis is the event that by itself does not result in trauma. The crisis event cannot be controlled. If a person perceives the crisis event in a way that affects daily functioning, the crisis event may become a traumatic experience. The crisis was an event; trauma was a reaction to that event.",
+            "source": "Jackson-Cherry & Erford Chapter 1 and Class 1 lecture"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: The event is the event, trauma is one's perception. I got it wrong. Next question please."
+        }
+      ],
+      "id": "vK4O7pqWBcdJXbFG",
+      "role": "user"
+    },
+    {
+      "id": "FTgr4sPTv4yLFm6e",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Actually, you got the core concept right! You correctly identified that the crisis is the event and trauma is about perception/reaction to it. Your answer captured the key distinction.\n\nQuestion 6 of 60 — Key Terms and Definitions (6 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01982aswVx4ByeDaidvjA8iq",
+          "state": "output-available",
+          "input": {
+            "question": "Coping is defined as any behavioral or cognitive action taken to manage stress. What are the three broad categories of coping responses?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Active coping, passive coping, and reactive coping",
+              "B) Problem-focused coping, emotion-focused coping, and avoidance-focused coping",
+              "C) Individual coping, family coping, and community coping",
+              "D) Short-term coping, long-term coping, and crisis coping"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 1, responses to stress fall into three broad categories: problem-focused coping (taking direct behavioral actions to change the environment), emotion-focused coping (reducing affective arousal to tolerate the stressful situation), and avoidance-focused coping (using distraction or diversion to avoid the stressor).",
+            "source": "Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Problem-focused coping, emotion-focused coping, and avoidance-focused coping. I got it right. Next question please."
+        }
+      ],
+      "id": "jMzllcERNqTAObPW",
+      "role": "user"
+    },
+    {
+      "id": "1iHWTbFwwG2ylEj0",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You know your coping categories.\n\nQuestion 7 of 60 — Key Terms and Definitions (7 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_0117WzRHyheiGGfRUnCRRVCd",
+          "state": "output-available",
+          "input": {
+            "question": "Adaptation, as an outcome of stress or crisis, refers to:",
+            "type": "multiple_choice",
+            "options": [
+              "A) The immediate emotional response to a traumatic event",
+              "B) The degree to which functioning has changed over an extended period, measured by the fit between the individual/family system and the environment",
+              "C) The ability to return to exactly the same functioning level that existed before the crisis",
+              "D) The process of denying that a crisis occurred"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 1, adaptation is the degree to which functioning has changed over an extended period and may be measured by the fit between the individual or family system and the environment. Some individuals and families benefit from adversity and develop better resources to meet future demands, while others may continue to experience imbalance.",
+            "source": "Jackson-Cherry & Erford Chapter 1 and Class 1 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) The degree to which functioning has changed over an extended period, measured by the fit between the individual/family system and the environment. I got it right. Next question please."
+        }
+      ],
+      "id": "AuEfsWMtqCqrKDDo",
+      "role": "user"
+    },
+    {
+      "id": "MTtse9jNbx9kRqN8",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You're really mastering these definitions.\n\nQuestion 8 of 60 — Key Terms and Definitions (8 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01CaFPBS3cHStPJbDsBPwxS3",
+          "state": "output-available",
+          "input": {
+            "question": "Resilience is best defined as:",
+            "type": "multiple_choice",
+            "options": [
+              "A) A fixed personality trait that some people are born with",
+              "B) The dynamics that contribute to positive adaptation following exposure to experiences that have the potential to disrupt functioning",
+              "C) The ability to avoid all negative emotions after a traumatic event",
+              "D) A coping mechanism that prevents people from experiencing stress"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 1, resilience is defined as the dynamics that contribute to positive adaptation following exposure to experiences that have the potential to disrupt functioning (Masten & Obradovic, 2008). The prevailing viewpoint favors resilience as a process rather than a personal trait.",
+            "source": "Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) The dynamics that contribute to positive adaptation following exposure to experiences that have the potential to disrupt functioning. I got it right. Next question please."
+        }
+      ],
+      "id": "qbagyAsmLWASID9t",
+      "role": "user"
+    },
+    {
+      "id": "Q74UUXRPwUBgjBxV",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Great job! You're understanding resilience as a dynamic process.\n\nQuestion 9 of 60 — Key Terms and Definitions (9 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_019KdPjBEtg9AnWhcfdafKx5",
+          "state": "output-available",
+          "input": {
+            "question": "According to the material, which fundamental adaptive systems contribute to human resilience? (Select all that apply in the BEST answer)",
+            "type": "multiple_choice",
+            "options": [
+              "A) Quality relationships with attachment figures, social groups and networks, cognitive problem-solving skills, and self-regulation",
+              "B) Wealth, education level, and access to healthcare exclusively",
+              "C) Avoidance of all stressful situations and isolation from others",
+              "D) Dependence on professional counselors and medication management"
+            ],
+            "correct_answer": "A",
+            "explanation": "According to Chapter 1, several fundamental adaptive systems make a difference in human resilience: quality relationships with attachment figures beginning in early childhood, social groups and networks that provide resources and support, ability to apply cognitive skills to solve problems during stress, self-regulation of emotions and arousal, and connections to larger systems like religious and spiritual communities.",
+            "source": "Jackson-Cherry & Erford Chapter 1 and Class 1 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: A) Quality relationships with attachment figures, social groups and networks, cognitive problem-solving skills, and self-regulation. I got it right. Next question please."
+        }
+      ],
+      "id": "efoIPsSb5Hnxx0ut",
+      "role": "user"
+    },
+    {
+      "id": "FCXs0UhwmiNtyUgI",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand the key protective factors for resilience.\n\nQuestion 10 of 60 — Key Terms and Definitions (10 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_016ywf4PfGJtxzuBkkyj2wV4",
+          "state": "output-available",
+          "input": {
+            "question": "According to the DSM-5-TR, what are the four main symptom clusters for PTSD and ASD?",
+            "type": "short_answer",
+            "options": [],
+            "correct_answer": "Hyperarousal, reexperiencing, negative cognitions and mood, and avoidance",
+            "explanation": "According to Chapter 1, the DSM-5-TR diagnostic criteria for ASD and PTSD include: (1) hyperarousal (e.g., hypervigilance, difficulty concentrating, exaggerated startle responses, sleep disturbance), (2) reexperiencing (e.g., flashbacks, nightmares, intrusive thoughts), (3) negative cognitions and mood (e.g., memory lapse, exaggerated negative beliefs, distorted cognitions, lessened interest in activities), and (4) avoidance (e.g., attempts to avoid reminders of the traumatic event, inability to recall components of the event, detachment, dissociation, restricted affect).",
+            "source": "Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: anxious symptoms, physical symptoms. I got it wrong. Next question please."
+        }
+      ],
+      "id": "InJtSW0wy5iNQ287",
+      "role": "user"
+    },
+    {
+      "id": "DQ9Zek2UsRoQKaF4",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "That's incorrect. The four symptom clusters are: hyperarousal, reexperiencing, negative cognitions and mood, and avoidance. These are important to remember for diagnosis.\n\nQuestion 11 of 60 — Double ABC-X Model (1 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01BwiX62CnzUbbUxx5LAwytN",
+          "state": "output-available",
+          "input": {
+            "question": "Reuben Hill's original ABC-X model of family crisis includes which components?",
+            "type": "multiple_choice",
+            "options": [
+              "A) A (stressor event), B (family's resources), C (meaning attached to the stressor), X (crisis)",
+              "B) A (assessment), B (behavior change), C (coping strategies), X (expected outcome)",
+              "C) A (anger), B (bargaining), C (closure), X (resolution)",
+              "D) A (anxiety level), B (baseline functioning), C (counselor intervention), X (treatment plan)"
+            ],
+            "correct_answer": "A",
+            "explanation": "According to Chapter 1, Reuben Hill (1949, 1958) postulated the ABC-X model where A is the provoking stressor event, B is the family's resources, C is the meaning that the family attaches to the stressor event, and X is the crisis (a state of acute disequilibrium and immobilization of the family system) as an outcome of the interaction among A, B, and C.",
+            "source": "Jackson-Cherry & Erford Chapter 1 and Class 1 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: A) A (stressor event), B (family's resources), C (meaning attached to the stressor), X (crisis). I got it right. Next question please."
+        }
+      ],
+      "id": "XJQKa9gWXHOMtIOn",
+      "role": "user"
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "next question"
+        }
+      ],
+      "id": "cfc1StFiY0nkKMfY",
+      "role": "user"
+    },
+    {
+      "id": "NjKXkyDjC9BXdiQd",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You know Hill's original model well.\n\nQuestion 12 of 60 — Double ABC-X Model (2 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01UTFvhnJemz1HnyvSTeSSuk",
+          "state": "output-available",
+          "input": {
+            "question": "In the Double ABC-X model proposed by McCubbin and Patterson, the \"double A\" factor refers to:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Two separate stressor events that occur simultaneously",
+              "B) The original provoking stressor PLUS the buildup of further stressors (pileup of stressors)",
+              "C) Assessment done twice to ensure accuracy",
+              "D) The difference between acute and chronic stressors"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 1, McCubbin and Patterson's \"double A\" factor includes Hill's original concept of a provoking stressor PLUS the buildup of further stressors that must be addressed. These may include unresolved issues related to the crisis-provoking event, changes that occur unrelated to the event, and any consequences of attempts to cope.",
+            "source": "Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) The original provoking stressor PLUS the buildup of further stressors (pileup of stressors). I got it right. Next question please."
+        }
+      ],
+      "id": "gdtDQsJOuvuHiOHp",
+      "role": "user"
+    },
+    {
+      "id": "LyMZhgMHrkU63Vc4",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You understand the pileup concept.\n\nQuestion 13 of 60 — Double ABC-X Model (3 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01NuncsvgLZRUbTwyEz1Uje4",
+          "state": "output-available",
+          "input": {
+            "question": "The \"double B\" factor in the Double ABC-X model refers to:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Resources available at the time of the provoking stressor only",
+              "B) Resources available at the time of the provoking stressor PLUS tangible and intangible resources that have been acquired or strengthened",
+              "C) Two types of behaviors used to cope with stress",
+              "D) The combination of individual and family resources exclusively"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 1, the \"double B\" factor refers to resources available at the time of the provoking stressor along with tangible and intangible resources that have been acquired or strengthened. Fortified coping resources would be included in this concept.",
+            "source": "Jackson-Cherry & Erford Chapter 1 and Class 1 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Resources available at the time of the provoking stressor PLUS tangible and intangible resources that have been acquired or strengthened. I got it right. Next question please."
+        }
+      ],
+      "id": "BYOO8EzHUDkGg9rw",
+      "role": "user"
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "next question"
+        }
+      ],
+      "id": "aoEYuaDhYvDX5D7M",
+      "role": "user"
+    },
+    {
+      "id": "BmlriGO60b6nS406",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You're nailing the Double ABC-X model.\n\nQuestion 14 of 60 — Double ABC-X Model (4 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01WFfrS34WPDtaBs6Qos9d7v",
+          "state": "output-available",
+          "input": {
+            "question": "The \"double C\" factor in the Double ABC-X model includes perceptions and meanings assigned to:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Only the original provoking stressor",
+              "B) The original provoking stressor, accumulated stressors, resources, coping, and the entire situation",
+              "C) Future anticipated stressors only",
+              "D) The counselor's assessment of the family's situation"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 1, the \"double C\" factor refers not only to perceptions and meanings assigned to the original provoking stressor but also to accumulated stressors, resources, coping, and the entire situation. Perceptions are influenced by religious beliefs, family values, cultural values, and how the situation may have been reframed.",
+            "source": "Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) The original provoking stressor, accumulated stressors, resources, coping, and the entire situation. I got it right. Next question please."
+        }
+      ],
+      "id": "R55ZX6zsLB0SysvT",
+      "role": "user"
+    },
+    {
+      "id": "TWLA3wZTkAxQF12R",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You understand the comprehensive nature of the \"double C\" factor.\n\nQuestion 15 of 60 — Double ABC-X Model (5 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_011YtRxozL3Bvamt82DQN2Tn",
+          "state": "output-available",
+          "input": {
+            "question": "McCubbin and Patterson referred to positive long-term changes that occur in response to crises as:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Stress adaptation",
+              "B) Bonadaptation",
+              "C) Crisis resolution",
+              "D) Equilibrium restoration"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 1, McCubbin and Patterson referred to positive long-term changes that occur in response to crises as bonadaptation. They contended that following crises, some individuals and families do not merely return to their previous states of equilibrium; instead, they are better able to function and handle stress and crisis events. Others have labeled this concept stress-related growth or posttraumatic growth.",
+            "source": "Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: A) Stress adaptation. I got it wrong. Next question please."
+        }
+      ],
+      "id": "BF6gUH64jWwBxCGM",
+      "role": "user"
+    },
+    {
+      "id": "D8R7eZjcbeHlKyiT",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "That's incorrect. The answer is B) Bonadaptation. This term describes when people actually become better equipped to handle future crises, not just returning to baseline.\n\nQuestion 16 of 60 — Trauma-Informed Care Principles (1 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01Q6PY31FsBNJP7dAb7EMHyp",
+          "state": "output-available",
+          "input": {
+            "question": "Trauma-informed care (TIC) is the same as crisis assessment and intervention.",
+            "type": "true_false",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct_answer": "False",
+            "explanation": "According to Chapter 1, the terms trauma-informed care and crisis assessment are often inappropriately used interchangeably. Components of TIC may be integrated into the crisis assessment process, but TIC is not the same as crisis assessment and intervention. TIC assists an individual in restoring a sense of safety, power, and self-worth.",
+            "source": "Jackson-Cherry & Erford Chapter 1 and Class 1 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: False. I got it right. Next question please."
+        }
+      ],
+      "id": "gsntOaFog0P92yNI",
+      "role": "user"
+    },
+    {
+      "id": "Mil5HRcEiEMfhmRS",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! TIC and crisis assessment are related but distinct concepts.\n\nQuestion 17 of 60 — Trauma-Informed Care Principles (2 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01AHRuYkN2F31sLgUu69ywwh",
+          "state": "output-available",
+          "input": {
+            "question": "What are the six guiding principles of Trauma-Informed Care according to SAMHSA (2014)?",
+            "type": "short_answer",
+            "options": [],
+            "correct_answer": "Safety; Trustworthiness and Transparency; Peer Support; Collaboration and Mutuality; Empowerment, Voice, and Choice; Cultural, Historical, and Gender Issues",
+            "explanation": "According to the Class 1 slides, the six guiding principles of trauma-informed care are: (1) Safety, (2) Trustworthiness and Transparency, (3) Peer Support, (4) Collaboration and Mutuality, (5) Empowerment, Voice, and Choice, and (6) Cultural, Historical, and Gender Issues. These principles guide practitioners in creating environments that promote healing and avoid re-traumatization.",
+            "source": "Class 1 slides and SAMHSA 2014"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: not sure tbh. I got it wrong. Next question please."
+        }
+      ],
+      "id": "fe9SVt6yghDM8yXP",
+      "role": "user"
+    },
+    {
+      "id": "XQf8iUa0DlsG65VJ",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "That's okay - the six principles are: Safety; Trustworthiness and Transparency; Peer Support; Collaboration and Mutuality; Empowerment, Voice, and Choice; and Cultural, Historical, and Gender Issues. These are key to remember for the exam!\n\nQuestion 18 of 60 — Trauma-Informed Care Principles (3 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01SYabh2c6VT6vqxpVPGyJNJ",
+          "state": "output-available",
+          "input": {
+            "question": "The trauma-informed care principle of \"Safety\" emphasizes:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Only physical safety in the counseling office",
+              "B) Physical and emotional safety for both clients and staff throughout the organization",
+              "C) Safety planning for suicide risk only",
+              "D) Ensuring clients never feel uncomfortable emotions"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to trauma-informed care principles, Safety refers to ensuring physical and emotional safety for both clients and staff throughout the organization. This includes creating environments where people feel safe, secure, and protected from harm.",
+            "source": "Class 1 slides and Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Physical and emotional safety for both clients and staff throughout the organization. I got it right. Next question please."
+        }
+      ],
+      "id": "wRSbi6gEQPlGLU7i",
+      "role": "user"
+    },
+    {
+      "id": "82Afk3PzzSJCDbdj",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Great! You understand the comprehensive nature of safety in TIC.\n\nQuestion 19 of 60 — Trauma-Informed Care Principles (4 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01E5nnzKu1Fcu9YjgbnjjCLb",
+          "state": "output-available",
+          "input": {
+            "question": "The TIC principle of \"Empowerment, Voice, and Choice\" means that:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Counselors should make all decisions for clients in crisis to ensure safety",
+              "B) Clients are involved in decision-making, have choices in services, and their voices are heard and valued",
+              "C) Clients must empower themselves without counselor support",
+              "D) Only high-functioning clients should be given choices"
+            ],
+            "correct_answer": "B",
+            "explanation": "The principle of Empowerment, Voice, and Choice emphasizes that clients should be involved in decision-making processes, have meaningful choices in the services they receive, and their voices, opinions, and experiences are heard and valued. This helps restore a sense of control that trauma often takes away.",
+            "source": "SAMHSA 2014 and Class 1 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Clients are involved in decision-making, have choices in services, and their voices are heard and valued. I got it right. Next question please."
+        }
+      ],
+      "id": "JhuWeCsf92ndpEK0",
+      "role": "user"
+    },
+    {
+      "id": "PL4njjI57IMDr3rD",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand the importance of client autonomy in TIC.\n\nQuestion 20 of 60 — Trauma-Informed Care Principles (5 of 5)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01FcJjcdquyG3QrCnGVgsWvo",
+          "state": "output-available",
+          "input": {
+            "question": "Which TIC principle specifically addresses the need to recognize and respond to the impact of historical trauma, stereotypes, and bias?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Safety",
+              "B) Peer Support",
+              "C) Cultural, Historical, and Gender Issues",
+              "D) Collaboration and Mutuality"
+            ],
+            "correct_answer": "C",
+            "explanation": "The principle of Cultural, Historical, and Gender Issues emphasizes the need to move past cultural stereotypes and biases, offer services that are responsive to the racial, ethnic, and cultural needs of individuals, recognize and address historical trauma, and incorporate policies and protocols that are responsive to the cultural needs of the individuals served.",
+            "source": "SAMHSA 2014 and Class 1 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: C) Cultural, Historical, and Gender Issues. I got it right. Next question please."
+        }
+      ],
+      "id": "YzrqcDsKMpzWx7Ln",
+      "role": "user"
+    },
+    {
+      "id": "Cptfb9SAKxC8ZEpi",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You're doing well on the TIC principles.\n\nQuestion 21 of 60 — Ethics and Legal Issues (1 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01VwynDi8MKVoBTZkfGLmiS4",
+          "state": "output-available",
+          "input": {
+            "question": "The duty to warn, established by the Tarasoff case, requires counselors to:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Warn only law enforcement when a client threatens violence",
+              "B) Break confidentiality to warn an identifiable victim and/or notify authorities when a client poses a serious threat of violence to another person",
+              "C) Warn all potential victims even if the threat is vague and general",
+              "D) Only document the threat but maintain complete confidentiality"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 3, the duty to warn requires counselors to break confidentiality to protect an identifiable potential victim when a client poses a serious and foreseeable threat of violence. This typically involves warning the intended victim and notifying law enforcement. The threat must be specific to an identifiable person.",
+            "source": "Jackson-Cherry & Erford Chapter 3"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Break confidentiality to warn an identifiable victim and/or notify authorities when a client poses a serious threat of violence to another person. I got it right. Next question please."
+        }
+      ],
+      "id": "5M8mFv3tJ9WE9utR",
+      "role": "user"
+    },
+    {
+      "id": "Qa8NzktplusPA0Ah",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You understand the duty to warn well.\n\nQuestion 22 of 60 — Ethics and Legal Issues (2 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_0112XDuCjDWu98eSsUZxgHbD",
+          "state": "output-available",
+          "input": {
+            "question": "In the original Tarasoff v. Regents case (1969), what happened?",
+            "type": "multiple_choice",
+            "options": [
+              "A) A psychologist warned the intended victim and the victim survived",
+              "B) A psychologist contacted campus police but did not warn the intended victim (Tatiana Tarasoff), and she was later murdered by the client",
+              "C) A counselor breached confidentiality inappropriately and was sued",
+              "D) A therapist successfully prevented a homicide through proper warning"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 3 slides, in 1969 Prosenjit Poddar confided to a psychologist his intent to kill Tatiana Tarasoff. The psychologist contacted campus police and began commitment proceedings, but Poddar was released. The psychologist's supervisor ordered the case notes destroyed and no further action taken. No one contacted Tarasoff or her family. Two months later, Poddar stabbed Tarasoff to death. The California Supreme Court ruled that therapists have a duty to break confidentiality when disclosure is necessary to avert danger.",
+            "source": "Jackson-Cherry & Erford Chapter 3 and Class 3 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) A psychologist contacted campus police but did not warn the intended victim (Tatiana Tarasoff), and she was later murdered by the client. I got it right. Next question please."
+        }
+      ],
+      "id": "5hIfICYEqza2QaX2",
+      "role": "user"
+    },
+    {
+      "id": "w94dP7bZFWk8gM2N",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You know the tragic details of the Tarasoff case.\n\nQuestion 23 of 60 — Ethics and Legal Issues (3 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01Nr12c6drhXumE9zt5Ws8rV",
+          "state": "output-available",
+          "input": {
+            "question": "The difference between \"duty to warn\" and \"duty to protect\" is:",
+            "type": "multiple_choice",
+            "options": [
+              "A) There is no difference; they are the same thing",
+              "B) Duty to warn means informing someone of danger so they can protect themselves; duty to protect means taking direct action to reduce the danger (like hospitalization)",
+              "C) Duty to warn applies only to suicide; duty to protect applies only to homicide",
+              "D) Duty to warn is ethical; duty to protect is legal"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 3, duty to warn means informing someone of a danger or hazard so that informed persons will take action to protect themselves (e.g., calling a threatened family member). Duty to protect means taking a direct action that reduces the danger or hazard to that person directly (e.g., arranging hospitalization of a client who has threatened to harm themselves or others).",
+            "source": "Jackson-Cherry & Erford Chapter 3"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Duty to warn means informing someone of danger so they can protect themselves; duty to protect means taking direct action to reduce the danger (like hospitalization). I got it right. Next question please."
+        }
+      ],
+      "id": "51eo01zLpuN18Mcl",
+      "role": "user"
+    },
+    {
+      "id": "m0Xh36eAORFpHlSY",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand the distinction between warning and protecting.\n\nQuestion 24 of 60 — Ethics and Legal Issues (4 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01UXdp77ktSQqs74L3yAo3uU",
+          "state": "output-available",
+          "input": {
+            "question": "According to Washington State law (RCW 71.05.120), the duty to warn or protect is discharged if:",
+            "type": "multiple_choice",
+            "options": [
+              "A) The counselor documents the threat in their notes only",
+              "B) Reasonable efforts are made to communicate the threat to the victim or victims AND to law enforcement personnel",
+              "C) The counselor hospitalizes the client involuntarily",
+              "D) The counselor consults with a supervisor about the case"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to the Class 3 slides on Washington Law RCW 71.05.120, the duty to warn or to take reasonable precautions to provide protection from violent behavior is discharged if reasonable efforts are made to communicate the threat to the victim or victims AND to law enforcement personnel.",
+            "source": "Class 3 slides - Washington Law RCW 71.05.120"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Reasonable efforts are made to communicate the threat to the victim or victims AND to law enforcement personnel. I got it right. Next question please."
+        }
+      ],
+      "id": "u1wNA4mSgV9FwqzL",
+      "role": "user"
+    },
+    {
+      "id": "UNeIRDJiaiZmfn4N",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You know the Washington State law requirements.\n\nQuestion 25 of 60 — Ethics and Legal Issues (5 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01RJLAT8nSuhvsPDz6ss5Fo8",
+          "state": "output-available",
+          "input": {
+            "question": "HIPAA (Health Insurance Portability and Accountability Act) primarily governs:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Only school counseling records",
+              "B) The privacy and security of health information for covered entities like hospitals and private practices",
+              "C) Only insurance billing practices",
+              "D) Educational records of all students"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 3, HIPAA is federal legislation implemented to address management of health care information. It mandates privacy and security provisions for electronic protected health information. HIPAA applies to covered entities like health care providers, health plans, and health care clearinghouses.",
+            "source": "Jackson-Cherry & Erford Chapter 3 and Class 3 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) The privacy and security of health information for covered entities like hospitals and private practices. I got it right. Next question please."
+        }
+      ],
+      "id": "JULQhutZl8kX60cN",
+      "role": "user"
+    },
+    {
+      "id": "tGASEquyGJuzJhcq",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You understand HIPAA's scope well.\n\nQuestion 26 of 60 — Ethics and Legal Issues (6 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01TXERnacvd9ZWTBW6qkjVE7",
+          "state": "output-available",
+          "input": {
+            "question": "FERPA (Family Educational Rights and Privacy Act) primarily protects:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Medical records in hospital settings",
+              "B) Educational records of students in schools that receive federal funding",
+              "C) Mental health records in private practice",
+              "D) All health care information regardless of setting"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 3, FERPA was passed in 1974 to protect the privacy of educational records. It applies to schools that receive federal funding and gives parents/eligible students rights to access educational records, request corrections, and control disclosure of information from those records.",
+            "source": "Jackson-Cherry & Erford Chapter 3 and Class 3 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Educational records of students in schools that receive federal funding. I got it right. Next question please."
+        }
+      ],
+      "id": "sq0tIX7qoxB6m8M4",
+      "role": "user"
+    },
+    {
+      "id": "CYxW434f7OMGTpBG",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You're clear on the difference between HIPAA and FERPA.\n\nQuestion 27 of 60 — Ethics and Legal Issues (7 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01KuaN78utKdALmW68ncDJ6b",
+          "state": "output-available",
+          "input": {
+            "question": "Under FERPA, parents have access to their child's educational records until the child turns what age?",
+            "type": "multiple_choice",
+            "options": [
+              "A) 16 years old",
+              "B) 18 years old or becomes an 'eligible student'",
+              "C) 21 years old",
+              "D) Parents always have access regardless of age"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 3, FERPA gives parents certain rights to their child's educational records until the child is 18 years of age (an 'eligible student'). After this point, the right to privacy regarding the contents of educational records is provided to the eligible student, thus denying parental access without consent.",
+            "source": "Jackson-Cherry & Erford Chapter 3"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) 18 years old or becomes an 'eligible student'. I got it right. Next question please."
+        }
+      ],
+      "id": "6GKaPzAXkz8iCTIR",
+      "role": "user"
+    },
+    {
+      "id": "lBwf1OkIqkXNPigu",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You know when parental rights under FERPA transfer.\n\nQuestion 28 of 60 — Ethics and Legal Issues (8 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01LihyoDtuCHdMWMss7xD7f7",
+          "state": "output-available",
+          "input": {
+            "question": "In a crisis or emergency situation, FERPA allows schools to:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Release information from educational records to protect the health and safety of others, but only during the emergency",
+              "B) Never release information without written consent",
+              "C) Release any information to anyone indefinitely after an emergency is declared",
+              "D) Only release information to parents, never to law enforcement"
+            ],
+            "correct_answer": "A",
+            "explanation": "According to Chapter 3, an emergency situation creates an exception under FERPA, and schools may release information from general, medical, or mental health records to protect the health and safety of others. However, this exception is only for the time of the emergency and is not blanket consent to release student information. Information may be released to appropriate individuals tasked with protecting health and safety.",
+            "source": "Jackson-Cherry & Erford Chapter 3 and Class 3 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: A) Release information from educational records to protect the health and safety of others, but only during the emergency. I got it right. Next question please."
+        }
+      ],
+      "id": "La6We9ZIvn23PjWC",
+      "role": "user"
+    },
+    {
+      "id": "GOHKcNMO6T3FqQes",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You understand the emergency exception to FERPA.\n\nQuestion 29 of 60 — Ethics and Legal Issues (9 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01Wjg87SiJKe2H1CCF3BpYH3",
+          "state": "output-available",
+          "input": {
+            "question": "School counselors' case notes that are kept in their \"sole possession\" and not shared with others are:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Considered part of the educational record and must be disclosed under FERPA",
+              "B) Exempt from FERPA and do not have to be revealed",
+              "C) Must be shared with parents upon request",
+              "D) Automatically become part of the student's permanent record"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 3, FERPA contains a provision that exempts certain personal records. Records that are exclusively in the possession of the counselor and are not revealed to others are excluded from FERPA. Due to this exemption, counseling case notes are not considered part of the educational record and do not have to be revealed.",
+            "source": "Jackson-Cherry & Erford Chapter 3"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Exempt from FERPA and do not have to be revealed. I got it right. Next question please."
+        }
+      ],
+      "id": "ryJ2s5X2W9uSDlZ3",
+      "role": "user"
+    },
+    {
+      "id": "zb9mQJMNVRDPowUf",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand the \"sole possession\" exemption.\n\nQuestion 30 of 60 — Ethics and Legal Issues (10 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01CFLJXNH6YAxsBUkdEt4Wdt",
+          "state": "output-available",
+          "input": {
+            "question": "The saying \"If it's not written down, it didn't happen\" emphasizes the importance of:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Writing lengthy case notes for every session",
+              "B) Proper documentation as essential to the standard of care and the counselor's only defense in a lawsuit",
+              "C) Documenting only negative client behaviors",
+              "D) Keeping personal opinions about clients in case files"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 3 slides, documentation is an essential part of the standard of care. Good documentation is particularly crucial in crisis situations such as suicide, homicide, and mandated reporting where the risk of litigation increases. In the event of a lawsuit, a counselor's only defense is documentation in the case file that proves the counselor conformed to the standard of care.",
+            "source": "Jackson-Cherry & Erford Chapter 3 and Class 3 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Proper documentation as essential to the standard of care and the counselor's only defense in a lawsuit. I got it right. Next question please."
+        }
+      ],
+      "id": "yjDZluYSEfQq5rPd",
+      "role": "user"
+    },
+    {
+      "id": "9MwO6fYWtFiU1WT9",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You understand the critical importance of documentation.\n\nQuestion 31 of 60 — SOLER and Microskills (1 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_015mV3uBDg3zQTXzYUNpzJRR",
+          "state": "output-available",
+          "input": {
+            "question": "The acronym SOLER, developed by Gerard Egan, is a tool for remembering:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Steps in the crisis intervention process",
+              "B) Nonverbal attending behaviors that show clients you are present and listening",
+              "C) The five stages of grief",
+              "D) Documentation requirements for crisis counseling"
+            ],
+            "correct_answer": "B",
+            "explanation": "SOLER is a tool developed by Gerard Egan to help counselors remember important nonverbal attending behaviors that communicate presence, attentiveness, and engagement with clients. It stands for body posture and positioning that shows attentiveness.",
+            "source": "Jackson-Cherry & Erford Chapter 4"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Nonverbal attending behaviors that show clients you are present and listening. I got it right. Next question please."
+        }
+      ],
+      "id": "Ii94pDtYjvuFS8uC",
+      "role": "user"
+    },
+    {
+      "id": "cMo1TagTSyAPCVqO",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! SOLER is all about nonverbal communication.\n\nQuestion 32 of 60 — SOLER and Microskills (2 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01Md488ifUGtKBTZhKuBeG7H",
+          "state": "output-available",
+          "input": {
+            "question": "What does the \"S\" in SOLER stand for?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Stand near the client",
+              "B) Squarely face the client (or at an angle)",
+              "C) Smile frequently",
+              "D) Silence is important"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 4, the \"S\" in SOLER stands for Squarely face the client, which means adopting a posture that directly faces the client (or at a slight angle for comfort). This communicates involvement and readiness to engage with the client.",
+            "source": "Jackson-Cherry & Erford Chapter 4"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Squarely face the client (or at an angle). I got it right. Next question please."
+        }
+      ],
+      "id": "spN87tkYyQtIsD7J",
+      "role": "user"
+    },
+    {
+      "id": "qJ7IzPxqOeF3qp3h",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You know the SOLER framework.\n\nQuestion 33 of 60 — SOLER and Microskills (3 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01CYNyuEb24HpZomuXZZ9NgX",
+          "state": "output-available",
+          "input": {
+            "question": "What does the \"O\" in SOLER stand for?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Observe the client carefully",
+              "B) Open posture (arms and legs uncrossed)",
+              "C) Offer solutions immediately",
+              "D) Organize your thoughts before responding"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 4 and the Class 2 slides, the \"O\" in SOLER stands for Open posture. This means adopting an open, non-defensive body stance with arms and legs uncrossed, which communicates receptiveness and availability to the client.",
+            "source": "Jackson-Cherry & Erford Chapter 4 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Open posture (arms and legs uncrossed). I got it right. Next question please."
+        }
+      ],
+      "id": "mHdmTdw1A62aO2F3",
+      "role": "user"
+    },
+    {
+      "id": "ngXaQT1kXdyZmPP6",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! Moving through SOLER well.\n\nQuestion 34 of 60 — SOLER and Microskills (4 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01P5bMRMs9PfmP423E1ZxLHF",
+          "state": "output-available",
+          "input": {
+            "question": "What does the \"L\" in SOLER stand for?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Listen actively",
+              "B) Look at the client constantly",
+              "C) Lean (slightly) toward the client",
+              "D) Let the client lead the conversation"
+            ],
+            "correct_answer": "C",
+            "explanation": "According to Chapter 4, the \"L\" in SOLER stands for Lean (slightly) toward the client. Leaning slightly forward conveys interest and engagement, while leaning away may suggest disinterest or discomfort.",
+            "source": "Jackson-Cherry & Erford Chapter 4 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: C) Lean (slightly) toward the client. I got it right. Next question please."
+        }
+      ],
+      "id": "Ihhq1D39xatlsU0U",
+      "role": "user"
+    },
+    {
+      "id": "4YN6Hu5yh0rS0HiX",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You're nailing SOLER.\n\nQuestion 35 of 60 — SOLER and Microskills (5 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_0195ktHR59Wa2zykgQZpAj9p",
+          "state": "output-available",
+          "input": {
+            "question": "What does the \"E\" in SOLER stand for?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Empathize with the client's feelings",
+              "B) Encourage the client to talk",
+              "C) Eye contact (appropriate and culturally sensitive)",
+              "D) Evaluate the client's mental status"
+            ],
+            "correct_answer": "C",
+            "explanation": "According to Chapter 4, the \"E\" in SOLER stands for Eye contact. This means maintaining appropriate and culturally sensitive eye contact to convey interest and engagement. The counselor should be mindful that eye contact norms vary across cultures and situations.",
+            "source": "Jackson-Cherry & Erford Chapter 4 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: C) Eye contact (appropriate and culturally sensitive). I got it right. Next question please."
+        }
+      ],
+      "id": "rtNcAa4CLUhQmiqB",
+      "role": "user"
+    },
+    {
+      "id": "W8ID7RkZqLsS9tA5",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! Almost done with SOLER.\n\nQuestion 36 of 60 — SOLER and Microskills (6 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_014xcvPsu7BJgM79EBWF9c7h",
+          "state": "output-available",
+          "input": {
+            "question": "What does the \"R\" in SOLER stand for?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Reflect the client's feelings",
+              "B) Respond promptly to client statements",
+              "C) Relax and stay natural",
+              "D) Reassure the client everything will be okay"
+            ],
+            "correct_answer": "C",
+            "explanation": "According to Chapter 4 and Class 2 slides, the \"R\" in SOLER stands for Relax (or stay relaxed). Being relaxed and natural helps put the client at ease, whereas appearing tense, rigid, or fidgeting can convey discomfort and increase client anxiety.",
+            "source": "Jackson-Cherry & Erford Chapter 4 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: C) Relax and stay natural. I got it right. Next question please."
+        }
+      ],
+      "id": "COg2gvJX1EnfyLuH",
+      "role": "user"
+    },
+    {
+      "id": "U7MOhTumvQalpUsU",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You've mastered SOLER.\n\nQuestion 37 of 60 — SOLER and Microskills (7 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_014UBKe3UdjAjUrBP7xrvWv3",
+          "state": "output-available",
+          "input": {
+            "question": "When working with a client in crisis who is staring at the floor and avoiding eye contact (such as a sexual assault victim), the counselor should:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Confront the client and ask them to look at you directly when speaking",
+              "B) Recognize this as a protective mechanism and allow the client to maintain their comfort level with eye contact",
+              "C) End the session because the client is not ready for counseling",
+              "D) Interpret this as resistance to treatment"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 4, when a client in crisis avoids eye contact (such as a sexual assault victim staring at the floor), this is likely serving an emotion-regulation function or protective mechanism due to shame and anxiety. It would not be appropriate to confront them on lack of eye contact. The counselor should be mindful that this reaction is normal in crisis situations.",
+            "source": "Jackson-Cherry & Erford Chapter 4"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Recognize this as a protective mechanism and allow the client to maintain their comfort level with eye contact. I got it right. Next question please."
+        }
+      ],
+      "id": "YmUQAGguI9reBXbU",
+      "role": "user"
+    },
+    {
+      "id": "lyMisuFYqvmJW458",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You understand trauma-sensitive attending behaviors.\n\nQuestion 38 of 60 — SOLER and Microskills (8 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_016ZkToJ8mgY2Yoxaf4Xza5k",
+          "state": "output-available",
+          "input": {
+            "question": "According to the material on vocal tone, what is \"verbal underlining\"?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Speaking louder to emphasize important points",
+              "B) Giving increased vocal emphasis to certain words or short phrases to convey empathic understanding",
+              "C) Writing down key words the client uses",
+              "D) Repeating the client's exact words back to them"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 4, verbal underlining is the technique of giving increased vocal emphasis to certain words or short phrases. For example, saying \"You were VERY hurt by your husband's actions\" with emphasis on the word \"very\" helps reflect the intensity of the client's experience.",
+            "source": "Jackson-Cherry & Erford Chapter 4"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Giving increased vocal emphasis to certain words or short phrases to convey empathic understanding. I got it right. Next question please."
+        }
+      ],
+      "id": "Vw74iIacQmE9S3qr",
+      "role": "user"
+    },
+    {
+      "id": "NYOdGtNwvHcd4Ytf",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand vocal techniques.\n\nQuestion 39 of 60 — SOLER and Microskills (9 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01MdU1XxjQy7cQ5srp1Z6J6h",
+          "state": "output-available",
+          "input": {
+            "question": "Why is silence important in crisis counseling?",
+            "type": "multiple_choice",
+            "options": [
+              "A) It allows the counselor to think about what to say next",
+              "B) It gives both the client and counselor space to think, process, and sort out thoughts; it can convey acceptance and empathic understanding",
+              "C) It makes sessions shorter and more efficient",
+              "D) It prevents the counselor from saying something wrong"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 4, silence is important for both clients and professional counselors. Clients in crisis need space to think, sort out their thoughts, and process what is happening. When used appropriately, silence can convey acceptance and empathic understanding. The message is \"I am here for you if you need me, yet I respect your need to take your time with this.\"",
+            "source": "Jackson-Cherry & Erford Chapter 4 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) It gives both the client and counselor space to think, process, and sort out thoughts; it can convey acceptance and empathic understanding. I got it right. Next question please."
+        }
+      ],
+      "id": "TmrX0xuxP5yeUOPa",
+      "role": "user"
+    },
+    {
+      "id": "OIl5ZEOQS3HAGNoa",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You understand the therapeutic value of silence.\n\nQuestion 40 of 60 — SOLER and Microskills (10 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_018xrvxmYKafdRyi2K4mN9fZ",
+          "state": "output-available",
+          "input": {
+            "question": "When working with an agitated client in crisis, the counselor's vocal tone should be:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Loud and firm to establish authority",
+              "B) Calm and soothing, speaking more slowly to help the client slow down and focus",
+              "C) Fast-paced to match the client's energy level",
+              "D) Monotone to avoid conveying emotion"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 4 and Class 2 slides, when a client is overly agitated, it is often helpful to speak more slowly and in a soothing tone, as this will help the client slow things down and begin to focus. The counselor's control and calmness may be among the greatest benefits to a client in crisis. If the counselor's speech also begins to race, it could exacerbate the client's state.",
+            "source": "Jackson-Cherry & Erford Chapter 4 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Calm and soothing, speaking more slowly to help the client slow down and focus. I got it right. Next question please."
+        }
+      ],
+      "id": "zh9krIFOsEsam7AF",
+      "role": "user"
+    },
+    {
+      "id": "ewVzsm5mcTidSMRy",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand how to use vocal tone therapeutically.\n\nQuestion 41 of 60 — Suicide Risk Assessment (1 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01D8Pq3n7fXGG2bVg7VWxfRg",
+          "state": "output-available",
+          "input": {
+            "question": "The difference between crisis counseling skills and basic counseling skills is primarily:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Crisis counselors use completely different techniques than regular counselors",
+              "B) Less about what the counselor does and more about contextual application (where and when skills are applied); crisis counseling tends to be more directive",
+              "C) Crisis counseling requires no formal training",
+              "D) Basic counseling is always longer-term than crisis counseling"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 4 slides, the difference between basic counseling skills and crisis counseling skills is less about what the counselor does or the techniques employed and more about contextual application—where and in what situation skills are applied. Crisis counseling tends to be more directive and can involve information giving, probing questions, and even direct or indirect confrontations.",
+            "source": "Jackson-Cherry & Erford Chapter 4 and Class 4 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Less about what the counselor does and more about contextual application (where and when skills are applied); crisis counseling tends to be more directive. I got it right. Next question please."
+        }
+      ],
+      "id": "dfgAfieujmZQYuFi",
+      "role": "user"
+    },
+    {
+      "id": "We1FQowSbNbE8hlv",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You understand the contextual nature of crisis counseling.\n\nQuestion 42 of 60 — Suicide Risk Assessment (2 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_016kP9J4TUhRQqTYtVUQUHMU",
+          "state": "output-available",
+          "input": {
+            "question": "What is the difference between \"prevalence\" and \"rate\" when discussing suicide statistics?",
+            "type": "multiple_choice",
+            "options": [
+              "A) They mean the same thing",
+              "B) Prevalence is a nominal figure stating how many lives were lost; rate is interpreted data per 100,000 people to level the playing field",
+              "C) Prevalence is always higher than rate",
+              "D) Rate applies only to international data"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, prevalence is a nominal figure that states how many lives were lost to suicide (or any other type of malady), while rate (or crude rate) is a value explaining data that has been interpreted by leveling the playing field—if all members of a population were divided into groups of 100,000, the rate would indicate how many people died per 100,000 people.",
+            "source": "Jackson-Cherry & Erford Chapter 6"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Prevalence is a nominal figure stating how many lives were lost; rate is interpreted data per 100,000 people to level the playing field. I got it right. Next question please."
+        }
+      ],
+      "id": "rPYjsaMrB2OEmfyd",
+      "role": "user"
+    },
+    {
+      "id": "dZguVAJiPAMIUqMD",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You understand how suicide data is measured.\n\nQuestion 43 of 60 — Suicide Risk Assessment (3 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01T8daj9zCrgGWM5kTtPihYX",
+          "state": "output-available",
+          "input": {
+            "question": "According to the material, suicide is the _____ leading cause of death for youth age 10-14 and adults age 25-34 years.",
+            "type": "multiple_choice",
+            "options": [
+              "A) First",
+              "B) Second",
+              "C) Third",
+              "D) Fifth"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6 slides, suicide is the second leading cause of death for youth age 10-14 and adults age 25-34 years. This statistic emphasizes the public health significance of suicide across multiple age groups.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Second. I got it right. Next question please."
+        }
+      ],
+      "id": "5EiIpfoAbSocNA7Q",
+      "role": "user"
+    },
+    {
+      "id": "Fw5JbzfNObELrPP3",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! Important statistic to remember.\n\nQuestion 44 of 60 — Suicide Risk Assessment (4 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01TfNp2nb7K1kUgdkWAssLju",
+          "state": "output-available",
+          "input": {
+            "question": "Acute suicidal risk is defined as:",
+            "type": "multiple_choice",
+            "options": [
+              "A) An individual who has chronic, long-term patterns of suicidal thinking",
+              "B) An individual who reports a desire to die in a foreseeable time frame (usually 24 hours or less) with statements about a specific plan, intent, means, and method",
+              "C) An individual who has attempted suicide in the past",
+              "D) An individual who is thinking about suicide but has no plan"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, acute suicidal risk is defined as an individual who reports or presents with a desire to die in a foreseeable time frame—usually 24 hours or less—with statements about a specific plan, intent, means, and method. These situations require immediate professional intervention.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) An individual who reports a desire to die in a foreseeable time frame (usually 24 hours or less) with statements about a specific plan, intent, means, and method. I got it right. Next question please."
+        }
+      ],
+      "id": "RvJoRVN0D9jc6C7M",
+      "role": "user"
+    },
+    {
+      "id": "zy47YixPjDt3Ue3E",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand acute vs. chronic risk.\n\nQuestion 45 of 60 — Suicide Risk Assessment (5 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01AQf6HjtdTnVKCtvCwX8uaD",
+          "state": "output-available",
+          "input": {
+            "question": "Chronic suicidal risk is often connected with:",
+            "type": "multiple_choice",
+            "options": [
+              "A) A sudden crisis event that occurred within the last 24 hours",
+              "B) Long-term patterns of relationship difficulties, interpersonal conflicts, poor decision making, and repetitive destructive patterns",
+              "C) Only clients with psychotic disorders",
+              "D) Clients who have never attempted suicide before"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, chronic suicidal risk is often connected with long-term patterns of relationship difficulties, interpersonal conflicts, poor decision making in various aspects of life, and repetitive destructive patterns causing life situation difficulties. This is different from acute risk which is more immediate and crisis-driven.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Long-term patterns of relationship difficulties, interpersonal conflicts, poor decision making, and repetitive destructive patterns. I got it right. Next question please."
+        }
+      ],
+      "id": "G5mRaIHZISnr5sVT",
+      "role": "user"
+    },
+    {
+      "id": "zI5jtRNSD9IMaZmB",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You're distinguishing acute from chronic risk well.\n\nQuestion 46 of 60 — Suicide Risk Assessment (6 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01KTq1e3QJCGBN9yy9qbgCuM",
+          "state": "output-available",
+          "input": {
+            "question": "Low suicidal risk includes:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Details of a plan and means to carry out the plan",
+              "B) The presence of suicidal ideation/behaviors or infrequent thoughts without a plan and means to carry out the plan",
+              "C) Serious thoughts and desire to die with ideas of a plan and means",
+              "D) A suicide attempt in progress"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, low suicidal risk includes the presence of suicidal ideation/behaviors or infrequent thoughts without a plan and means to carry out the plan. This is different from moderate risk (which includes ideas of a plan) and high risk (which includes details of a plan and means).",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) The presence of suicidal ideation/behaviors or infrequent thoughts without a plan and means to carry out the plan. I got it right. Next question please."
+        }
+      ],
+      "id": "96Y0ZnC61HM04Psx",
+      "role": "user"
+    },
+    {
+      "id": "wk8TMb4iPkIGHMZu",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! You understand the risk level definitions.\n\nQuestion 47 of 60 — Suicide Risk Assessment (7 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01WzuATC9L47ntpP2Tu1VUv6",
+          "state": "output-available",
+          "input": {
+            "question": "Moderate suicidal risk includes:",
+            "type": "multiple_choice",
+            "options": [
+              "A) No suicidal thoughts at all",
+              "B) Serious thoughts and desire to die with ideas of a plan and means, often no access, some existence of social support, but also some risk factors",
+              "C) Only vague thoughts with no plan whatsoever",
+              "D) A completed suicide attempt"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, moderate suicidal risk includes serious thoughts and desire to die with ideas of a plan and means, often no access, some existence of social support, but also some risk factors. This is more serious than low risk but less imminent than high risk.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Serious thoughts and desire to die with ideas of a plan and means, often no access, some existence of social support, but also some risk factors. I got it right. Next question please."
+        }
+      ],
+      "id": "asOoA6ZxmcuDUqyx",
+      "role": "user"
+    },
+    {
+      "id": "rBOdbpaQ99BdYYjR",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You're mastering the risk level continuum.\n\nQuestion 48 of 60 — Suicide Risk Assessment (8 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01CBEZXvNpYmDFfvYeXdyyBn",
+          "state": "output-available",
+          "input": {
+            "question": "High suicidal risk includes:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Vague thoughts about death with no plan",
+              "B) Details of a plan and means to carry out the plan, presence of risk factors, and absence of protective factors including support",
+              "C) Ideation only without intent",
+              "D) Thoughts that occurred more than a year ago"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, high suicidal risk includes details of a plan and means to carry out the plan, presence of risk factors, and absence of protective factors including support. This level requires immediate intervention and safety planning, possibly including hospitalization.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Details of a plan and means to carry out the plan, presence of risk factors, and absence of protective factors including support. I got it right. Next question please."
+        }
+      ],
+      "id": "8ujKcSUEl2WZ5nSL",
+      "role": "user"
+    },
+    {
+      "id": "XFhGmhv4na9SeJyC",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You know all three risk levels.\n\nQuestion 49 of 60 — Suicide Risk Assessment (9 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_012K8PMPQvCpCLJBDH9kP8VQ",
+          "state": "output-available",
+          "input": {
+            "question": "The National Suicide Prevention Lifeline recommends assessing suicide risk based on three components. What are they?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Age, gender, and diagnosis",
+              "B) Desire, capability, and intent",
+              "C) Plan, means, and timeline",
+              "D) Depression, anxiety, and substance use"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, the National Suicide Prevention Lifeline (NSPL) recommends assessing suicide risk based on the individual's desire (to harm self, psychological pain, feeling like a burden), capability (history of attempts, access to means, intoxication, recent mood changes), and intent (attempt in progress, plan with method, preparatory behaviors).",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Desire, capability, and intent. I got it right. Next question please."
+        }
+      ],
+      "id": "b5JSRLNVpYQaTCum",
+      "role": "user"
+    },
+    {
+      "id": "DXpzSWsJ1LK0CVoC",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand the NSPL framework.\n\nQuestion 50 of 60 — Suicide Risk Assessment (10 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01EwDwuGH4L1vtRknu14YtNT",
+          "state": "output-available",
+          "input": {
+            "question": "The acronym SLAP, used in suicide assessment, stands for:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Sadness, Loss, Anger, Pain",
+              "B) Specificity, Lethality, Availability, and Proximity of social support",
+              "C) Safety, Lethality, Assessment, Plan",
+              "D) Suicidal ideation, Loss of hope, Attempt history, Protective factors"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6 slides, SLAP stands for Specificity (Are there specific steps or general thoughts?), Lethality (Would this plan result in a suicide?), Availability (Do they have access to the items needed?), and Proximity (How close are the items to the client?). This helps assess the danger level of a suicide plan.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Specificity, Lethality, Availability, and Proximity of social support. I got it right. Next question please."
+        }
+      ],
+      "id": "IiLJRyZRElrOE9lz",
+      "role": "user"
+    },
+    {
+      "id": "Owfiw0YFC1LEbqQE",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! SLAP is a critical assessment tool.\n\nQuestion 51 of 60 — Suicide Risk Assessment (11 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01RuGXz3HEBooi4xqLUszcyP",
+          "state": "output-available",
+          "input": {
+            "question": "A comprehensive safety plan should include all of the following EXCEPT:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Warning signs that indicate when to use the plan",
+              "B) Internal coping strategies and reasons for living",
+              "C) A no-suicide contract signed by the client",
+              "D) People the client can contact for support and professional resources"
+            ],
+            "correct_answer": "C",
+            "explanation": "According to Chapter 6, no-suicide contracts are NOT considered a best practice and are not evidence-based. They primarily make the counselor feel better rather than actually protecting the client. A comprehensive safety plan should include warning signs, coping strategies, reasons for living, people to contact, professional resources, and means removal—but not a no-suicide contract.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: C) A no-suicide contract signed by the client. I got it right. Next question please."
+        }
+      ],
+      "id": "0vgL8HunN3LX9kJp",
+      "role": "user"
+    },
+    {
+      "id": "BkTwAcattgtMWlkh",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! No-suicide contracts are outdated and not evidence-based.\n\nQuestion 52 of 60 — Suicide Risk Assessment (12 of 12)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01MLx8zghBvFYzN76aN8bLGD",
+          "state": "output-available",
+          "input": {
+            "question": "According to the Class 2 lecture, when asking about suicide, counselors must:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Avoid using the word 'suicide' and instead say 'hurt yourself'",
+              "B) Use the actual word 'suicide' directly in their assessment",
+              "C) Only ask if the client brings it up first",
+              "D) Wait until the third session to ask about suicide"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to the Class 2 lecture transcript, counselors must get comfortable saying the word 'suicide' directly. Dr. McCartney emphasized that asking 'Have you thought about hurting yourself?' is not sufficient—you must specifically ask 'Have you considered suicide?' Using the actual word is essential for a proper assessment and documentation.",
+            "source": "Class 2 lecture transcript"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Use the actual word 'suicide' directly in their assessment. I got it right. Next question please."
+        }
+      ],
+      "id": "YQhP9U46nN3G6E4V",
+      "role": "user"
+    },
+    {
+      "id": "fbMpsrkSqOwogIgQ",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand the importance of direct language in suicide assessment.\n\nQuestion 53 of 60 — Warning Signs vs Risk Factors (1 of 8)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_012GE4iSdeonRWeKkLJ64Hti",
+          "state": "output-available",
+          "input": {
+            "question": "What is the primary difference between risk factors and warning signs?",
+            "type": "multiple_choice",
+            "options": [
+              "A) There is no difference; they are the same thing",
+              "B) Risk factors increase the likelihood of suicidal thoughts or behaviors over time; warning signs indicate more immediate risk and observable behaviors suggesting a crisis may be imminent",
+              "C) Risk factors are always more serious than warning signs",
+              "D) Warning signs only apply to adolescents"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, risk factors increase the likelihood of a person experiencing suicidal thoughts or behaviors over time (often representing the absence of something like supports or medication compliance). Warning signs are more immediate and observable behaviors or changes that suggest a crisis may be imminent, such as talking about wanting to die, increased substance use, or giving away possessions.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Risk factors increase the likelihood of suicidal thoughts or behaviors over time; warning signs indicate more immediate risk and observable behaviors suggesting a crisis may be imminent. I got it right. Next question please."
+        }
+      ],
+      "id": "4ikBztg8d8KQNYlK",
+      "role": "user"
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "next question please"
+        }
+      ],
+      "id": "6Sw0xFBucpzOwAMY",
+      "role": "user"
+    },
+    {
+      "id": "7GwiYEAYurUtbxkD",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You understand this critical distinction.\n\nQuestion 54 of 60 — Warning Signs vs Risk Factors (2 of 8)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_013zTZx3n9zqEramVNaxVRmw",
+          "state": "output-available",
+          "input": {
+            "question": "Which of the following is a RISK FACTOR for suicide?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Talking about wanting to die",
+              "B) Giving away personal possessions",
+              "C) History of mental health concerns, particularly depression",
+              "D) Increased use of alcohol or drugs in the past week"
+            ],
+            "correct_answer": "C",
+            "explanation": "According to Chapter 6, a history of mental health concerns, particularly depression and other mood disorders, is a risk factor. Options A, B, and D are warning signs indicating more immediate danger. Risk factors are longer-term characteristics or circumstances that increase vulnerability, while warning signs are observable changes or behaviors.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: A) Talking about wanting to die. I got it wrong. Next question please."
+        }
+      ],
+      "id": "BQY2WLQQpjlk4ssJ",
+      "role": "user"
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "next question please"
+        }
+      ],
+      "id": "Eyj81XAtb3IHuG2v",
+      "role": "user"
+    },
+    {
+      "id": "hyDZUsRZPnSk5hmR",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "That's incorrect. \"Talking about wanting to die\" is a warning sign (immediate danger), while \"history of mental health concerns\" is a risk factor (long-term vulnerability). Important distinction!\n\nQuestion 55 of 60 — Warning Signs vs Risk Factors (3 of 8)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_017f48ZhDvWSbeRQJU59n8gD",
+          "state": "output-available",
+          "input": {
+            "question": "Which of the following is a WARNING SIGN for suicide?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Family history of suicide",
+              "B) History of trauma or abuse",
+              "C) Researching methods of dying or making preparations",
+              "D) Being male and over age 65"
+            ],
+            "correct_answer": "C",
+            "explanation": "According to Chapter 6, researching methods of dying, preparations, or rehearsal of taking one's own life is a warning sign indicating more immediate danger. Options A, B, and D are risk factors—characteristics that increase vulnerability over time but don't necessarily indicate imminent danger.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: C) Researching methods of dying or making preparations. I got it right. Next question please."
+        }
+      ],
+      "id": "ojR5ZJPTRQsH2KIX",
+      "role": "user"
+    },
+    {
+      "id": "FBBNcQat3HMN1ONE",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! That's a clear warning sign of imminent danger.\n\nQuestion 56 of 60 — Warning Signs vs Risk Factors (4 of 8)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01BH4v9hqten5sjvbLYbKCPH",
+          "state": "output-available",
+          "input": {
+            "question": "Risk factors are placed into three main categories. What are they?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Psychological, social, and biological factors",
+              "B) Individual/psychological factors, relationship/social factors, and historical factors",
+              "C) Acute, chronic, and moderate factors",
+              "D) Primary, secondary, and tertiary factors"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, risk factors are placed into three main categories: (1) Individual/psychological factors (e.g., mental health concerns, substance use, impulsivity), (2) Relationship/social factors (e.g., loss of relationships, isolation, bullying, lack of social support), and (3) Historical factors (e.g., history of trauma or abuse, family history of suicide, previous suicide attempts).",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Individual/psychological factors, relationship/social factors, and historical factors. I got it right. Next question please."
+        }
+      ],
+      "id": "IG16W8dxz34RKBz8",
+      "role": "user"
+    },
+    {
+      "id": "pblexnqKca7VLPbJ",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You know the three categories of risk factors.\n\nQuestion 57 of 60 — Warning Signs vs Risk Factors (5 of 8)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_014zMsgyzML6AqrUXNcfGUVe",
+          "state": "output-available",
+          "input": {
+            "question": "Which of the following would be considered an environmental risk factor?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Depression diagnosis",
+              "B) Previous suicide attempt",
+              "C) Access to lethal means and lack of social support",
+              "D) Giving away possessions"
+            ],
+            "correct_answer": "C",
+            "explanation": "According to Chapter 6, environmental factors include things like access to lethal means, lack of social support and sense of isolation, lack of health care access, stigma associated with asking for help, and cultural/religious beliefs. Option A is an individual/psychological factor, B is a historical factor, and D is a warning sign.",
+            "source": "Jackson-Cherry & Erford Chapter 6"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: C) Access to lethal means and lack of social support. I got it right. Next question please."
+        }
+      ],
+      "id": "Syy1hRhS1Ex3B4lz",
+      "role": "user"
+    },
+    {
+      "id": "sWLxBR93XEKzCSo2",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Excellent! You understand environmental risk factors.\n\nQuestion 58 of 60 — Warning Signs vs Risk Factors (6 of 8)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01T2mrDQ53XUcXHtK9QaUsns",
+          "state": "output-available",
+          "input": {
+            "question": "Common warning signs of suicide include all of the following EXCEPT:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Talking about feeling hopeless or having no purpose",
+              "B) Having a family history of mental illness",
+              "C) Talking about being a burden to others",
+              "D) Showing rage or talking about seeking revenge"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, having a family history of mental illness is a risk factor (long-term vulnerability), not a warning sign. Warning signs are observable behaviors or statements that indicate more immediate danger, such as talking about hopelessness, feeling like a burden, expressing rage, withdrawing, increasing substance use, or giving away possessions.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Having a family history of mental illness. I got it right. Next question please."
+        }
+      ],
+      "id": "MQzlzkwr2Mu5JZmi",
+      "role": "user"
+    },
+    {
+      "id": "FFPXYL3gc1eLw1K9",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Correct! Family history is a risk factor, not a warning sign.\n\nQuestion 59 of 60 — Warning Signs vs Risk Factors (7 of 8)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01KL5vArCAJ2sjNLug6FJLbp",
+          "state": "output-available",
+          "input": {
+            "question": "Protective factors are important because they:",
+            "type": "multiple_choice",
+            "options": [
+              "A) Guarantee a person will never attempt suicide",
+              "B) Make a client less likely to engage in suicidal behavior and promote resilience during difficult times",
+              "C) Replace the need for a safety plan",
+              "D) Are only relevant for low-risk clients"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, protective factors make a client less likely to engage in suicidal behavior. They promote resilience and ensure connectedness with others during difficult times, thereby making suicidal behaviors less likely. Protective factors include things like strong social connections, problem-solving skills, religious/spiritual beliefs, access to care, and reasons for living.",
+            "source": "Jackson-Cherry & Erford Chapter 6 and Class 2 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Make a client less likely to engage in suicidal behavior and promote resilience during difficult times. I got it right. Next question please."
+        }
+      ],
+      "id": "Sa5VXUFqHOUNwI82",
+      "role": "user"
+    },
+    {
+      "id": "9I82aPO7imTfE44g",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! You understand the role of protective factors.\n\nQuestion 60 of 60 — Warning Signs vs Risk Factors (8 of 8)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01JLazYcqdP2hMcsYn9aW3k9",
+          "state": "output-available",
+          "input": {
+            "question": "According to the textbook, which statement about protective factors is TRUE?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Protective factors are always the opposite of risk factors",
+              "B) Factors that are risk factors for some clients may also be protective factors for others (e.g., religious beliefs)",
+              "C) Protective factors cannot be strengthened through counseling",
+              "D) Only clients with high protective factors need safety planning"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to Chapter 6, often the factors listed as risk factors for some clients may also be protective factors. For example, religious beliefs may prevent one client from attempting suicide ('I do not believe I would be joined with my family in heaven'), while for another client religious beliefs might contribute to shame and risk. The counselor must explore what factors serve as protective for each individual client.",
+            "source": "Jackson-Cherry & Erford Chapter 6"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Factors that are risk factors for some clients may also be protective factors for others (e.g., religious beliefs). I got it right. Next question please."
+        }
+      ],
+      "id": "eteCQTJO87wAvhmx",
+      "role": "user"
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Factors that are risk factors for some clients may also be protective factors for others (e.g., religious beliefs). I got it right. Next question please."
+        }
+      ],
+      "id": "mZvvGz7D4bWw6DUV",
+      "role": "user"
+    },
+    {
+      "id": "RkcOYbkcPX94D6aw",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Perfect! That was the final question. Let me calculate your score now.",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_session_end",
+          "toolCallId": "toolu_01EqBmn6WisDP2LD7mJc87eU",
+          "state": "output-available",
+          "input": {
+            "total_questions": 60,
+            "correct": 56,
+            "score_percent": 93,
+            "topic_breakdown": [
+              {
+                "topic": "Key Terms and Definitions",
+                "correct": 8,
+                "total": 10
+              },
+              {
+                "topic": "Double ABC-X Model",
+                "correct": 4,
+                "total": 5
+              },
+              {
+                "topic": "Trauma-Informed Care Principles",
+                "correct": 4,
+                "total": 5
+              },
+              {
+                "topic": "Ethics and Legal Issues",
+                "correct": 10,
+                "total": 10
+              },
+              {
+                "topic": "SOLER and Microskills",
+                "correct": 10,
+                "total": 10
+              },
+              {
+                "topic": "Suicide Risk Assessment",
+                "correct": 12,
+                "total": 12
+              },
+              {
+                "topic": "Warning Signs vs Risk Factors",
+                "correct": 8,
+                "total": 8
+              }
+            ],
+            "strong_areas": [
+              "Ethics and Legal Issues",
+              "SOLER and Microskills",
+              "Suicide Risk Assessment",
+              "Warning Signs vs Risk Factors"
+            ],
+            "weak_areas": [
+              "Key Terms and Definitions - specifically PTSD symptom clusters and stress terminology",
+              "Double ABC-X Model - specifically bonadaptation terminology"
+            ],
+            "recommendation": "Excellent work! You scored 93% (56/60). Focus your remaining study time on: (1) The four PTSD/ASD symptom clusters (hyperarousal, reexperiencing, negative cognitions and mood, avoidance), (2) Distress vs. eustress terminology from Hans Selye, and (3) The term \"bonadaptation\" in the Double ABC-X model. You have a very strong grasp of suicide risk assessment, ethics/legal issues, and microskills. Review the six TIC principles one more time to ensure you can list them all."
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "can we start another quiz sama paramaters"
+        }
+      ],
+      "id": "ECD4iHIa5pZCXurN",
+      "role": "user"
+    },
+    {
+      "id": "SpBLVqs6zKyK0ffv",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Absolutely! Let me start a new 60-question quiz with the same parameters covering chapters 1-4 and 6.",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_session_start",
+          "toolCallId": "toolu_01D1MSG7gJEpW12muFsacm2v",
+          "state": "output-available",
+          "input": {
+            "title": "Crisis Counseling Chapters 1-4 & 6 Exam Prep - Round 2",
+            "instructions_summary": "60-question closed-book exam covering chapters 1-4 and 6, focusing on key definitions, models, ethical principles, microskills, and suicide risk assessment",
+            "total_questions": 60,
+            "topics": [
+              {
+                "name": "Key Terms and Definitions",
+                "question_count": 10
+              },
+              {
+                "name": "Double ABC-X Model",
+                "question_count": 5
+              },
+              {
+                "name": "Trauma-Informed Care Principles",
+                "question_count": 5
+              },
+              {
+                "name": "Ethics and Legal Issues",
+                "question_count": 10
+              },
+              {
+                "name": "SOLER and Microskills",
+                "question_count": 10
+              },
+              {
+                "name": "Suicide Risk Assessment",
+                "question_count": 12
+              },
+              {
+                "name": "Warning Signs vs Risk Factors",
+                "question_count": 8
+              }
+            ],
+            "question_types": "Multiple choice, true/false, and short answer"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "lets go"
+        }
+      ],
+      "id": "bDNcVkr6pMRShTgo",
+      "role": "user"
+    },
+    {
+      "id": "EOJCk1iAZ5I0iDKy",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_011H9TsgMNfEbcUKPRP24dKb",
+          "state": "output-available",
+          "input": {
+            "question": "According to the DSM-5-TR, PTSD and ASD share four main symptom clusters. What are they?",
+            "type": "short_answer",
+            "options": [],
+            "correct_answer": "Hyperarousal, reexperiencing, negative cognitions and mood, and avoidance",
+            "explanation": "According to Chapter 1, the DSM-5-TR diagnostic criteria for ASD and PTSD include four symptom clusters: (1) hyperarousal (hypervigilance, difficulty concentrating, exaggerated startle, sleep disturbance), (2) reexperiencing (flashbacks, nightmares, intrusive thoughts), (3) negative cognitions and mood (memory lapse, negative beliefs, distorted cognitions, lessened interest), and (4) avoidance (avoiding reminders, inability to recall components, detachment, dissociation, restricted affect).",
+            "source": "Jackson-Cherry & Erford Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: physical, emotional symptoms, cognitive symptoms, behavioral. I got it wrong. Next question please."
+        }
+      ],
+      "id": "8oufaB0t9mw4N8rb",
+      "role": "user"
+    },
+    {
+      "id": "ji4cBK1MECGkJxuZ",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "That's incorrect. The four clusters are: hyperarousal, reexperiencing, negative cognitions and mood, and avoidance. These are the specific DSM-5-TR criteria - make sure to memorize these exact terms!\n\nQuestion 2 of 60 — Key Terms and Definitions (2 of 10)",
+          "state": "done"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01KzNw5UrxEMtbaTe4twbkLA",
+          "state": "output-available",
+          "input": {
+            "question": "Hans Selye distinguished between two types of stress. What are they?",
+            "type": "short_answer",
+            "options": [],
+            "correct_answer": "Distress and eustress",
+            "explanation": "According to Chapter 1, Hans Selye distinguished between distress (changes perceived negatively that tend to cause more biological damage) and eustress (changes perceived positively that seem to contribute to well-being). This distinction helps us understand that not all stress is harmful.",
+            "source": "Jackson-Cherry & Erford Chapter 1 and Class 1 slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-26T21:38:20.194Z",
+  "updatedAt": "2026-02-27T04:24:30.540Z"
+}

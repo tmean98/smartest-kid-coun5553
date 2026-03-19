@@ -1,0 +1,1355 @@
+Article
+
+Beginnings: Why the Doctrine 
+of Creation Matters for the 
+Integration of Psychology and 
+Christianity
+
+Journal of Psychology and Theology 
+2020, Vol. 48(1 ) 44—65 
+© Author(s) 2019 
+Article reuse guidelines: 
+sagepub.com/journals-permissions 
+DOI: 10.1 177/00916471 19837024 
+journals.sagepub.com/jpt
+
+William B. Whitney
+Azusa Pacific University, USA
+
+Abstract
+This article considers what integration efforts in psychology would look like if informed by a 
+trinitarian account of creation. Further theological reflection about the doctrine of creation 
+reveals four key conclusions that are valuable for conceiving the relationship between theology 
+and psychology: (I) The goodness of the created realm establishes the investigation and 
+exploration of human nature through science and psychology; (2) Human nature can be explored 
+through psychology because God’s providential care allows a certain “order” of creation to 
+be preserved despite the reality of sin; (3) God endows humanity with creative abilities to 
+discover and develop the created realm and culture through the science of psychology; (4) God’s 
+trinitarian relations with the world establishes the theological basis for the social, embodied, and 
+relational aspects of human nature that are able to be discerned through the study of psychology. 
+The implications that these four key conclusions have for psychological research and clinical 
+psychology will also be discussed.
+
+Keywords
+Christian, theology, integration, faith, creation, science, religion
+
+A simple way to conceptualize the integration between psychology and theology can be understood 
+as occurring on two basic trajectories that are interrelated. One trajectory demonstrates how Christian 
+theology might broaden, critique, and inform features within psychology, while a second trajectory 
+expresses how psychology might inform and broaden certain aspects of Christian theological belief. 
+While all integrationists working in psychology and Christianity will agree that Christian theology 
+should inform and shape psychology, integrationists will differ as to how much (if any) the discipline 
+of psychology can actually clarify, broaden, inform, and even critique Christian theology.
+
+While both trajectories are necessary to attend to, for this article, focus will be placed on the first 
+trajectory mentioned, that is, how Christian theology may broaden and inform one’s thinking about 
+psychology. As James Beck observes, one area that needs strengthening among evangelical integra- 
+tive efforts is in “upgrading” the quality of biblical and theological material that is integrated with
+
+Corresponding author:
+William B. Whitney, Department of Psychology, Azusa Pacific University, 901 East Alosta Ave., Azusa, CA 9 1702, USA. 
+Email: wwhitney@apu.edu
+
+Whitney
+
+45
+
+psychology (Beck, 2003With this in mind, this article seeks to demonstrate the unique resources 
+that the Christian tradition provides for integrative efforts in psychology. More specifically, this arti- 
+cle will consider how the doctrine of creation and related doctrinal loci bear on the both the content 
+and method of the integrative process with psychology, while also demonstrating how a trinitarian 
+account of creation has implications for psychology research and clinical practice.
+
+Opening sections of this article are entitled “Why Creation?” and “Beginnings.” These sections 
+will demonstrate why creation has been neglected within the integration literature, and how crea- 
+tion establishes certain norms that are essential for the practice of integration. These sections pro- 
+vide some more theological depth to the doctrine of creation than is commonly discussed within 
+integrative circles, and offer some foundational theological resources that have potential to influ- 
+ence one’s approach to many of the psychological subdisciplines. These beginning threads of the 
+article’s argument provide the theological resources that will be drawn upon in the middle and final 
+sections of the article as the ramifications for psychological research and psychotherapy are dis- 
+cussed. Next, this article will examine four key conclusions that are valuable for conceiving the 
+relationship between theology and psychology. These four conclusions form the backbone of the 
+article and explicate which distinct features of the Christian doctrine of creation deepen and broaden 
+some key aspects of psychological study. This portion of the work highlights how human activity 
+in psychology can be rightly understood as creative abilities given to humanity by God in order to 
+shape and develop the created order. The final section of the article will examine some of the major 
+implications that a trinitarian understanding of creation has for psychological research and psycho- 
+therapy. This concluding section will highlight some of the ways that humans are enabled through 
+the Spirit to join with the work of God to redeem patterns of human behavior through psychother- 
+apy or psychological research.
+
+Why Creation?
+
+Within the current integration dialogue among evangelical Christians, the primary theological doc- 
+trine that receives much attention from psychologists is the conception of the imago Dei (Puffer, 
+2007), with the discussion leaning towards the negative aspects of humanity related to sin (Entwistle 
+& Moroney, 2011). This focus is understandable considering that theological anthropology is an 
+examination of human personhood from a Christian perspective. Moreover, the emphasis on the 
+imago Dei and sin in the integrative literature makes sense considering that psychology specifically 
+studies human thought and behavior, and often focuses on “abnormal” behavior or psychopathol- 
+ogy (Keyes & Haidt, 2003). While the doctrine of sin cannot and should not be ignored, it should 
+be given fair treatment within the arc of the biblical narrative—with its proper placement occurring 
+between the doctrine of creation and the doctrine of redemption. However, this proper placement 
+of the doctrine of sin has not always been practiced, and the negative aspects of humanity related 
+to sin have often been treated in the integration literature without a balanced treatment of the doc- 
+trine of creation. Given the weight of theological reflection that situates theological anthropology 
+within the doctrine of creation, further sustained reflection upon the doctrine of creation for inte- 
+gration purposes is warranted. Moreover, amongst contemporary Christian systematic proposals of 
+theology, the imago Dei (or theological anthropology) is inextricably intertwined and situated 
+within the doctrine of creation since theologians agree that the human creature is centrally located 
+at the height of God’s creative activities (Barth, 1936; Berkouwer, 1955; Moltmann, 1985; 
+Pannenberg, 1991). For the Christian who studies psychology, the human is never only an object of 
+study, but is a creature granted dignity and worth by the very fact that humanity is created by the
+
+1.  In a similar way, Duane Litfm’s work, Conceiving the Christian college, advocates for the integration 
+between faith and learning and encourages scholars to show the distinctiveness of a Christian framework 
+for every subject (including psychology) within the academic disciplines (Litfin, 2004).
+
+46
+
+Journal of Psychology and Theology 48( I )
+
+triune God, situated in the material world within the wide array of God’s trinitarian providential 
+actions, redeemed within the created world through the person and work of Jesus Christ, and sus- 
+tained and sanctified through the life-giving Spirit (Barth, 1936; Gunton, 2002; Shults, 2003). This 
+has particular bearing on both methodology and assumptions made in psychology (Whitney, 2013).
+While it is considered normal for psychology to operate with some sort of functional methodo- 
+logical naturalism, for the Christian, methodological naturalism does not need imply a commitment 
+to a comprehensive ontological naturalism (Hampson, 2014). Or said another way, while psycho 1- 
+ogy operates in its research and methodology with identifying natural causal mechanisms for the 
+various phenomena of human thought and behavior, this does not necessarily mean that psycho 10- 
+gy’s answers give a complete picture of human existence. Psychology is ill-equipped to provide a 
+comprehensive ontology, and for the integrationist, Christian theology provides the foundational 
+ontology for the study of human personhood. Consequently, properly situating the human person 
+within the wider context of God’s triune creative actions is essential for the integration of psychol- 
+ogy and theology since it reminds us, that for all of the benefits that psychological study may offer, 
+the epistemic questions of personhood cannot be answered by resources within psychology alone 
+(Hampson, 2014). Recognizing that Christian theology identifies a goal or purpose for humanity 
+compels Christian psychologists to more fully grasp what God has intended for the human creature, 
+and how this might have bearing on psychology. Moreover, a trinitarian understanding of creation 
+informs how one might understand the human person in ways that are not necessarily in contradis- 
+tinction to psychological study, but that remain outside the purview of psychological inquiry (King 
+& Whitney, 2015).
+
+This being said, the doctrine of creation is not the only doctrine to consider when approaching 
+interdisciplinary work in psychology and theology. In fact, no theological doctrine exists in isola- 
+tion of other related doctrinal loci. Creation is always set in the larger narrative of God’s triune 
+action through the Son and Spirit, and the working of the triune God for the redemption of the 
+entire created realm (Whitney, 2013). According to Paul, all of creation groans in expectation of the 
+day that it will be released from its bondage (Romans 8:18-24), and it is only with the account of 
+what will happen in the end that we find out how the created order will be made new (Revelation 
+21).2 Creation is a doctrine that has often been overlooked within the field of integration, not 
+because it has been deemed unimportant by integrationists, but as mentioned earlier, it is often 
+overshadowed by an emphasis on the imago Dei or sin.3
+
+Before the twentieth century, the Christian doctrine of creation had never been an item of any 
+major theological controversy, and was usually isolated and treated as a foreword to other areas of
+
+2.  2 Peter 3:13 and Revelation 21 are two texts that explicitly speak of the redemption of the entire crea- 
+tion (both human and nonhuman). Especially seen in Revelation 21, there is reference to the new city of 
+Jerusalem that still exists but is completely transformed by the glory of God. Elere we find that earth is 
+not cast aside to make room for the heavenly realm, but rather there is an interpenetration of the realms 
+where God’s creatures reside and the realm where God is, so that there is no need for sun—the glory of 
+the Lord provides the light in the new city of Jerusalem. Here we are reminded of P. T. Forsyth’s state- 
+ment that God “does not come to grout the gaps in nature, not simply to bless nature, but to change it, to 
+make a new earth from a new foundation in a new heaven” (Forsyth, 1916, p. 77).
+
+3.  A survey of the literature within the integration of psychology and Christian theology generally demon- 
+strates theological material being integrated within the major subdisciplines of psychology (i.e. social 
+psychology, cognitive psychology, neuropsychology, developmental psychology, cultural psychology, 
+and clinical/counseling psychology). While the psychological research is well supported within integra- 
+tion, the field can be strengthened from a more robust treatment of certain key theological doctrines that 
+directly intersect with theological anthropology—namely the Trinity, creation, revelation, providence, 
+and eschatology. An exception to this in the integration dialogue would be Eric Johnson’s Foundations 
+for soul care: A Christian psychology proposal, which gives a thorough discussion of the key theological 
+doctrines that intersect with the imago Dei (see further Johnson, 2007).
+
+Whitney
+
+47
+
+systematic theology (Schwarz, 2002; Fergusson, 1998). However, in the latter half of the twentieth 
+century and beginning the twenty-first century, the doctrine of creation has risen to a greater degree 
+of prominence in theological dialogue (Gunton, 2002, Fergusson, 1998). As a result, one finds that 
+the doctrine of creation is being reexamined in theological circles, and part of this réévaluation has 
+also raised awareness as to how the doctrine of creation relates and intersects with other various 
+disciplines (Dyrness, 1997; Williams, 1999).
+
+Al Wolters’s work, Creation regained: Biblical basis for a Reformational worldview, is one 
+contemporary example of how the doctrine of creation has received renewed interest in recent 
+years. Wolters’s work is a reappraisal of the Dutch neo-Calvinist tradition, and rightly asks the 
+question of how the goodness of creation affects the biblical arc of the fall and redemption, since 
+these items bear on how humanity engages the world around them (Wolters, 2005). Wolters’s book 
+incorporates many aspects of the Dutch theologian Abraham Kuyper.4
+
+Keeping in mind Strawn, Jones, & Wright’s notion of “traditioning” our integrative work 
+(Strawn, Jones & Wright, 2014), it will be helpful for the reader to know that Kuyper and the 
+Reformed tradition have also been influential for key elements of this article—^particularly in rela- 
+tion to humanity’s role in continuing to develop the created realm and shape it through culture. 
+Although these tendencies towards the Reformed tradition are present within some elements of the 
+article, there are no major instances where the perspectives outlined in this article would necessar- 
+ily exclude other denominations or traditions from drawing upon the theological content relating to 
+creation and integration.
+
+A common misunderstanding about the doctrine of creation is to think the doctrine only describes 
+the divine act of creating as outlined in the first chapters of Genesis. While the doctrine of creation 
+does seek to give a description of how the world was made, it also functions as a unifying doctrine 
+within the larger scriptural narrative (Fergusson, 1998; Gunton, 2002; King & Whitney, 2015). 
+Creation in the beginning also assumes God’s self-disclosure in and through time by Christ and the 
+Spirit (the Trinity and Revelation), the triune God’s continued provision to his creation (Providence 
+and Common Grace), the goodness of the created realm as worthy of care, the human role in shap- 
+ing the created realm through activities of aesthetics and science (theology of culture), and the 
+forward movement of God’s kingdom towards the new creation (eschatology). Consequently, the 
+doctrine of creation describes the triune God’s continuous and loving action of creating in the 
+beginning, sustaining the world that has been created, redeeming fallen humanity, and ultimately 
+bringing about the restoration and perfection of the entire created order (Barth, 1961). These move- 
+ments of the triune God’s action (creating, sustaining, redeeming, perfecting) provide the backdrop 
+and arc of the narrative of what God has done and is still doing in the world. The triune God creates 
+the material world and brings the human creature into existence. God graciously sustains the human 
+creature and the material world through the Spirit. God redeems the human creature through the 
+person and work of Christ, and finally, God perfects the human creature over time by bringing the 
+Creator’s original intentions to fulfillment along with the restoration of the cosmos (King & 
+Whitney, 2015; Puffer, 2007).
+
+Understanding the doctrine of creation within the scope of this larger narrative acknowledges 
+that the triune God immerses himself in the messiness of human history, and, through the work of 
+the Son and Spirit, graciously enables his creatures to thrive and have life. From this perspective, 
+the redeeming work of the Son and the perfecting power of the Spirit enable creatures to become 
+what they are intended to be (Hart, 2001; King & Whitney, 2015).
+
+A trinitarian understanding of creation is an essential part to how one understands the human 
+person since the distinct roles of the members of the Trinity establish the relational qualities that
+
+4. Wolters’s work provides a theologically strong account of how the doctrine of creation helps one 
+
+think theologically about culture and forming a Christian worldview. Nevertheless, the conclusions of 
+Wolters’s introductory work are not intended to cover all of the ramifications that creation has for the 
+various aspects of human experience, or for the sciences, or for psychology.
+
+48
+
+Journal of Psychology and Theology 48( I )
+
+are foundational for human personhood and the connections that humans have with the rest of crea- 
+tion. If there is any relation between these theological ideas and what evolutionary biology and 
+psychology have taught us, it is that the human creature stands in closer relationship with other 
+creatures and the rest of the created world than we might have anticipated. A trinitarian conception 
+of creation highlights the connectivity that humans have with the wider created realm. As Cohn 
+Gunton notes, God’s existence as Father, Son, and Spirit establishes an ontology of relations for 
+how one might understand the world and determines a “doctrine of creation which enables us to 
+respect the diversity of relationships” found within the world (Gunton, 1997, p. xxvii).
+
+Unfortunately, many evangelical churches and Christians today still operate with a thin under- 
+standing of the created realm that has been influenced by Enlightenment beliefs that separate 
+humans from their natural world (individualism) and denigrate the goodness of the created realm 
+due to dualistic conceptions of the world that (Brown & Strawn, 2012; Marsden, 2006; Yu, 1987). 
+Enlightenment scientific understandings of creation typically leaned towards Deism—the belief 
+that God was separate from the universe and only interacted with the world through natural laws 
+that he had set in motion. Often, for theists who worked in the field of the natural sciences during 
+the modern era, it was common to hold a deistic conception of the world that posited a “separate- 
+ness” of God from the created realm (Schwarz, 2002).
+
+Moreover, the ideological milieu from which psychology was born was firmly based in natural- 
+istic and evolutionary accounts of human personhood, and in the case of experimental psychology, 
+incorporated the scientific method in order to verify its findings (Tyson, Jones, & Block, 2011). For 
+example, Freud used his own theory of the psyche along with his understanding of nineteenth- 
+century evolutionary biology to explain away the existence of God. For Freud, religion had served 
+a purpose for past primal societies to curb instinctual impulses through a moral code, but now 
+religion is not necessary. Freud argued that conceptions of God functioned as a defense mechanism 
+and were really wishes for a father figure to keep one safe (Freud, 1961). Freud’s theory, while 
+providing the backbone for early clinical psychology and psychoanalysis, still operated with a very 
+negative or low view of humanity. And it was Erik Erikson who famously evaluated Freud’s view 
+of humanity as essentially “tragic” (Erikson, 1963). Given the trajectory of creation, fall, and 
+redemption and new creation from the biblical narrative (Puffer, 2007), it is important to note that 
+the Christian perspective contrasts with various historical psychological perspectives that assume 
+a low view of the human person. Additionally, it is important to note how the doctrine of creation 
+provides the framework for upholding the goodness of the human creature despite the reality of 
+sin—which provides a view of human nature that contrasts with some older psychological views of 
+humanity that portray humans as either primarily “evil and destructive” (Freud, Klein) or “neutral” 
+with one’s behavior determined by environment (Skinner). That being said, more recent proposals 
+in positive psychology and developmental psychology have begun to more intentionally ask what 
+can go right with persons and behavior, rather than merely focus on pathology—and this view of 
+the positive dimensions of human potentiality are more in line with the view of the human creature 
+that is argued in this article (Benson & Scales, 2009; Damon, 2004; Ferner, Dowling, & Anderson, 
+2003; King & Clardy, 2014). With this intellectual history in mind, a thicker understanding of crea- 
+tion influences the framework of integration in two primary ways. First, a trinitarian doctrine of 
+creation corrects any type of Christian theology (sometimes found in popular evangelical thought) 
+that denigrates the goodness of the human creature or the exploration of God’s creation through the 
+sciences or psychological science. Second, a rich doctrine of creation from Christian theology 
+offers a corrective to physicalism or naturalism, sometimes found within some streams of psycho 1- 
+ogy, that reduce humanity to a series of behavioral or neurological processes.5 It is to a more 
+detailed description of these elements of creation that we now turn.
+
+5.  A current example in cognitive psychology that attempts to explain away the existence of God by reducing 
+religion to an evolutionary byproduct is found in Jesse Bering’s work, The Belief Instinct, (Bering, 2012).
+
+Whitney
+
+Beginnings
+
+49
+
+A thick doctrine of creation establishes the goodness of the material created world and speaks to how 
+God reveals Godself to the human creature. Genesis states that after the world had been created, God 
+declared that it was “very good” (Genesis 1:31). The pronouncement and blessing that creation was 
+“good” appears six other times throughout the creation story at the various stages of creation (Genesis 
+1:4, 10, 12, 17, 21, 24). Interestingly enough, there are a total of seven proclamations of goodness 
+over the entire creation narrative in chapter 1. Within this first account of creation, we also have the 
+creation of humans (Genesis 1:26-27) that holds a special place within the created order. As the nar- 
+rative moves forward into Genesis 2 and 3, humanity is placed in the garden to shepherd or steward 
+over the creation that God has given, with the text establishing that God has given tasks for humans 
+to carry out in the created world. With the naming of the animals, humans are given a special role in 
+organizing, relating, and classifying what God has made. The naming of the plants and animals can 
+be seen as a relational task as humanity enters into a certain kind of relationship with creation 
+(Brueggemann, 1982). This is a vital point to consider when practicing integration since any study of 
+the human person can only be done by entering into relationship with another, even if we try to limit 
+those terms of encounter to those prescribed by the scientific method.
+
+The scriptural creation narrative demonstrates that God is purposeful in the manner in which he 
+calls the world into being. The ordered nature of the creation story in Genesis is unique—especially 
+when compared to other creation narratives in the ancient Near East like the Babylonian Enuma 
+Elish. In this creation story, the world is created through the violent death of the Babylonian god- 
+dess Tiamat, who is ripped in two by Marduk and the halves of her corpse used to fashion the 
+earth—while humans are created from the blood of a traitor god who also opposed Marduk (Davies 
+& Rogerson, 2005, p. 45). As opposed to such violence, cruelty, and bloodshed found in the Enuma 
+Elish creation narrative, Genesis stands out as unique from other ancient creation narratives by 
+outlining that the triune God alone creates the world in an ordered manner, creates the universe out 
+of love, fashions a world that is hospitable for human life, and remains in relationship with his crea- 
+tion. The world, as God has created it, is something that does not remain unknowable, but is able 
+to be cared for and explored—and, as we will see later, this stewardship and exploration is one of 
+the chief tasks given to humanity that directly relates to psychological study.
+
+From this introduction of God’s creative power found in Genesis, one finds that God’s creation 
+is good and has value, the created realm has an order, beauty, and splendor to it, and that creation 
+exists because the Creator has chosen to extend his creative energies in this manner. The created 
+world is the place where God has extended Godself out of love and made space for creatures that 
+are fundamentally distinct from him. God has not only created a world that is hospitable to crea- 
+tures that are distinct from him, but also clothed Godself in the material in the person of Jesus 
+Christ. While the creation is not a god, it does stand in close relationship with its Creator. The 
+human creature is also not a god, but is given special privileges, responsibilities, and relational 
+abilities so that the human creature has potential to thrive and flourish (King, 2016).
+
+The material realm is also a spiritual realm since it is the realm where God’s Spirit moves in a 
+dynamic way, and is the realm that Christ entered and took on flesh. This also means that there is 
+both a very social and embodied notion to becoming who God intends for us to be given to us by 
+the very fact that God has created a world distinct from God but still in relationship with God. And 
+it was Irenaeus (d. 202 A.D.) who famously argued that since Christ became flesh, the physical, 
+material created realm should not be discounted or downgraded as unimportant (Whitney, 2013). 
+The human creature’s relationships, emotions, and mind have potential in being shaped towards a 
+certain telos (King, 2016). Incidentally, from the theological idea that God creates and makes space 
+for other creatures is a primary theological basis for clinical psychology or therapy. Psychotherapy 
+has potential to reflect that outline of creation presented here in that psychotherapy also creates 
+space for another person and provides a hospitable space for another to thrive. Psychotherapy also 
+is the genuine attempt to understand and enter into the world of another in an attempt to show love
+
+50
+
+Journal of Psychology and Theology 48( I )
+
+and bring restoration in an incarnational way. While more will be said about this in the final sec- 
+tions on implications for practice, now it is time to draw upon some of these key points from crea- 
+tion that are valuable for the task of integration between psychology and Christian theology.
+
+The Goodness and Order of the Created Realm
+
+Having reviewed some key elements from the creation narrative, further theological reflection 
+about this narrative reveals four key points that are not only valuable for academic faith integration 
+but also essential for conceiving the relationship between theology and psychology. These key 
+points are as follows, and each of these points will be expanded upon to demonstrate the particular 
+relevance for psychology:
+
+1.  The goodness of the created realm establishes the investigation and exploration of human 
+
+nature through science and psychology.
+
+2.  Human nature can be explored through psychology because God’s providential care allows 
+
+a certain “order” of creation to be preserved despite the reality of sin.
+
+3.  God endows humanity with creative abilities to discover and develop the created realm and 
+
+culture through the science of psychology.
+
+4.  God’s trinitarian relations with the created world establish the theological basis for the 
+social, embodied, and relational aspects of human nature that are discernable through the 
+study of psychology.
+
+Conclusion #/: The goodness of the created realm establishes the investigation and 
+exploration of human nature through science and psychology
+
+Broadly speaking, it is a trinitarian understanding of creation that enables interdisciplinary dia- 
+logue to take place between theology and science, and between theology and psychology. This 
+trinitarian understanding of creation provides one of the core elements discussed in the psychology 
+integrative literature. However, it is most often discussed using the terms “truth” or “knowledge,” 
+or through the phrase “all truth is God’s truth” (e.g. Carter & Narramore, 1979). From a theological 
+perspective, truth (as integrationists use the word) is only possible because God, in his trinitarian 
+relations with humanity, through the Son and Spirit, has created a world that is knowable and has 
+graciously allowed knowledge or truth to be mediated through our embodied interaction with crea- 
+tion. Under this first conclusion, four key points stand out here.
+
+First, the theological foundation for the frequently used phrase “all truth is God’s truth” incor- 
+porates the interrelated doctrines of creation, revelation, and sin. While debate about the noetic 
+effects of sin centers around how much truth can be discerned through unaided reason alone, the 
+doctrine of creation establishes that truth or reality is knowable within the physical realm—and 
+the doctrine of revelation speaks to how this truth is mediated to humanity and discernable through 
+the sciences and psychology. In this case, the doctrine of creation paints a picture that God has 
+made a world that is good and is knowable through human reason, and God enables a reality to 
+exist that is discernable through psychology. Revelation describes the process of how God makes 
+Godself known to his creatures, while the notion of how this actually occurs is an issue that theo- 
+logians have been wrestling with for centuries. Christians will agree that God communicates to 
+humanity; however, the manner in which this communication takes place varies between different 
+denominations, and even within denominational lines.6 Moreover, different models of integration
+
+6.  One well-known distinction is between Catholic and Protestant views of revelation. Luther wanted to 
+isolate revelation as occurring through Scripture alone (sola Scriptura) rather than through Scripture and 
+tradition, as the Catholic view advocated.
+
+Whitney
+
+51
+
+within the evangelical community typically operate with different views of general revelation and 
+creation, and more will be said about this briefly.
+
+Second, theologians have generally acknowledged two varieties of revelation: general revela- 
+tion (also sometimes referred to as natural theology) and special revelation. General revelation 
+acknowledges there is a self-disclosure of God that is given to all of humanity. This general revela- 
+tion of God does not necessarily mean that this communication is able to provide salvation, but 
+simply means that if God created the world, then something of God can be expected to be seen in 
+creation (the classic texts that are used to support this are Psalm 19:1-4 and Romans 1:18-2:16). 
+Special revelation acknowledges that God reveals Godself uniquely in the person and work of 
+Jesus Christ, and also speaks to how the Spirit works through Scripture to illuminate hearts and 
+minds to God’s disclosure of Godself through Jesus Christ.
+
+Theologian and scientist Allster McGrath (2001) insists that the doctrine of creation emphasizes 
+that knowledge is unified. The natural order and Scripture represent two ways that one can know God, 
+with Scripture embodying a more full and clear knowledge about God (McGrath, 2001, p. 212). As 
+McGrath indicates, there are not two entirely separate ways of knowing God, one through general 
+revelation and one through special revelation (as was Karl Barth’s criticism of natural theology). If 
+God made the world, then it comes as no surprise that aspects of God’s order, creativity, and life 
+would be found in the created realm (Green, 2008), and it is this unitary approach to knowledge that 
+enables truths to be gleaned from psychology. Although this idea of the unity of knowledge from a 
+theological perspective is not new, and is found widely in faith and learning literature (Litfin, 2004; 
+Crouch, 2009), it is necessary groundwork to be reviewed. Moreover, those who teach integration 
+classes in psychology and theology will find the unity of knowledge to be a foundational point for 
+establishing some sort of guideline or methodology to enable students to practice integration.
+
+Third, while general revelation through creation may reveal something about God, special rev- 
+elation is clearer and more specific. While general revelation in creation may reveal something 
+about God, what general revelation does more explicitly is disclose the order of the created world 
+that God has made. It is this order that is observable through the science and study of psychology. 
+T. F. Torrance, long-time professor of theology at the University of Edinburgh, similarly argues 
+(with McGrath) that God has given the world a certain kind of reality that makes it knowable. 
+Nature may be “interpreted as pointing intelligibly beyond itself to God,” but creation does not 
+“permit of any necessary inferences from its contingence to God” (Torrance, 1969, p. 62). God did 
+not have to make the world this way, but chose to graciously create a world that humans could 
+interact with, and in some way, come to understand through exploration. Like the parent who gets 
+great pleasure from watching their children romp around a forest or new playground and examine 
+some details of their environment, God gets great delight in watching his children explore what he 
+has created on his vast playground.7
+
+Consequently, while the created realm is knowable, the physical world can only speak about 
+God in ambiguous or vague terms (Torrance, 1982). For Torrance (1971), theology is the unique 
+science that is devoted to knowing God, while the natural sciences and social sciences are the “rig- 
+orous and disciplined extension” of that basic way of knowing through nature that is applied to 
+“every area of human life and thought” (p. 91). Moreover, the psychologist who discovers aspects 
+of these orders of creation or the human creature may or may not ultimately be drawn back to a 
+belief in God. Even if a scientist or psychologist might be drawn to a belief in God from studying 
+the order of creation, the full revelation of who God is in Jesus Christ is not possible without the 
+working of special revelation. Or said another way, while general revelation through creation points 
+back to God as the Creator, it does not necessarily point back to God as the redeemer of creation.
+
+7.  “God leads a very interesting life and is full of joy,” Dallas Willard remarks: “Undoubtedly he is the most 
+joyous being in the universe ... We pay a lot of money to get a tank with a few tropical fish in it ... but 
+God has seas full of them which he constantly enjoys” (Willard, 1998, pp. 62-63).
+
+52
+
+Journal of Psychology and Theology 48( I )
+
+Fourth, and a foundational element for those practicing integration, is the acknowledgement that 
+creation and the human creature possess an order that is discernable through the psychological sei- 
+enees. How much truth that one believes can be discerned through psychology determines the vari- 
+ous positions within the integration dialogue. As mentioned earlier, the dictum that is often used in 
+integration literature is “truth is one” or “all truth is God’s truth.” It is important to note that state- 
+ments like “all truth is God’s truth” assume an understanding of revelation that God’s truths are 
+revealed in creation, that these truths are knowable, and that truth can be discovered in the wider 
+world. While these elements are widely regarded among those practicing integration, what is not 
+widely acknowledged is how integrationists will differ as to how much of the world (or the human 
+person) is discernable to humans through the study of psychology depending on their theological 
+assumptions regarding the doctrine of creation, revelation, and how sin affects human apprehension 
+of truth.8 If the noetic effects of sin remain the focus in the integration discussion without acknowl- 
+edging the doctrine of creation, then the dialogue tends to center on the corruption of psychology or 
+the sciences. However, balancing the doctrine of creation with the noetic effects of sin enables one 
+to speak to aspects of truth within the world and within the creature, while also acknowledging that 
+these truths that are discovered do not necessarily shed light on humanity’s estranged relationship 
+from God and redemption offered in Jesus Christ (Barth, 1963). Calvin acknowledges that the noetic 
+effects of sin and the fall do cormpt human reason, but even with this corruption, the order of crea- 
+tion still allows for knowledge of earthly things like government, managing a household, mechani- 
+cal skills, and the liberal arts (Calvin, 1960). The corruption that Calvin primarily discusses remains 
+humanity’s inability to grasp spiritual wisdom of “heavenly things” (Calvin, 1960). Sin does blind 
+humans to see the truth of Christ, but this blinding is not equal in all areas (Bloesch, 1997). Sin is 
+pervasive in human life, but to infer that all goodness in humanity is lost, or that humanity has no 
+capacity or ability to reason through disciplines like psychology, is to ultimately elevate the doctrine 
+of sin above the doctrines of creation and redemption (Gunton, 2002). An elevation of the doctrine 
+of sin over the doctrine of creation is commonplace among evangelical practitioners within the the- 
+ology of integration, and the proper balancing of creation, along with sin and revelation, is an impor- 
+tant step in order to understand how truth can be gleaned through psychology. Theological 
+anthropology from a Christian perspective explores the intricacies of human personhood as it is 
+rooted in the triune God, while psychology (from a Christian theological perspective) is the rigorous 
+study of the order and nature of the human being while acknowledging the human person is a created 
+reality that God has made (Gunton, 2002; Shults, 2003).
+
+8. For example, the helpful and popular integrative work, Psychology and Christianity: Five views (edited 
+
+by Eric Johnson), proposes five different viewpoints on how Christian faith integration should be done. 
+Each viewpoint provides helpful features that demonstrate the variety of ways that faith integration can 
+take place within psychology. Looking at the work through the lens of the doctrine of creation and rev- 
+elation, the spectrum of the “five” views exists primarily because the authors hold differing theological 
+assumptions regarding creation and general and special revelation, though this is not explicitly stated. 
+More specifically the various authors’ views (generally speaking) line up along a spectrum to the degree 
+that they believe the order of creation (truth) is discernable through human investigation of the world 
+through psychological study. Thus, one determining factor differentiating one model of integration from 
+another (at least in the Five views) remains a theological issue related to the doctrine of creation and 
+revelation regarding how much “truth” the different authors believe can be discerned through human 
+reason despite the reality of sin—which also has ramifications for one’s understanding of knowledge and 
+how this relates to embodiment. For instance, David Myers holds a view of creation and general revela- 
+tion that is most open to certain “truths” being discerned through psychology while other positions are 
+more cautious about how much truth is discerned through psychology because of theological differences 
+regarding general revelation and creation. While the doctrine of creation and revelation inform why the 
+authors hold different viewpoints on integration, these theological biases or leanings about revelation and 
+creation are not frequently stated, and it would be helpful for authors and teachers of integration to state 
+their theological positions on these subjects, since this has ramifications for their particular “view.”
+
+Whitney
+
+53
+
+While all Christians should be interested in knowing biblical notions of human nature through 
+God in Jesus Christ, they may or may not be interested in how creation (and the human creature) 
+have an intrinsic logic and order that psychology can help clarify. On the other hand, all psycholo- 
+gists will be interested in the patterns of human thought and behavior while they may or may not 
+acknowledge that the triune God established these intrinsic orders and patterns. It is left upto the 
+integrationist to hold onto both of these notions when practicing the integration of psychology and 
+theology. While all evangelicals engaging in faith integration in psychology will say that one’s 
+Christian faith needs to shape the practice and discipline of psychology, evangelicals will differ as 
+to how much the discipline of psychology can actually clarify, broaden, or inform Christian theol- 
+ogy depending in large part on their understanding of the goodness of creation, and the degree to 
+which they perceive general and special revelation working together.
+
+Conclusion #2: Human nature can be explored through psychology because God’s 
+providential care allows a certain order of creation to be preserved despite the 
+reality of sin
+
+God made a physical world and human creatures that have a certain order to them, which in the begin- 
+ning God proclaimed as “good.” These orders of creation can be observed through human interaction in 
+the world through the sciences and psychology. However, the question remains: How much can we rely 
+on the observations that one has about the world and human nature because sin is present? Hasn’t sin 
+destroyed one’s ability to discern things accurately? And, hasn’t sin completely cormpted one’s ability 
+to perceive truth? These are questions of importance, because, as mentioned above, one’s view of how 
+much sin has cormpted human ability to discern truth in the world also determines how much one 
+believes that psychology can speak to realities about the human person through measurement, study, and 
+evaluation. As mentioned above, one’s theological position concerning creation and how much sin has 
+cormpted human’s ability to discern tmth in the world, also determines how much (if any) psychological 
+science can inform or broaden aspects of Christian theology. If one believes that psychology can yield 
+insights about the human person (and most integrationists do believe this to some degree), then there has 
+to be some theological conception of how this can occur even though sin is still present.
+
+One way to make sense of how the order of creation is still intelligible to humans (both to the 
+Christian and non-Christian) is explicated through the notion of “common grace” given to all of crea- 
+tion. Dutch theologian and statesman, Abraham Kuyper, notes that common grace is the view that God 
+gives blessings to both the redeemed and the unredeemed. Common grace helps us make sense of how 
+God works in the wider realms of culture outside of the church (which is vital to have some sense of 
+when working within psychology). Common grace is God’s movement through the Son and Spirit to 
+develop human culture and promote human flourishing even though sin is still present (Kim-van 
+Daalen, 2012). God’s goodness of life is bestowed upon both the righteous and unrighteous alike— 
+upholding the life of his creatures, and taking no pleasure in the death of even the wicked (Ezekiel 
+18:23). God creates, but does not leave creation on its own. He graciously reaches out to creation sus- 
+taining and perfecting the created order from destruction. Finally, it is the work of the Holy Spirit to 
+restrain the power of sin so that its effects are not as bad as they could be (Kuyper, 2015), as it is also 
+the work of the Spirit to actualize human creativity. As H. Richard Niebuhr (1951) reminds us, the 
+world is “perverted good, not evil” so that the world is not “bad” in its being (p. 194). Kuyper also 
+defined common grace as God’s movement to restrain the power of sin and to develop “a sense of 
+domesticity, natural love, the practice of human virtue, the improvement of the public conscience, 
+integrity, mutual loyalty among people, and a feeling for piety leaven life” (Kuyper, 2015, p. 181).
+
+There is much connection here with the Wesleyan notion of “prevenient grace.” Both “common 
+grace” and “prevenient grace” make sense of how goodness or aspects of tmth are present in the world 
+despite the reality of sin; however, the difference exists among the Reformed and Wesleyan tradition in 
+how this grace leads to salvation (Cox, 1969, p. 143). For the Reformed tradition common grace is not
+
+54
+
+Journal of Psychology and Theology 48( I )
+
+salvific, whereas in the Wesleyan tradition prevenient grace is the working in someone’s life that occurs 
+before conversion to lead someone to saving grace—while acknowledging that prevenient grace does 
+not always have to lead to salvation since it can be resisted. Interestingly enough, both of these theo- 
+logical traditions have resources within their tradition for understanding how truth can be discerned 
+although sin exists. Sin does disrupt the ordering of God’s creation, within the human heart and in the 
+structures and cultures of society—while not ultimately destroying God’s good creation entirely. God 
+is committed to both nonhuman and human creation, and this redemption occurs in the person and 
+work of Jesus Christ and through the perfecting action of the Spirit (Gunton, 1995).
+
+Common grace establishes how someone who might not be a believer might be able to find 
+health and elements of wholeness within this life, even though he or she might not acknowledge 
+God. Sin can and does pervert how humanity relates to God, but it does not pervert God’s commit- 
+ment to his beloved creation and the human community (Moltmann, 1985, p. 233). The Spirit 
+continues to graciously sustain humanity—even those that move against God’s commands. The 
+order of creation is not completely destroyed by human sin or evil, and even though it may be dis- 
+rupted, God’s covenant love continues to graciously “overrule the worst that the human race can do 
+to subvert his order” (Gunton, 1998, p. 192). Since sin does not destroy or corrupt creation entirely, 
+and since God remains committed to his creation, then we must have room in our theology to speak 
+of the “goodness” that is still present within creation. Additionally, as Calvin noted, for Christ- 
+followers one cannot observe the wonder of creation and its goodness without it leading the believer 
+back to the worship and glory of the Creator.
+
+If one’s theological leanings focus on the “badness” of the human being so that humans cannot 
+discern any of the goodness that God preserves in creation through psychology, the doctrine of 
+creation is subordinated to the doctrine of sin. While this focus on the sinful nature of humans is 
+understandable, this focus has unfortunately often been interpreted that sin has (1) destroyed all of 
+the good within human persons, or (2) destroyed completely humanity’s ability to discern truth or 
+reality within the physical world and through the science of psychology.
+
+Conclusion #3: God endows humanity with creative abilities to discover and 
+develop the created order through the science of psychology
+
+God’s creation of the human person and placing humanity within creation to tend and care for 
+the earth naturally suggests caring or shaping of the created realm through human activity (cul- 
+ture). This is essential for those who teach the integration of psychology and theology since 
+(theologically speaking) one can and should view psychology as an element of human culture, 
+in that it concerns shaping and stewarding the world in a certain way. As has already been estab- 
+lished, the order and unity of creation means that there is a world that can be investigated—and 
+that truths can be gleaned through the human activity of investigation. Truth can be discovered 
+in the world, and the human activity of psychology (and meaning making) shapes the created 
+realm in a certain kind of way. Drawing on Kuyper, creation is not only discovered through the 
+enterprise of science, but also developed. As Kuyper (1931) states, “And for our relation to the 
+world: the recognition that in the whole world the curse is restrained by grace, that the life of 
+the world is to be honored in its independence, and that we must, in every domain, discover the 
+treasures and develop the potencies hidden by God in nature and in human life” (p. 31). For 
+Kuyper, since humans stand in a certain relation with the world, they have the ability to dis- 
+cover the treasures of creation, and to develop these patterns found in creation. These two terms 
+are helpful points for those practicing integration of psychology and Christianity, since one can 
+assume that there are truths to be gleaned from the study of the human creature (discovery), and 
+that as humans make meaning of these truths they develop a culture around these discoveries. 
+Not only has God made humans naturally curious creatures, but also it makes sense that human- 
+ity’s God-given relational capacities would make human creatures intensely curious about other
+
+Whitney
+
+55
+
+human creatures. Wolters reappraises this understanding from Kuyper and uses the terms of 
+“structure” and “direction” (Wolters, 2005). Creation provides the structure so that the natural 
+created world can be discovered, but it is up to the human working in culture to give these dis- 
+coveries a direction. For Wolters, the Christian is charged with directing their discoveries to the 
+working of the Kingdom, in whatever domain of study that they might find themselves in 
+(Wolters, 2005). From the perspective of a trinitarian account of creation, the Spirit is the one 
+who particularizes and transforms, and enables things to be what they are intended to be. This 
+becomes evident in all realms of culture as humans engage in the creative and investigative 
+process to give the creation a voice and shape it in a certain direction. The world’s fundamental 
+goodness is established through Christ who became incarnate, and humanity has the ability to 
+transform and give direction to the world they are investigating as they are enabled through the 
+Holy Spirit. From a theological standpoint it is the Spirit who guides human effort in this crea- 
+tive and directive process. There is something good about the created world, and there is some- 
+thing equally good when humans express their creative and directive capacities by engaging 
+with the world that God has created.
+
+With this in mind, one may understand that the study of the human person through psychology 
+is a natural outworking of one way that the created realm can be shaped and studied. Through a 
+theological lens, one can understand psychology as simply one way that humans express their curi- 
+osity and creativity through the study of human thought and behavior, in addition to making mean- 
+ing of the things that one finds from the discovery and study of the human person (Gadamer, 1999). 
+Humans are called to not only discover truths about the created order but also to develop these 
+patterns that are found in creation—and these capacities of discovery and development are actual- 
+ized by the work of the Spirit (Gunton, 1997). For Kuyper (1931), this human action of discovery 
+and development has potential to shed “light on the glories of the entire cosmos in its visible phe- 
+nomena and operations,” and there is nothing either in the life of nature or in human life that does 
+not “present itself as an object worthy of investigation” (p. 126). The importance of upholding the 
+goodness and order of the material realm places greater emphasis on how one understands human 
+action within the creation. And one also could argue that the discovery and development done 
+within psychology concerning human thought and behavior have a special place within the sei- 
+enees from a theological perspective since they specifically study the relational and personal 
+dimensions of humanity, which, according to Scripture, is central in Christ’s work of redemption.
+
+Humans have a special role within the world of discovering and developing the created realm 
+through the sciences, and this is a natural and good use of the gifts that God has given humanity. 
+And to press this point further, earlier we discussed how the created realm is knowable but the 
+physical world can only speak about God in ambiguous or vague terms (Torrance, 1982). Since the 
+created world has an order that speaks, but speaks in vague terms, it is left up to humans as agents 
+or stewards of creation to give articulation to the wonders of the human person through the science 
+of psychology. According to Scripture, humanity is placed in the garden to shepherd or steward 
+over the creation that God has given—with Genesis establishing that God has given tasks for 
+humans to carry out in the created world. In the same line of work as naming of the animals, 
+humans are given a special role in organizing and classifying what is discovered. This is another 
+argument that establishes the value of the discipline of psychology. Humans find their proper place 
+not in remaining above creation in some sort of hierarchy that dominates or destroys creation—but 
+in recognizing their continuity (or relationality) with the created realm by rightly relating to God, 
+others, and nonhuman creation.9 This shaping of the world takes place—whether this occurs
+
+9.  Another improper view of creation among those interpretations ofthe Genesis text takes it to mean that humans 
+dominate or stand over the created world in a place of ultimate authority (there is a difference between domin- 
+ion and domination). Unfortunately, interpretations ofthe Genesis text that read “dominion” as “domination” 
+result in the exploitation of creation for commerce and are seen in how some evangelicals despise creation or 
+dismiss it for an otherworldly salvation, as American novelist Wendell has observed (Berry, 1973).
+
+56
+
+Journal of Psychology and Theology 48( I )
+
+through plowing a farm, painting a work of art, performing research on human behavior, or explor- 
+ing human nature and behavior through clinical work. While much of the work among evangelicals 
+within integration notes that truth can be discovered through psychology, there is little discussion 
+regarding how this discovery of the order of the human creature contributes to God’s mandate of 
+developing or fashioning the earth, and giving creation a voice (Begbie, 1997).
+
+The conceptualization that has been sketched so far of the created realm helps give a theological 
+vision for how God works in and through the human activity of psychology. If the created realm did 
+not have a pattern or order, then the human enterprise of science or psychology could not take place. 
+Moreover, if there is a crisis of belief that the created realm is good and something worthy in and of 
+itself, this will dramatically impact various human cultural enterprises, and this includes the human 
+enterprise of psychology (Gunton, 2002). This understanding of creation outlined also details how 
+Christians may learn from non-Christians, so that truth may be discovered and human life informed 
+and nourished from sources that are not specifically Christian, that is, by articulating the various 
+forms and structures found in creation through psychology. Furthermore, if operating with a theology 
+that does not affirm that human discovery in creation is part of a stewardship role to develop the ere- 
+ated realm through psychological culture, then it will be more difficult to understand how psychology 
+may contribute to our knowledge and understanding of the world. Psychology is exploration into the 
+human person and behavior, and it can also be seen theologically as fulfilling our task as human crea- 
+tures in exploring, developing, and shaping creation in a particular way. God has created humans with 
+the ability to explore, wonder, dream, and develop creation—and psychology is one form in which 
+this exploration or development takes place. The created realm presents a reality that has an intrinsic 
+logic since it is from a good Creator—truth is accessible in the world through the secular, not because 
+it proves the existence of God, but because God has ordered a world that is knowable to the one who 
+investigates and explores. Psychology assumes that there are forms or patterns in the natural order 
+that can be investigated, and psychological research not only helps discover truths about the created 
+realm but also helps develop these truths.
+
+Interaction with the material world is a necessary part of being human—what happens to and within 
+the created world ultimately has significance for the ways that we become persons since our physical 
+world shapes and orients the cognitive, social, and emotional dimensions of personhood (Brown & 
+Strawn, 2012). Since the world is unified and ordered in a certain way, humans have been given the 
+ability to investigate and explore the patterns found in creation, and ultimately give articulation to the 
+order and patterns that are found regarding human thought and behavior. Humans shape the world in a 
+certain way and at the same time human personhood is also shaped by the world that they inhabit 
+through their discoveries and development. Additionally, it was noted that these discoveries hold 
+potential to be developed and directed in a certain way, and for the Christian, these discoveries are 
+offered up for the ultimate glory of God’s Kingdom. While not all theories in psychology entirely align 
+with the Christian gospel, one can still conceive psychology as a part of human exploration of the ere- 
+ated order that God has established. This brings the discussion to our final conclusions, which is the 
+situating of the human creature within the created realm, and is the topic to which we now turn.
+
+Conclusion #4: God’s Trinitarian relations with the created world establish the 
+theological basis for the social, embodied, and relational aspects of human nature 
+that are discerned through the study of psychology
+
+Enlightenment scientific understandings of creation typically leaned towards Deism (God is 
+removed from the workings of the world) so that that God was so separate from the universe that 
+he only interacted with the world through natural laws. The natural sciences during the modern era 
+touted deistic conceptions of the world that posited a “separateness” of God from the created realm 
+so that God only interacted with creation through a series of natural laws. This picture that Deism 
+portrays of God is the clockmaker who simply winds the clock and sits back as the world runs its
+
+Whitney
+
+57
+
+course with little or no intervention supernaturally. This mechanistic view of the universe resulted 
+in several detrimental elements that were eventually incorporated into Western conceptions of the 
+world and human person. They include: (1) the loss of the personal aspect of God’s involvement 
+with creation; (2) conceptions of the human person that were less holistic and more dualistic; (3) 
+the loss of the connection between the human and nonhuman creation.
+
+In the early twentieth century many evangelical Christians rejected deism, but as a result they 
+stressed a more biblicist or literal interpretation of the creation narrative. This history of the influ- 
+ence of Enlightenment thought upon American evangelicalism has been well documented else- 
+where, so those steps need not be retraced here, but the residue of this Enlightenment heritage still 
+impinge on integration efforts in psychology and theology.10 This history of the doctrine of creation 
+and how God interacts with the natural world does have direct correlations with how evangelical 
+Christians approach integration. A thin account of how God operates in the natural world will 
+impact conceptions of integration resulting in divisions in how one understands the realms of the 
+sacred and secular, with focus on spiritual development as something generally individualistic 
+between God and the Christian—instead of Christian spirituality, salvation, and development being 
+understood as operating in and with the physical world as the individual is embedded within a com- 
+munity (Brown & Strawn, 2012; Wright, 2008).
+
+As mentioned, it is possible to discover truths about creation because God has fashioned a world 
+that will disclose its secrets to those who inquire. The development and movement of humanity 
+towards wholeness is something that takes place within this created realm, and consequently, 
+change and transformation have an inherent social aspect to them. As British theologian John 
+Webster observes, true humanity is not a possessed individualistic identity but “rather life in a 
+perpetual movement of receiving and responding” to the gifts and the absolute generosity of the 
+triune God (Webster, 2003, p. 228; King & Whitney, 2015).
+
+The doctrine of creation offers a theological account of how God’s free relations of love with the 
+human and nonhuman creation form the structure for human development and human involvement 
+with culture. However, human interactions with the material world are the primary point of study for 
+psychology as the Christian psychologist understands that this remains the theological basis for rela- 
+tionality and embodiment. A rich account of the doctrine of creation affirms that humans are mutually 
+conditioned and constituted by their social environment, and this stands in correspondence with what 
+cognitive, developmental, and social psychology have demonstrated (Brosch & Van Bavel, 2012; 
+Schwabe & Wolf, 2013). However, the Christian conception of this provides a rich telos that deepens 
+our understanding of this plasticity and malleability; All creatures are formed in relationship to others 
+(of their own kind or to other species), but human creatures are created with the capacity to be in a 
+particular relationship with God and be open to God for transformation. Thus, true humanity is found 
+in “participation in the unfolding of God’s ways with humankind” (Webster, 2003, p. 228; King & 
+Whitney, 2015). This is also informed by the basic belief that Christ’s Spirit works to bring wholeness 
+to the psychological and emotional aspects of personhood. Balanced with the doctrine of creation, this 
+movement towards wholeness can occur within the created realm since growth and change happen by 
+coming into a restorative relationship with another.
+
+Three ramifications for psychology are found here. First, the relational and embodied aspects of 
+humanity speak to the theological conception of embodiment that should undergird developmental 
+and social psychology for the Christian. As mentioned earlier, Irenaeus’s case is that Christ’s incar- 
+nation legitimizes the value and importance of humanity within the material realm. Irenaeus also 
+argues that the incarnation affirms life from infancy to adulthood, and makes the case that every 
+aspect of one’s life can be affirmed because Christ aligned himself with humanity. While Jesus did 
+not live to an old age (at least to what we might consider old), Irenaeus still argued that all periods 
+of human life were sanctified by Christ becoming incarnate. And yet, this point holds importance
+
+10.  See further Noll, 1986; Funkenstein, 1986.
+
+58
+
+Journal of Psychology and Theology 48( I )
+
+since it is a reminder that all of the interconnected relationships and developing systems which 
+humans find themselves embedded in are established through the doctrine of creation, sanctified by 
+Christ becoming incarnate, and directed to a certain telos through the Spirit. God has given some 
+degree of order to these interconnected dynamic systems that humans find themselves in, and it is 
+these features of the created realm that psychology seeks to study and address. It is not only that the 
+created realm provides the structure that is able to be studied, but it is also this particular realm that 
+we inhabit which shapes our emotional, neurological, and social development. Given the malleabil- 
+ity of our personhood and the dynamic work of the Spirit, it compels us continue to develop a theo- 
+logical conception of what thriving or flourishing looks like—knowing that a Christian ontology 
+also provides notions of becoming and personhood that psychology cannot provide alone (Balswick, 
+King, & Reimer, 2016; King & Whitney, 2015; Lemer, 2002).
+
+Second, the movement of God of working towards restoration does not just mean wholeness 
+between others and God, but, as Anthony Hoekema observes, becoming a new creation also means 
+having a renewed relationship with one’s own self (Hoekema, 1986). Surprisingly, theological 
+exposition of this seems to be neglected in much of the integration literature—and represents an 
+important topic for further research and reflection (especially for clinical work). The work of the 
+Spirit not only gives us greater capacity for relating to others, but also has capacity to change our 
+own self-image—and for the Christian, we believe it does, in order to conform us to make us more 
+like the image of Christ. This is the dynamic working of the Spirit bringing about a certain telos of 
+becoming that occurs through development over the course of one’s life (Schnitker, King, & 
+Houltberg, 2019; King, 2016). Thus, with the redemption of the created realm there is also the 
+renewal of our how we view ourselves. Creation establishes that as human creatures we are rela- 
+tional beings that exist in relationship with God, others, and the nonhuman creation. However, to 
+be human also means that we have some degree of relationship with our own selves. As Calvin has 
+noted, there is a reciprocal relationship between knowledge of God and knowledge of one’s own 
+self.11 Self-perception and understanding of one’s self is made possible because of the inherent 
+relational dimension of the created realm. Hoekema argues that one’s self-image is often “either 
+inordinately high (in the form of sinful pride) or excessively low (in the form of feelings of shame 
+or worthlessness)” (Hoekema, 1986, p. 105). However, as Scripture reminds us, there is already a 
+degree of respect and care for one’s own self that is assumed in the command to love our neighbor 
+as ourselves (Matthew 22:39). Love for neighbor assumes that there is also some degree of healthy 
+self-love that is present—and self-love that honors who God has made us to be is different than 
+selfishness. Therefore, transformation through the Spirit not only means that we treat others in a 
+new way, but also for the Christian that we treat ourselves in a way that is commensurate with the 
+reality that there is no condemnation in Christ Jesus (Romans 8:1).
+
+Third, the social, embodied, and relational aspects of human nature outlined by a trinitarian 
+understanding of creation bear on both the method and practice of integration between psychology 
+and theology (Brown & Strawn, 2012; Sandage & Brown, 2015). As mentioned above, modernity’s 
+influence in the West resulted in conceptions of the human person that were less holistic and more 
+dualistic, and had the tendency to separate mind from body. These tendencies are still present 
+within evangelicalism, and also within some integration efforts that divorce information or knowl- 
+edge from embodiment. Knowledge, in the biblical perspective, is not solely objective or informa- 
+tion-based; it is relationally grounded and mediated. If knowledge is relationally meditated, then 
+observation always moves one into relationship with the subject that is being observed and is never 
+something that can be done in complete objectivity—as the scientific method often implies 
+(Polyani, 1962). A danger in teaching integration between psychology and Christianity arises when
+
+11.  Calvin famously said that “Nearly all the wisdom we possess, that is to say, true and sound wisdom, 
+consists of two parts: the knowledge of God and of ourselves. But, while joined by many bonds, which 
+one precedes and which brings forth the other is not easy to discern” (Calvin, 1960, p. 35).
+
+Whitney
+
+59
+
+integration is portrayed to students as something that is simply theoretical apart from the embodied 
+and ethical components of human personhood. Moreover, as Sandage and Brown (2018) correctly 
+note, the work of integration does not just occur on the level of abstract ideas, but involves whole 
+and embodied persons to do the work of integration. Stressing in our teaching that integration 
+involves understanding one’s social and cultural location for how one embodies the world, how this 
+impacts theological reflection, and how this bears on one’s study of psychology is not only impor- 
+tant but essential for the integration of one’s own self, and the development of the ethical dimen- 
+sions of personhood (Sandage & Brown, 2015).
+
+Implications for Psychological Research and Psychotherapy
+
+The ramifications of what has been outlined above move beyond simply establishing the theologi- 
+cal foundations for how the doctrine of creation impacts integration to also providing insight for 
+clinical work, research, becoming a spiritually integrated person, and teaching psychology in the 
+undergraduate and graduate setting. While all of these implications cannot be discussed here, the 
+burden of this article has been to open the conversation and dialogue for how a trinitarian doctrine 
+of creation impacts our understanding of integration. Having established the basic framework of 
+how creation provides some valuable ways to approach integration, I propose, by way of conclu- 
+sion, to further sketch how some of these notions might have implications for psychology in the 
+realm of clinical work and some aspects of psychological research.
+
+As Christ-followers who are psychologists, one of our roles is to join with the work of God in 
+redeeming patterns of human behavior by helping folks understand how they relate to them- 
+selves, others, and the world around them either through psychotherapy or through research. Or 
+to use “Kuyperian” language, the work of psychotherapy can help persons discover new things 
+about themselves and develop these patterns in a direction that is helpful. In many cases, the 
+relational patterns that we are unaware of often are the patterns that cause the greatest difficulties 
+in one’s relationships. With this in mind, we might understand the work of therapy as helping 
+patients to understand and discover how patterns of the past causes one (often unknowingly) to 
+act certain ways in their relationships and even towards one’s own self. Taking what we estab- 
+lished above regarding general revelation and common grace, we can acknowledge that these 
+relational patterns can be discovered simply because God has made a universe and human crea- 
+tures that have discernable orders and patterns. Once these relational patterns are discovered, the 
+psychologist can work to develop these patterns of behavior towards wholeness—with particular 
+focus on changing negative relational patterns. Negative patterns of relating are usually rooted 
+in real pain or hurt from the past, and fortunately some of these patterns are also discernable 
+through human relationship and inquiry. If we want to use theological language, our negative 
+patterns of relating do come through our sinfulness but also as a result of us being sinned against. 
+God’s Spirit works through clinicians to bring wholeness and healing through the discovery of 
+relational patterns. Moreover, we must also acknowledge that the Spirit of God is at work and 
+leads those who are children of God (Romans 8:9-10; 8:14), and we can trust that this is happen- 
+ing as we commit clinical work to Christ. The development and movement of humanity towards 
+wholeness is something that takes place within this created realm, between the clinician and cli- 
+ent, which also demonstrates how change and transformation have an inherent social aspect 
+(Sandage & Brown, 2018).
+
+Common grace enables us to see that God can work positively in the field of psychology in ways 
+that benefit humanity—especially seen in, but not limited to, those areas of psychology that work to 
+promote the health and well-being of families, couples, and children. Thus, common grace is at work 
+in the family therapist who earnestly helps parents reconcile in order to provide a safer home envi- 
+ronment for their children. Common grace enables us to see how the clinician who works with those 
+who struggle with a severe mental illness have been graciously given gifts to care for those who are
+
+60
+
+Journal of Psychology and Theology 48( I )
+
+often overlooked in our society. These gifts of God’s common grace do not bring salvation, but they 
+are graciously bestowed upon people so that God’s goodness may shine forth. They are glimpses and 
+reminders of God’s coming Kingdom—a Kingdom where persons are whole and complete human 
+beings. The doctrine of creation and providence reminds us that God is committed to sustaining and 
+upholding his creation, and common grace helps explicate how this might take place.
+
+Agreeing with Charles Taylor, the individualistic and isolated Western notions of the self and 
+personhood have resulted in depersonalization and disengagement within wider society—and 
+unfortunately these have affected psychological theory and some streams of evangelicalism. Deism 
+had the tendency to devalue the doctrine of creation so that both persons and societies became more 
+disengaged from one another, and disengagement can be understood as standing apart from others 
+and the world in a depersonalized fashion so that the “other” is treated as an object (Gunton, 2002). 
+A neglect of the trinitarian doctrine of creation causes one to lose the interconnected nature that 
+humans have with others, God, and even nonhuman creation. Thus, the outcome of modernity was 
+an essentially rationalist conception of the human being and the world, that humans are essentially 
+a mind. If we are only a mind, then we discern the world divorced from body and emotions. In 
+short, the way that we are fashioned into the people we are supposed to be happens (or doesn’t hap- 
+pen) through the ways that our personal relationships are ordered (this is also where our ecclesiol- 
+ogy comes in) since the community of the church is the realm where such social transformation 
+takes place to form a new community that loves and worships Jesus Christ. One way that findings 
+in social and cognitive psychology help push or inform our understanding of creation is demon- 
+strating and confirming just how malleable we are as humans in regards to our behavior, how con- 
+nected and influenced we are by social realities, and how prone to bias we are due to our cognitive 
+schemas that are shaped by social identities (Bartlett, 1932; Schacter, Norman, & Koutstaal, 1998; 
+Bernstein, Sacco, Young, & Hugenberg, 2014). Given the prevalence of how social realities shape 
+our view of others, our behavior represents one future direction that a theology of creation must 
+continue to engage with since it reinforces the importance of the role that the church has in shaping 
+and creating new social realities (Brown & Strawn, 2012). Historically, through much of modern 
+Western society the personal and communal dimensions of human personhood have been over- 
+looked and humanity’s relation with the world neglected However, this trend is counteracted 
+through resources found in a trinitarian conception of creation that stresses the relational, social, 
+and embodied dimensions of personhood.
+
+Psychology represents a certain way that humans explore the order and unity of creation by 
+discovering, giving voice to, and classifying information regarding human behavior, biology, and 
+nature. Humans inherently make meaning of this information as irreducibly hermeneutic creatures 
+(Gadamer, 1999), and this meaning making is also part of humanity’s God-given relational and 
+creative capacities. Informed with a doctrine of creation that upholds the value of the material crea- 
+tion and sees the connection between creature and creation, one begins to see how, from a theologi- 
+cal perspective, the field of psychological science shapes the culture as one explores and investigates 
+the created human person. While the work through psychotherapy does not bring salvation, it 
+nevertheless can be viewed as part of God’s processes to bring wholeness to his creation. 
+Consequently, Christians working within psychology are part of shaping the realm that God has 
+given us with the view that God is bringing those we work with towards wholeness. God’s love 
+reaches far beyond the bounds of only the “elect”—it reaches out to the whole world desiring that 
+all people, everywhere come to know greater wholeness and abundant life. Job 34:14 reminds us 
+that if God withdrew his Spirit, then all of humanity would perish. God as creator sustains his good 
+creation, speaking his continual “yes” to life as he upholds the human creature and creation from 
+dissolution (Moltmann, 1985).
+
+This also means that Christians who work in psychological research and/or practice psycho- 
+therapy have a part to play in extending this love and working for change, and this change often 
+times manifests itself in the relational work that takes place as one interacts with others and
+
+Whitney
+
+61
+
+provides research that can give a “roadmap” for how to order one’s personal relationships. As 
+Christians, we understand that God desires life for his creation, and this involves the prospering 
+and flourishing of human life. It is the personal relations that we have with ourselves, others, and 
+God (and even nonhuman creation) that shape who we are. Moreover, the doctrine of creation 
+informs how God’s free relations of love with the human and nonhuman creation form the basis for 
+human development and human involvement with culture (King & Whitney, 2015; Balswick, 
+King, & Reimer, 2016). In this way, clinicians can be seen, in part, as helping to reorder the re la- 
+tionships and patterns of behavior through the social and relational aspects of something like psy- 
+chotherapy or research. We have both sinned and been sinned against, which disrupts the normal 
+patterns and order of relating with others. The material created realm is where humanity has suf- 
+fered from sin, but creation also represents the stage where redemption begins and occurs. Clinical 
+work, in part, seeks to help patients grow and change through a reparative relationship—and this is 
+discernable because of the vision of creation that we have established, i.e. God has made these 
+relational patterns and orders known and discernable. It has also been argued that psychology is 
+unique and of value with its focus on the relational and behavioral since the realm that Christ came 
+to redeem is the relational dimension of one’s personhood. This emphasis on the relational nature 
+of humanity set within the arc of the biblical narrative of creation, redemption, and restoration has 
+also caused scholars to ask questions about what it means to flourish or thrive from theological and 
+psychological perspectives, i.e. what is a meaningful and purposeful end to existing as a human? 
+(McMinn, 2017; Balswick, King, & Reimer 2016; Volf & Crisp, 2015; Charry, 2010). The prosper- 
+ing and flourishing of human life is what Jesus’ ministry of reconciliation is about, and working for 
+God’s Kingdom here on earth means working towards shalom, which is not merely an absence of 
+conflict but is a fullness or wholeness to life. In effect, we can understand the reign of God to be a 
+reordering and restoration of creation that has been disrupted by sin. Shalom is the wholeness that 
+God intended for his creation and creatures, and, balanced with an understanding of the doctrine of 
+creation, we can understand that humans have a role in tending, caring for, and being good stewards 
+of the small part of the created realm that we embody as persons.
+
+Concluding Remarks
+
+This article has proposed a theological evaluation of the nature and work of psychology that is 
+informed by the trinitarian doctrine of creation, and argued that the resurgence of the doctrine of 
+creation in theological circles has also opened up new possibilities for how we conceive the rela- 
+tionship between theology and psychology. A thin account of the doctrine of creation limits the 
+scope of creation to the first chapter of Genesis and neglects how it is effectively related to other 
+doctrines (like revelation and common grace). When this is done the doctrine of sin is often ele- 
+vated to a place of importance over the doctrine of creation so that the goodness of the created order 
+and creature are neglected or even denigrated. Conversely, situating the doctrine of creation within 
+the larger arc of the biblical narrative emphasizes the goodness of the created world and speaks to 
+how God reveals Godself to the human creature. A trinitarian understanding of creation highlights 
+the personal and communal nature of humanity and humans’ relationship with the material realm 
+that is of great value for integration efforts in psychology—and especially for establishing that the 
+practice of integration includes integration within persons, and not merely the integration of con- 
+cepts or ideas (Sandage & Brown, 2018).
+
+A doctrine of creation that includes the notion of common grace gives clarity to how God’s Spirit 
+brings forth good things through psychology, whether or not a particular psychologist acknowledges 
+God. Common grace is a valuable theological concept for integration since it establishes how one 
+understands psychological discoveries made by non-Christians. Is all of psychology “fallen” and in 
+need of a pristine “Christian” approach? Or, is God at work in the field of psychology in ways that 
+benefit humanity—even though all psychologists might not explicitly acknowledge God? The
+
+62
+
+Journal of Psychology and Theology 48( I )
+
+argument outlined in this article favors the latter view, and has demonstrated how one’s understanding 
+of creation and revelation dictates various positions within the integration dialogue.
+
+While psychology is the exploration of human thought and behavior, it can also be seen theo- 
+logically as one particular way humans can explore, develop, and shape creation in particular 
+ways—recognizing that one’s ability to explore creation through psychology relies on capacities 
+given by God.
+
+One can affirm that psychology is a science—and yet, for the Christian, it is also the activity of 
+humans engaging in the process of discovering and exploring God’s world. The more central con- 
+cern for those practicing integration is the acknowledgement that through God’s general revelation, 
+the world and the human creature have an order that may be discerned by observations through the 
+psychological sciences. This revelation may not directly reveal things about God as Redeemer, but 
+this general revelation reveals something of the manner and order of the way that God has put 
+together the created realm and the human creature. As mentioned above, this does not mean that all 
+of this exploration and observation aligns with all Christian convictions, and yet, we can still 
+acknowledge that the role of discovering and developing and making meaning of God’s world is 
+something that is part of simply being human.
+
+The significance that this holds for psychology cannot be overstated. Just as common grace 
+allows us to makes sense of the goodness found in creation, there are elements of truth that are 
+worth discovering within and about the human creature. Kuyper, for example, argues that there are 
+features within human life that are “worthy of investigation.” Since the world and human creatures 
+have patterns that are intrinsic to their existence, it follows that these patterns ( especially of human 
+behavior) are worth exploring.
+
+It is possible to see the work of psychology, and more specifically the integration of Christian 
+theology and psychology, as finding and developing these areas of “truth” that people possess and 
+helping them understand their own patterns of behavior. It is possible to discover truths about crea- 
+tion because God has fashioned a world that will disclose its secrets to those who inquire. Moreover, 
+the Christian experience is informed by the basic belief that Christ’s Spirit works to bring whole- 
+ness to the psychological and emotional aspects of our person—and informed by a trinitarian 
+understanding of creation—aspects of this wholeness can occur within the created realm. Moreover, 
+growth and change happen best, both behaviorally and spiritually, in the context of healing rela- 
+tionships. Since God created a world that is knowable to the one who inquires, Christian psycholo- 
+gists can see part of their work as helping others to understand their own relational patterns and 
+develop these to bring people into reconciliation with themselves and others.
+
+Funding
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit 
+sectors.
+
+ORCID iD
+William B. Whitney € https://orcid.org/0000-0001-5638-3395
+
+References
+
+Balswick, J., King, P. E., & Reimer, K. (2016). The reciprocating self: Human development in theological 
+
+perspective (2nd ed.). Downer’s Grove, IL: IVP Academic.
+
+Barth, K. (1936). Church dogmatics (Vol. 1). G. W. Bromiley & T. F. Torrance (eds.). London: T&T Clark. 
+Barth, K. (1961). Church dogmatics {Vol. II). G. W. Bromiley & T. F. Torrance (eds.). London: T&T Clark. 
+Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge: Cambridge 
+
+University Press.
+
+Beck, J. R. (2003). The integration of psychology and theology: An enterprise out of balance. Journal of 
+
+Psychology and Christianity, 22(1), 43-58.
+
+Whitney
+
+63
+
+Begbie, J. (1997) Christ and cultures: Christianity and the arts. In Colin Gunton (ed.), The Cambridge 
+Companion to Christian Doctrine (pp. 101-120). Cambridge: Cambridge University Press, 1997.
+Benson, P. L., & Scales, P. C. (2009). The definition and preliminary measurement of thriving in adolescence. 
+
+The Journal of Positive Psychology, 4, 85-104. doi:10.1080/17439760802399240.
+
+Bering, J. M. (2012). The belief instinct: The psychology of souls, destiny, and the meaning of life. New York: 
+
+W. W. Norton.
+
+Berkouwer, G. C. (1955). General revelation. Grand Rapids, MI: Eerdmans.
+Bernstein, M., Sacco, D., Young, S., & Elugenberg, K. (2014). The impact of race and inclusionary status on 
+
+memory for ingroup and outgroup faces. Basic and Applied Social Psychology, 3, 191-198.
+
+Berry, W. (1973). A secular pilgrimage. In Ian Barbour (ed.), Western man and environmental ethics: Attitudes 
+
+toward nature and technology (pp. 135-147). Reading, MA: Addison-Wesley.
+Bloesch, D. (1997). Jesus Christ: Savior and Lord. Downers Grove, IL: IVP Academic.
+Brueggemann, W. (1982). Genesis. Atlanta: Westminster John Knox.
+Brosch, T., & Van Bavel, J. J. (2012). The flexibility of emotional attention: Accessible social identities guide 
+
+rapid attentional orienting. Cognition, 125, 309-316.
+
+Brown, W., & Strawn, B. (2012). The physical nature of the Christian life. Cambridge: Cambridge University 
+
+Press.
+
+Calvin, John (1960). Institutes of the Christian religion. Ed. John T. McNeill. Trans. Ford Lewis Battles. 
+
+Philadelphia: Westminster Press.
+
+Carter, J. D., & Narramore, B. (1979). The integration of psychology and theology: An introduction. Grand 
+
+Rapids, MI: Zondervan Publishing House.
+
+Chany, E. T. (2010). God and the art of happiness. Grand Rapids, MI: Eerdmans.
+Cox, L. G. (1969). Prevenient grace: A Wesleyan view. Journal of the Evangelical Theological Society, 12(3), 
+
+143-149.
+
+Crouch, A. (2009). Culture making: Recovering our creative calling. Downer’s Grove, IE: InterVarsity Press.
+Damon, W. (2004). What is positive youth development? Annals of the American Academy of Political and 
+
+Social Science, 591, 13-24. doi:10.1177/0002716203260092.
+
+Davies, P. R., & Rogerson, J. W. (2005). The Old Testament world. Westminster: John Knox Press.
+Dymess, W. A. (1997). The earth is God’s: A theology of American culture. New York: Orbis Books.
+Entwistle, D. N., & Moroney, S. K. (2011). Integrative perspectives on human flourishing: Hie imago Dei and 
+
+positive psychology. Journal of Psychology and Theology, 39, 295-303.
+Erikson, E. (1963). Childhood and society. New York: WW. Norton Publishers.
+Fergusson, D. (1998). The cosmos and the creator: An introduction to the theology of creation. London: 
+
+SPCK.
+
+Forsyth, P. T. (1916). The Justification of God. London: Duckworth Press.
+Freud, S. (1961). The future of an illusion. In J. Strachey (ed. & trans.), The standard edition of the complete 
+psychological works of Sigmund Freud (Vol. 21, pp. 5-56). London: Hogarth Press. (Orig. pub. 1927)
+
+Funkenstein, A. (1986). Theology and the scientific imagination from the Middle Ages to the seventeenth 
+
+century. Princeton: Princeton University Press.
+
+Gadamer, H-G. (1999). Hermeneutics, religion and ethics. New Haven, CT: Yale University Press.
+Green, J. B. (2008). Body, soul and human life. Grand Rapids, MI: Baker Academic.
+Gunton, C. E. (1995). A brief theology of revelation. Edinburgh: T & T Clark.
+Gunton, C. E. (1997). The promise of trinitarian theology. Edinburgh: T & T Clark.
+Gunton, C. E. (1998). The triune creator: A historical and systematic study. Grand Rapids, MI: Eerdmans.
+Gunton, C. E. (2002). The Christian faith: An introduction to Christian doctrine. Oxford: Blackwell Publishers.
+Hampson, P. (2014). Theology and psychology. In O. Crisp, G. D’Costa, M. Davies, & P. Hampson (eds.), 
+Christianity and the disciplines: The transformation of the university (pp. 118-134). Oxford: T&T 
+Clark.
+
+Hart, T. (2001). How do we define the nature of God’s love? In K. J. Vanhoozer (ed.), Nothing greater, noth- 
+
+ing better: Theological essays on the love of God (pp. 94-99). Grand Rapids, MI: Eerdmans.
+
+Hasker, W. (1991). Faith-learning integration: An overview. Christian Scholar’s Review, 21(2), 234-248.
+Hoekema, A. (1986). Created in God’s image. Grand Rapids, MI: Eerdmans.
+Johnson, E. L. (2007). Foundations for soul care: A Christian psychology proposal. Downers Grove, IE: 
+
+InterVarsity Press.
+
+Johnson, E. (ed.) (2010) Psychology and Christianity: Five views. Downers Grove, IE: InterVarsity Press.
+
+64
+
+Journal of Psychology and Theology 48( I )
+
+Keyes, C. L. M., & Haidt, J. (eds.) (2003). Flourishing: Positive psychology and the life well-lived. Washington, 
+
+DC: American Psychological Association.
+
+Kim-vanDaalen, L. (2012). The Holy Spirit, common grace, and secular psychotherapy. Jowrwa/ of Psychology 
+
+and Theology, 40, 229-239.
+
+King, P. E. (2016). The reciprocating self: Trinitarian and christological anthropologies of being and hecom- 
+
+ing. Journal of Christianity and Psychology, 35(3), 15-32.
+
+King, P. E., & Clardy, C. E. (2014). Prevention and the promotion of thriving in children and adolescents. In 
+K. S. Flanagan, & S. E. Hall (eds.), Christianity and developmental psychopathology: Theory and appli- 
+cation for working with youth (pp. 179-202). Naperville, IE: InterVarsity Press.
+
+King, P. E., & Whitney, W. B. (2015). What’s the “positive” in positive psychology? Teleological considera- 
+
+lions based on creation and imago doctrines. Journal of Psychology & Theology, 43(1), 47-59.
+
+Kuyper, A. (1931). Lectures on Calvinism. Grand Rapids, MI: Eerdmans.
+Kuyper, A. (2015). Common grace: God’s gifts for a fallen world (Vol. 1). Bellingham, WA: Lexham Press.
+Lemer, R. (2002). Concepts and theories of human development. Mahwah, NJ: Lawrence Erlbaum Publishers.
+Lemer, R. M., Dowling, E. M., & Anderson, P. M. (2003). Positive youth development: Thriving as the 
+basis of personhood and civil society. Applied Developmental Science, 7, 172-180. doi:10.1207/ 
+S1532480XADS0703 8.
+
+Litfin, D. (2004). Conceiving the Christian college. Grand Rapids, MI: Eerdmans.
+Marsden, G. M. (2996). Fundamentalism and American culture. Oxford: Oxford University Press.
+McGrath, A. (2001). A scientific theology (V01. 1). Grand Rapids, MI: Eerdmans.
+McMinn, M. R. (2017) The science of virtue: Why positive psychology matters to the church. Grand Rapids, 
+
+MI: Brazos Press.
+
+Moltmann, J. (1985). God in creation: A new theology of creation and the spirit of God. Trans. M. Kohl. 
+
+Minneapolis, MN: Fortress Press.
+
+Niebuhr, R. H. (1951). Christ and culture. San Francisco, CA: Harper and Row.
+Noll, M. (1986). The scandal of the evangelical mind. Grand Rapids, MI: Eerdmans.
+Pannenberg, W. (1991). Systematic theology (Vol. 1). Grand Rapids, MI: Eerdmans.
+Polyani, M. (1962). Personal knowledge: Towards a post-critical philosophy. Chicago, IE: University of 
+
+Chicago Press.
+
+Puffer, K. (2007). Essential biblical assumptions about human nature: A modest proposal. Journal of 
+
+Psychology and Christianity, 26(2), 45-56.
+
+Sandage, S., & Brown, J. (2018) Relational integration of psychology and Christian theology: Theory, 
+
+research and practice. New York: Routledge.
+
+Sandage, S. J., & Brown, J. K. (2015). Relational integration, part 1 : differentiated relationality between psy- 
+
+chology and theology. Journal of Psychology & Theology, 43(3), 165-178.
+
+Schacter, D. L., Norman, K. A., & Koutstaal, W. (1998). The cognitive neuroscience of constructive memory. 
+
+Annual Review of Psychology, 49(1), 289-318. doi: 10.1146/annurev.psych.49.1.289.
+
+Schnitker, S., King, P. E., & Houltberg, B. (2019). Religion, spirituality, and thriving: Transcendent narrative, 
+
+virtue, andtelos. Journal of Research on Adolescence, 29(2), 276-290.
+
+Schwabe, L., & Wolf, O. T. (2013). Stress andmultiple memory systems: From “thinking” to “doing”. Trends 
+
+in Cognitive Sciences, 17(2), 60-68.
+
+Schwarz, H. (2002). Creation. Grand Rapids, MI: Eerdmans.
+Shults, L. (2003). Reforming theological anthropology. Grand Rapids, MI: Eerdman.
+Strawn, B. D., Wright, R. W., & Jones, P. (2014). Tradition-Based Integration: Illuminating the Stories and 
+Practices That Shape our Integrative Imaginations. Journal of Psychology and Christianity, (4), 300.
+Tanner, K. (2011). Creation and salvation in the image of an incomprehensible God. In I. J. Davidson, & M. 
+A. Rae (eds.), God of salvation: Soteriology in theological perspective (pp. 61-76). Burlington, VT: 
+Ashgate.
+
+Torrance, T. F. (1969). Space, time and incarnation. London: Oxford University Press.
+Torrance, T. F. (1971). God and rationality. New York: Oxford University Press.
+Torrance, T. F. (1982). Reality and evangelical theology. Downers Grove, IE: InterVarsity Press.
+Tyson, P. J., Jones, D., & Elcock, J. (2011). Psychology in social context: Issues and debate. London: 
+
+Blackwell Publishers.
+
+Volf, M., & Crisp, J. E. (eds.) (2015). Joy and human flourishing: Essays on theology, culture and the good 
+
+life. Minneapolis: Fortress Press.
+
+Whitney
+
+65
+
+Waterman, A. S. (2008). Reconsidering happiness: A eudaimonist’s perspective. The Journal of Positive 
+
+Psychology, 3, 234-252. doi:10.1080/17439760802303002.
+
+Webster, J. (2003). The human person. In K. J. Vanhoozer (ed.), The Cambridge companion to postmodern 
+
+theology (pp. 219-234). Cambridge: Cambridge University Press.
+
+Whitney, W. (2013). Studies in Reformed theology: Problem and promise in Colin E. Gunton’s doctrine of 
+
+creation, vol. 26. Leiden: Brill Publishers.
+
+Willard, D. (1998). The divine conspiracy: Rediscovering our hidden life in God. San Francisco: Flarper. 
+Williams, R. (1999). Creation. In A. Fitzgerald (ed.), Augustine through the ages: An encyclopedia (pp. 241- 
+
+254). Grand Rapids, MI: Eerdmans.
+
+Wolters, A. (2005). Creation regained: Biblical basis for a Reformational worldview. Grand Rapids, 
+
+Michigan: Wm. B. Eerdmans Publishing Co.
+
+Wright, N. T. (2008). Surprised by hope: Rethinking heaven, the resurrection, and the mission of the church. 
+
+New York: ElarperCollins.
+
+Yu, C. (1987). Being and relation: A theological critique of western dualism and individualism. Edinburgh: 
+
+Scottish Academic Press.
+
+Author Biography
+
+William B. Whitney, PhD, LMFT, is Associate Professor of Psychology at Azusa Pacific University. Ele main- 
+tains a private practice in Pasadena, California, where he works with individuals, couples, and specializes in 
+group therapy.
+
+License and Permissible Use Notice  
+
+These materials are provided to you by the American Theological Library Association, operating as Atla, 
+in accordance with the terms of Atla’s agreements with the copyright holder or authorized distributor of 
+the materials, as applicable. In some cases, Atla may be the copyright holder of these materials. 
+
+You may download, print, and share these materials for your individual use as may be permitted by the 
+applicable agreements among the copyright holder, distributors, licensors, licensees, and users of these 
+materials (including, for example, any agreements entered into by the institution or other organization 
+from which you obtained these materials) and in accordance with the fair use principles of United States 
+and international copyright and other applicable laws. You may not, for example, copy or email these 
+materials to multiple web sites or publicly post, distribute for commercial purposes, modify, or create 
+derivative works of these materials without the copyright holder’s express prior written permission. 
+
+Please contact the copyright holder if you would like to request permission to use these materials, or 
+any part of these materials, in any manner or for any use not permitted by the agreements described 
+above or the fair use provisions of United States and international copyright and other applicable laws. 
+For information regarding the identity of the copyright holder, refer to the copyright information in 
+these materials, if available, or contact Atla using the Contact Us link at www.atla.com.  
+
+Except as otherwise specified, Copyright © 2021 Atla. 
+
+  
+ 
+ 
+ 
+ 
+

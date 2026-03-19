@@ -1,0 +1,33 @@
+{
+  "id": "dYWnaoqF-YLksIgKP7sCA",
+  "courseId": "coun5453",
+  "title": "Can you help me practice diagnostic interviewing? ",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "Can you help me practice diagnostic interviewing? can you maybe come up with a diagnostic profile for a client but don't reveal any potential diagnosis, and let me try to solve it. we can do the interview as a chat here"
+        }
+      ],
+      "id": "ND4cIiF7qOR6Qn0x",
+      "role": "user"
+    },
+    {
+      "id": "KTcMd496gSEglre2",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "I'd love to help you practice diagnostic interviewing! This is a great way to build your skills.\n\nI'll play the role of a client who comes to see you for the first session. I'll respond naturally to your questions based on my client profile, but I won't give you everything upfront - you'll need to ask good questions to gather the information you need.\n\nLet me know when you're ready, and I'll start with what brings me in today. Remember from your course materials:\n\n- Start with open-ended questions, then guide toward specificity\n- Explore frequency, duration, intensity, onset\n- Cover multiple domains (not just the presenting issue)\n- Use closed questions to clarify details\n- Assess for suicide and substance use early\n- Pay attention to what might rule in or rule out different disorders\n\nReady? Here we go:\n\n---\n\n**[Session begins]**\n\n*I'm sitting in the waiting room when you come to get me. I look up, make brief eye contact, give a small smile, and follow you back to your office. I sit down and settle in my chair, hands folded in my lap.*\n\nGo ahead - what would you like to ask first?",
+          "state": "done"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-25T02:39:37.388Z",
+  "updatedAt": "2026-02-25T02:39:37.388Z"
+}

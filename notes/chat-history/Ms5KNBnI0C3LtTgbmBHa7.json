@@ -1,0 +1,371 @@
+{
+  "id": "Ms5KNBnI0C3LtTgbmBHa7",
+  "courseId": "coun5173",
+  "title": "/quiz Quiz me: 5 questions — 2 on PFA, 2 on crisis",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "/quiz Quiz me: 5 questions — 2 on PFA, 2 on crisis theory, 1 on mandated\n  reporting. Multiple choice"
+        }
+      ],
+      "id": "BOQkmrrOyFDZk6Xf",
+      "role": "user"
+    },
+    {
+      "id": "GQj2q8DbkREcpLfa",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_session_start",
+          "toolCallId": "toolu_01ACUpuYWqeuSshFUWGPdjT2",
+          "state": "output-available",
+          "input": {
+            "title": "Crisis Counseling Quiz: PFA, Crisis Theory, and Mandated Reporting",
+            "instructions_summary": "5 multiple choice questions covering PFA (2), crisis theory (2), and mandated reporting (1)",
+            "total_questions": 5,
+            "topics": [
+              {
+                "name": "Psychological First Aid (PFA)",
+                "question_count": 2
+              },
+              {
+                "name": "Crisis Theory",
+                "question_count": 2
+              },
+              {
+                "name": "Mandated Reporting",
+                "question_count": 1
+              }
+            ],
+            "question_types": "Multiple choice"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "ok lets go"
+        }
+      ],
+      "id": "y7GBoiRrl8DKdqSx",
+      "role": "user"
+    },
+    {
+      "id": "ZMC26OOEuunxOiaC",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01HJHLXg24AXXgfkGy5Kj9XY",
+          "state": "output-available",
+          "input": {
+            "question": "According to Beverley Raphael's concept of Psychological First Aid, which of the following is NOT a core component of immediate assistance following a traumatic event?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Comfort and consolation",
+              "B) Immediate physical assistance",
+              "C) Long-term psychotherapy and diagnosis",
+              "D) Reunification with loved ones"
+            ],
+            "correct_answer": "C",
+            "explanation": "According to the Class 1-2 Summary slides, Beverley Raphael coined the term 'psychological first aid' and advocated for attention that included comfort and consolation, immediate physical assistance, reunification with loved ones, an opportunity to express feelings, and support during the initial period following a traumatic event. She also described the need to consider Maslow's hierarchy of needs and the importance of attending first to basic survival needs before attempting more traditional forms of counseling. Long-term psychotherapy and diagnosis are NOT part of immediate PFA.",
+            "source": "Class 1-2 Summary Slides"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: C) Long-term psychotherapy and diagnosis. I got it right. Next question please."
+        }
+      ],
+      "id": "ShKzkDWRPS87hSZT",
+      "role": "user"
+    },
+    {
+      "id": "0liIaRBN8mUBwd9c",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01J6zj3aCkTiqqKQwN1tzc86",
+          "state": "output-available",
+          "input": {
+            "question": "When completing the Psychological First Aid module, counselors learn that PFA is guided by six core principles. Which of the following is one of those guiding principles?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Diagnosis and treatment planning",
+              "B) Safety, trustworthiness, and transparency",
+              "C) Cognitive restructuring techniques",
+              "D) Insight-oriented therapy"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to the Class 1-2 Summary slides on Trauma-Informed Care, the six guiding principles include: Safety, Trustworthiness and transparency, Peer support, Collaboration and mutuality, Empowerment, voice, and choice, and Cultural, historical, and gender issues. These principles are foundational to PFA approaches. Diagnosis, cognitive restructuring, and insight-oriented therapy are not part of the immediate PFA framework.",
+            "source": "Class 1-2 Summary Slides (Trauma-Informed Care section)"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Safety, trustworthiness, and transparency. I got it right. Next question please."
+        }
+      ],
+      "id": "7HqafwSwUmytX1ml",
+      "role": "user"
+    },
+    {
+      "id": "ZzIRCMgSj8ki8C3p",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_014FxvTBwJZWmzWy88rHVD2K",
+          "state": "output-available",
+          "input": {
+            "question": "According to Hill's ABC-X model of crisis theory, what does the \"X\" represent?",
+            "type": "multiple_choice",
+            "options": [
+              "A) The provoking stressor event",
+              "B) The family's available resources",
+              "C) The meaning attached to the stressor event",
+              "D) The crisis itself - a state of acute disequilibrium"
+            ],
+            "correct_answer": "D",
+            "explanation": "According to the Class 1-2 Summary slides, Reuben Hill's ABC-X model includes: A = the provoking stressor event, B = the family's resources, C = the meaning that the family attaches to the stressor event, and X = the crisis itself, which is defined as 'a state of acute disequilibrium and immobilization of the family system.' The X is an outcome of the interaction among A, B, and C.",
+            "source": "Class 1-2 Summary Slides (The ABC-X and Double ABC-X Models of Crisis)"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: D) The crisis itself - a state of acute disequilibrium. I got it right. Next question please."
+        }
+      ],
+      "id": "7lIeRNK9UQNubWO2",
+      "role": "user"
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "next question"
+        }
+      ],
+      "id": "uw1kwzByzDxJx8Kb",
+      "role": "user"
+    },
+    {
+      "id": "ZAjEjEOMQ3cqXpUZ",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01RkLBLCaifHZaURWa2EgY3W",
+          "state": "output-available",
+          "input": {
+            "question": "Applied crisis theory comprises four crisis domains. A client who experiences a crisis related to retirement or graduation would be experiencing which type of crisis?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Situational crisis",
+              "B) Developmental crisis",
+              "C) Existential crisis",
+              "D) Ecosystemic crisis"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to the textbook (Chapter 1), developmental crises are events that are expected to be experienced by most individuals during normal development. Examples include pregnancy, graduation, retirement, career transition, and aging. In contrast, situational crises are unexpected and catastrophic (like accidents or assault), existential crises affect one's sense of meaning or core beliefs, and ecosystemic crises affect both individuals and their connected systems.",
+            "source": "Jackson-Cherry & Erford, Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Developmental crisis. I got it right. Next question please."
+        }
+      ],
+      "id": "BawEdUfioMT18O6t",
+      "role": "user"
+    },
+    {
+      "id": "sQ1EUZvdZCz1mW5J",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_question",
+          "toolCallId": "toolu_01JH7kdLUBowzkfNAkgBXSuf",
+          "state": "output-available",
+          "input": {
+            "question": "A 13-year-old client discloses to you during a counseling session that she has been cutting herself with scissors. She reports she is not trying to commit suicide but just wants \"to feel something.\" She has a history of chronic suicide risk. As a mandated reporter, what is your ethical and legal responsibility?",
+            "type": "multiple_choice",
+            "options": [
+              "A) Maintain confidentiality since she denies suicidal intent",
+              "B) Break confidentiality and inform the parent/guardian due to the self-harm behavior and existing suicide risk",
+              "C) Wait until the next session to see if the behavior continues before taking action",
+              "D) Only report if she explicitly states she wants to die"
+            ],
+            "correct_answer": "B",
+            "explanation": "According to the Class 2 Part 2 video transcript, Dr. McCartney describes a case where a 13-year-old client disclosed cutting herself with scissors. Even though the client said she was not trying to commit suicide, Dr. McCartney decided to break confidentiality and told the client's mother because the teen was already identified as a chronic suicide risk and was now demonstrating self-harm behavior with imminent harm potential. The counselor informed the teen that confidentiality would be broken, contacted the mother, went through a safety plan, and directed that the teen should not be left alone. The teen was hospitalized the next day. As mandated reporters, counselors must act when there is risk of harm to self, especially with minors.",
+            "source": "Class 2 Part 2 Video Transcript"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "My answer: B) Break confidentiality and inform the parent/guardian due to the self-harm behavior and existing suicide risk. I got it right. Next question please."
+        }
+      ],
+      "id": "U8l0wgUSiQRNVxF7",
+      "role": "user"
+    },
+    {
+      "id": "GWrDKGsEShShe8rb",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "tool-quiz_session_end",
+          "toolCallId": "toolu_01MzjfxTgKoRWgJC6jj1Sxi5",
+          "state": "output-available",
+          "input": {
+            "total_questions": 5,
+            "correct": 5,
+            "score_percent": 100,
+            "topic_breakdown": [
+              {
+                "topic": "Psychological First Aid (PFA)",
+                "correct": 2,
+                "total": 2
+              },
+              {
+                "topic": "Crisis Theory",
+                "correct": 2,
+                "total": 2
+              },
+              {
+                "topic": "Mandated Reporting",
+                "correct": 1,
+                "total": 1
+              }
+            ],
+            "strong_areas": [
+              "Psychological First Aid (PFA)",
+              "Crisis Theory",
+              "Mandated Reporting"
+            ],
+            "weak_areas": [],
+            "recommendation": "Perfect score! You demonstrated strong mastery across all three topic areas. Continue practicing suicide risk assessments and safety planning, as these will be critical skills throughout the course. Consider reviewing Chapter 6 content on NSSI and homicide risk for upcoming material."
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-26T08:47:02.247Z",
+  "updatedAt": "2026-02-26T08:53:12.103Z"
+}

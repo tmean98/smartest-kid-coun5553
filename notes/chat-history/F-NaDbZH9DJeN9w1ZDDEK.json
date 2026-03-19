@@ -1,0 +1,57 @@
+{
+  "id": "F-NaDbZH9DJeN9w1ZDDEK",
+  "courseId": "coun5173",
+  "title": "/review the six principles of trauma informed care",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "/review the six principles of trauma informed care"
+        }
+      ],
+      "id": "hnetf7roynhBY5co",
+      "role": "user"
+    },
+    {
+      "id": "4FgNCFnvjXpsF5oP",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "I'll help you review the six principles of trauma-informed care. Let me search through the course materials to find this information.\n\nAfter searching the provided course materials, I don't find a specific list of \"the six principles of trauma-informed care\" explicitly outlined in the Jackson-Cherry & Erford textbook or Hunsinger's \"Bearing the Unbearable\" readings you've been assigned so far.\n\nHowever, I can tell you that the **six principles of trauma-informed care** are a widely recognized framework, typically associated with SAMHSA (Substance Abuse and Mental Health Services Administration). These principles are:\n\n## The Six Principles of Trauma-Informed Care\n\n### 1. Safety\n- Ensuring physical and emotional safety for both clients and staff\n- Creating an environment where people feel secure\n\n### 2. Trustworthiness and Transparency\n- Building and maintaining trust through clear communication\n- Being transparent about organizational operations and decisions\n\n### 3. Peer Support\n- Using shared experiences to promote healing and recovery\n- Recognizing the value of mutual support\n\n### 4. Collaboration and Mutuality\n- Leveling power differences between staff and clients\n- Recognizing that healing happens in relationships\n\n### 5. Empowerment, Voice, and Choice\n- Recognizing and building on client strengths\n- Supporting client decision-making and autonomy\n\n### 6. Cultural, Historical, and Gender Issues\n- Moving past cultural stereotypes and biases\n- Recognizing and addressing historical trauma\n- Being responsive to cultural needs\n\n## Connection to Your Course Materials\n\nWhile the specific six principles aren't explicitly listed in the materials provided, your readings do address many trauma-informed concepts:\n\n- **Safety and containment** - Hunsinger emphasizes that \"talking about it can, in actual fact, make matters worse\" and stresses the importance of balancing processing with safety\n- **Empowerment** - The readings discuss helping trauma survivors regain their sense of agency\n- **Compassionate witnessing** - Kaethe Weingarten's work on being an \"active and empowered witness\"\n- **Community support** - The emphasis on healing within relationships and community\n\nWould you like me to create flashcards for the six principles, or quiz you on how they connect to your course readings?",
+          "state": "done"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "can you outline and explain the abc-x and double abc-x model"
+        }
+      ],
+      "id": "vdKZY2Oi9i5yPYOQ",
+      "role": "user"
+    },
+    {
+      "id": "wkF1s0MOy1NQCCcd",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "I'll search through your course materials for information on the ABC-X and Double ABC-X models.\n\nAfter searching the provided materials, I don't find the ABC-X or Double ABC-X models explicitly discussed in the excerpts from Hunsinger's \"Bearing the Unbearable\" or the trauma treatment readings you've been given.\n\nHowever, I can explain these important family stress and crisis models, which are highly relevant to crisis counseling:\n\n## ABC-X Model of Family Stress\n\nDeveloped by **Reuben Hill (1949)**, this model explains how families experience and respond to stressful events.\n\n### The Four Components:\n\n**A = The Stressor Event**\n- The crisis-producing event or situation\n- Can be predictable (developmental) or unpredictable (non-normative)\n- Examples: job loss, illness, natural disaster, death\n\n**B = Family Resources**\n- The strengths and capabilities available to meet the crisis\n- Includes: financial resources, social support, communication skills, problem-solving abilities\n- Strong resources can buffer the impact of the stressor\n\n**C = The Definition/Perception of the Event**\n- How the family interprets and makes meaning of the stressor\n- Their subjective appraisal of the situation\n- Same event can be devastating to one family but manageable to another based on their perception\n\n**X = The Crisis**\n- The outcome or level of stress/crisis experienced\n- Results from the interaction of A, B, and C\n- Formula: **A (stressor) + B (resources) + C (perception) = X (crisis)**\n\n### Key Insight:\nThe crisis (X) isn't determined solely by the stressor itself, but by the family's resources and how they interpret the event.\n\n---\n\n## Double ABC-X Model\n\nDeveloped by **McCubbin and Patterson (1982)**, this model extends Hill's work to explain **post-crisis adaptation over time**.\n\n### The Components (Building on the Original):\n\n**aA = Pile-up of Stressors**\n- The original stressor (A) PLUS\n- Additional stressors that accumulate over time\n- Consequences of the first crisis\n- Unresolved strains from the past\n- Normal life transitions and changes occurring simultaneously\n- Example: A family dealing with a father's PTSD (original stressor) also faces financial problems from medical bills, marital strain, and a teenager's behavioral issues\n\n**bB = Pile-up of Resources**\n- Original resources (B) PLUS\n- New resources developed or obtained\n- Personal resources (coping skills, self-esteem)\n- Family system resources (cohesion, adaptability, communication)\n- Social support (extended family, community, professionals)\n- Coping strategies actively employed\n\n**cC = Perception and Meaning**\n- Original perception (C) PLUS\n- How the family redefines the crisis situation over time\n- Family's sense of coherence\n- Their ability to make meaning of the hardship\n- Can involve reframing the situation more positively\n\n**xX = Adaptation**\n- The outcome of the family's coping efforts over time\n- Ranges on a continuum from:\n  - **Bonadaptation** (positive adaptation, growth, resilience)\n  - **Maladaptation** (crisis continues, family dysfunction)\n\n### Key Formula:\n**aA (pile-up) + bB (existing + new resources) + cC (perception + meaning) = xX (adaptation)**\n\n---\n\n## Connection to Your Course Content\n\nThese models align well with concepts in your readings:\n\n### From Hunsinger's \"Bearing the Unbearable\":\n\n**Resources (B factor):**\n- Weingarten's emphasis on \"compassionate witnesses\" and community support\n- \"Reasonable hope\" being sustained by interdependent community\n- The importance of not bearing trauma alone\n\n**Perception/Meaning (C factor):**\n- How trauma survivors make narrative sense of their experiences\n- The role of the church in helping people find meaning through gospel narratives\n- Post-traumatic growth vs. continued suffering\n\n**Pile-up (aA factor):**\n- Intergenerational trauma passing from one generation to the next\n- The nested concentric circles of trauma affecting multiple life levels\n- Common shock accumulating through repeated exposure\n\n### From the Trauma Treatment Reading:\n\nThe Japanese tsunami survivor case demonstrates:\n- **Pile-up**: Pre-existing domestic violence + earthquake/tsunami + forced evacuation + cancer diagnosis + ongoing discrimination about compensation\n- **Resources**: Limited due to isolation, family dysfunction, lack of support\n- **Perception**: Complicated by shame, envy from neighbors, dissociative symptoms\n- **Adaptation**: Required prolonged exposure therapy and multiple interventions\n\n---\n\n## Clinical Application\n\n**Assessment Questions Based on These Models:**\n\nFor ABC-X (initial crisis):\n- What is the primary stressor facing this family?\n- What resources do they have available?\n- How are they interpreting this event?\n- What level of crisis are they experiencing?\n\nFor Double ABC-X (ongoing adaptation):\n- What additional stressors have accumulated?\n- What new resources have they developed or accessed?\n- How has their understanding of the situation evolved?\n- Are they moving toward positive adaptation or maladaptation?\n\n---\n\nWould you like me to:\n1. Create quiz questions on these models?\n2. Make flashcards for the key components?\n3. Discuss how these models specifically apply to trauma counseling scenarios?",
+          "state": "done"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-26T23:26:34.134Z",
+  "updatedAt": "2026-02-26T23:29:05.551Z"
+}

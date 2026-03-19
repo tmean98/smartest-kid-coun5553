@@ -1,0 +1,33 @@
+{
+  "id": "bKZKXVkZ8BhUWfQHI97O-",
+  "courseId": "coun5173",
+  "title": "Can you outline the steps of ethical decision maki",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "Can you outline the steps of ethical decision making"
+        }
+      ],
+      "id": "VdKmTdBeq3wnfkD1",
+      "role": "user"
+    },
+    {
+      "id": "eRIb99zRarae9DVu",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Based on the course materials from your Crisis Counseling class, here are the key ethical decision-making steps:\n\n## The Forester-Miller & Davis Seven-Step Model\n\nAccording to Chapter 3 of Jackson-Cherry & Erford, the ACA Code of Ethics (2014, section I.1.b) is based on the Practitioner's Guide to Ethical Decision Making by Forester-Miller and Davis (2016), which outlines these seven steps:\n\n1. **Identify the problem** - Clearly define the ethical dilemma you're facing\n\n2. **Apply the ACA Code of Ethics** - Review relevant sections of the professional code\n\n3. **Establish the parameters of the dilemma** - Identify cultural, spiritual, familial, and other contextual factors\n\n4. **Generate all possible courses of action** - Brainstorm every option available\n\n5. **Consider the consequences of all options and select a course of action** - Weigh outcomes and choose the best path\n\n6. **Evaluate the course of action selected** - Review your decision before implementing\n\n7. **Implement the course of action** - Take action and follow up with supervisor, legal counsel, and the client\n\n## Core Ethical Principles\n\nRegardless of which model you use, you should always apply these foundational principles when making ethical decisions:\n\n- **Autonomy** - Respect client self-determination\n- **Nonmaleficence** - Do no harm\n- **Beneficence** - Act in the client's best interest\n- **Justice** - Treat clients fairly\n- **Fidelity** - Be faithful and keep commitments\n- **Veracity** - Be truthful\n\n## Additional Common Constructs\n\nThe materials note that most ethical decision-making models include variations of these elements:\n\n- Check your own feelings\n- Identify potential issues (cultural, spiritual, familial)\n- Review relevant professional codes\n- Know applicable laws and regulations\n- Involve the client in the process\n- Obtain peer or supervisor consultation\n- Consider implications of decisions\n- Follow up appropriately\n\nThe ACA Code of Ethics specifically recommends that counselors \"use and document as appropriate an ethical decision-making model\" (section I.1.b), emphasizing the importance of having a systematic approach rather than making impulsive decisions, especially in crisis situations.",
+          "state": "done"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-27T01:54:20.205Z",
+  "updatedAt": "2026-02-27T01:54:20.205Z"
+}

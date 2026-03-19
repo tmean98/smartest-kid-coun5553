@@ -1,0 +1,129 @@
+{
+  "id": "iYtLKP0aeSwPWOKis7kFJ",
+  "courseId": "coun5453",
+  "title": "Vignette 4 help",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "can you help me generate some ideas for vignetter # 4? I can use any previous disorders, and this weeks focuses are substance use and personality disorders"
+        }
+      ],
+      "id": "lmjAk3RYABrWdeKy",
+      "role": "user"
+    },
+    {
+      "id": "ipj3ntzQ7C7IqGvh",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "I'd be happy to help you brainstorm ideas for Vignette 4! Let me give you some direction based on what Dr. Campbell has emphasized about writing effective vignettes.\n\n## Key Reminders from Course Materials\n\nFrom the Class 1 lecture, Dr. Campbell stressed that vignettes should:\n- Tell a story, not just list diagnostic criteria\n- Be about a paragraph to half a page (double-spaced)\n- Include enough detail that you can role-play the client and answer follow-up questions\n- Show symptoms through narrative rather than stating them directly\n\n## Substance Use Disorder Ideas\n\n### Idea 1: College Student with Alcohol Use Disorder\nA 21-year-old college senior who initially came to college as a social drinker, but over the past 18 months drinking has escalated. They're missing morning classes, their grades have dropped, and they've had a DUI. They tried to cut back after the DUI but found themselves drinking within a few days. Could show tolerance, withdrawal symptoms, unsuccessful efforts to control use, and continued use despite consequences.\n\n### Idea 2: Professional with Stimulant Use Disorder\nA 32-year-old professional who started using cocaine at social events but now uses multiple times per week. They're spending significant money on it, have withdrawn from family activities, and their work performance is suffering. Could show craving, increased time spent obtaining/using, and social/occupational problems.\n\n### Idea 3: Opioid Use Disorder with Comorbidity\nA 45-year-old who was prescribed pain medication after surgery and developed dependence. Now experiencing withdrawal symptoms, doctor shopping, and has depressive symptoms (you could layer in Major Depressive Disorder from earlier weeks). This shows substance-induced vs. independent disorder complexity.\n\n## Personality Disorder Ideas\n\n### Idea 4: Borderline Personality Disorder\nA 28-year-old with unstable relationships, fear of abandonment, impulsive behaviors (maybe substance use too - comorbidity!), emotional instability, and chronic feelings of emptiness. You could show this through describing their relationship patterns, self-harm history, and emotional reactivity.\n\n### Idea 5: Avoidant Personality Disorder\nSomeone in their mid-30s who avoids work activities requiring interpersonal contact, doesn't pursue relationships due to fear of rejection, views themselves as socially inept, and is extremely reluctant to take risks. Could also layer with Social Anxiety Disorder from previous weeks.\n\n### Idea 6: Narcissistic Personality Disorder\nA professional who has grandiose sense of self-importance, requires excessive admiration, lacks empathy, and has interpersonal problems at work due to exploitative behaviors and reactions to criticism.\n\n## Combination Ideas (Using Previous Disorders)\n\n### Idea 7: Substance Use + Anxiety\nAlcohol Use Disorder that started as \"self-medication\" for Generalized Anxiety Disorder. Shows how symptoms overlap and the importance of differential diagnosis.\n\n### Idea 8: Borderline PD + Depression\nMajor Depressive Disorder symptoms in someone with borderline personality features - chronic emptiness, emotional instability, and self-harm behaviors.\n\n### Idea 9: Substance Use + Trauma\nSubstance Use Disorder (alcohol or opioids) in someone with PTSD from previous trauma. Using substances to cope with flashbacks and hyperarousal.\n\n## Tips for Writing\n\nFrom the Class 1 materials:\n- Don't write \"The client meets criteria for...\" - show it through their story\n- Instead of \"Client has been anxious for 6 months,\" write about how they describe their daily experience\n- Think deeply enough about the client that you can answer questions in role-play\n- Include demographic information naturally (age, gender, cultural background if relevant)\n\nWhich of these directions interests you most? I can help you develop it further with more specific details to include!",
+          "state": "done"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "I decided to approach the vignette from the perspective of Cannabis Use disorder. My client is Brayden a 36 yo white male. Can you hammer me out an outline including some symptoms I should meet in order to indicate the diagnosis"
+        }
+      ],
+      "id": "6Tc0U69gSbTJi0pI",
+      "role": "user"
+    },
+    {
+      "id": "JC9QF4rFE4upE334",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Great choice! Let me help you create a solid outline for Brayden's Cannabis Use Disorder vignette.\n\n## Vignette Outline for Brayden\n\n### Basic Demographics\n- Brayden, 36-year-old white male\n- Consider adding: occupation, relationship status, living situation (helps with showing impact areas)\n\n### Cannabis Use Disorder Diagnostic Criteria to Show\n\nAccording to the DSM-5-TR, Cannabis Use Disorder requires at least 2 of the following 11 criteria within a 12-month period:\n\n## Key Symptoms to Include (Pick at least 2-3 strong ones)\n\n### 1. **Larger amounts/longer periods than intended**\n- Started as occasional evening use, now smoking throughout the day\n- \"Just one hit\" turns into multiple sessions\n\n### 2. **Persistent desire or unsuccessful efforts to cut down**\n- Has tried to quit or reduce multiple times\n- Made promises to partner/family but keeps returning to use\n- Throws away supplies but buys more within days\n\n### 3. **Great deal of time spent obtaining, using, or recovering**\n- Significant portions of day centered around cannabis\n- Planning when/where to use\n- Needing time to \"come down\" before activities\n\n### 4. **Craving or strong desire to use**\n- Intrusive thoughts about using\n- Difficulty concentrating on other things when hasn't used\n- Physical urge/pull toward using\n\n### 5. **Failure to fulfill major role obligations** (STRONG one to show)\n- Missing work or showing up late/impaired\n- Performance decline at job\n- Neglecting family responsibilities\n- Missing important events due to being high\n\n### 6. **Continued use despite social/interpersonal problems**\n- Arguments with partner/spouse about use\n- Friends expressing concern\n- Isolation from non-using friends\n- Continues despite these conflicts\n\n### 7. **Important activities given up or reduced**\n- Used to enjoy hobbies but now just smokes instead\n- Stopped going to gym, playing sports, seeing friends\n- Withdrawn from social activities\n\n### 8. **Use in physically hazardous situations**\n- Driving while high\n- Using at work (especially if operating machinery/equipment)\n- Using before activities requiring alertness\n\n### 9. **Continued use despite physical/psychological problems**\n- Knows it's worsening anxiety or motivation\n- Respiratory issues (chronic cough) but continues\n- Memory problems affecting daily life\n\n### 10. **Tolerance**\n- Needs more to get desired effect\n- Same amount doesn't work like it used to\n- Increasing from a bowl to multiple joints/larger quantities\n\n### 11. **Withdrawal symptoms**\n- Irritability when can't use\n- Sleep problems without it\n- Decreased appetite\n- Restlessness or anxiety\n- Depressed mood\n\n## Suggested Narrative Structure\n\n### Opening Context\n- How Brayden presents/what brings him in\n- Maybe partner gave ultimatum, work warning, or legal issue (DUI)\n- Or maybe he's coming voluntarily because he realizes it's a problem\n\n### History of Use\n- When did it start? (casual use in college vs. recent escalation)\n- Pattern over time - when did it shift from recreational to problematic?\n- Current frequency and amount\n\n### Current Impact Areas\n\n**Occupational:**\n- Performance issues at work\n- Tardiness or absences\n- Difficulty concentrating during meetings\n- Using during lunch breaks or before work\n\n**Relational:**\n- Partner's concerns and conflicts\n- Pulling away from friends/family\n- Choosing cannabis over social events\n\n**Physical/Psychological:**\n- Sleep disturbances (either needs it to sleep OR withdrawal causes insomnia)\n- Memory or concentration problems\n- Motivation issues (\"amotivational syndrome\")\n- Possible anxiety or depression symptoms\n\n**Behavioral:**\n- Failed attempts to quit\n- Spending significant money on it\n- Secretive behavior\n- Prioritizing use over other activities\n\n## Don't Forget Specifiers!\n\nYou'll need to determine and include:\n- **Severity**: Mild (2-3 symptoms), Moderate (4-5 symptoms), Severe (6+ symptoms)\n- **In early remission** or **In sustained remission** (only if applicable)\n- **In a controlled environment** (only if applicable - like if in treatment facility)\n\n## Sample Story Elements (Pick What Fits)\n\n- Started smoking recreationally in college, stopped for years, picked it back up 2-3 years ago\n- Initially helped with stress/sleep, but now using multiple times daily\n- Partner noticed personality changes - more withdrawn, irritable when can't use\n- Called in sick to work 3 times this month, mostly on Mondays\n- Tried to quit for a week but experienced irritability and insomnia, started again\n- Spends $200-300/month on cannabis\n- Stopped going to the gym and playing in his recreational soccer league\n- Has driven high \"countless times\" - no accidents but knows it's risky\n- Memory lapses - forgets conversations, misses appointments\n\n## Tips from Dr. Campbell's Guidance\n\nFrom the Class 1 lecture:\n- Show symptoms through narrative, not by stating diagnostic criteria\n- Example: Instead of \"Brayden has tolerance,\" write \"What used to be a couple hits now takes him multiple joints to feel the same effect\"\n- Be ready to role-play and answer follow-up questions about:\n  - Timeline (when symptoms started, progression)\n  - Frequency and amount\n  - Previous attempts to quit\n  - Specific examples of consequences\n\nWould you like me to help you draft specific narrative paragraphs, or do you feel ready to write it from this outline?",
+          "state": "done"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "whats the number of drinks where someone is considered to have alcohol abuse disorder"
+        }
+      ],
+      "id": "Un2KSyNQ5K5BFscb",
+      "role": "user"
+    },
+    {
+      "id": "V8enxIgNvqqRzfNc",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "I need to clarify an important distinction here - **there's no specific number of drinks that defines Alcohol Use Disorder.**\n\n## How Alcohol Use Disorder is Actually Diagnosed\n\nAccording to the DSM-5-TR, Alcohol Use Disorder is diagnosed based on a **pattern of problematic use** leading to clinically significant impairment or distress, with at least **2 of 11 criteria** occurring within a 12-month period.\n\n### The 11 Criteria Focus On:\n\n- **Control issues** (using more/longer than intended, unsuccessful attempts to cut down)\n- **Social/occupational consequences** (failure to fulfill obligations, continued use despite problems)\n- **Risky use** (hazardous situations, continued use despite physical/psychological problems)\n- **Pharmacological indicators** (tolerance, withdrawal)\n\n**Not** on a specific quantity of alcohol consumed.\n\n## What You Might Be Thinking Of\n\n### NIAAA Drinking Definitions (Not Diagnostic Criteria):\n\nThe National Institute on Alcohol Abuse and Alcoholism defines:\n\n- **Moderate drinking**: Up to 1 drink/day for women, up to 2 drinks/day for men\n- **Heavy drinking**: 4+ drinks on any day (or 8+ per week) for women; 5+ drinks on any day (or 15+ per week) for men\n- **Binge drinking**: 4+ drinks for women or 5+ drinks for men within about 2 hours\n\n**But** - someone could drink heavily and not meet criteria for Alcohol Use Disorder if they don't have the impairment/distress and pattern of problematic consequences.\n\nConversely, someone could drink less frequently but still meet criteria if they have loss of control, failed attempts to quit, continued use despite consequences, etc.\n\n## For Your Vignette\n\nIf you're writing about **Cannabis** Use Disorder (which you mentioned), the same principle applies - it's not about quantity used, but about the **pattern of problematic use and consequences**.\n\nFocus on showing:\n- Loss of control\n- Impact on life functioning\n- Continued use despite problems\n- Time spent using/recovering\n- Failed quit attempts\n- Tolerance/withdrawal (if present)\n\nDoes that help clarify? Were you asking about alcohol because you're considering switching your vignette focus, or just curious about the diagnostic process?",
+          "state": "done"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "here is my vignette can you help me evaluate if my diagnosis is clear?"
+        }
+      ],
+      "id": "dRhbK9L4RPNheKBb",
+      "role": "user"
+    },
+    {
+      "id": "lz4wY3Ii330QEYJf",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Absolutely! I'd be happy to evaluate your vignette. Please go ahead and paste it here, and I'll review it to see if:\n\n1. The diagnosis is clear and supported by the narrative\n2. You're showing enough symptoms through the story (not just stating them)\n3. The details would lead classmates to Cannabis Use Disorder\n4. You have enough information to role-play and answer follow-up questions\n5. The proper diagnosis format is included (ICD code, disorder name, specifiers)\n\nGo ahead and share what you've written!",
+          "state": "done"
+        }
+      ]
+    },
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "Brayden is a 36-year-old white man who lives in the United States. Brayden is an auto-mechanic at a local dealership of a major car brand. He makes decent money and is well established in his trade. Brayden recently began attending a local Alcoholics Anonymous meeting where he has been evaluating his relationship with substances. Brayden began attending AA when offered an ultimatum by his girlfriend Stacy, with whom he has lived for several years. The ultimatum was made in response to Brayden’s irresponsible use of drugs and alcohol. Although he maintained his job, he had been receiving complaints from coworkers and supervisors about performance and punctuality in the past year. He has also been emotionally unavailable to Stacy as his evening and weekend routine consist of smoking weed, drinking a few beers and playing video games online till very late. Brayden usually drinks one 16 oz beer each evening, but his marijuana use has progressed over time. He used to smoke one half gram joint every evening, before moving onto a full gram, and then on to concentrates. Brayden has not incurred any legal troubles but has been pulled over several times while under the influence with Stacy in the car. The third such instance was the first time that Brayden tried to stop using. His attempt at sobriety was short-lived, as he accepted an offer to smoke a spliff when he was at a house party without his girlfriend. He slowly but surely fell back into his old routine. Now over a year later, he is in a crisis in his relationship with Stacy, who temporarily moved back in with her parents while he “figures it out”. Brayden has been consistent with his AA attendance, but struggles to go to his home meeting, because he struggles to wake up and arrive by 7 am due to a recent increase in difficulty sleeping. Brayden has improved punctuality at work but has had a few minor instances of conflict from arguments with coworkers that required him to make firm apologies about his mood and behavior. Brayden is encouraged by his progress as he has just received his 3-month coin in AA and has begun seeing Stacy again. In meetings he confesses that he “still has a strong desire to use” but is grateful for the new coping methods and values he is learning from his sponsor and the big book.\n\nCannabis Use Disorder, F12.11 Mild, In early remission"
+        }
+      ],
+      "id": "SABpnOnDresKdTDI",
+      "role": "user"
+    },
+    {
+      "id": "4D40sNiP4FAuANxv",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "Great vignette! Let me evaluate it for you:\n\n## Strengths\n\n### 1. **Good Narrative Flow**\nYou're telling Brayden's story naturally rather than just listing criteria - this is exactly what Dr. Campbell emphasized in the Class 1 lecture.\n\n### 2. **Clear Symptom Indicators Present:**\n- ✓ **Tolerance**: Progression from half gram → full gram → concentrates (clear escalation)\n- ✓ **Unsuccessful efforts to cut down**: Tried to stop after 3rd traffic stop, relapsed at party\n- ✓ **Craving**: \"Still has a strong desire to use\"\n- ✓ **Social/interpersonal problems**: Relationship crisis with Stacy, conflicts with coworkers\n- ✓ **Failure to fulfill obligations**: Performance and punctuality issues at work\n- ✓ **Risky use**: Driving while high multiple times\n- ✓ **Time spent using**: Evening/weekend routine centered around smoking\n- ✓ **Activities reduced**: Emotionally unavailable, routine is just weed + video games\n\n### 3. **Good Detail for Role-Play**\nYou've given enough background that you could answer follow-up questions about timeline, relationships, work impact, etc.\n\n## Areas of Concern/Confusion\n\n### **1. MAJOR ISSUE: Is He Currently Using or Not?**\n\nThis is where your vignette becomes unclear:\n\n**Evidence he's still using:**\n- \"Still has a strong desire to use\" (present tense craving)\n- Sleep difficulties (could be withdrawal)\n- Mood/behavior issues at work (irritability - withdrawal symptom)\n- Struggles to wake up for 7am meeting\n\n**Evidence he's in remission:**\n- 3-month AA coin (suggests 3 months sober)\n- Your diagnosis says \"In early remission\"\n- \"Learning new coping methods\" suggests not actively using\n\n### **Which is it?**\n\nAccording to DSM-5-TR:\n- **In early remission** = No criteria met (except craving) for at least 3 months but less than 12 months\n- If he's using ANY amount, he's NOT in remission - he would just have \"Cannabis Use Disorder, Mild\"\n\n**You need to clarify:** Is Brayden 3 months sober, or is he still using?\n\n### **2. The Alcohol Component**\n\nYou mention:\n- Attending **Alcoholics Anonymous** (not Narcotics Anonymous)\n- Drinks \"one 16 oz beer each evening\"\n- The ultimatum was about \"drugs and alcohol\"\n- Title says \"irresponsible use of drugs and alcohol\"\n\n**Questions this raises:**\n- Why is he in AA if cannabis is the primary problem?\n- Is there also Alcohol Use Disorder? (One beer/evening typically wouldn't meet criteria unless there are other symptoms)\n- Should this be a **comorbid diagnosis**?\n\nFrom the Class 1 lecture, Dr. Campbell noted you should include all relevant diagnoses. If alcohol is also a problem, you need to show that more clearly OR clarify why he's in AA instead of NA/dual recovery.\n\n### **3. Severity Level Question**\n\nYou diagnosed **Mild** (2-3 symptoms). Let me count what you've shown:\n\n1. Tolerance (escalation of use) ✓\n2. Unsuccessful efforts to cut down (tried after 3rd traffic stop) ✓\n3. Craving (\"strong desire to use\") ✓\n4. Failure to fulfill obligations (work performance/punctuality) ✓\n5. Continued use despite social problems (Stacy's ultimatum, coworker conflicts) ✓\n6. Use in hazardous situations (driving high multiple times) ✓\n7. Activities given up/reduced (emotionally unavailable, just weed + games) ✓\n\n**That's 7 symptoms = SEVERE, not Mild!**\n\nUnless he's in remission (which means most symptoms have resolved), this should be **Moderate** (4-5) or **Severe** (6+).\n\n## Recommendations\n\n### **Option 1: Keep \"In Early Remission\"**\nIf you want to keep the remission specifier:\n- Make it **crystal clear** he hasn't used in 3 months\n- Remove ambiguous language about \"still has strong desire\" or clarify that craving is the ONLY remaining symptom\n- Explain why sleep problems exist (maybe stress, not withdrawal)\n- Maybe he attends AA because that's what's available in his area, or he has alcohol history too but it's not the primary issue now\n\n### **Option 2: He's Still Using (Active Disorder)**\nIf he's still using cannabis:\n- Remove \"In early remission\"\n- Change to **Cannabis Use Disorder, Moderate or Severe** based on how many symptoms you show\n- The 3-month coin doesn't work if he's still using\n- Maybe he's only sober from alcohol? (Then you'd need both diagnoses)\n\n### **Option 3: Add Alcohol Use Disorder**\nIf both substances are problematic:\n- Show more alcohol-related symptoms/consequences\n- Provide **two diagnoses**:\n  - F10.20 Alcohol Use Disorder, [severity], In early remission\n  - F12.20 Cannabis Use Disorder, [severity], In early remission\n- This would explain AA attendance better\n\n## Suggested Revisions\n\n### **If Going With Remission (My Recommendation):**\n\nChange this part:\n> \"In meetings he confesses that he 'still has a strong desire to use' but is grateful for the new coping methods and values he is learning from his sponsor and the big book.\"\n\nTo something like:\n> \"In meetings he confesses that while he **hasn't used in 3 months**, he still experiences occasional cravings, especially when stressed. He's grateful for the new coping methods and values he is learning from his sponsor and the big book that help him manage these urges.\"\n\nAnd clarify the sleep/mood issues:\n> \"Brayden struggles to wake up for his 7am home meeting due to **adjusting to sobriety and the stress of his relationship being in limbo**. He's had a few minor conflicts with coworkers as he learns to manage his emotions without using cannabis to 'take the edge off.'\"\n\n### **Updated Diagnosis:**\n\nIf truly 3 months sober with only craving remaining:\n**F12.20 Cannabis Use Disorder, Moderate, In early remission**\n\n(Change to Moderate or Severe based on the 7 symptoms I counted - unless remission has reduced the symptom count)\n\n## Final Thoughts\n\nThis is a **really good vignette** with strong clinical detail. The main issue is the **ambiguity about current use status**. Once you clarify whether he's actively using or in remission, and adjust the severity accordingly, this will be excellent for your classmates to work through!\n\nWould you like help revising specific sections to make the diagnosis clearer?",
+          "state": "done"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-24T18:51:58.977Z",
+  "updatedAt": "2026-02-24T22:23:49.181Z"
+}

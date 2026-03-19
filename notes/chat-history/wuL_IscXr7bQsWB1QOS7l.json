@@ -1,0 +1,33 @@
+{
+  "id": "wuL_IscXr7bQsWB1QOS7l",
+  "courseId": "coun5553",
+  "title": "Last class someone asked a question about malpract",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "Last class someone asked a question about malpractice insurance tiers, can you find and cite that portion of the lecture?"
+        }
+      ],
+      "id": "PS7jB9Otn4ANf5Gc",
+      "role": "user"
+    },
+    {
+      "id": "IhOs87oU35Lk6vIA",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "I found that discussion! Here's the portion from the Class 5 lecture (February 19, 2026):\n\nFrom the Class 5 lecture, a student asked: \"Are there... I mean, I'm assuming there's a limit and there's different tiers of malpractice insurance, like... Yeah. It's going to pay out. And if the claim goes above that, you're liable. Yeah.\"\n\nDr. Rachel Kerrigan responded: \"It's a little confusing when you're filling out that paperwork and they ask you how many clients you're seeing. And, you know, they try to kind of determine and give you a guess of kind of not guess. But they suggest like, hey, you should take this match. But yeah, there are different levels that you can get to some degree. It's um, yeah, I think at the student level it's they just get the student insurance. Yeah. So there's like there's limits to it. You're on the hook if whatever, if there is a claim that that goes above and beyond the maximum. Yeah. If you read the fine print because they always say like this would not cover blah, blah, blah. Or if you want this to cover this, you check this box, you know, like all those, those kind of fun forms we fill out.\"\n\nThe key points were:\n- Yes, there are different tiers and coverage limits\n- Insurance companies determine recommendations based on factors like number of clients\n- At the student level, you typically just get student insurance\n- If a claim exceeds your maximum coverage, you're personally liable for the difference\n- The fine print matters - certain things may not be covered unless you specifically select additional options",
+          "state": "done"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-25T02:18:16.157Z",
+  "updatedAt": "2026-02-25T02:18:16.157Z"
+}

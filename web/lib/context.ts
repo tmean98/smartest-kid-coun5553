@@ -104,14 +104,15 @@ function scoreKeywordOverlap(chunk: Chunk, queryWords: Set<string>): number {
 }
 
 /**
- * Check if a chunk matches a class number (slides or video transcripts).
+ * Check if a chunk matches a class number (slides, video transcripts, or reading excerpts).
  */
 function chunkMatchesClass(chunk: Chunk, classNum: number, config: CourseConfig): boolean {
+  const lowerId = chunk.id.toLowerCase();
+  const lowerTitle = chunk.title.toLowerCase();
+
   // Slides
   if (chunk.source === "slides") {
     const patterns = config.classSlideMap[classNum] || [];
-    const lowerId = chunk.id.toLowerCase();
-    const lowerTitle = chunk.title.toLowerCase();
     for (const pattern of patterns) {
       if (lowerId.includes(pattern) || lowerTitle.includes(pattern)) return true;
     }
@@ -124,6 +125,14 @@ function chunkMatchesClass(chunk: Chunk, classNum: number, config: CourseConfig)
       for (const prefix of dateInfo.videoDatePrefixes) {
         if (chunk.id.includes(prefix) || chunk.title.includes(prefix)) return true;
       }
+    }
+  }
+
+  // Dedicated reading excerpts
+  if (chunk.source === "reading") {
+    const patterns = config.classReadingMap?.[classNum] || [];
+    for (const pattern of patterns) {
+      if (lowerId.includes(pattern) || lowerTitle.includes(pattern)) return true;
     }
   }
 
@@ -191,6 +200,20 @@ export function selectChunks(
       for (const classNum of allClassNumbers) {
         if (chunkMatchesClass(chunk, classNum, config)) {
           score += 40;
+        }
+      }
+    }
+
+    // Class topic boost — pull textbook/DSM chunks covering disorders assigned for those sessions
+    if (allClassNumbers.size > 0 && config.classTopicMap) {
+      const lowerContent = chunk.content.toLowerCase();
+      for (const classNum of allClassNumbers) {
+        const topics = config.classTopicMap[classNum] || [];
+        for (const topic of topics) {
+          if (lowerContent.includes(topic)) {
+            score += 20;
+            break; // one match per class is enough
+          }
         }
       }
     }

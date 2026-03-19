@@ -1,0 +1,2489 @@
+CASTONGUAY, OLTMANNS & LOTT — Psychopathology: From Science to Clinical Practice (2nd ed.)
+Chapter 10: Bipolar Disorder
+Chapter 11: Schizophrenia
+================================================================================
+
+C H A P T E R 1 0
+Bipolar Disorder
+Sheri L. Johnson
+Michael W. Otto
+Alexandra K. Gold
+Matthew V. Elliott
+
+-- 315 of 498 --
+
+Bipolar Disorder 	295
+Three major forms of BD are recognized in DSM-5 (American Psychiatric Asso-
+ciation, 2013). Bipolar I disorder (BD-I) is defined by at least one episode of mania.
+Bipolar II disorder (BD-II) is defined by at least one hypomanic, but not full manic, epi-
+sode and one or more depressive episodes. Cyclothymic disorder is defined by chronic
+fluctuations between high and low moods that are not severe enough to qualify as
+hypomanic or depressive episodes yet persist for 2 years (1 year in children and
+adolescents). Although much of the extant research focuses on BD-I, milder forms
+of disorder merit attention, in that BD-II also is characterized by high rates of recur-
+rence and comorbidity (Del’Osso et al., 2017), and subthreshold manic symptoms
+robustly predict the onset of diagnosable BD among offspring of those diagnosed
+with bipolar disorder (hazard ratio = 7.57) (Axelson et al., 2015).
+Across the BD spectrum, DSM-5 provides specifiers for rapid-cycling and mixed
+episodes. Rapid cycling is defined by at least four distinct episodes within a 1-year
+period. Mixed episodes are defined by at least three symptoms of the opposing polar-
+ity (e.g., depressive symptoms during a manic episode, or manic symptoms during a
+depressive episode). The presence of either specifier predicts a more severe course of
+BD (Valentí et al., 2015; Vieta & Valentí, 2013).
+There is considerable heterogeneity in the severity of depression within BD.
+About one-fourth of people with BD do not experience depressive episodes during
+their lifetime (Johnson, Cuellar, & Peckham, 2014), although depression rates are
+higher among those who seek treatment. In a 13-year prospective study, subsyn-
+dromal symptoms of depression were present during half of the weeks of follow-up
+(Judd et al., 2002).
+Associated Clinical Features
+One of the most intriguing aspects of BD is the extreme variability in outcomes. BD
+is overrepresented among those in creative professions (Kyaga et al., 2013), those who
+have achieved eminence for creativity (Jamison, 1993), and those with exceptional
+scholastic accomplishment (Vreeker et al., 2016). Nonetheless, functional outcomes
+are poor for many people with the disorder. BD is the 12th leading medical cause of
+global disability (World Health Organization [WHO], 2011). Even when asymptom-
+atic, persons with BD often report low quality of life (Brissos, Dias, & Kapczinski,
+2008). In studies of functioning, gains are noted across the full year after hospitaliza-
+tion, but less than half of patients diagnosed with BD-I or BD-II are employed (Sup-
+pes et al., 2001). Although social outcomes are highly variable, on average, people
+with BD report less support than those without psychological disorders, particularly
+as they experience recurrent episodes (Romans & McPherson, 1992). The disorder is
+associated with high rates of family conflict (Simoneau, Miklowitz, & Saleem, 1998),
+marital dissatisfaction, separation, and divorce (Coryell et al., 1993).
+Cognitive function may be an important predictor of functional outcome.
+Although subjective reports of cognition may be biased downward by depression,
+objective cognitive tests consistently indicate that executive functioning is lower, on
+average, among those with remitted BD and among their family members as com-
+pared to healthy controls (Arts, Jabben, Krabbendam, & van Os, 2008; Bora, Yucel, &
+Pantelis, 2009). Executive function, though, is highly variable, and lower levels are
+
+-- 316 of 498 --
+
+296 	P s y c h o P a t h o l o g y
+tied to earlier onset (Bortolato, Miskowiak, Köhler, Vieta, & Carvalho, 2015), lower
+educational attainment (Bora et al., 2016), poor emotion regulation, and lower occu-
+pational function (Lima, Peckham, & Johnson, 2018).
+Suicide is all too common in BD. In one national cohort study, 8% of men and
+5% of women diagnosed with BD died from suicide (Nordentoft, Mortensen, & Ped-
+ersen, 2011). In the representative sample of the WHO study of 61,392 adults in 11
+countries, one in four persons diagnosed with BD-I reported a suicide attempt, one
+in five persons diagnosed with BD-II reported a suicide attempt, and more than half
+of those with BD-I or BD-II reported suicidal ideation within the past 12 months
+(Merikangas et al., 2011). Suicide attempts are more likely among those with a family
+history of suicide, in the presence of depressive episodes, and when comorbid anxi-
+ety or alcohol/substance use problems are present (Schaffer et al., 2015).
+Epidemiology
+In the cross-national WHO study, lifetime prevalence was estimated to be 0.6% for
+BD-I, 0.4% for BD-II, and 1.4% of persons reported at least one symptom of mania.
+Rates were approximately doubled in the United States (Merikangas et al., 2011), and
+the disorder appears to have an earlier onset, a longer delay until treatment receipt,
+and a more severe course among those in the United States compared to other coun-
+tries (Post et al., 2017). The mean age of onset of BD-I is between 18 and 20 (Meri-
+kangas et al., 2011), and earlier age of onset predicts a worse course of illness and
+greater risk of suicidality (Perlis et al., 2004). Men are slightly more likely to receive a
+diagnosis of BD-I, and women are slightly more likely to receive a diagnosis of BD-II
+(Merikangas et al., 2011).
+Although the prevalence of BD is unrelated to race or ethnicity in the United
+States when careful diagnostic measures are used (Merikangas et al., 2007), several
+studies suggest troubling gaps in the care received by minorities with BD. African
+Americans with BD are at risk for overdiagnosis with schizophrenia (Haeri et al.,
+2011). Among those diagnosed with BD, African Americans are less likely to receive
+psychiatric medication, outpatient follow-up, or appropriate mood stabilizer medica-
+tions, and more likely to receive antipsychotic medications (Gonzalez et al., 2007; K.
+Johnson & Johnson, 2014; Kilbourne et al., 2005; Kupfer, Frank, Grochocinski, Houck,
+& Brown, 2005).
+Comorbidity
+Psychiatric comorbidity is elevated in BD, including childhood externalizing dis-
+orders (including attention-deficit/hyperactivity disorder), anxiety disorders, and
+substance abuse (Kessler, Chiu, Demler, & Walters, 2005). In the WHO international
+study, 34% of participants with BD met diagnostic criteria for alcohol or substance
+disorder, and 63% met diagnostic criteria for anxiety disorders during their lifetime
+(Merikangas et al., 2011). Many studies overestimate the occurrence of comorbid per-
+sonality disorders by assessing personality symptoms during mood episodes (Post
+et al., 2018). Nonetheless, among those in remission from episodes of BD-I, more than
+one-fourth meet diagnostic criteria for a personality disorder (George, Miklowitz,
+Richards, Simoneau, & Taylor, 2003; Post et al., 2018).
+
+-- 317 of 498 --
+
+Bipolar Disorder 	297
+BD also has been related to high rates of medical illnesses such as cardiovascu-
+lar disease and type 2 diabetes (Fiedorowicz et al., 2009; Vancampfort et al., 2016),
+even among youth with BD (Goldstein et al., 2015). Some of these illnesses, in turn,
+predict a more severe course of BD (Calkin et al., 2015) and contribute to premature
+mortality in BD (Hayes, Miles, Walters, King, & Osborn, 2015; Laursen, Munk-Olsen,
+Nordentoft, & Mortensen, 2007).
+Clinical Implications
+A number of clinical implications follow from the phenomenology of BD. In addi-
+tion to assessing symptoms, clinicians should systematically evaluate occupational,
+social, and medical functioning. Not only could this allow therapists to provide care
+aimed at improving life quality, but it might also reduce risk for relapse or recurrence
+of symptoms. Because risk for relapse is very high, clinicians should educate clients
+about such risk, teach them to self-monitor for incipient symptoms, and arrange for
+maintenance treatment. It is also crucial for the clinician working with BD to evalu-
+ate risk for suicide, with particular concern about risk among clients with early onset
+of BD (McGrady, Lynch, & Rapport, 2017).
+Given that a poorer course of BD has been found for those with comorbid con-
+ditions (Dunayevich et al., 2000; Masi et al., 2004; Otto et al., 2006; Tohen, Water-
+naux, & Tsuang, 1990), such conditions should be addressed. Sadly, reviews of 13
+pharmacotherapy studies and eight psychosocial treatment trials of comorbid BD
+and substance use disorders found that no treatment consistently yielded significant
+improvements in both mood and substance use symptoms (Gold et al., 2018; Salloum
+& Brown, 2017). In early findings focused on treatment of comorbid BD, valproic acid
+was found to help address comorbid alcohol use disorder (Salloum et al., 2005), and
+integrated group therapy (IGT) and citicoline were shown to reduce comorbid sub-
+stance use disorder (Brown et al., 2015; Weiss et al., 2007).
+ETIOLOGY
+Genetic Factors
+There is strong evidence for the heritability of BD, including evidence from one
+adoption study (Wender et al., 1986). In a representative community-based twin
+study, heritability was estimated at 85% (McGuffin et al., 2003). In that study, 71% of
+the genetic liability to mania was distinct from that of depression (McGuffin et al.,
+2003), suggesting that people with a lifetime history of mania may vary considerably
+in their genetic propensity toward depression. One genome-wide association study
+of over 20,000 individuals diagnosed with BD-I and BD-II identified 30 genetic loci
+related to BD, eight of which overlapped with schizophrenia (Stahl et al., 2019). The
+identified genes related to neuronal plasticity, ion channels, neurotransmitter trans-
+porters, and synaptic function, and accounted for about 8% of the variance in BD.
+Many people with BD worry whether their children might develop the disorder.
+Even though children of parents diagnosed with BD have a fourfold increase in risk
+of developing a mood disorder, most (91%) will not develop manic or hypomanic epi-
+sodes by late adolescence (Axelson et al., 2015; LaPalme, Hodgins, & LaRoche, 1997).
+
+-- 318 of 498 --
+
+298 	P s y c h o P a t h o l o g y
+Psychosocial Risk Factors
+Psychosocial factors often differentially influence bipolar depression versus mania.
+We first consider variables that appear to contribute to manic and depressive relapse,
+then psychosocial predictors of bipolar depression, and last those related to manic
+symptoms.
+Triggers for Manic and Depressive Symptoms
+Several variables appear to be tied to both manic and depressive symptoms, includ-
+ing affective dysregulation, impulsive responses to emotion states, and high levels
+of trauma. These risk variables may overlap, in that trauma exposure may contribute
+to emotion dysregulation and emotion-triggered impulsivity.
+Increased affective intensity and variability are present among those with remit-
+ted BD (Barnett et al., 2011; Gruber, 2011) and their offspring (Tseng et al., 2015), and
+have been shown to predict the onset of BD (Youngstrom, Findling, Youngstrom, &
+Calabrese, 2005). Youth with a family history of BD show altered amygdala activa-
+tion and functional connectivity when viewing emotional faces compared to con-
+trols (Acuff et al., 2018; Manelis et al., 2015), and emotional stimuli appear to capture
+attention more for those with BD (Miskowiak et al., 2019). Most with BD endorse
+using a wide range of emotion regulation strategies (Dodd, Lockwood, Mansell, &
+Palmer-Clauss, 2019) and are able to regulate emotions when instructed to do so in
+laboratory settings, yet they still report less confidence in their emotion regulation
+efforts (Gruber, Harvey, Gross, 2012).
+Those with BD, even during remission, endorse problems with impulsivity in
+the face of heightened emotions (Muhtadie, Johnson, Carver, Gotlib, & Ketter, 2014),
+even though measures of non-emotion-related impulsivity show only modest eleva-
+tions after remission (Strakowski et al., 2010; Swann, Pazzaglia, Nicholls, Dougherty,
+& Moeller, 2003). For those with BD, the degree of emotion-related impulsivity pre-
+dicts more functional impairment, lower quality of life, greater severity of suicidal
+ideation and action, and more difficulties with aggression (S.L. Johnson & Carver,
+2016; Muhtadie et al., 2014; Victor, Johnson, & Gotlib, 2011).
+At least half of those with BD report exposure to serious childhood adversity
+(Garno, Goldberg, Ramirez, & Ritzler, 2005). Childhood adversity, in turn, predicts
+earlier onset; more severe and frequent manic and depressive symptoms; greater
+risk of comorbid posttraumatic stress disorder (PTSD), anxiety, and substance use
+diagnoses; and increased suicidality (Agnew-Blais & Danese, 2016).
+Psychosocial Predictors of Bipolar Depression
+Many of the variables that predict unipolar depression also predict bipolar depres-
+sion, including neuroticism, negative cognitive styles, negative life events, and lower
+social support (S. L. Johnson, Cuellar, & Peckham, 2015). “Expressed emotion” (EE),
+defined by family criticism, hostility, or overinvolvement toward the patient with
+BD, has been found to predict bipolar depressive symptoms (Yan, Hammen, Cohen,
+Daley, & Henry, 2004). In summary, psychosocial models of unipolar depression are
+applicable to understanding bipolar depression.
+
+-- 319 of 498 --
+
+Bipolar Disorder 	299
+Psychosocial Predictors of Manic Symptoms
+Many of the variables that predict bipolar depression do not predict the course of
+manic symptoms. For example, in prospective studies, negative life events (S. John-
+son, 2005; for a review, see Hosang, Uher, Maughan, McGuffin, & Farmer, 2012) and
+low social support (S. Johnson, Winett, Meyer, Greenhouse, & Miller, 1999) do not
+directly predict mania. Although negative cognitive styles are often documented in
+BD, they are most likely to be found during depressed rather than well periods (S.
+Johnson et al., 2015), more consistently predict depression than mania (S. Johnson &
+Fingerhut, 2004; but see Alloy, Reilly-Harrington, Fresco, Whitehouse, & Zechmeis-
+ter, 1999), and can be explained by the presence of depressive history rather than
+manic history (Alloy et al., 1999). In contrast to general models of psychosocial dis-
+ruption, current models highlight two types of predictors of mania: goal dysregula-
+tion and sleep deprivation/schedule disruption.
+GOAL DYSREGULATION
+The goal dysregulation model suggests that mania may be triggered by excessive
+goal engagement secondary to increased sensitivity of the dopaminergic reward
+pathways (see S. Johnson, Edge, Holmes, & Carver, 2012, for review). Multiple stud-
+ies indicate that people with BD describe themselves as more sensitive to rewards;
+that is, they endorse feeling more energized and excited by opportunities to pursue
+goals, even during remission. This sensitivity to reward predicts the onset of BD
+and a more severe course of mania (S. Johnson et al., 2012). Ability to use coping
+strategies to modulate responses to rewarding and frustrating events can influence
+symptom profiles in response to reward-related life events (Chan & Tse, 2018). Exces-
+sive reward sensitivity and goal focus may heighten reactivity to success. In keeping
+with this idea, life events involving goal attainment predict increases in manic, but
+not depressive, symptoms (S. Johnson et al., 2012).
+Functional magnetic resonance imaging research suggests that those with BD
+show atypical activation patterns in reward-related neural regions in response to
+anticipation of reward, including the ventral striatum, anterior cingulate, and
+orbitofrontal cortex (Nusslock, Young, & Damme, 2014). Reward-related activation
+patterns, as with behavioral indices of reward, are blunted by even minor depres-
+sive symptoms (Redlich et al., 2015). Overall, these findings, along with findings of
+diminished ventral striatal volume in BD (Lancaster, 2018), experimental pharma-
+cological manipulations, and positron emission tomographic (PET) findings of ele-
+vated striatal dopamine (D2/3) receptor availability, suggest dopamine dysregulation
+as a potential neurobiological marker of BD that might help explain the behavioral
+goal dysregulation profile (Ashok et al., 2017; Whitton, Treadway, & Pizzagalli, 2016).
+SCHEDULE DISRUPTION
+Researchers have focused on sleep deprivation, as well as more general schedule
+disruption, as a trigger of manic symptoms (Murray & Harvey, 2010). Drawing on
+the clinical observation that manic episodes are often preceded by life events that
+involved sleep disruption, such as transmeridian flights or childbearing, Wehr,
+
+-- 320 of 498 --
+
+300 	P s y c h o P a t h o l o g y
+Sack, and Rosenthal (1987) suggested that sleep disruption might be one mechanism
+through which life events influence symptom generation. Congruently, experimen-
+tal studies of sleep deprivation suggest that a single night of sleep deprivation can
+trigger manic symptoms for more than 10% of people with BD depression (Barbini et
+al., 1998). Across studies, melatonin and cortisol diurnal rhythms of those with BD
+are phase delayed compared to control participants (Melo, Abreu, Linhares Neto, de
+Bruin, & de Bruin, 2017).
+Ehlers, Frank, and Kupfer (1988) suggested that those with BD, consequent to
+biological underpinnings of the disorder, might be vulnerable when social zeitgebers
+(timekeepers) are disrupted (e.g., a job with shifting work hours). Although find-
+ings using the social rhythm metric (SRM), a measure of the constancy of the daily
+schedule (Monk, Frank, Potts, & Kupfer, 2002), have been mixed, it does appear that
+BD is tied to lower activity levels (Ashman et al., 1999; Jones, Tai, Evershed, Knowles,
+& Bentall, 2006). Patients with BD report more life events involving social rhythm
+disruption (events that affect sleep or wake times, or daily routines) before the onset
+of mania than before depression (Malkoff-Schwartz et al., 2000). Together with the
+previous findings, it appears that sleep deprivation and schedule disruption may
+trigger increases in manic symptoms.
+In summary, the variables hypothesized to influence the onset of mania include
+goal dysregulation and sleep/schedule disruption. As discussed below, some of these
+risk factors are amenable to modification through psychosocial intervention.
+TREATMENT
+Pharmacological Treatments
+Mood-stabilizing medications—such as lithium, anticonvulsants, and atypical
+antipsychotics—are used to resolve acute episodes and to prevent mood episode
+recurrence. Anticonvulsants include divalproex and lamotrigine, and atypical
+antipsychotic medications include olanzapine, risperidone, quetiapine, and lurasi-
+done, also provide mood stabilization. For acute episodes, U.K. and U.S. treatment
+guidelines suggest use of lithium, valproate, or antipsychotic medication (American
+Psychiatric Association, 2002; Goodwin et al., 2016). For longer-term maintenance
+treatment, U.S. guidelines recommend lithium or valproate, but U.K. guidelines rec-
+ommend lithium, valproate, lamotrigine, or antipsychotics (dopamine antagonists) as
+first-line approaches (American Psychiatric Association, 2002; Goodwin et al., 2016).
+More specific approaches designed to target cognitive features of the disorder remain
+in preliminary phases of testing (Miskowiak, Carvalho, Vieta, & Kessing, 2016).
+In practice, mood-stabilizing medications are often combined with antidepres-
+sants or anxiolytic agents (benzodiazepines). Despite the popularity of antidepres-
+sant medications for bipolar depression, meta-analytic findings indicate that when
+added to a mood stabilizer regimen, antidepressants are no more effective than pla-
+cebo (McGirr, Vöhringer, Ghaemi, Lam, & Yatham, 2016). In addition, antidepres-
+sants can trigger manic episodes in patients with BD when taken without a mood
+stabilizer (Ghaemi, Lenox, & Baldessarini, 2001). There is also no evidence support-
+ing the efficacy of benzodiazepines for BD (Bobo et al., 2014).
+
+-- 321 of 498 --
+
+Bipolar Disorder 	301
+Psychosocial Treatment
+Despite advances in pharmacotherapy, recurrences of mood episodes and chronic
+subsyndromal depressive symptoms are normative aspects of BD, even among
+patients receiving ongoing treatment (e.g., Tondo, Vasquez, & Baldessarini, 2017).
+Even with documented medication adherence, rates of relapse within BD are high—
+as many as one-half of patients with BD relapse within the first year after an epi-
+sode (Keller et al., 1986), and three-fourths of patients relapse within 4–5 years (Git-
+lin, Swendsen, Heller, & Hammen, 1995). Medication nonadherence, which greatly
+increases risk of relapse and suicide (Tondo & Baldessarini, 2000), is common among
+those with BD (Bauer et al., 2019), so it is another important target for psychosocial
+treatments. Psychosocial treatments for BD have gained strong research support,
+reflected in part by inclusion in pharmaco-centric treatment guidelines (e.g., Good-
+win et al., 2016).
+Despite different theoretical orientations, there is a surprising degree of similar-
+ity among current empirically supported psychosocial treatments. Most treatments
+include psychoeducation about BD and the importance of medication adherence,
+and rehearsal of methods for the early detection of symptoms. In addition to these
+basic elements, treatment approaches may include problem solving, stress manage-
+ment, cognitive interventions, activity and sleep management, amelioration of nega-
+tive interpersonal/family interactions, and goal regulation interventions.
+For each of these empirically supported psychological treatments, we briefly
+describe the intervention and the evidence of its effectiveness for depression and
+mania outcomes. Where evidence is available, we also note findings regarding mech-
+anisms of change. We conclude our review of treatment studies by identifying prin-
+ciples of change that can guide tailored interventions based on the specific treatment
+goal and risk factors for a particular patient. Beyond the psychological interventions
+noted here, system-level interventions, such as providing rapid access to well-trained
+nurse practitioners, coupled with psychoeducation, have shown benefits (see Simon
+et al., 2005).
+Psychoeducation and Relapse Prevention Programs
+In addition to providing basic education about BD, many psychoeducation programs
+incorporate a range of strategies designed to prevent relapse. Psychoeducation may
+be delivered in an individual or group format. In one trial, 120 BD-I and BD-II outpa-
+tients in remission were randomized to receive structured, group-based psychoedu-
+cation or nondirective group therapy as adjuncts to standard medication treatment
+(Colom et al., 2009). Psychoeducation included six sessions focused on BD and its
+course, two sessions focused on symptom detection, six sessions focused on educa-
+tion about different medication classes, and five sessions focused on avoiding trig-
+gers (e.g., substance abuse, sleep disruption) and coping with early symptoms. Psy-
+choeducation significantly reduced the number of episodes and hospitalizations per
+patient, and delayed depressive, as well as manic–hypomanic–mixed, recurrences.
+The psychoeducation intervention continued to be associated with diminished rates
+of recurrence and hospitalization in a 5-year follow-up. Multiple effects could con-
+tribute to the positive outcomes. For example, psychoeducation improves medication
+
+-- 322 of 498 --
+
+302 	P s y c h o P a t h o l o g y
+adherence and quality of life compared to medication alone (Demissie et al., 2018;
+Javadpour, Hedayati, Dehbozorgi, & Azizi, 2013; Michalak, Yatham, Wan, & Lam,
+2005)
+Cognitive‑Behavioral Therapy
+A meta-analytic review demonstrates the value of adding cognitive-behavioral treat-
+ment (CBT) to treatment as usual, with moderate effect sizes for reduced relapse and
+mania severity, higher quality of life, and overall positive but varied effect sizes for
+depression (Chiang et al., 2017). Several CBT manuals have been developed (cf. Lam,
+Jones, & Hayward, 2010; Otto et al., 2009). The relative emphases in these manuals
+differ, but all of the CBT manuals include psychoeducation about BD. They tend
+to focus on identifying maladaptive negative thoughts about the self and teaching
+skills to challenge these overly negative thoughts. Many also include interventions to
+improve treatment engagement, and to target the overly positive thoughts that might
+be present during mania. The manual by Lam and colleagues (1999) provides more
+strategies to support self-calming and to diminish excessive goal engagement, and
+the Otto and colleagues (2009) manual provides treatment modules (e.g., anger man-
+agement, anxiety management, assertiveness training) that can be added as needed.
+Self-help books are available to facilitate application of these approaches (Jones, Hay-
+ward, & Lam, 2009; Otto et al., 2011; Roberts, Sylvia, & Reilly-Harrington, 2014).
+Support for these approaches includes a randomized trial by Lam and colleagues
+(2003) comparing brief individual CBT (12–18 sessions within the first 6 months, and
+two booster sessions in the second 6 months of care) relative to standard pharma-
+cological care. Patients who received CBT had significantly fewer bipolar episodes,
+higher social functioning, and less depression during the first year of follow-up than
+did patients in the control group. In a 2-year follow-up study, significant advantages
+were seen for CBT efficacy in reducing depressive, but not manic, symptoms (Lam,
+Hayward, Watkins, Wright, & Sham, 2005). In another study, Miklowitz and associ-
+ates (2007) showed that CBT as well as family-focused therapy and interpersonal
+psychotherapy with a social rhythm component (see below) lowered depression rela-
+tive to a minimal treatment control. More recently, studies have explored CBT for
+BD with added treatment elements. Jones and colleagues (2015) evaluated a targeted
+“recovery-focused” CBT adjunctive that supplemented standard CBT with treat-
+ment components such as recognizing the association between mood symptoms
+and attainment of recovery goals, creation of a recovery plan, and evaluation of the
+relationship between general functioning and recovery. Recovery-focused CBT plus
+standard medication treatment was associated with an increased time to relapse up
+to 15-month follow-up and improved personal ratings of recovery up to 12-month
+follow-up relative to standard medication alone.
+Family Therapy
+Drawing on the links between EE and the course of the disorder, researchers have
+considered whether family or marital approaches can help reduce bipolar symptoms.
+The best-studied approach, family-focused therapy (FFT), provides psychoeducation
+for patients and their family members, and draws on family interventions that have
+
+-- 323 of 498 --
+
+Bipolar Disorder 	303
+effectively improved family communication and delayed relapse in schizophrenia
+(e.g., Hogarty et al., 1991; Miklowitz & Chung, 2016). The family components include
+communication enhancement training, in which patients rehearse expressing posi-
+tive and negative feelings, listening, and requesting changes in others’ behaviors,
+and problem-solving skills training, in which patients learn to identify, define, and
+solve specific family problems (Miklowitz & Goldstein, 1997).
+Miklowitz, George, Richards, Simoneau, and Suddath (2003) randomly assigned
+patients with BD and their family members to receive FFT (21 sessions) or a less
+intensive clinical management approach as adjuncts to standard pharmacotherapy.
+Compared to clinical management, FFT was associated with lower levels of symp-
+toms and longer time before relapse. Significant interactions between time and treat-
+ment were observed for depression but not for mania scores.
+Similar support for FFT was obtained in a randomized clinical trial of FFT ver-
+sus individual treatment among patients with a recent manic episode who were on
+mood-stabilizing medication. Patients who received FFT experienced fewer relapses
+and hospitalizations than did those who received individual treatment (Rea et al.,
+2003). It is not clear whether improvements were specific to depression, though,
+because analyses collapsed across mania and depression.
+In one prevention trial, researchers considered whether FFT would be helpful
+for youth with mood symptoms and a first- or second-degree relative with BD (Mik-
+lowitz et al., 2020). Compared to psychoeducation, youth who received FFT showed
+longer intervals without depressive episodes, but did not differ on time to manic or
+hypomanic episodes.
+Some forms of family therapy other than FFT have not been shown to produce
+changes in manic or depressive symptoms (Miller, Solomon, Ryan, & Keitner, 2004;
+van Gent & Zwart, 1991). FFT is distinguished from these other approaches by its
+longer duration, as well as more structured exercises concerning family communica-
+tion, more education about BD, and more specific strategies for responding to symp-
+toms.
+Some research has been conducted on the mechanisms of change for family
+therapy. For example, family therapy has been found to significantly reduce EE from
+spouses of patients with BD in one study (Honig, Hofman, Hilwiq, Noorthoorn, &
+Ponds, 1995), and improve positive communications among family members with-
+out reducing negative interactions in another study (Simoneau, Miklowitz, Richards,
+Saleem, & George, 1999). Improvements in positive nonverbal communication were
+correlated with improvements in mood. Findings are consistent with the idea that
+one mechanism involved in family treatment is improvement in family communica-
+tion and functioning. Congruent with the inclusion of psychoeducation in FFT, per-
+sons who receive FFT also demonstrate better medication adherence than do those
+who receive clinical management (Miklowitz et al., 2003).
+Interventions to Improve Sleep
+Wehr and associates (1998) theorized that a light–dark cycle that mirrors the natu-
+ral rhythm of the sun might help protect sleep and thereby reduce symptoms in
+BD. Accordingly, they asked a person with BD to rest in bed in a dark room for 14
+hours per night. Over a 19-month period, the dark period was gradually reduced
+
+-- 324 of 498 --
+
+304 	P s y c h o P a t h o l o g y
+to 10 hours. Symptoms were tracked daily for several years before the intervention
+and throughout the 19 months of the intervention. This intensive treatment success-
+fully improved sleep, activity, and mood symptoms. More recently, reductions in BD
+symptoms and relapse rates were observed in a randomized controlled trial of CBT
+to reduce insomnia as compared to psychoeducation (Harvey et al., 2015).
+Interpersonal and Social Rhythm Therapy
+Similar to traditional interpersonal therapy, interpersonal and social rhythm therapy
+(IPSRT) focuses on four types of interpersonal problems: grief (extended to cover
+grief over the “lost healthy self” with the diagnosis of BD), interpersonal conflicts,
+role transitions (i.e., changes in employment situation), and interpersonal deficits (i.e.,
+social isolation), but supplements this focus with techniques to improve medication
+adherence and to address social rhythm disturbances (Frank, 2005). Hence, IPSRT is
+designed to address many of the triggers of bipolar symptoms, including medication
+adherence, schedule disruption, negative life events, and low social support.
+In one study, Frank and colleagues (2005) randomly assigned 175 acutely ill par-
+ticipants to receive either IPSRT or clinical management. IPSRT was administered as
+acute therapy (weekly sessions for several months) or maintenance therapy (monthly
+for 2 years), leading to four combinations of acute/maintenance treatment. Find-
+ings from the study were mixed, in that acute IPSRT treatment led to longer periods
+before recurrence, but maintenance IPSRT did not yield improvements in symptoms
+compared to clinical management. In a randomized controlled trial of 100 persons,
+IPSRT and supportive care attained comparable results (Inder et al., 2017). In the
+large-scale Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-
+BD) trial, IPSRT achieved better outcomes than did clinical management (Miklowitz
+et al., 2007).
+Some research has examined the mechanisms through which IPSRT produces
+change. Patients who received IPSRT achieved greater stability of daily routines than
+did those who received clinical management (Frank et al., 2005), and those improve-
+ments predicted less likelihood of relapse (Frank et al., 2005; but for negative results,
+see Frank et al., 1997; Shen et al., 2008).
+Mindfulness‑Based Training
+There has been hope that mindfulness training could help reduce the stress and anx-
+iety that are often present for those with BD (Murray et al., 2017). There is emerging
+data indicating that mindfulness has reliable benefit for bipolar depression, although
+effects appear to be lost over longer follow-up periods (Xuan et al., 2020; cf. Chu et
+al., 2018).
+Predictors and Moderators of Psychosocial Treatment Outcomes in BD
+Studies have evaluated various factors that may predict psychosocial treatment out-
+come or moderate response to different psychosocial treatments in BD, though this
+remains a relatively unexplored and nonreplicated area of research. Collectively,
+data across studies to date suggest that an elevated body mass index, more comorbid
+
+-- 325 of 498 --
+
+Bipolar Disorder 	305
+medical conditions, and more tendency to engage in extreme attributions (all-or-
+nothing explanations for various life events) can interfere with achieving full benefit
+from psychosocial treatment for BD (e.g., Peters et al., 2015; Frank et al., 2005; Stange
+et al., 2013).
+Principles of Change
+Given the range of available treatment options and the relatively comparable evi-
+dence for many of these treatments, clinicians may want to tailor their choice of
+treatment to the patient by considering principles of change; that is, the best treat-
+ment options likely depend on whether the goal is reducing manic or depressive
+relapse, and the particular social and psychological risk factors for a given patient.
+In Table 10.1, we consider principles of change and specific interventions that
+might address each domain. Psychoeducation has the strongest long-term support
+and might be considered a first line of psychological intervention for those patients
+who have not yet received solid information about their disorder and treatment
+options. Several options have been found to reduce depressive symptoms, so the
+clinician might choose treatments to address depression based on whether a patient
+demonstrates interpersonal difficulties, social rhythm disturbances, family conflict,
+or negative cognitive styles. Early detection and intervention strategies have been
+applied successfully to preventing the occurrence and severity of manic relapse.
+CONCLUSION
+People diagnosed with BD are at high risk for recurrent episodes and medical comor-
+bidity, and they incur substantial losses to their social and occupational worlds.
+Their risk for suicide is higher than rates observed across most psychiatric disorders.
+Clearly, there is a need for treatment development and innovation.
+Every major treatment guideline recommends medication as the best way to
+reduce acute symptoms and to protect against recurrence over time. Medication non-
+adherence can trigger increases in depressive and manic symptoms. Even with such
+medications, however, rates of relapse remain disappointingly high.
+Although genetic heritability is clearly the major force involved in whether
+a person develops the disorder, genetic models are less helpful in predicting the
+course of disorder. Psychological variables have been found to predict the course
+of disorder. Emotional lability, trauma, and emotion-related impulsivity may pre-
+dict more serious manic and depressive symptoms over time. Negative life events,
+negative cognitive styles, and family criticism are related to more severe depressive
+symptoms over time. Schedule and sleep disruption, as well as various facets of goal
+dysregulation, predict increases in mania over time. Each of these variables can be
+considered a potential treatment target.
+A growing body of evidence supports the efficacy of specific psychosocial
+treatments for BD. Psychoeducation, training in medication adherence, and symp-
+tom monitoring appear to have significant relapse prevention effects. CBT has been
+found to reduce depression significantly, and there is evidence for the prevention
+of mania during the first year after treatment, but not the second, with one of the
+
+-- 326 of 498 --
+
+306 	P s y c h o P a t h o l o g y
+TABLE 10.1. Principles of Change in Psychological Treatment Approaches for Bipolar Disorder
+Principles of change 	Examples of specific guidelines
+Improve awareness of symptoms. 	Teach the patient to routinely review symptoms, in
+order to be alert to the signs and symptoms of an
+incipient mood episode.
+Increase motivation for medication
+adherence.
+Teach the patient about course of disorder and role
+of mood stabilizers as a relapse prevention treatment
+(i.e., to be taken even in the absence of symptoms).
+Increase treatment engagement. 	Educate the patient, care providers, and support
+network about efficacy of specific psychosocial
+treatment. Establish strong rapport, provide forum
+for discussing the meaning and hardships associated
+with illness. Provide education and support to
+improve motivation for treatment. Teach strategies
+to enhance regular medication regimens, including
+techniques to prevent forgetfulness and to manage
+side effect of medications.
+Reduce risk factors for episodes. 	Teach the patient about the dangers of substance
+use for symptom management; consider behavioral
+strategies to help reduce substance abuse. Teach skills
+to manage stress and/or anxiety comorbidity.
+Improve family functioning. 	Teach communication skills to the patient and their
+family (e.g., constructive expression of both positive
+and negative feelings, listening, assertiveness
+training).
+Develop plans to foster appropriate
+support from close others and treatment
+providers if mood episodes emerge.
+Consider use of treatment contracts that specify
+actions of providers and others (e.g., preferred
+hospital should severe mood episodes be
+encountered).
+Promote regular sleep–wake cycles and
+activity cycles.
+Teach the patient sleep hygiene skills, help them
+extend resting period in bed, and enhance stability of
+daily routines.
+Diminish excessive engagement in
+overly ambitious goal pursuit and
+practice self-calming skills after goal-
+attainment life events.
+Help the patient learn to avoid periods of overly
+confident risk taking and frenetic goal engagement.
+Help the patient learn to avoid acting on surges of
+confidence present after small successes.
+Address interpersonal stress and social
+isolation.
+Help the patient identify core interpersonal goals
+for change and use behavioral strategies to promote
+change.
+Address maladaptive thoughts. 	Identify and challenge overly negative self-relevant
+thoughts with use of cognitive strategies similar to
+those employed for unipolar depression.
+
+-- 327 of 498 --
+
+Bipolar Disorder 	307
+available CBT manuals. Family treatment has been shown to enhance a range of out-
+comes but to influence depression most directly. Intervention to address insomnia
+has been shown to help reduce symptoms. IPSRT integrates interventions to address
+both schedule disruption and interpersonal stressors, and has been found to provide
+symptom relief when offered as an acute treatment but not as a maintenance treat-
+ment. The large-scale STEP-BD study suggests that CBT, FFT, and IPSRT performed
+comparably in reducing depressive symptoms.
+Beyond the encouraging findings relative to symptoms, several studies suggest
+that psychotherapies can bolster social and occupational functioning; that is, brief
+psychoeducation (van Gent & Zwart, 1991), FFT (Miklowitz et al., 2003), IPT (Frank
+et al., 2008), and CBT (Lam et al., 2003; Miklowitz et al., 2007) have been found to
+improve social functioning. More work is needed for these targets, though, given the
+extreme occupational and social distress associated with this disorder.
+In summary, the findings from the host of treatment outcome studies are encour-
+aging, in that a range of mechanisms has been targeted, with beneficial effects on a
+broad range of outcomes. Notwithstanding the significance of these gains, there is
+a need for more precise studies of the mechanisms involved in symptom genera-
+tion and for treatments that more directly target these mechanisms. For example, it
+remains unclear whether sleep or schedule disruption are better predictors of out-
+come, and knowing this would certainly shape treatment targets. Such analyses of
+which variables are most predictive could help refine treatment targets.
+Overall, treatment outcome research on BD has achieved a great deal. The
+early findings suggest that a host of treatments can be helpful. Psychoeducation can
+enhance medication adherence and diminish symptoms. More specific interventions
+are designed to address other mechanisms involved in the course of the disorder.
+These basic findings on treatment outcome in BD set the stage for more careful inte-
+gration of specific mechanisms with intervention studies, and extension of research
+to a broader range of outcomes and populations.
+REFERENCES
+Acuff, H. E., Versace, A., Bertocci, M. A., Ladouceur, C. D., Hanford, L. C., Manelis, A., . . .
+Phillips, M. L. (2018). Association of neuroimaging measures of emotion processing and
+regulation neural circuitries with symptoms of bipolar disorder in offspring at risk for
+bipolar disorder. JAMA Psychiatry, 75(12), 1225–1233.
+Agnew-Blais, J., & Danese, A. (2016). Childhood maltreatment and unfavourable clinical out-
+comes in bipolar disorder: A systematic review and meta-analysis. Lancet Psychiatry, 3(4),
+342–349.
+Alloy, L. B., Reilly-Harrington, N., Fresco, D. M., Whitehouse, W. G., & Zechmeister, J. S. (1999).
+Cognitive styles and life events in subsyndromal unipolar and bipolar disorders: Stabil-
+ity and prospective prediction of depressive and hypomanic mood swings. Journal of
+Cognitive Psychotherapy, 13, 21–40.
+American Psychiatric Association. (2002). Practice guideline for the treatment of patients with bipo-
+lar disorder (2nd ed.). Washington, DC: Author.
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders
+(5th ed.). Arlington, VA: Author.
+
+-- 328 of 498 --
+
+308 	P s y c h o P a t h o l o g y
+Arts, B., Jabben, N., Krabbendam, L., & van Os, J. (2008). Meta-analyses of cognitive function-
+ing in euthymic bipolar patients and their first-degree relatives. Psychological Medicine,
+38(6), 771–785.
+Ashman, S. B., Monk, T. H., Kupfer, D. J., Clark, C. H., Myers, F. S., Frank, E., & Leibenluft, E.
+(1999). Relationship between social rhythms and mood in patients with rapid cycling
+bipolar disorder. Psychiatry Research, 86, 1–8.
+Ashok, A. H., Marques, T. R., Jauhar, S., Nour, M. M., Goodwin, G. M., Young, A. H., & Howes,
+O. D. (2017). The dopamine hypothesis of bipolar affective disorder: The state of the art
+and implications for treatment. Molecular Psychiatry, 22(5), 666–679.
+Axelson, D., Goldstein, B., Goldstein, T., Monk, K., Yu, H., Hickey, M. B., . . . Birmaher, B. (2015).
+Diagnostic precursors to bipolar disorder in offspring of parents with bipolar disorder:
+A longitudinal study. American Journal of Psychiatry, 172(7), 638–646.
+Barbini, B., Colombo, C., Benedetti, F., Campori, E., Bellodi, L., & Smeraldi, E. (1998). The
+unipolar–bipolar dichotomy and the response to sleep deprivation. Psychiatry Research,
+79, 43–50.
+Barnett, J., Huang, J., Perlis, R., Young, M., Rosenbaum, J., Nierenberg, A., . . . Smoller, J. (2011).
+Personality and bipolar disorder: Dissecting state and trait associations between mood
+and personality. Psychological Medicine, 41, 1593–1604.
+Bauer, M., Glenn, T., Alda, M., Bauer, R., Grof, P., Marsh, W., . . . Whybrow, P. C. (2019). Tra-
+jectories of adherence to mood stabilizers in patients with bipolar disorder. International
+Journal of Bipolar Disorders, 7, 19.
+Bobo, W. V., Reilly-Harrington, N. A., Ketter, T. A., Brody, B. D., Kinrys, G., Kemp, D. E., . . .
+Kamali, M. (2014). Effect of adjunctive benzodiazepines on clinical outcomes in lithium-
+or quetiapine-treated outpatients with bipolar I or II disorder: Results from the Bipolar
+CHOICE trial. Journal of Affective Disorders, 161, 30–35.
+Bora, E., Hıdıroğlu, C., Özerdem, A., Kaçar, Ö. F., Sarısoy, G., Civil Arslan, F., . . . Tümkaya,
+S. (2016). Executive dysfunction and cognitive subgroups in a large sample of euthymic
+patients with bipolar disorder. European Neuropsychopharmacology, 26(8), 1338–1347.
+Bora, E., Yucel, M., & Pantelis, C. (2009). Cognitive endophenotypes of bipolar disorder: A
+meta-analysis of neuropsychological deficits in euthymic patients and their first-degree
+relatives. Journal of Affective Disorders, 113(1–2), 1–20.
+Bortolato, B., Miskowiak, K. W., Köhler, C. A., Vieta, E., & Carvalho, A. F. (2015). Cognitive dys-
+function in bipolar disorder and schizophrenia: A systematic review of meta-analyses.
+Neuropsychiatric Disease and Treatment, 11, 3111–3125.
+Brissos, S., Dias, V., & Kapczinski, F. (2008). Cognitive performance and quality of life in bipo-
+lar disorder. Canadian Journal of Psychiatry, 52, 517–524.
+Brown, E. S., Todd, J. P., Hu, L. T., Schmitz, J. M., Carmody, T. J., Nakamura, A., . . . Lo, A. (2015).
+A randomized, double-blind, placebo-controlled trial of citicoline for cocaine depen-
+dence in bipolar I disorder. American Journal of Psychiatry, 172, 1014–1021.
+Calkin, C. V., Ruzickova, M., Uher, R., Hajek, T., Slaney, C. M., Garnham, J. S., . . . Alda, M.
+(2015). Insulin resistance and outcome in bipolar disorder. British Journal of Psychiatry,
+206(1), 52–57.
+Chan, S. H. W., & Tse, S. (2018). Coping with amplified emotionality among people with bipo-
+lar disorder: A longitudinal study. Journal of Affective Disorders, 239, 303–312.
+Chiang, K. J., Tsai, J. C., Liu, D., Lin, C. H., Chiu, H. L., & Chou, K. R. (2017). Efficacy of
+cognitive-behavioral therapy in patients with bipolar disorder: A meta-analysis of ran-
+domized controlled trials. PLOS ONE, 12, e0176849.
+Chu, C. S., Stubbs, B., Chen, T. Y., Tang, C. H., Li, D. J., Yang, W. C., . . . Lin, P. Y. (2018). The
+effectiveness of adjunct mindfulness-based intervention in treatment of bipolar disor-
+der: A systematic review and meta-analysis. Journal of Affective Disorders, 225, 234–245.
+Colom, F., Vieta, E., Sanchez-Moreno, J., Palomino- Otiniano, R., Reinares, M., Goikolea, J. M.,
+
+-- 329 of 498 --
+
+Bipolar Disorder 	309
+. . . Martinez-Aran, A. (2009). Group psychoeducation for stabilised bipolar disorders:
+5-year outcome of a randomised clinical trial. British Journal of Psychiatry, 194, 260–265.
+Coryell, W., Scheftner, W., Keller, M., Endicott, J., Maser, J., & Klerman, G. L. (1993). The endur-
+ing psychosocial consequences of mania and depression. American Journal of Psychiatry,
+150, 720–727.
+Dell’Osso, B., Shah, S., Do, D., Yuen, L. D., Hooshmand, F., Wang, P. W., . . . Ketter, T. A. (2017).
+American tertiary clinic-referred bipolar II disorder versus bipolar I disorder associated
+with hastened depressive recurrence. International Journal of Bipolar Disorders, 5, 2.
+Demissie, M., Hanlon, C., Birhane, R., Ng, L., Medhin, G., & Fekadu, A. (2018). Psychologi-
+cal interventions for bipolar disorder in low- and middle-income countries: Systematic
+review. BJPsych Open, 4(5), 375–384.
+Dodd, A., Lockwood, E., Mansell, W., & Palmier-Claus, J. (2019). Emotion regulation strategies
+in bipolar disorder: A systematic and critical review. Journal of Affective Disorders, 246,
+262–284.
+Dunayevich, E., Sax, K. W., Keck, P. E., McElroy, S. L., Sorter, M. T., McConville, B. J., & Stra-
+kowski, S. M. (2000). Twelve-month outcome in bipolar patients with and without per-
+sonality disorders. Journal of Clinical Psychiatry, 61, 134–139.
+Ehlers, C. L., Frank, E., & Kupfer, D. J. (1988). Social zeitgebers and biological rhythms: A uni-
+fied approach to understanding the etiology of depression. Archives of General Psychiatry,
+45, 948–952.
+Fiedorowicz, J. G., Solomon, D. A., Endicott, J., Leon, A. C., Li, C., Rice, J. P., & Coryell, W. H.
+(2009). Manic/hypomanic symptom burden and cardiovascular mortality in bipolar dis-
+order. Psychosomatic Medicine, 71, 598–606.
+Frank, E. (2005). Treating bipolar disorder: A clinician’s guide to interpersonal and social rhythm
+therapy. New York: Guilford Press.
+Frank, E., Hlastala, S., Ritenour, A., Houck, P., Tu, X. M., Monk, T. H., . . . Kupfer, D. J. (1997).
+Inducing lifestyle regularity in recovering bipolar disorder patients. Biological Psychiatry,
+41, 1165–1173.
+Frank, E., Kupfer, D., Thase, M. E., Mallinger, A. G., Swartz, H. A., Fagiolini, A. M., . . . Monk,
+T. (2005). Two-year outcomes for interpersonal and social rhythm therapy in individuals
+with bipolar I disorder. Archives of General Psychiatry, 62, 996–1004.
+Frank, E., Soreca, I., Swartz, H. A., Fagiolini, A. M., Mallinger, A. G., Thase, M. E., . . . Kupfer,
+D. J. (2008). The role of interpersonal and social rhythm therapy in improving occupa-
+tional functioning in patients with bipolar I disorder. American Journal of Psychiatry, 165,
+1559–1565.
+Garno, J. L., Goldberg, J. F., Ramirez, P. M., & Ritzler, B. A. (2005). Impact of childhood abuse
+on the clinical course of bipolar disorder. British Journal of Psychiatry, 186(2), 121–125.
+George, E. L., Miklowitz, D. J., Richards, J. A., Simoneau, T. L., & Taylor, D. O. (2003). The
+comorbidity of bipolar disorder and axis II personality disorders: Prevalence and clinical
+correlates. Bipolar Disorders, 5, 115–122.
+Ghaemi, S. N., Lenox, M. S., & Baldessarini, R. J. (2001). Effectiveness and safety of long-term
+antidepressant treatment in bipolar disorder. Journal of Clinical Psychology, 62, 565–569.
+Gitlin, M. J., Swendsen, J., Heller, T. L., & Hammen, C. (1995). Relapse and impairment in bipo-
+lar disorder. American Journal of Psychiatry, 152, 1635–1640.
+Gold, A. K., Otto, M. W., Deckersbach, T., Sylvia, L. G., Nierenberg, A. A., & Kinrys, G. (2018).
+Substance use comorbidity in bipolar disorder: A qualitative review of treatment strate-
+gies and outcomes. American Journal of Addictions, 27, 188–201.
+Goldstein, B. I., Carnethon, M. R., Matthews, K. A., McIntyre, R. S., Miller, G. E., Raghuveer,
+G., . . . McCrindle, B. W. (2015). Major depressive disorder and bipolar disorder predis-
+pose youth to accelerated atherosclerosis and early cardiovascular disease: A scientific
+statement from the American Heart Association. Circulation, 132(10), 965–986.
+
+-- 330 of 498 --
+
+310 	P s y c h o P a t h o l o g y
+Gonzalez, J. M., Thompson, P., Escamilla, M., Araga, M., Singh, V., Farrelly, N., . . . Bowden,
+C. L. (2007). Treatment characteristics and illness burden among European Americans,
+African Americans, and Latinos in the first 2,000 patients of the systematic treatment
+enhancement program for bipolar disorder. Psychopharmacology Bulletin, 40, 31–46.
+Goodwin, G. M., Haddad, P. M., Ferrier, I. N., Aronson, J. K., Barnes, T. R. H., Cipriani, A., . . .
+Young, A. H. (2016). Evidence-based guidelines for treating bipolar disorder: Revised
+third edition recommendations from the British Association for Psychopharmacology.
+Journal of Psychopharmacology, 30, 495–553.
+Gruber, J. (2011). Can feeling too good be bad?: Positive emotion persistence (PEP) in bipolar
+disorder. Current Directions in Psychological Science, 20, 217–221.
+Gruber, J., Harvey, A., & Gross, J. (2012). When trying is not enough: Emotion regulation and
+the effort-success gap in bipolar disorder. Emotion, 12, 997–1003.
+Haeri, S., Williams, J., Kopeykina, I., Johnson, J., Newmark, A., Cohen, L., & Galynker, I. (2011).
+Disparities in diagnosis of bipolar disorder in individuals of African and European
+descent: A review. Journal of Psychiatric Practice, 17, 394–403.
+Harvey, A. G., Soehner, A. M., Kaplan, K. A., Hein, K., Lee, J., Kanady, J., . . . Buysse, D. J.
+(2015). Treating insomnia improves mood state, sleep, and functioning in bipolar disor-
+der: A pilot randomized controlled trial. Journal of Consulting and Clinical Psychology, 83,
+564–577.
+Hayes, J. F., Miles, J., Walters, K., King, M., & Osborn, D. P. J. (2015). A systematic review
+and meta-analysis of premature mortality in bipolar affective disorder. Acta Psychiatrica
+Scandinavica, 131(6), 417–425.
+Hogarty, G. E., Anderson, C. M., Reiss, D. J., Kornblith, S. J., Greenwald, D. P., & Ulrich, R. F.
+(1991). Family psychoeducation, social skills training, and maintenance chemotherapy in
+the aftercare of schizophrenia. Archives of General Psychiatry, 48, 340–347.
+Honig, A., Hofman, A., Hilwiq, M., Noorthoorn, E., & Ponds, R. (1995). Psychoeducation and
+expressed emotion in bipolar disorder: Preliminary findings. Psychiatry Research, 28,
+299–301.
+Hosang, G. M., Uher, R., Maughan, B., McGuffin, P., & Farmer, A. E. (2012). The role of loss
+and danger events in symptom exacerbation in bipolar disorder. Journal of Psychiatric
+Research, 46(12), 1584–1589.
+Inder, M. L., Crowe, M. T., Moor, S., Carter, J. D., Luty, S. E., Frampton, C. M., & Joyce, P. R.
+(2017). Three-year follow-up after psychotherapy for young people with bipolar disorder.
+Bipolar Disorders, 20, 441–447.
+Jamison, K. (1993). Touched with fire: Manic depressive illness and the artistic temperament. New
+York: Free Press.
+Javadpour, A., Hedayati, A., Dehbozorgi, G. R., & Azizi, A. (2013). The impact of a simple
+individual psychoeducation program on quality of life, rate of relapse, and medication
+adherence in bipolar disorder patients. Asian Journal of Psychiatry, 6, 208–213.
+Johnson, K. R., & Johnson, S. L. (2014). Inadequate treatment of black Americans with bipolar
+disorder. Psychiatric Services, 65, 255–258.
+Johnson, S. L. (2005). Life events in bipolar disorder: Towards more specific models. Clinical
+Psychology Review, 25, 1008–1027.
+Johnson, S. L., & Carver, C. S. (2016). Emotion-relevant impulsivity predicts sustained anger
+and aggression after remission in bipolar I disorder. Journal of Affective Disorders, 189,
+169–175.
+Johnson, S. L., Cuellar, A., & Peckham, A. H. (2015). Risk factors for bipolar disorder. In I. H.
+Gotlib & C. L. Hammen (Eds.), Handbook of depression (3rd ed., pp. 315–333). New York:
+Guilford Press.
+Johnson, S. L., Edge, M. D., Holmes, M. K., & Carver, C. S. (2012). The behavioral activation
+system and mania. Annual Review of Clinical Psychology, 8, 243–267.
+
+-- 331 of 498 --
+
+Bipolar Disorder 	311
+Johnson, S. L., & Fingerhut, R. (2004). Negative cognitions predict the course of bipolar depres-
+sion, not mania. Journal of Cognitive Psychotherapy, 18, 149–162.
+Johnson, S. L., Winett, C. A., Meyer, B., Greenhouse, W. J., & Miller, I. (1999). Social support
+and the course of bipolar disorder. Journal of Abnormal Psychology, 108, 558–566.
+Jones, S., Hayward, P., & Lam, D. (2009). Coping with bipolar disorder: A CBT-informed guide to
+living with manic depression. Oxford, UK: One World.
+Jones, S. H., Smith, G., Mulligan, L. D., Lobban, F., Law, H., Dunn, G., . . . Morrison, A. P. (2015).
+Recovery-focused cognitive-behavioural therapy for recent-onset bipolar disorder: Ran-
+domised controlled pilot trial. British Journal of Psychiatry, 206, 58–66.
+Jones, S. H., Tai, S., Evershed, K., Knowles, R., & Bentall, R. (2006). Early detection of bipolar
+disorder: A pilot familial high-risk study of parents with bipolar disorder and their ado-
+lescent children. Bipolar Disorders, 8, 362–372.
+Judd, L. L., Akiskal, H. S., Schetteler, P. J., Endicott, J., Maser, J., Solomon, D. A., . . . Keller, M.
+B. (2002). The long-term natural history of the weekly symptomatic status of bipolar I
+disorder. Archives of General Psychiatry, 59, 530–537.
+Keller, M., Lavori, P., Coryell, W., Andreasen, N., Endicott, J., Clayton, P., . . . Hirschfeld, R. M.
+(1986). Differential outcome of pure manic, mixed/cycling, and pure depressive episodes
+in patients with bipolar illness. Journal of the American Medical Association, 255, 3138–3142.
+Kessler, R. C., Chiu, W. T., Demler, O., & Walters, E. E. (2005). Prevalence, severity, and comor-
+bidity of 12-month DSM-IV disorders in the National Comorbidity Survey Replication.
+Archives of General Psychiatry, 62, 617–627.
+Kilbourne, A. M., Bauer, M. S., Han, X., Haas, G. L., Elder, P., Good, C. B., . . . Pincus, H. (2005).
+Racial differences in the treatment of veterans with bipolar disorder. Psychiatric Services,
+56, 1549–1555.
+Kupfer, D. J., Frank, E., Grochocinski, V. J., Houck, P. R., & Brown, C. (2005). African-American
+participants in a bipolar disorder registry: Clinical and treatment characteristics. Bipolar
+Disorders, 7, 82–88.
+Kyaga, S., Landén, M., Boman, M., Hultman, C. M., Långström, N., & Lichtenstein, P. (2013).
+Mental illness, suicide and creativity: 40-year prospective total population study. Journal
+of Psychiatric Research, 47(1), 83–90.
+Lam, D. H., Jones, S. H., & Hayward, P. (2010). Cognitive therapy for bipolar disorder: A therapist’s
+guide to concepts, methods, and practice (2nd ed.). Chichester, UK: Wiley.
+Lam, D. H., Hayward, P., Watkins, E. R., Wright, K., & Sham, P. (2005). Relapse prevention in
+patients with bipolar disorder: Cognitive therapy outcome after 2 years. American Journal
+of Psychiatry, 162(2), 324–329.
+Lam, D. H., Watkins, E. R., Hayward, P., Bright, J., Wright, K., & Kerr, N. (2003). A randomized
+controlled study of cognitive therapy of relapse prevention for bipolar affective disorder:
+Outcome of the first year. Archives of General Psychiatry, 60, 145–152.
+Lancaster, T. M. (2018). Evidence for association between familial bipolar risk and ventral
+striatal volume. Journal of Affective Disorders, 232, 69–72.
+LaPalme, M., Hodgins, S., & LaRoche, C. (1997). Children of parents with bipolar disorder:
+A meta-analysis of risk for mental disorders. Canadian Journal of Psychiatry, 42, 623–631.
+Laursen, T. M., Munk-Olsen, T., Nordentoft, M., & Mortensen, P. B. (2007). Increased mortality
+among patients admitted with major psychiatric disorders: A register-based study com-
+paring mortality in unipolar depressive disorder, bipolar affective disorder, schizoaffec-
+tive disorder, and schizophrenia. Journal of Clinical Psychiatry, 68, 899–907.
+Lima, I. M. M., Peckham, A. D., & Johnson, S. L. (2018). Cognitive deficits in bipolar disorders:
+Implications for emotion. Clinical Psychology Review, 59, 126–136.
+Malkoff-Schwartz, S., Frank, E., Anderson, B. P., Hlastala, S. A., Luther, J. F., & Sherrill, J. T.
+(2000). Social rhythm disruption and stressful life events in the onset of bipolar and uni-
+polar episodes. Psychological Medicine, 30, 1005–1016.
+
+-- 332 of 498 --
+
+312 	P s y c h o P a t h o l o g y
+Manelis, A., Ladouceur, C. D., Graur, S., Monk, K., Bonar, L. K., Hickey, M. B., . . . Phillips, M.
+L. (2015). Altered amygdala-prefrontal response to facial emotion in offspring of parents
+with bipolar disorder. Brain, 138(9), 2777–2790.
+Masi, G., Perugi, G., Toni, C., Millepiedi, S., Mucci, M., Bertini, N., & Akiskal, H. S. (2004).
+Predictors of treatment nonresponse in bipolar children and adolescents with manic or
+mixed episodes. Journal of Child and Adolescent Psychopharmacology, 14, 395–404.
+McGirr, A., Vöhringer, P. A., Ghaemi, S. N., Lam, R. W., & Yatham, L. N. (2016). Safety and
+efficacy of adjunctive second-generation antidepressant therapy with a mood stabiliser
+or an atypical antipsychotic in acute bipolar depression: A systematic review and meta-
+analysis of randomised placebo-controlled trials. Lancet Psychiatry, 3, 1138–1146.
+McGrady, A., Lynch, D., & Rapport, D. (2017). Psychosocial factors and comorbidity associ-
+ated with suicide attempts: Findings in patients with bipolar disorder. Psychopathology,
+50, 171–174.
+McGuffin, P., Rijsdijk, F., Andrew, M., Sham, P., Katz, R., & Cardno, A. (2003). The heritability
+of bipolar affective disorder and the genetic relationship to unipolar depression. Archives
+of General Psychiatry, 60, 497–502.
+Melo, M. C. A., Abreu, R. L. C., Linhares Neto, V. B., de Bruin, P. F. C., & de Bruin, V. M. S.
+(2017). Chronotype and circadian rhythm in bipolar disorder: A systematic review. Sleep
+Medicine Reviews, 34, 46–58.
+Merikangas, K. R., Akiskal, H. S., Angst, J., Greenberg, P. E., Hirschfeld, R. M., Petukhova, M.,
+& Kessler, R. C. (2007). Lifetime and 12-month prevalence of bipolar spectrum disorder in
+the National Comorbidity Survey Replication. Archives of General Psychiatry, 64, 543–552.
+Merikangas, K. R., Jin, R., He, J.-P., Kessler, R. C., Lee, S., Sampson, N. A., . . . Zarkov, Z. (2011).
+Prevalence and correlates of bipolar spectrum disorder in the World Mental Health Sur-
+vey Initiative. Archives of General Psychiatry, 68(3), 241–251.
+Merikangas, K. R., Swendsen, J., Hickie, I. B., Cui, L., Shou, H., Merikangas, A. K., . . . Zipun-
+nikov, V. (2019). Real-time mobile monitoring of the dynamic associations among motor
+activity, energy, mood, and sleep in adults with bipolar disorder. JAMA Psychiatry, 76(2),
+190–198.
+Michalak, E. E., Yatham, L. N., Wan, D. D., & Lam, R. W. (2005). Perceived quality of life in
+patients with bipolar disorder: Does group psychoeducation have an impact? Canadian
+Journal of Psychiatry, 50, 95–100.
+Miklowitz, D. J., & Chung, B. (2016). Family-focused therapy for bipolar disorder: Reflections
+on 30 years of research. Family Processes, 55, 483–499.
+Miklowitz, D. J., George, E. L., Richards, J. A., Simoneau, T. L., & Suddath, R. L. (2003). A ran-
+domized study of family-focused psychoeducation and pharmacotherapy in the outpa-
+tient management of bipolar disorder. Archives of General Psychiatry, 60, 904–912.
+Miklowitz, D. J., & Goldstein, M. J. (1997). Bipolar disorder: A family-focused treatment approach.
+New York: Guilford Press.
+Miklowitz, D. J., Otto, M. W., Frank, E., Reilly-Harrington, N. A., Wisniewski, S. R., Kogan, J.
+N., . . . Sachs, G. S. (2007). Psychosocial treatments for bipolar depression: A one-year ran-
+domized trial from the Systematic Treatment Enhancement Program. Archives of General
+Psychiatry, 64, 419–427.
+Miklowitz, D. J., Schneck, C. D., Walshaw, P. D., Singh, M. K., Sullivan, A. E., Suddath, R. L.,
+. . . Chang, K. D. (2020). Effects of family-focused therapy vs enhanced usual care for
+symptomatic youths at high risk for bipolar disorder: A randomized clinical trial. JAMA
+Psychiatry, 77(5), 455–463.
+Miller, I., Solomon, D. A., Ryan, C. E., & Keitner, G. I. (2004). Does adjunctive family therapy
+enhance recovery from bipolar I mood episodes? Journal of Affective Disorders, 82, 431–
+436.
+Miskowiak, K. W., Carvalho, A. F., Vieta, E., & Kessing, L. V. (2016). Cognitive enhancement
+
+-- 333 of 498 --
+
+Bipolar Disorder 	313
+treatments for bipolar disorder: A systematic review and methodological recommenda-
+tions. European Neuropsychopharmacology, 26, 1541–1561.
+Miskowiak, K. W., Seeberg, I., Kjaerstad, H. L., Burdick, K. E., Martinez-Aran, A., Del Mar
+Bonnin, C., . . . Vieta, E. (2019). Affective cognition in bipolar disorder: A systematic
+review by the ISBD targeting cognition task force. Bipolar Disorders, 21(8), 686–719.
+Monk, T. H., Frank, E., Potts, J. M., & Kupfer, D. J. (2002). A simple way to measure daily life-
+style regularity. Journal of Sleep Research, 11, 183–190.
+Muhtadie, L., Johnson, S. L., Carver, C. S., Gotlib, I. H., & Ketter, T. A. (2014). A profile approach
+to impulsivity in bipolar disorder: the key role of strong emotions. Acta Psychiatrica Scan-
+dinavica, 129(2), 100–108.
+Murray, G., & Harvey, A. (2010). Circadian rhythms and sleep in bipolar disorder. Bipolar Dis-
+orders, 12(5), 459–472.
+Murray, G., Leitan, N. D., Thomas, N., Michalak, E. E., Johnson, S. L., Jones, S., . . . Berk, M.
+(2017). Towards recovery-oriented psychosocial interventions for bipolar disorder: Qual-
+ity of life outcomes, stage-sensitive treatments, and mindfulness mechanisms. Clinical
+Psychology Review, 52, 148–163.
+Nordentoft, M., Mortensen, P. B., & Pedersen, C. B. (2011). Absolute risk of suicide after first
+hospital contact in mental disorder. Archives of General Psychiatry, 68(10), 1058–1064.
+Nusslock, R., Young, C. B., & Damme, K. S. F. (2014). Elevated reward-related neural activation
+as a unique biological marker of bipolar disorder: Assessment and treatment implica-
+tions. Behaviour Research and Therapy, 62, 74–87.
+Otto, M. W., Reilly-Harrington, N. A., Knauz, R. O., Henin, A., Kogan, J. N., & Sachs, G. S.
+(2011). Living with bipolar disorder (expanded ed.). New York: Oxford University Press.
+Otto, M. W., Reilly-Harrington, N. A., Kogan, J. N., Henin, A., Knauz, R. O., & Sachs, G. S.
+(2009). Managing bipolar disorder: A cognitive-behavioral approach (Therapist guide). New
+York: Oxford University Press.
+Otto, M. W., Simon, N. M., Wisniewski, S. R., Miklowitz, D. J., Kogan, J. N., Reilly-Harrington,
+N. A., & STEP-BD Investigators. (2006). Prospective 12-month course of bipolar disorder
+in out-patients with and without comorbid anxiety disorders. British Journal of Psychiatry,
+189, 20–25.
+Perlis, R. H., Miyahara, S., Marangell, L. B., Wisniewski, S. R., Ostacher, M., Delbello, M. P., . . .
+STEP-BD Investigators. (2004). Long-term implications of early onset in bipolar disorder:
+Data from the first 1000 participants in the Systematic Treatment Enhancement Program
+for Bipolar Disorder (STEP-BD). Biological Psychiatry, 55, 875–881.
+Peters, A. T., Shesler, L. W., Sylvia, L. G., da Silva Magalhaes, P. V., Miklowitz, D. J., Otto, M.
+W., . . . Deckersbach, T. (2015). Medical burden, body mass index and the outcome of
+psychosocial interventions for bipolar depression. Australian and New Zealand Journal of
+Psychiatry, 50, 667–677.
+Post, R. M., Altshuler, L. L., Kupka, R., McElroy, S. L., Frye, M. A., Rowe, M., . . . Nolen, W.
+A. (2017). More childhood onset bipolar disorder in the United States than Canada
+or Europe: Implications for treatment and prevention. Neuroscience and Biobehavioral
+Reviews, 74, 204–213.
+Post, R. M., Leverich, G. S., McElroy, S., Kupka, R., Suppes, T., Altshuler, L., . . . Hellemann, G.
+(2018). Prevalence of axis II comorbidities in bipolar disorder: Relationship to mood state.
+Bipolar Disorders, 20(4), 303–312.
+Rea, M. M., Tompson, M., Miklowitz, D. J., Goldstein, M. J., Hwang, S., & Mintz, J. (2003). Fam-
+ily focused treatment vs. individual treatment for bipolar disorder: Results of a random-
+ized clinical trial. Journal of Consulting and Clinical Psychology, 71, 482–492.
+Redlich, R., Dohm, K., Grotegerd, D., Opel, N., Zwitserlood, P., Heindel, W., . . . Dannlowski, U.
+(2015). Reward processing in unipolar and bipolar depression: A functional MRI study.
+Neuropsychopharmacology, 40(11), 2623–2631.
+
+-- 334 of 498 --
+
+314 	P s y c h o P a t h o l o g y
+Roberts, S. M., Sylvia, L. G., & Reilly-Harrington, N. A. (2014). The bipolar II disorder workbook:
+Managing recurring depression, hypomania, and anxiety. Oakland, CA: New Harbinger.
+Romans, S. E., & McPherson, H. M. (1992). The social networks of bipolar affective disorder
+patients. Journal of Affective Disorders, 25, 221–228.
+Salloum, I. M., & Brown, E. S. (2017). Management of comorbid bipolar disorder and substance
+use disorders. American Journal of Drug and Alcohol Abuse, 43, 366–376.
+Salloum, I. M., Cornelius, J. R., Daley, D. C., Kirisci, L., Himmelhoch, J. M., & Thase, M. E.
+(2005). Efficacy of valproate maintenance in patients with bipolar disorder and alcohol-
+ism: A double-blind placebo controlled study. Archives of General Psychiatry, 62, 37–45.
+Schaffer, A., Isometsä, E. T., Tondo, L., Moreno, D. H., Turecki, G., Reis, C., . . . Yatham, L. N.
+(2015). International Society for Bipolar Disorders Task Force on Suicide: Meta-analyses
+and meta-regression of correlates of suicide attempts and suicide deaths in bipolar dis-
+order. Bipolar Disorders, 17(1), 1–16.
+Shen, G., Sylvia, L., Alloy, L., Barrett, F., Kohner, M., Iacoviello, B., & Mills, A. (2008). Lifestyle
+regularity and cyclothymic symptomatology. Journal of Clinical Psychology, 64, 482–500.
+Simon, G. E., Ludman, E. J., Unützer, J., Bauer, M. S., Operskalski, B., & Rutter, C. (2005). Ran-
+domized trial of a population-based care program for people with bipolar disorder. Psy-
+chological Medicine, 35, 13–24.
+Simoneau, T. L., Miklowitz, D. J., Richards, J. A., Saleem, R., & George, E. L. (1999). Bipolar
+disorder and family communication: Effects of a psychoeducational treatment program.
+Journal of Abnormal Psychology, 108, 588–597.
+Simoneau, T. L., Miklowitz, D. J., & Saleem, R. (1998). Expressed emotion and interactional
+patterns in the families of bipolar patients. Journal of Abnormal Psychology, 107, 497–507.
+Stahl, E. A., Breen, G., Forstner, A. J., McQuillin, A., Ripke, S., Trubetskoy, V., . . . Sklar, P.
+(2019). Genome-wide association study identifies 30 loci associated with bipolar disor-
+der. Nature Genetics, 51(5), 793–803.
+Stange, J. P., Sylvia, L. G., da Silva Magalhaes, P. V., Miklowitz, D. J., Otto, M. W., Frank, E.,
+. . . Deckersbach, T. (2013). Extreme attributions predict the course of bipolar depression:
+Results from the STEP-BD randomized controlled trial of psychosocial treatment. Journal
+of Clinical Psychiatry, 74, 249–255.
+Strakowski, S. M., Fleck, D. E., DelBello, M. P., Adler, C. M., Shear, P. K., Kotwal, R., & Arndt, S.
+(2010). Impulsivity across the course of bipolar disorder. Bipolar Disorders, 12(3), 285–297.
+Suppes, T., Leverich, G. S., Keck, P. E., Nolen, W. A., Denicoff, K. D., Altshuler, L. L., . . . Post,
+R. M. (2001). The Stanley Foundation Bipolar Treatment Outcome Network: II. Demo-
+graphics and illness characteristics of the first 261 patients. Journal of Affective Disorders,
+67, 45–59.
+Swann, A. C., Pazzaglia, P., Nicholls, A., Dougherty, D. M., & Moeller, F. G. (2003). Impulsivity
+and phase of illness in bipolar disorder. Journal of Affective Disorders, 73, 105–111.
+Tohen, M., Waternaux, C. M., & Tsuang, M. T. (1990). Outcome in mania: A 4-year prospec-
+tive follow-up of 75 patients utilizing survival analysis. Archives of General Psychiatry, 47,
+1106–1111.
+Tondo, L., & Baldessarini, R. J. (2000). Reducing suicide risk during lithium maintenance
+treatment. Journal of Clinical Psychiatry, 61, 97–104.
+Tondo, L., Vazquez, G. H., & Baldessarini, R. J. (2017). Depression and mania in bipolar disor-
+der. Current Neuropharmacology, 15, 353–358.
+Tseng, W.-L., Guyer, A. E., Briggs-Gowan, M. J., Axelson, D., Birmaher, B., Egger, H. L., . . .
+Brotman, M. A. (2015). Behavior and emotion modulation deficits in preschoolers at risk
+for bipolar disorder. Depression and Anxiety, 32, 325–334.
+Valentí, M., Pacchiarotti, I., Undurraga, J., Bonnín, C. M., Popovic, D., Goikolea, J. M., . . . Vieta,
+E. (2015). Risk factors for rapid cycling in bipolar disorder. Bipolar Disorders, 17, 549–559.
+
+-- 335 of 498 --
+
+Bipolar Disorder 	315
+van Gent, E. M., & Zwart, R. M. (1991). Psychoeducation of partners of bipolar manic patients.
+Journal of Affective Disorders, 21, 15–18.
+Vancampfort, D., Correll, C. U., Galling, B., Probst, M., De Hert, M., Ward, P. B., . . . Stubbs,
+B. (2016). Diabetes mellitus in people with schizophrenia, bipolar disorder and major
+depressive disorder: A systematic review and large scale meta-analysis. World Psychiatry,
+15(2), 166–174.
+Victor, S. E., Johnson, S. L., & Gotlib, I. H. (2011). Quality of life and impulsivity in bipolar
+disorder. Bipolar Disorders, 13(3), 303–309.
+Vieta, E., & Valentí, M. (2013). Mixed states in DSM-5: Implications for clinical care, education,
+and research. Journal of Affective Disorders, 148(1), 28–36.
+Vreeker, A., Boks, M. P. M., Abramovic, L., Verkooijen, S., Van Bergen, A. H., Hillegers, M. H. J.,
+. . . Ophoff, R. A. (2016). High educational performance is a distinctive feature of bipolar
+disorder: A study on cognition in bipolar disorder, schizophrenia patients, relatives and
+controls. Psychological Medicine, 46, 807–818.
+Wehr, T. A., Sack, D. A., & Rosenthal, N. E. (1987). Sleep reduction as a final common pathway
+in the genesis of mania. American Journal of Psychiatry, 144, 210–214.
+Wehr, T. A., Turner, E., Shimada, J., Lowe, C., Barker, C., & Leibenluft, E. (1998). Treatment of a
+rapidly cycling bipolar patient by using extended bed rest and darkness to stabilize the
+timing and duration of sleep. Biological Psychiatry, 43, 822–828.
+Weiss, R. D., Griffin, M. L., Kolodziej, M. E., Greenfield, S. F., Najavits, L. M., Daley, D. C., &
+Hennen, J. A. (2007). A randomized trial of integrated group therapy versus group drug
+counseling for patients with bipolar disorder and substance dependence. American Jour-
+nal of Psychiatry, 164, 100–107.
+Wender, P. H., Kety, S. S., Rosenthal, D., Schulsinger, F., Ortmann, J., & Lunde, I. (1986). Psy-
+chiatric disorders in the biological and adoptive families of adopted individuals with
+affective disorders. Archives of General Psychiatry, 43, 923–929.
+Whitton, A. E., Treadway, M. T., & Pizzagalli, D. A. (2016). Reward processing dysfunction in
+major depression, bipolar disorder and schizophrenia. Current Opinion in Psychiatry, 28,
+7–12.
+World Health Organization. (2011). The World Health report: Mental health. Geneva, Switzerland:
+Author.
+Xuan, R., Li, X., Qiao, Y., Guo, Q., Liu, X., Deng, W., . . . Zhang, L. (2020). Mindfulness-based
+cognitive therapy for bipolar disorder: A systematic review and meta-analysis. Psychia-
+try Research, 290, 113116.
+Yan, L. J., Hammen, C., Cohen, A. N., Daley, S. E., & Henry, R. M. (2004). Expressed emotion
+versus relationship quality variables in the prediction of recurrence in bipolar patients.
+Journal of Affective Disorders, 83, 199–206.
+Youngstrom, E. A., Findling, R. L., Youngstrom, J. K., & Calabrese, J. R. (2005). Toward an
+evidence-based assessment of pediatric bipolar disorder. Journal of Clinical Child and Ado-
+lescent Psychology, 34, 433–448.
+
+-- 336 of 498 --
+
+316
+Contemporary basic and translational schizophrenia research challenges historical
+therapeutic pessimism. The stronger the research, the clearer it is that people with
+schizophrenia are not fated to this condition by strong genetic determinism, nor are
+they rendered unaware or unfeeling in their experience of schizophrenia’s symp-
+tomatology. An appreciation for this contemporary evidence makes it less surprising
+when pharmacotherapy for schizophrenia disappoints, and in some cases, medica-
+tion may not even be the most appropriate approach to treatment (Murray et al.,
+2016). Along with these emerging basic and translational research implications, there
+are also encouraging data on schizophrenia treatment itself. Research in this cat-
+egory includes (1) traditional psychosocial treatments, well established for the care of
+people with other conditions, being applied to treating schizophrenia; (2) advances
+in newer psychosocial treatments that have come also to be appreciated as relevant
+for the care of people diagnosed with schizophrenia; and (3) translational research
+efforts aimed at individual symptoms and at basic psychological processes thought
+to be crucial for schizophrenia. In this chapter, we sample from a range of basic,
+translational, and intervention studies to support a more encouraging perspective on
+schizophrenia treatment, not only for the benefit of those who study and treat people
+with schizophrenia but also in the hope of catching the attention of other readers of
+this volume who may not be aware of these developments.
+We begin by describing the current schizophrenia diagnostic criteria and their
+origins. We then review recent data on the epidemiology of schizophrenia, including
+the number and types of people affected (i.e., their gender, ethnicity, socioeconomic
+status), and on schizophrenia’s typical course, comorbidities, and prognosis. The
+bulk of this chapter is then devoted to descriptions of schizophrenia’s main symp-
+toms and the ways in which theory, methods, and measures from affective science,
+cognitive neuroscience, and behavioral neuroscience have enabled us more precisely
+C H A P T E R 1 1
+Schizophrenia
+Ann M. Kring
+David A. Smith
+
+-- 337 of 498 --
+
+Schizophrenia 	317
+than ever before to pinpoint the nature of these main symptoms. This increased
+explanatory precision has informed the next generation of assessment measures
+and psychosocial treatments, which we also describe. In addition to covering these
+assessment tools and interventions, where possible throughout this chapter, we
+derive clinical implications from basic and translational psychopathology research.
+Finally, we delineate general principles of change emerging from newer and promis-
+ing treatments.
+TYPICAL SYMPTOMS AND CLASSIFICATION
+Contemporary approaches to psychiatric diagnosis are sometimes regarded as neo-
+Kraepelinian in recognition of the pioneering contributions of the 19th-century
+German psychiatrist Emil Kraepelin’s original symptom-based distinctions among
+mental disorders (Jablensky, 2010). In contrast with this early work, the 20th century
+witnessed decades of alternative approaches that were etiologically based, subjective
+and inferential, unreliable, and frankly ignored, before more operationally defined
+and objectively denotable symptom sets such as Kraepelin’s were reintroduced as
+part of the third edition of the American Psychiatric Association’s (1980) Diagnostic
+and Statistical Manual of Mental Disorders (DSM-III) and the 10th edition of the World
+Health Organization’s (1992) International Classification of Diseases (ICD-10).
+Apart from his general contributions to contemporary, worldwide diagnostic
+standards, Kraepelin is also credited specifically with initiating the scientific study
+of schizophrenia. He referred to what we today consider schizophrenia as dementia
+praecox, which denotes what Kraepelin thought to be the disease’s characteristic early
+onset and chronic deteriorating course. It was Swiss psychiatrist Eugen Bleuler (1911)
+who later coined the term “schizophrenia,” which he chose to evoke a splitting of
+the mind, in recognition of his more psychodynamic ideas about the nature of the
+disorder.
+One widely used manual that specifies diagnostic criteria for schizophrenia is
+DSM-5 (American Psychiatric Association, 2013), which includes several symptoms
+(e.g., hallucinations, blunted affect) and specifies duration criteria for the symptoms.
+DSM-5 dispensed with schizophrenia subtypes that were part of prior versions of
+DSM and remain part of ICD because of their limited reliability, validity, and utility.
+Although our focus in this chapter is on schizophrenia, there are other disorders on
+the psychotic disorder spectrum, including schizoaffective disorder, schizophreni-
+form disorder, brief psychotic disorder, delusional disorder, and two of the personal-
+ity disorders (schizotypal, schizoid).
+DSM represents a consensus-driven approach to characterizing the symptoms
+of schizophrenia. Among the more popular alternatives to the consensus-driven
+approach are empirical ones based on factor analysis of symptom ratings. Fortunately,
+there is some convergence between the two approaches, especially with respect to
+DSM-5. Although the findings are not entirely consistent, the bulk of factor-analytic
+studies also converge, like DSM-5, on some variant of a positive, negative, and dis-
+organized speech/behavior structure (Kotov et al., 2020; Peralta & Cuesta, 2001).
+As with the convergence between consensus and empirical approaches, a satisfy-
+ing additional line of convergence comes, once again, from a historical perspective.
+
+-- 338 of 498 --
+
+318 	P s y c h o P a t h o l o g y
+Kendler (2016) culled key schizophrenia symptoms from textbooks and review
+articles published between 1899 and 1956. Thought disorder, emotional blunting,
+and delusions were reported by every author reviewed. Notably, this consistency
+emerged during the pre–neuroleptic era, further bolstering confidence in both the
+contemporary consensus (DSM and ICD) and empirical evidence (factor analysis) for
+these being among the most important of schizophrenia’s symptoms.
+Although the characteristic symptoms of schizophrenia seem well established,
+it must be noted that symptoms characteristic of schizophrenia does not ensure that
+schizophrenia is characteristic of these symptoms. Indeed, these very same symp-
+toms may present across other disorders and may even be more characteristic of
+disorders other than schizophrenia. In particular, positive symptoms might charac-
+terize personality disorders (e.g., paranoid, schizoid, and schizotypal) and negative
+symptoms might characterize mood disorders (e.g., major depression). While this
+lack of symptom specificity creates nosological difficulties, for clinical purposes, it
+creates opportunities for breakthroughs in the treatment of symptoms in the context
+of other disorders to potentially inform the treatment of those same symptoms in the
+context of schizophrenia.
+Our adoption of a symptom level of analysis for this chapter, as opposed to
+considering schizophrenia a unitary diagnostic entity, is a common and not alto-
+gether new approach to managing the disorder’s heterogeneity (Neale, Oltmanns, &
+Harvey, 1985; Persons, 1986). Among the various symptom configurations, one that
+distinguishes positive, negative, and disorganized symptoms has proved useful in
+terms of etiology and treatment, especially for positive and negative symptoms. It is
+important to emphasize, however, that the positive versus negative locution is nei-
+ther evaluative nor valanced. Positive symptoms are positive in the sense that they
+are “additions”—excess experiences, phenomena, or functions not typical of people
+who are not diagnosed with schizophrenia. Positive symptoms include delusions
+and hallucinations. Negative symptoms, on the other hand, are “subtractions”—defi-
+ciencies or absences of experience and function. Negative symptoms include asocial-
+ity, avolition, anhedonia, blunted affect, and alogia. Disorganized symptoms include
+disorganized speech and behavior. With this broad range of symptoms, it is clear
+that schizophrenia can touch on everything that makes us human: the way we think,
+what our senses perceive, what we feel, our motivation, and the way we behave.
+Not surprisingly, schizophrenia is also associated with difficulties in social relation-
+ships, goal-directed behavior, and communication. This breadth of impact, coupled
+with schizophrenia’s relatively early onset and long-term outcomes, make clear that
+by any standard, schizophrenia is among the most severe of the formally recognized
+psychological disorders (Charlson et al., 2018).
+EPIDEMIOLOGY
+The lifetime prevalence of schizophrenia is nearly 1%, and it affects men slightly more
+often than women (Kirkbride et al., 2006; Walker, Kestler, Bollini, & Hochman, 2004).
+Schizophrenia is more prevalent in developed than in developing nations (Saha,
+Chant, Welham, & McGrath, 2005), but the incidence (i.e., number of new cases over
+a particular time period) does not vary according to the economic status of the coun-
+try (Saha, Welham, Chant, & McGrath, 2006). Taken together, these epidemiological
+
+-- 339 of 498 --
+
+Schizophrenia 	319
+findings suggest that the clinical course of schizophrenia is better in developing
+nations than in developed ones. However, a close analysis of outcomes across sev-
+eral nations indicates a great deal of variability that does not cleave to the devel-
+oped versus developing nation perspective (Cohen, Patel, Thara, & Gureje, 2008). In
+the United States, schizophrenia is diagnosed more frequently among some racial
+groups, such as African Americans, than among others, though it appears that this
+may reflect diagnostic bias among clinicians rather than an actual difference among
+groups (Schwartz, Docherty, Najolia, & Cohen, 2019; Schwartz & Blankenship, 2014).
+COURSE, ASSOCIATED CLINICAL FEATURES, AND COMORBIDITY
+The typical schizophrenia onset is between ages 18 and 25, usually somewhat earlier
+in men than in women. Some evidence suggests that an earlier age of onset is associ-
+ated with more negative symptoms and a poorer prognosis (Tandon, Nasrallah, &
+Keshavan, 2009). Perhaps owing to their later age of onset, women with schizophre-
+nia tend to have an overall better prognosis than men, including better functioning
+prior to the onset of the first episode, fewer hospitalizations, fewer negative symp-
+toms, better response to treatment, and better social and occupational functioning
+(Salem & Kring, 1998). People with schizophrenia typically have a number of more
+severe acute episodes with less severe but still debilitating symptoms, including neg-
+ative symptoms, between these episodes. Some estimates suggest that about 1 in 5
+people with schizophrenia have an optimal course of illness, which means that they
+are able to live independently, hold a job, and have meaningful relationships. Most
+people with this disorder, however, have multiple episodes and continuing difficul-
+ties in social and occupational functioning (Cancro, 1989).
+Comorbid substance use disorders are common in schizophrenia, complicating
+treatment efforts (Hartz et al., 2014). Anxiety disorders, including panic disorder,
+obsessive– compulsive disorder, and social anxiety, are also commonly comorbid
+with schizophrenia (Braga, Petrides, & Fifueira, 2004). Posttraumatic stress disor-
+der (PTSD), in general, and childhood or adult trauma, in particular, are risk factors
+for schizophrenia (Achim et al., 2011; Gibson, Alloy, & Ellman, 2016; Powers, Fani,
+Cross, Ressler, & Bradley, 2016), especially so for positive symptoms (Bailey et al.,
+2018). Childhood neglect, on the other hand, appears to be a risk factor for negative
+symptoms (Bailey et al., 2018). Trauma, unfortunately, is all too common and a fairly
+nonspecific risk factor for several psychological disorders, including schizophrenia
+(de Vries et al., 2019); that is, experiencing trauma does not chart a direct course to
+the onset of schizophrenia. Depression, too, is typical of people with schizophrenia,
+though it can be difficult to distinguish between clinical depression and side effects
+of medications commonly used to treat schizophrenia (Tandon et al., 2009). Perhaps
+related to the high comorbidity with depression, people with schizophrenia are more
+likely than people in the general population to die from suicide (Palmer, Pankratz, &
+Bostwick, 2005), Sadly, for reasons that are not fully understood, people with schizo-
+phrenia are also more likely to die from any cause (Laursen, Nordentoft, & Morten-
+son, 2014). Results from a meta-analysis of over 300 people with schizophrenia found
+that sleep difficulties, including sleep inefficiency, decreased total sleep time, and
+increased sleep latency, are also common, even among people not being treated with
+antipsychotic medications (Chouinard, Poulin, Stip, & Godbout, 2004).
+
+-- 340 of 498 --
+
+320 	P s y c h o P a t h o l o g y
+Clinical Implications
+Given the key gender differences in schizophrenia, consideration of gender is impor-
+tant for both assessment and treatment. In addition, it is important to do a thorough
+diagnostic assessment to identify any comorbid conditions that also require clinical
+intervention, including anxiety disorders, PTSD, and both childhood trauma and
+neglect. Of particular importance is consideration of depression and suicide risk
+among people with schizophrenia. Substance use also warrants additional scrutiny,
+not only for possible intervention but also because substance use can complicate
+diagnosis by seeming to explain otherwise important indicators of underlying psy-
+chosis. Finally, assessment and treatment of sleep difficulties may be beneficial (see
+Vincent & Davidson, Chapter 14, this volume), especially because sleep difficulties
+are problems in their own right, and because sleep therapies and sleep hygiene train-
+ing entail minimal cost and risk, especially in relation to the costs associated with
+psychosis and its treatment.
+The fact that prognosis is unrelated to socioeconomic differences between coun-
+tries raises the possibility that culture plays a strong role. Perhaps it is the culture
+of symptom nonacceptance and a reciprocal relationship between symptoms and
+control attempts (e.g., Barrowclough & Hooley, 2003; Vasconcelos e Sa, Wearden, &
+Barrowclough, 2013) that drives both the aggressiveness of treatment and the poorer
+outcomes in Western cultures. While from a Western perspective it is difficult to
+imagine accepting schizophrenia to any degree, perhaps the message in these data
+is that attempts to ameliorate symptoms can be undertaken from a clinical posture
+that is more accepting of idiosyncrasies and eccentricities evidenced by the people
+experiencing them. The essentialist impulse to deem anything unusual about peo-
+ple to be related to their schizophrenia is nearly irresistible. It is sharply rejecting
+and potentially alliance rupturing, however, to mount professional efforts to change
+something that is neither part of the disorder nor troublesome to the person. Such
+change efforts may be perceived as crossing the line from help into control, so it may
+be that alliance building with people diagnosed with schizophrenia is encouraged
+not only by negotiating what to change but also by negotiating what not to change.
+This, in turn, might provide impetus for a broader societal conversation about accep-
+tance of harmless, even if markedly unusual, human diversity.
+Diagnostically, there are some important clinical considerations as well. DSM
+requires the presence of at least two symptoms from its set of five domains. Because
+only one of the DSM domains includes negative symptoms, a person evidencing
+negative symptoms without positive symptoms would not qualify for a diagnosis
+of schizophrenia. Conversely, a person with positive symptoms (say, delusions and
+hallucinations) without negative symptoms, could be diagnosable with schizophre-
+nia. Because delusions and hallucinations are highly correlated with each other,
+DSM can be viewed as relatively biased in favor of a positive symptom presenta-
+tion. Also, establishing the 6-month illness duration criterion can be a challenge
+clinically, especially with people who may lack insight into their difficulties and
+may thereby be poor historians of symptom onset. The negative symptoms them-
+selves, because they are evidenced by the absence of ordinary functions, such as
+emotional expressivity, can pose unique diagnostic challenges, making refined
+assessment instruments and thorough training in this area very important. People
+
+-- 341 of 498 --
+
+Schizophrenia 	321
+with schizophrenia also may not appear to be experiencing distress, so the DSM
+psychosocial impairment diagnostic criterion requires especially careful evaluation,
+including an openness to understanding nontraditional indicators of distress and
+ongoing reevaluation of distress as the therapeutic relationship becomes more estab-
+lished and trusting.
+Finally, racial bias requires constant vigilance, especially in the face of data sug-
+gesting that apparent racial differences in schizophrenia may be driven more by cli-
+nician diagnostic bias than by actual morbidity. Knowing where bias manifests (e.g.,
+Eack, Bahorik, Newhill, Neighbors, & Davis, 2012; Iacovino, Jackson, & Oltmanns,
+2014; Schwartz & Blankenship, 2014), whether implicitly or explicitly, is the first step
+in eradicating it, so consciousness raising around pathologized racial and ethnic
+differences through research, training, and personal reflection is probably neces-
+sary to unconfound the schizophrenia diagnosis from its sociopolitical and histori-
+cal contexts. There is no shame in feeling insufficiently prepared to navigate racial
+and ethnic dimensions of schizophrenia diagnosis, but if diversity considerations in
+schizophrenia differential diagnosis fall sufficiently outside one’s competence, it is
+worth pursuing the necessary training, experience, consultation, and supervision,
+or even making appropriate referrals, to ensure that clinical practice occurs within
+the bounds of one’s competence (American Psychological Association, 2017). Doing
+nothing is not professionally acceptable, as it perpetuates the continuation of such
+biases and misdiagnosis. One of the troubling findings reported by Eack and col-
+leagues (2012) is that the greater the mistrust of mental health professionals by Afri-
+can Americans with schizophrenia, the greater the likelihood that these individuals
+would be misdiagnosed with schizophrenia. Although speculative, one interpreta-
+tion of this finding is that mental health professionals who sensed such mistrust may
+have been inclined to attribute it to paranoia or suspiciousness rather than to their
+own biases. We can and must do better.
+CLINICAL DESCRIPTIONS AND SIGNIFICANCE OF SYMPTOMS
+Our symptom-based description of schizophrenia is intended to manage the het-
+erogeneity of the disorder for expository purposes and to better represent empirical
+findings. Importantly, it is not intended as an approach to categorizing people diag-
+nosed with schizophrenia. Symptom-based dimensional models represent the scien-
+tific state of the art (e.g., Kotov et al., 2020), and creating new categories from differ-
+ent configurations of symptoms no longer seems fruitful (Guloksuz & van Os, 2018).
+Consistent with the purpose of the present volume, we see symptoms as occupying
+a scientifically rigorous and clinically useful middle ground between aggregated
+symptom dimensions and polythetic diagnostic categories.
+Positive Symptoms
+Positive symptoms tend to be the most familiar schizophrenic symptoms. Unlike neg-
+ative symptoms, which manifest as absences, hallucinations and delusions are read-
+ily apparent and salient experiences. They are also the most common schizophrenic
+symptoms, with a prevalence approaching 90% in some samples (e.g., Demjaha et
+
+-- 342 of 498 --
+
+322 	P s y c h o P a t h o l o g y
+al., 2009). Nevertheless, it is worth noting that some evidence suggests that positive
+symptoms may be less specific to schizophrenia than are negative symptoms, and
+may be secondarily associated with a wide variety of other medical and psychiatric
+conditions (e.g., hypo-/hyperglycemia, medication interactions/withdrawal, electro-
+lyte/metabolic abnormalities, acute toxicities; Griswold, Del Regno, & Berger, 2015).
+Hallucinations
+“Hallucinations” are sensory perceptions in the absence of external sensory stimu-
+lation. Common examples of hallucinations include hearing voices; seeing shapes,
+colors, or people; smelling or tasting rancid food; and feeling insects, burning, or
+numbness on parts of the body. The lifetime prevalence of auditory hallucinations
+among people diagnosed with schizophrenia approaches 80%, while visual, tactile,
+and olfactory hallucination prevalences are nearer to 30%, 20%, and 10%, respec-
+tively (McCarthy-Jones et al., 2017). It is especially important to consider religious
+and cultural factors in diagnosing hallucinations, as certain visions and other sen-
+sory experiences may not be out of the ordinary within particular social groups.
+Delusions
+“Delusions” are fixed false beliefs that are not normative within one’s religious or
+cultural community. Delusions are the most commonly occurring schizophrenia
+symptom, evidenced in some 70% of cases across different cultures (Maher, 2001).
+DSM distinguishes “bizarre” delusions, which are not possible even in principle—
+such as being a deceased historical figure—from “non-bizarre” delusions, which are
+possible in principle but are plainly false, such as the belief that one is being system-
+atically thwarted by conspiring international authorities or that one’s thoughts are
+being inserted, broadcast, or removed. Among the more common delusional themes
+is delusions of persecution, which are the most common (American Psychiatric
+Association, 2013); paranoia, which is also quite common; grandiosity; and ideas of
+reference, according to which otherwise unrelated events are thought to be arranged
+for or targeted specifically at the person experiencing the delusions.
+Disorganization Symptoms
+Disorganized symptoms include disorganized speech and disorganized behavior.
+Disorganized speech refers to problems in organizing ideas and in speaking, so that
+a listener can understand. Speech may be disorganized by what are called “loose
+associations” or “derailment.” With this, a person may be more successful in com-
+municating with a listener but has difficulty sticking to one topic. A nice example of
+loose associations can be found in excerpts from the book The Soloist by Los Angeles
+Times reporter Steve Lopez (2008). Lopez asks about Beethoven and gets the follow-
+ing response:
+“Cleveland doesn’t have the Beethoven statue. That’s a military-oriented city, occu-
+pied, preoccupied, with all the military figures of American history, the great sol-
+diers and generals, but you don’t see the musicians on parade, although you do
+
+-- 343 of 498 --
+
+Schizophrenia 	323
+have Severance Hall, Cleveland Music School Settlement, Ohio University Bobcats,
+Buckeyes of Ohio State. All the great soldiers are there from the United States Mili-
+tary, World War Two, Korean War, whereas in Los Angeles you have the LAPD, Los
+Angeles County Jail, Los Angeles Times, Mr. Steve Lopez. That’s an army, right?”
+(pp. 23–24)
+In contrast to disorganized speech, disorganized behavior might include bouts
+of agitation, dressing in unusual clothes, acting in a silly manner, wandering with
+no particular destination, or collecting garbage. A person with this symptom seems
+to lose the ability to organize their behavior and make it conform to community
+standards. They might also have difficulty performing the tasks of everyday living.
+In DSM-5, one manifestation of disorganized behavior is called “catatonia.” This
+used to be a subtype of schizophrenia in prior DSM versions, but as noted earlier,
+their limited validity rendered subtypes obsolete in DSM-5. People with catatonia
+may gesture repeatedly, using peculiar and sometimes complex sequences of finger,
+hand, and arm movements, which often seem to be purposeful. Some people mani-
+fest an unusual increase in their overall level of activity, including much excitement,
+flailing of the limbs, and great expenditure of energy similar to that seen in mania.
+At the other end of the spectrum is immobility: People adopt unusual postures and
+maintain them for very long periods of time. Catatonia is seldom seen today in peo-
+ple with schizophrenia, perhaps because treatments work effectively on these dis-
+turbed movements or postures.
+Negative Symptoms
+A 2006 National Institute of Mental Health (NIMH) consensus statement on nega-
+tive symptoms concluded that the evidence base supports five negative symptoms:
+asociality, avolition, anhedonia, blunted affect, and alogia (Kirkpatrick, Fenton, Car-
+penter, & Marder, 2006).
+Asociality
+“Asociality” involves decreased interest in forming close relationships with others
+and/or reduced social activity. People with this symptom may not desire close rela-
+tionships with family, friends, or romantic partners. Instead, they may wish to spend
+much of their time alone. When around others, people with this symptom may inter-
+act only superficially and briefly, and appear aloof or indifferent to these social inter-
+actions. People with asociality may report frequently being alone, yet they do not
+report feeling lonely. Asociality is distinct from social skills deficits or conditions
+that limit the opportunity to interact with other people (e.g., living far away from
+friends or family members).
+Avolition
+“Avolition” refers to diminished motivation and difficulty in initiating and persist-
+ing in what are usually routine activities, such as work or school, hobbies, or social
+activities. For example, a person with avolition may not be motivated to seek out
+
+-- 344 of 498 --
+
+324 	P s y c h o P a t h o l o g y
+work or to keep up with household chores or hobbies, and may instead spend much
+of the time at home doing nothing. Like asociality, avolition involves both an expe-
+rience component (i.e., motivation) and a behavioral component (i.e., goal-directed
+behavior). Therefore, failure to be working is not an indicator of avolition in a non-
+working person who is otherwise motivated to work.
+Anhedonia
+“Anhedonia” involves a reduction in the experience of pleasure. People with anhe-
+donia may report diminished pleasure in different domains, such as social activities,
+physical activities (e.g., food, sex, exercise), work or school, hobbies, and so forth.
+As we discuss in more detail in a later section, research suggests that it is impor-
+tant to distinguish consummatory or “in-the-moment” pleasure from anticipatory
+pleasure (Kring & Elis, 2013). People with schizophrenia appear to have more dif-
+ficulties with anticipatory than with consummatory pleasure; that is, when people
+with schizophrenia are asked about expected future situations or activities that are
+pleasurable to most people (e.g., good food, recreational activities), they report that
+they anticipate less pleasure from these sorts of activities than do people without
+schizophrenia (Gard, Kring, Germans Gard, Horan, & Green, 2007). However, when
+presented with actual pleasant activities, such as amusing films or tasty beverages,
+people with schizophrenia report experiencing as much pleasure as do people with-
+out schizophrenia (Kring & Elis, 2013).
+Blunted Affect
+“Blunted affect” (also called “flat” or “restricted affect”) refers to a lack of outward
+expression of emotion. A person with this symptom may stare vacantly, the muscles
+of the face motionless, the eyes lifeless. When spoken to, the person may answer in
+a flat and toneless voice and not look at their conversational partner. Importantly,
+this symptom refers only to the outward expression of emotion and not to reported
+experience of emotion, which is not impoverished at all (Kring & Elis, 2013).
+Alogia
+“Alogia” refers to a significant reduction in the amount of speech. Simply put, people
+with this symptom do not talk much. People with alogia answer questions with one
+or two words and elaborate on their answers with only the minimum of additional
+detail.
+Structure of Schizophrenia Symptoms
+As described earlier, positive and negative symptoms emerge as distinct factors in
+factor-analytic studies of schizophrenia symptoms (e.g., Smith, Mar, & Turoff, 1998).
+The psychosis super spectrum of the Hierarchical Taxonomy of Psychopathology
+(Kotov et al., 2017) comprises similar thought disorder and detachment spectra
+(Kotov et al., 2020). Despite latent factors underlying the specific symptoms, there are
+reasons to preserve symptom-level distinctions. In the case of positive symptoms,
+
+-- 345 of 498 --
+
+Schizophrenia 	325
+DSM-5 retains the distinction between hallucinations and delusions because some
+psychotic disorders involve only one or the other, and because the various treatment
+approaches focus on them in somewhat different ways (Barch et al., 2013). Insofar as
+negative symptoms are concerned, factor analyses suggest an even more complex
+latent situation, with two distinct negative symptom factors emerging (Blanchard
+& Cohen, 2006; Blanchard et al., 2017; Kring, Gur, Blanchard, Horan, & Reise, 2013;
+Messinger et al., 2011; but see Strauss et al., 2018, for a more complex factor solution).
+The first factor is diminished expressivity, and it includes blunted affect and alogia; the
+second factor is diminished motivation and pleasure, and it includes avolition, asociality,
+and anhedonia.
+Clinical Implications
+Different types of symptoms are related to a number of clinically significant factors.
+The positive and disorganization symptoms tend to be associated with a less chronic
+course, including more remissions and relapses than the more chronic course associ-
+ated with negative symptoms (Owen, Sawa, & Mortensen, 2016). Positive and disor-
+ganization symptoms also respond better to most antipsychotic medications, includ-
+ing those that are otherwise associated with the treatment of negative symptoms
+(e.g., clozapine; Huhn et al., 2019). Researchers examining the impact of positive and
+disorganizations symptoms find that these symptoms are associated with greater
+levels of caregiver burden (Barrowclough et al., 2003; Perlick et al., 2006; Wolthaus et
+al., 2002). Positive symptoms also seem to decline with age, perhaps owing to reduc-
+tions in dopamine that are also associated with aging (American Psychiatric Asso-
+ciation, 2013).
+The negative symptoms tend to endure beyond acute episodes and have pro-
+found effects on the lives of people with schizophrenia, as well as their family
+members. Cross-sectional and longitudinal studies have shown that the presence
+of many negative symptoms is a strong predictor of a poor clinical outcome (Fenton
+& McGlashan, 1991; Ho, Nopoulos, Flaum, Arndt, & Andreasen, 1998; Milev, Ho,
+Arndt, & Andreasen, 2005) and poor quality of life (Blanchard et al., 2017; Eack &
+Newhill, 2007; Savill et al., 2016). Negative symptoms are also prognostic of func-
+tional outcomes, including poor occupational attainment, financial dependence, and
+impaired social adjustment (Siegel et al., 2006). Negative symptoms can also have a
+major impact on family members. They are a significant source of caregiver burden
+(Dyck, Short, & Vitaliano, 1999; Perlick et al., 2006; Provencher & Mueser, 1997) and
+may also contribute to family conflict, which in its own right is related to poor prog-
+nostic outcomes for people with schizophrenia (e.g., Hooley, 2007; Weisman, Nuech-
+terlein, Goldstein, & Snyder, 2000). In a landmark study of people with schizophrenia
+and their spouses, Hooley, Richters, Weintraub, and Neale (1987) found that spouses
+believed that negative symptoms were more under the volitional control of the ill
+spouse. By contrast, positive symptoms were believed to be part of the illness and
+therefore under less individual control, even as spouses with more positive symp-
+toms had lower overall functioning compared to spouses with negative symptoms.
+Negative symptoms are also attributed to African American psychiatric inpatients
+much more often than they are attributed to non-African American psychiatric inpa-
+tients (Trierweiler et al., 2000).
+
+-- 346 of 498 --
+
+326 	P s y c h o P a t h o l o g y
+ASSESSING SYMPTOMS IN SCHIZOPHRENIA
+There are many methods for assessing symptoms in schizophrenia. In this section,
+we briefly review two methods: clinical interviews and self-report measures. In the
+following section we discuss laboratory methods for assessing negative symptoms
+later, as a way to illustrate the benefits of translational research.
+Clinical Interviews
+Perhaps the most typical way to assess schizophrenia symptoms is the clinical inter-
+view and rating scale. Clinical interviews are designed to aid diagnosis by assess-
+ing the severity of specific symptoms. They typically focus on symptoms over a
+particular time interval (e.g., last week, last month, last year), and symptom severity
+is indicated on a rating scale that corresponds to the interview. One example of a
+commonly used structured interview that coincides with the DSM is the Structured
+Clinical Interview for DSM-5 Disorders (SCID-5; First, Williams, Karg, & Spitzer,
+2015). The SCID includes modules covering all diagnoses in the DSM, includ-
+ing a module for psychotic and associated symptoms. Most symptoms are rated
+on a 3-point scale of severity, with instructions for algorithmically translating the
+resulting configuration of symptom ratings into categorical diagnoses. DSM-5 also
+includes a Clinician-Rated Dimensions of Psychosis Symptom Severity assessment,
+which uses a 0–4 rating scale to capture psychosis symptom severity (American Psy-
+chiatric Association, 2013). This measure assesses not only the severity of hallucina-
+tions, delusions, disorganization, and negative symptoms but also domains that are
+not symptoms of schizophrenia per se, specifically, impaired cognition, depression,
+and mania.
+Other clinical interview and rating scales, such as the Brief Psychiatric Rat-
+ing Scale (BPRS; Lukoff, Nuechterlein, & Ventura, 1986; Overall & Gorham, 1962),
+assess general psychiatric symptoms, including those observed in schizophrenia,
+anxiety, and mood disorders. One of the mostly widely used clinical rating scales
+for schizophrenia is the Positive and Negative Syndrome Scale (PANSS; Kay, Fisz-
+bein, & Opler, 1987). Despite its widespread use, the PANSS has several problems.
+First, it includes only a single item for hallucinations and a single item for delusions.
+Single-item assessments are problematic from a measurement perspective, and they
+also fail to cover the complexity of hallucinations (Visual? Auditory?) and delusions
+(Reference? Paranoid?). Second, some of the items covering negative symptoms are
+no longer considered negative symptoms (e.g., inattention). The Psychotic Symptom
+Rating Scales (PSYRATS; Haddock, McCarron, Tarrier, & Faragher, 1999) provide
+more comprehensive coverage of positive symptoms by also assessing conviction,
+preoccupation, and distress that a person experiences with particular symptoms.
+The Clinical Assessment Interview for Negative Symptoms (CAINS; Kring et al.,
+2013) includes several items for each of the five negative symptoms, and the inter-
+viewer is instructed to consider multiple perspectives (e.g., experience, behavior) and
+to resolve inconsistencies by using follow-up questions.
+One challenge is that clinical rating scales can privilege interviewer observa-
+tions over first-person reports. This appears to be particularly relevant for schizo-
+phrenia, perhaps reflecting the dogma that people with schizophrenia have limited
+.
+
+-- 347 of 498 --
+
+Schizophrenia 	327
+insight or awareness of their illness and cannot reliably report on their own experi-
+ences (e.g., Amador et al., 1994; Selten, Gernaat, Nolen, Wiersma, & van den Bosch,
+1998). Reconciling two discrepant reports is never an easy task, but such discrepan-
+cies may reflect something other than lack of insight or limited self-awareness on the
+part of the person with schizophrenia. For example, asking people with schizophre-
+nia whether they generally experience pleasure (or even to describe what kinds of
+things they find pleasurable) might elicit a different response than asking whether
+they derive pleasure from consuming a favorite meal; that is, the context in which
+questions about emotional experiences are asked can lead to different responses.
+Moreover, and in some ways more importantly, the tendency to interpret mismatches
+between first-person and other reports as error by the person with schizophrenia
+conveys the message that first-person reports are not meaningful. Nothing could be
+further from the truth.
+Self‑Report Measures
+Another way to assess symptoms is with self-report. Somewhat surprisingly, self-
+report measures have not often been used in the assessment of schizophrenia. This
+may be due to a general misperception that people with schizophrenia cannot reli-
+ably and accurately complete such measures. However, research employing a vari-
+ety of paradigms documents the ability of people with schizophrenia to provide
+reliable and valid reports of domains such as anhedonia, emotion expression, and
+motivation—all constructs related to negative symptoms (e.g., Barch, Yodkovik,
+Sypher-Locke, & Hanewinkel, 2008; Horan, Green, Kring, & Nuechterlein, 2006;
+Horan, Kring, & Blanchard, 2006).
+That people with schizophrenia produce valid self-reports of emotion is less
+remarkable when we understand that they do not approach such measures with
+different underlying conceptualizations or knowledge structures of the constructs.
+For example, a study using multidimensional scaling techniques demonstrated that
+people with schizophrenia use the same two-dimensional structure (valence and
+arousal) as people without schizophrenia when completing emotion ratings (Kring,
+Barrett, & Gard, 2003). Self-report measures are also related to other measures, such
+as physiology and behavior (Kring & Elis, 2013). In short, there is considerable evi-
+dence that people with schizophrenia self-report their emotion and other internal
+states and motivations related to their symptoms in reliable and valid fashion.
+One widely used measure to assess positive symptoms is the Community
+Assessment of Psychic Experiences (CAPE; Konings, Back, Hanssen van Os, &
+Krabbendam, 2006), which covers positive and negative symptoms (also depression
+symptoms) and is an expansion of the work of Peters and colleagues who developed
+the Peters et al. Delusions Inventory (PDI; Peters, Joseph, & Garety, 1999). This mea-
+sure can assess recent and lifetime experiences of symptoms and is also used as a
+measure of risk for psychosis.
+There are a few specific self-report measure of negative symptoms (Lincoln,
+Dollfus, & Lyne, 2017), including a self-report measure based on the CAINS that
+assesses the motivation and pleasure domain, and is known as the MAP-SR (Park et
+al., 2012). This has been used in several studies, and people with schizophrenia can
+complete this without problems (Lincoln et al., 2017).
+
+-- 348 of 498 --
+
+328 	P s y c h o P a t h o l o g y
+Perhaps the most widely used negative symptom self-report measures are of
+anhedonia. In particular, two measures developed in the 1970s by Loren and Jean
+Chapman at the University of Wisconsin, the Physical Anhedonia Scale (Chapman &
+Chapman, 1978) and the Social Anhedonia Scale (Eckblad, Chapman, Chapman, &
+Mishlove, 1982), have been used in many studies. These studies indicate that people
+with schizophrenia score higher than (1) people who do not have a psychological
+disorder and (2) people with bipolar disorder, but (3) do not differ from people with
+depression. However, whereas scores on these scales wax and wane with depres-
+sion episodes, they remain elevated among people with schizophrenia, suggesting a
+more trait-like anhedonic disturbance. Indeed, scores on these scales show stability
+across not only time but also whether a person is taking medication (Horan, Kring,
+et al., 2006). While the Chapman scales are useful self-report measures of anhedonia
+that have been widely used in schizophrenia research, their content is somewhat
+outdated, and more recent research suggests that it is important also to consider
+distinct components of anhedonia that are not necessarily reflected on these scales
+(Lincoln et al., 2017).
+A more contemporary anhedonia measure, which takes into consideration the
+time course of emotion in its conceptualization of anhedonia in schizophrenia, is
+the Temporal Experience of Pleasure Scale (TEPS; Gard, Germans Gard, Kring, &
+John, 2006). This trait measure assesses consummatory physical pleasure (i.e., extent
+to which a person gets pleasure from physical activities; e.g., food and the outdoors)
+and anticipatory physical pleasure (i.e., extent to which a person experiences plea-
+sure in anticipation of future physical activities). Meta-analyses of studies using the
+TEPS have found that people with schizophrenia can reliably and validly complete
+this measure, and that they score lower than people without schizophrenia on the
+Anticipatory but not the Consummatory subscale (Frost & Strauss, 2016; Visser,
+Chapman, Ruiz, Raugh, & Strauss, 2020).
+Clinical Implications
+The myriad ways in which schizophrenia symptoms may be assessed suggest a few
+key treatment implications. First, the clinical interview itself may be viewed as a
+form of “therapeutic assessment” (Finn, 2007); that is, simply by engaging a person
+with schizophrenia in a careful and detailed discussion of experiences, emotions,
+social relationships, and motivations, the clinician may be helping to identify treat-
+ment targets or, in cognitive-behavioral therapy parlance, to develop the problem/
+treatment goals list (Beck, Rector, Stolar, & Grant, 2009). Second, because there are
+strengths and weaknesses to any assessment approach, routine use of both interview
+and self-report measures (as well as laboratory measures, discussed in the next sec-
+tion) may be the only way to ensure comprehensive coverage of domains that treat-
+ment needs to target. Third, no matter what assessments are used, it will be impor-
+tant to consider whether a specific person exhibits particular symptoms, as opposed
+to reliance on a global rating or total score that sums across all symptoms or even
+symptom domains (i.e., positive, disorganized, or negative). Although the incremen-
+tal contribution of finer-grained assessments to the delivery of more effective treat-
+ment remains an empirical matter, it would seem that consideration of particular
+symptoms guides treatment decisions more effectively and efficiently than lumping
+all the symptoms together.
+
+-- 349 of 498 --
+
+Schizophrenia 	329
+TRANSLATIONAL RESEARCH: THE EXAMPLE OF NEGATIVE SYMPTOMS
+Although clinical interviews and rating scales effectively assess schizophrenia
+symptoms and assist with diagnosis, they can be limited when it comes to develop-
+ing targeted treatments. First, the behavioral sample on which these interviews are
+based may not be representative because the ratings are typically made at a single
+time point, such as during hospitalization, that may not fully capture the individual’s
+general level of functioning. Second, the format of these interviews, which demand
+a certain degree of clinical skill, may systematically fail to elicit the full context of
+when symptoms appear and are distressing. Finally, most uses of the rating scales
+require tabulation of a total score rather than specific subscale or symptom scores.
+Knowing the total score is informative with respect to overall symptomatology, but
+it does not provide any specific information about particular symptoms. Less sus-
+ceptible to these limitations, laboratory measures that are the focus of translational
+research can be a useful means for augmenting clinical interviews when assessing
+schizophrenia symptoms.
+The aim of translational research is to convert laboratory findings into clinically
+useful knowledge, moving them from “bench to bedside.” Our clinical understand-
+ing of the negative symptoms of schizophrenia is a good example of translational
+research because it has been enhanced by researchers who adopt the methods and
+theories developed in affective science, social psychology, personality psychology,
+and neuroscience to study emotion and motivation, as well as social interactions
+and relationships in schizophrenia (Barch, Gold, & Kring, 2017). With respect to
+emotion, these methods include laboratory studies in which emotionally evocative
+stimuli are presented to people with and without schizophrenia, while measures of
+facial expression, reported experience, physiology, and brain activation are obtained.
+With respect to motivation, these methods include laboratory presentation of cues
+signaling reward, along with assessments of motivated or goal-directed behavior to
+obtain those rewards (or avoid losses). In the social domain, laboratory-based inter-
+personal interactions and social perception tasks create opportunities for assessing
+social behavior and cognition.
+Here, we briefly review examples of such translational research as it pertains to
+blunted affect, anhedonia, and avolition. Apart from the direct applications of find-
+ings in this literature, it is worth pointing out that many laboratory measures that
+are part and parcel of translational research can also be used effectively in clinical
+assessments, as well as in gauging the effectiveness of interventions targeting nega-
+tive symptoms.
+A remarkably consistent pattern of findings has emerged from translational
+research studies over the past 30 years (see Kring & Elis, 2013, for review): In the
+presence of emotionally evocative stimuli—whether they be films, pictures, foods,
+odors, or sounds—people with schizophrenia are less outwardly expressive of posi-
+tive and negative emotion than are people without schizophrenia. However, people
+with schizophrenia report feeling emotions as strongly as, if not more strongly than,
+people without schizophrenia.
+Contradicting a clinical rating of anhedonia, people with schizophrenia report
+experiencing as much positive emotion in the presence of emotionally pleasant
+things, such as films, pictures, tastes, or just day-to-day life, as do people without
+schizophrenia (Kring & Elis, 2013). Translational research has helped to resolve this
+
+-- 350 of 498 --
+
+330 	P s y c h o P a t h o l o g y
+contradiction. Specifically, neurobehavioral models that distinguish between com-
+ponents of hedonic experience (Kring & Barch, 2014) point to an important distinc-
+tion between pleasure experienced when directly engaged in an enjoyable activity
+(i.e., “consummatory pleasure”) and pleasure experienced in anticipation of future
+activities (i.e., “anticipatory pleasure”). Anticipatory pleasure can be further parsed
+into two components: (1) predicting the future experience of pleasure and (2) the con-
+current experience of pleasure in knowing that a future activity is going to occur—
+that is, the pleasure experienced in anticipation of things to come. Behavioral and
+functional magnetic resonance imaging (fMRI) evidence support the contention that
+compared to people without schizophrenia, people with schizophrenia have difficul-
+ties with both components of anticipatory pleasure. The clinical implication of this
+finding is important: If people with schizophrenia are less likely to anticipate that
+future events will be pleasurable and to experience pleasure in anticipation of things
+to come, they may be less likely to seek out experiences they might find equally plea-
+surable (e.g., Frost & Strauss, 2016).
+More recent translational research has turned to avolition. There is a growing
+body of evidence at both the behavioral and neural levels that people with schizo-
+phrenia have difficulty translating reward information (picking up on cues of reward,
+maintaining information about forthcoming reward, parsing out costs and benefits
+to action) into goal-directed or motivated reward-seeking behavior (for reviews, see
+Fulford, Campellone, & Gard, 2018; Kring & Barch, 2014). Heerey and Gold (2007)
+showed emotionally evocative pictures to people with and without schizophrenia
+in two conditions, asking them to press a button quickly either to see it again (for
+positive images) or not to see it again (for negative images). In the first, called the
+“representational responding condition,” button pressing took place after the image
+was removed from view for 3 seconds. In the second, called the “evoked responding
+condition,” button pressing commenced during picture viewing. Interesting group
+differences emerged in the representational condition, in which participants pre-
+sumably needed to maintain a representation of the pictures to guide their button
+pressing. Healthy individuals exhibited a pattern of button pressing that was dis-
+tinguishable by valence (i.e., they pressed the button more frequently for emotional
+compared to neutral pictures); participants with schizophrenia did not show such
+differentiation, suggesting a deficit in motivated behavior that required maintaining
+representation of the forthcoming reward (in this case, to see a picture again).
+Clinical Implications
+What are the treatment implications of the illustrated translational research find-
+ings? When treating a person with schizophrenia who is not very outwardly expres-
+sive, whether facially, vocally, or gesturally, it is important to recognize that the per-
+son likely feels strong emotions. Inasmuch as levels of subjective distress contribute
+to impairment of judgments that are necessary for psychiatric diagnosis, mistaking
+lack of expression for a lack of distress needs to be avoided, perhaps through spe-
+cial efforts to understand emotional experience, when making diagnostic decisions.
+Second, people with schizophrenia can express emotion facially if instructed to do
+so (e.g., Kohler et al., 2008; Putnam & Kring, 2007). Thus, interventions built around
+training expressive behavior may be effective. Third, blunted affect might account for
+myriad family and interpersonal difficulties, inasmuch as the social consequences of
+
+-- 351 of 498 --
+
+Schizophrenia 	331
+unexpressive behavior are likely great, disrupting interactions with both familiar
+and unfamiliar people (e.g., Hooley et al., 1987; Krause, Steimer-Krause, & Hufnagel,
+1992). Family interventions provide an excellent vehicle for transmitting these trans-
+lational findings not only to family members but also to people with schizophrenia
+themselves. This way, family members can come to appreciate and empathize even
+with the more obscure negative symptoms, while people with schizophrenia can
+acquire a vocabulary for expressing and understanding themselves. Thus, family
+interventions might benefit from including discussions of these translational find-
+ings to more fully help family members understand the nature of negative symp-
+toms.
+Fourth, assuming, based on a clinical interview or self-report measures of anhe-
+donia, that people with schizophrenia experience no pleasure would be a mistake.
+Clinical interviews and self-report measures in themselves would have to cause
+consummatory pleasure to expose genuine variability in hedonic capacity. Fifth,
+it is important to assess both anticipatory and consummatory pleasure, perhaps
+borrowing directly from laboratory-dependent measures to do so. Finally, exist-
+ing cognitive-behavioral interventions for depression, such as pleasure predicting
+(Burns, 1980), may be useful for people with schizophrenia who have a deficit in
+anticipatory pleasure.
+TREATMENT
+Treating any symptom of schizophrenia is notoriously difficult. The current treat-
+ment recommendation for schizophrenia from the American Psychiatric Association
+and the Patient Outcomes Research Team (PORT) is for medication plus psychosocial
+intervention (American Psychiatric Association, 2020; Kreyenbuhl, Buchanan, Dick-
+erson, & Dixon, 2010). Unfortunately, it is often difficult for people with schizophrenia
+to receive psychosocial interventions. Without access to psychosocial interventions,
+pharmacological treatment becomes the default approach, frequently operating in
+isolation from other helpful approaches, so much so that it becomes a challenge for
+people diagnosed with schizophrenia to avoid taking medications.
+Indeed, the most commonly used treatment is medication, but it is more effec-
+tive for (some) positive symptoms and disorganization symptoms than for negative
+symptoms. Indeed, the evidence in support of medication treatments for negative
+symptoms is underwhelming, with studies showing only minor benefit from phar-
+macological treatment (e.g., Leucht et al., 2017; Murphy, Chung, Park, & McGorry,
+2006). In what follows, we consider how currently available treatments do (or, in most
+cases do not) effectively treat schizophrenia symptoms.
+Medication Treatment
+In the 1950s, the serendipitous discovery of the class of antipsychotic drugs known
+as phenothiazines, especially the drug chlorpromazine (e.g., Thorazine), revolution-
+ized the way schizophrenia was treated. Indeed, in less than 20 years, these drugs
+became the primary form of treatment for schizophrenia. Other early antipsychot-
+ics include the thioxanthenes (e.g., thiothixene/Navane) and the butyrophenones
+(e.g., haloperidol/Haldol). Collectively, these drugs are referred to as first-generation
+
+-- 352 of 498 --
+
+332 	P s y c h o P a t h o l o g y
+antipsychotics because they came out of the first “wave” of significant, empirically
+supported medication treatments for schizophrenia. These first-generation antipsy-
+chotic drugs are most effective with the positive and disorganization symptoms,
+but as many as 30% of people with schizophrenia do not respond favorably to the
+first-generation antipsychotics. As well, about half the people who take any antipsy-
+chotic drug quit after 1 year, and up to three-fourths quit before 2 years, because
+of unpleasant side effects such as sedation, dizziness, blurred vision, restlessness,
+and sexual dysfunction (e.g., Lieberman, et al., 2005). Other more serious side effects
+include “extrapyramidal side effects” (e.g., tremors of the fingers, a shuffling gait,
+and drooling), “dystonia” (rigid muscles), “akathisia” (inability to remain still), and
+“tardive dyskinesia” (involuntary and unstoppable movements of the mouth area).
+Because of these side effects, current clinical practice guidelines from the Ameri-
+can Psychiatric Association (2020) call for treating people with the smallest possible
+doses of drugs. Ideally, the smallest possible dosage would be no drugs at all when
+side effects are not tolerable or when symptoms are not affected; in practice, however,
+low dosages are nevertheless routinely prescribed. Notably, and unfortunately, the
+first-generation antipsychotic drugs are not very effective in treating negative symp-
+toms (e.g., Leucht et al., 2009).
+In order to remedy the deficiencies of first-generation antipsychotics, a second
+wave of research produced a group of drugs referred to as the second-generation
+antipsychotics. Heralded at the time as drugs that would have fewer side effects and
+be more effective than first-generation drugs, particularly for negative symptoms
+(e.g., Kane, Honigfeld, Singer, Meltzer, & the Clozapine Study Group, 1988), these
+medications have their own troubling profile of side effects, such as weight gain
+(Huhn et al., 2019; Rummel-Kluge et al., 2010), which has been linked to the develop-
+ment of type 2 diabetes (Leslie & Rosenheck, 2004). Unfortunately, between 12 and
+20% of people do not respond to these medications, particularly clozapine (Siskind,
+Siskind, & Kisely, 2017). Furthermore, there is no strong evidence that these drugs
+are any more effective than the first-generation drugs. A meta-analysis of over 400
+studies with over 50,000 people compared the efficacy and side-effect profiles of 32
+different first- and second-generation medications (Huhn et al., 2019). Two key find-
+ings emerged. First, all but six of the drugs did a better job of reducing symptoms
+compared to placebo, and there was little difference between the drugs in terms of
+how effective they were at reducing symptoms. Second, the greatest effect was on
+positive and disorganization symptoms. As noted earlier, medications are not very
+effective for negative symptoms, whether first- or second-generation (Fusar-Poli et
+al., 2015). In the United States, the Food and Drug Administration, the body that
+approves new medication treatments for all illnesses, has yet to approve any medica-
+tion with an indication for negative symptoms.
+Another challenge with second-generation medications is that nearly three-
+fourths of people stop taking them due to side effects (Jones et al., 2006; Lieberman
+et al., 2005).
+Psychosocial Treatments
+Several psychosocial interventions, including cognitive-behavioral therapy, family-
+based treatments, and skills training, have a solid evidence base to support their
+use as an adjunctive treatment to medications (Dixon et al., 2010; National Institute
+
+-- 353 of 498 --
+
+Schizophrenia 	333
+for Health and Care Excellence, 2014; Turner, van der Gaag, Karyotaki, & Cuijpers,
+2014).
+Cognitive‑Behavioral Therapy
+A growing body of evidence demonstrates that the maladaptive beliefs of some peo-
+ple with schizophrenia can benefit from cognitive-behavioral therapy (CBT; Garety,
+Fowler, & Kuipers, 2000; Wykes, Steel, Everitt, & Tarrier, 2008). The use of CBT in
+schizophrenia is often referred to as CBTp, where the p stands for “psychosis” to
+make clear that the CBT has been adapted for people with psychosis, such as those
+with schizophrenia.
+People with schizophrenia can be encouraged to test out their delusional beliefs
+in much the same way as can people without schizophrenia. Through collaborative
+discussions (and in the context of other modes of treatment, including antipsychotic
+drugs), some people with schizophrenia have been helped to attach a nonpsychotic
+meaning to paranoid symptoms and thereby reduce their intensity and aversive
+nature, similar to what is done for depression and panic disorder (Beck & Rector,
+2005; Beck et al., 2009; Turkington, Kingdon, & Weiden, 2006).
+But does CBTp help with the negative symptoms? CBTp formulations targeting
+negative symptoms may include challenging belief structures tied to low expecta-
+tions for success (avolition) and low expectations for pleasure (anticipatory pleasure
+deficit in anhedonia) (Rector, Beck, & Stolar, 2005; Wykes et al., 2008). One study has
+shown that CBTp can help with avolition, by challenging belief structures tied to
+low expectations for success (Grant, Huh, Perivoliotis, Stolar, & Beck, 2012). A meta-
+analysis of 34 studies of close to 2,000 people with schizophrenia, across eight dif-
+ferent countries, found small to moderate effect sizes for CBTp in treating positive
+symptoms, negative symptoms, mood, and general life functioning (Wykes et al.,
+2008). A qualitative review of 21 studies found that CBTp was effective in reducing
+negative symptoms either compared to an active treatment or treatment as usual
+(Elis, Caponigro, & Kring, 2013).
+CBT exists within an extremely active and creative research community that
+not only values empirical research but also aggressively pursues innovative means
+of effecting change. Recently, CBT has embraced mindfulness-based approaches
+(Kabat-Zinn, 1990; Khoury, Lecomte, Gaudiano, & Paquin, 2013), acceptance and
+commitment therapy (Bach & Hayes, 2002; Hayes, Strosahl, & Wilson, 1999; Louise,
+Fitzpatrick, Strauss, Rossell, & Thomas, 2018), emotion theory, and metacognitive
+concepts (Flavell, 1979; Sauvé, Lavigne, Pochiet, Brodeur, & Lepage, 2020), among oth-
+ers. Collectively, these are sometimes referred to as third-wave approaches because
+they follow behavioral, then cognitive-behavioral approaches. CBT is also studied
+in the context of nearly every other form of psychopathology, creating ample oppor-
+tunity for cross-fertilization of theories and methods in order to address the myriad
+problems experienced by people with schizophrenia (Freeman, Taylor, Molodynski,
+& Waite, 2019), including specific symptoms, such as hallucinations and delusions
+(Freeman, 2016; van der Gaag, Valmaggia, & Smit, 2014).
+A variant of CBT, cognitive-behavioral social skills training (CBSST), focuses on
+reducing symptoms and improving functioning (Granholm, McQuaid, & Holden,
+2016). Randomized controlled clinical trials have shown it to be effective (Gran-
+holm et al., 2005; Granholm, Holden, Link, & McQuaid, 2014), and it has also shown
+
+-- 354 of 498 --
+
+334 	P s y c h o P a t h o l o g y
+promise among people early in the course of the disorder (Herman, Shireen, Brom-
+ley, Yiu, & Granholm, 2018). This treatment was effective in reducing positive symp-
+toms and avolition (other negative or disorganization symptoms were not assessed).
+Another treatment that has shown promise for people early in the course of
+schizophrenia is called NAVIGATE (Mueser et al., 2015). This is a broad-based
+approach that includes medication, family psychoeducation, and individual therapy.
+In a large randomized controlled clinical trial called the Recovery after an Initial
+Schizophrenia Episode Early Treatment Program (RAISE-ETP), NAVIGATE was
+more effective than standard community care in terms of improving quality of life
+and reducing symptoms. Unfortunately, the investigators did not parse positive, dis-
+organized, and negative symptoms for separate analyses; they just reported a symp-
+tom total score (Kane et al., 2016).
+Family Psychoeducation
+Family psychoeducation approaches to schizophrenia treatment are based on data
+pertaining to the role of families in relapse of psychopathology (Hooley, 2007;
+Pharoah, Mari, Rathbone, & Wong, 2010). Although a wide variety of family psycho-
+education programs have been developed, they are more similar than they are differ-
+ent. In particular, they all entail work with both the family and the identified patient,
+in a collaboration dedicated to improving family functioning and reducing stress.
+Efforts at helping that are well intended but not helpful (e.g., criticism, emotional
+overinvolvement) are replaced with ones that are more helpful. Importantly, family
+members are not blamed for symptom exacerbations; rather, there is an emphasis on
+the nature of schizophrenia, the sometimes nonintuitive needs of symptomatic fam-
+ily members, how to access support and care systems, negotiated problem solving or
+crisis management work, and collaborative monitoring of systems in order to permit
+prompt interventions during acute problem periods, in order to avoid relapses and
+more invasive interventions. A recent review of 20 studies with a total of 2,337 partic-
+ipants suggested that brief psychoeducation can lower relapse rates, improve symp-
+toms, increase medication compliance, and reduce anxiety and depression (Zhao,
+Sampson, Xia, & Jayaram, 2015).
+Social Skills Training
+Social skills training is designed to teach people with schizophrenia how to man-
+age successfully a wide variety of interpersonal situations, such as discussing their
+medications with the psychiatrist, interviewing for jobs, and reading bus schedules
+(Heinssen, Liberman, & Kopelowicz, 2000; Liberman, Eckman, Kopelowicz, & Sto-
+lar, 2000). Social skills training typically involves role playing and other group exer-
+cises to practice skills, both in a therapy group and in actual social situations. As
+might be expected, social skills training has its largest impact on social skills, but
+it also has significant impact on negative symptoms. In a meta-analysis, Kurtz and
+Mueser (2008) report moderate effects (effect size [ES] = 0.40) across six studies (N =
+363) of social skills training on negative symptoms. Interestingly, these effect sizes
+exceed those for other psychiatric symptoms (ES = 0.15), though they are substan-
+tially smaller than those found for actual social skills (ES = 1.20).
+
+-- 355 of 498 --
+
+Schizophrenia 	335
+Adapted Meditation
+It is easy enough to advocate basing new and innovative treatments on the best
+contemporary translational science. It is somewhat harder actually to do so. Nev-
+ertheless, this work has already begun. A recent meta-analysis of meditation-based
+treatments for negative symptoms found a small but reliable effect size for these
+treatments helping to reduce negative symptoms compared to treatment-as-usual or
+another control treatment (Sabe, Sentissi, & Kaiser, 2019).
+To illustrate this type of treatment approach, an emotion-focused meditation
+treatment targeting anticipatory pleasure and motivation difficulties in schizo-
+phrenia (Johnson et al., 2009, 2011) was developed as an extension and adaptation
+to schizophrenia of loving-kindness meditation (LKM). Similar to other meditation
+practices, LKM involves quiet contemplation and attention to the here and now. Par-
+ticipants follow a guided meditation that asks them to direct their attention to their
+heart region and contemplate a person for whom they already feel warm, tender,
+and compassionate feelings, or a situation in which they felt warm feelings. They
+are then asked to extend these warm feelings to themselves, using such internally
+spoken phrases as “May I be safe” or “May I be at peace,” to help generate these feel-
+ings. As the practice continues, participants are asked to radiate these warm, tender,
+and compassionate feelings to others: first to a few people they know well, then to all
+their friends and family, and finally to all people with whom they have a connection.
+In the emotion-focused meditation, two groups of nine participants with schizo-
+phrenia attended 1-hour weekly sessions for 6 weeks, as well as a review session 6
+weeks after the final session. The weekly group sessions incorporated three major
+components: discussion, skills teaching, and practice. At the beginning of each ses-
+sion, the participants were encouraged to discuss something they learned from
+doing the meditation or a perceived benefit of the meditation. Problems, challenges,
+or questions about the practice were then addressed by the group, with advice given
+by the therapist to meet participants’ needs and reinforce positive aspects of the
+practice. Next, a mindfulness activity such as mindful eating, walking, listening,
+or body movement, was taught and practiced. Then, the group facilitator led par-
+ticipants in 5- to 10-minute meditation practice during the session, gently remind-
+ing participants to redirect their attention nonjudgmentally to the feeling of loving-
+kindness and positive emotions when their attention wandered. Participants were
+encouraged to practice at home and were given a CD with guided meditations.
+Although this was a completely uncontrolled study and the findings are
+extremely preliminary, the attendance of people with schizophrenia was over 90%,
+and feedback suggested that participants enjoyed and benefited from the treatment.
+The treatment was associated with a decrease in anhedonia and asociality, and an
+increase in positive emotions at posttreatment and at 3-month follow-up assessments
+(Johnson et al., 2011).
+Principles of Change
+Although we have discussed clinical implications at various points throughout this
+chapter, it is also worth attempting to delineate some more general principles of
+change. Foremost among these is the proposition that psychosocial and biological
+interventions complement rather than contradict each other. Just as medications have
+
+-- 356 of 498 --
+
+336 	P s y c h o P a t h o l o g y
+psychosocial effects, so, too, do psychosocial interventions have biological effects. A
+completely deterministic biological accounting for the etiology of schizophrenia will
+not change this any more than a biological account of learning would eliminate the
+need for formal education. Similarly, fundamentally psychosocial phenomena may
+be affected by biological interventions. Unlike other disorders, such as depression,
+the symptoms of schizophrenia—especially the negative symptoms—are far enough
+from ordinary experience that it is tempting to assume there must be something
+wrong neurobiologically with patients and that a biological intervention is therefore
+necessary. Both assumptions are based on faulty logic that researchers and clinicians
+must avoid.
+It may also be the case that the effective treatments are aimed not at schizo-
+phrenia per se but at circumscribed problems associated with schizophrenia. For
+instance, social skills training has its greatest effects on social skills, anhedonia and
+asociality appear to be affected by emotion-focused meditation, and anticipatory
+pleasure seems to be improved by interventions specifically targeting this phenom-
+enon. Changes may be most likely when basic symptom and translational research
+processes are targeted for intervention.
+Interest in psychosocial interventions has also been invigorated by a focus on
+specific symptoms rather than on the overall schizophrenia diagnostic category.
+Research into CBT for delusions, for example, has reversed the traditional wisdom
+that engaging with the content of positive symptoms is not useful. On the contrary,
+doing so brings a wide array of well-specified procedures, including worry control
+and exposure therapies, into the armamentarium of psychosis treatment.
+Finally, though not a therapy unto itself, the therapeutic alliance in schizophre-
+nia treatment has been the subject of increasing empirical attention. In a recent nar-
+rative review of this literature, Browne, Nagendra, Kurtz, Berry, and Penn (2019)
+found stronger therapeutic alliances to be associated with better insight, medication
+adherence, and improved functioning, among other findings. Their appeal for more
+training and supervision in developing a positive alliance with people experiencing
+psychosis seems especially apt given the social and interpersonal difficulties often
+associated with schizophrenia, particularly its negative symptoms (Shattock, Berry,
+Degnan, & Edge, 2018).
+CONCLUSION
+Decades of empirical research have led to a growing understanding of the phenom-
+enology (symptoms, prevalence, course, associated clinical features, comborbidity)
+and etiology of schizophrenia. From these findings, clinical implications have been
+derived with the goal of improving treatments. This is indicated, as the limitations of
+contemporary treatments are as heartbreaking as they are well known. Fortunately,
+promising evidence has emerged from the implementation of traditional and newer
+forms of psychosocial therapies, as well as from innovative interventions based on
+translational research. Clearly, the search for effective treatments must continue. To
+the extent that the search for next-generation schizophrenia treatments leverages
+evolving basic, applied, and translational research, there is cause for optimism that
+this tragic disorder will one day be tractable.
+
+-- 357 of 498 --
+
+Schizophrenia 	337
+REFERENCES
+Achim, A. M., Maziade, M., Raymond, E., Olivier, D., Merette, C., & Roy, M.-A. (2011). How
+prevalent are anxiety disorders in schizophrenia?: A meta-analysis and critical review
+on a significant association. Schizophrenia Bulletin, 37(4), 811–821.
+Amador, X. F., Flaum, M., Andreasen, N. C., Strauss, D. H., Yale, S. A., Clark, S. C., & Gorman,
+J. M. (1994). Awareness of illness in schizophrenia and schizoaffective and mood disor-
+ders. Archives of General Psychiatry, 51, 826–836.
+American Psychiatric Association. (1980). Diagnostic and statistical manual of mental disorders
+(3rd ed.). Washington, DC: Author.
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders
+(5th ed.). Arlington, VA: Author.
+American Psychiatric Association. (2020). The American Psychiatric Association practice
+guideline for the treatment of patients with schizophrenia. Retrieved from www.psychia-
+try.org/psychiatrists/practice/clinical-practice-guidelines.
+American Psychological Association. (2017). APA Ethical Principles of Psychologists and
+Code of Conduct. American Psychologist, 57(12), 1–20.
+Bach, P., & Hayes, S. C. (2002). The use of acceptance and commitment therapy to prevent the
+rehospitalization of psychotic patients: A randomized controlled trial. Journal of Consult-
+ing and Clinical Psychology, 70, 1129–1139.
+Bailey, T., Alvarez-Jimenez, M., Garcia-Sanchez, A. M., Hulbert, C., Barlow, E., & Bendall, S.
+(2018). Childhood trauma is associated with severity of hallucinations and delusions in
+psychotic disorders: A systematic review and meta-analysis. Schizophrenia Bulletin, 44(5),
+1111–1122.
+Barch, D. M., Bustillo, J., Gaebel, W., Gur, R., Heckers, S., Malaspina, D., . . . Carpenter, W.
+(2013). Logic and justification for dimensional assessment of symptoms and related clini-
+cal phenomena in psychosis: Relevance to DSM-5. Schizophrenia Research, 150(1), 15–20.
+Barch, D. M., Gold, J. M., & Kring, A. M. (2017). Paradigms for assessing hedonic processing
+and motivation in humans: Relevance to understanding negative symptoms in psycho-
+pathology. Schizophrenia Bulletin, 43, 701–705.
+Barch, D. M., Yodkovik, N., Sypher-Locke, H., & Hanewinkel, M. (2008). Intrinsic motivation
+in schizophrenia: Relationships to cognition, depression, anxiety, and personality. Jour-
+nal of Abnormal Psychology, 117, 776–787.
+Barrowclough, C., & Hooley, J. M. (2003). Attributions and expressed emotion: A review. Clini-
+cal Psychology Review, 23(6), 849–880.
+Barrowclough, C., Tarrier, N., Humphreys, L., Ward, J., Gregg, L., & Andrews, B. (2003). Self-
+esteem in schizophrenia: Relationships between self-evaluation, family attitudes, and
+symptomatology. Journal of Abnormal Psychology, 112, 92–99.
+Beck, A. T., & Rector, N. A. (2005). Cognitive approaches to schizophrenia: Theory and ther-
+apy. Annual Review of Clinical Psychology, 1, 577–606.
+Beck, A. T., Rector, N. A., Stolar, N., & Grant, P. (2009). Schizophrenia: Cognitive theory, research,
+and therapy. New York: Guilford Press.
+Blanchard, J. J., Bradshaw, K. R., Garcia, C. P., Nasrallah, H. A., Harvey, P. D., Casey, D., . . .
+O’Gorman, C. (2017). Examining the reliability and validity of the Clinical Assessment
+Interview for Negative Symptoms within the Management of Schizophrenia in Clinical
+Practice (MOSAIC) multisite national study. Schizophrenia Research, 185, 137–143.
+Blanchard, J. J., & Cohen, A. (2006). The structure of negative symptoms within schizophre-
+nia: Implications for assessment. Schizophrenia Bulletin, 32, 238–245.
+Bleuler, E. (1911). Dementia Praecox oder Gruppe der Schizophrenien. Leipzig, Germany: Deuticke.
+Braga, R. J., Petrides, G., & Fifueira, I. (2004). Anxiety disorders in schizophrenia. Comprehen-
+sive Psychiatry, 45, 460–468.
+
+-- 358 of 498 --
+
+338 	P s y c h o P a t h o l o g y
+Browne, J., Nagendra, A., Kurtz, M., Berry, K., & Penn, D. L. (2019). The relationship between
+the therapeutic alliance and client variables in individual treatment for schizophrenia
+spectrum disorders and early psychosis: Narrative review. Clinical Psychology Review, 71,
+51–62.
+Burns, D. D. (1980). Feeling good: The new mood therapy. New York: Morrow.
+Cancro, R. (1989). Schizophrenia. In T. B. Karasu (Ed.), Treatments of psychiatric disorders: A task
+force report of the American Psychiatric Association. Washington, DC: American Psychiatric
+Association.
+Chapman, L. J., & Chapman, J. P. (1978). The Revised Physical Anhedonia Scale. Unpublished test,
+University of Wisconsin–Madison, Madison, WI.
+Charlson, F. J., Ferrari, A. J., Santomauro, D. F., Diminic, S., Stockings, E., Scott, J. G., . . . Whit-
+eford, H. A. (2018). Global epidemiology and burden of schizophrenia: Findings from the
+Global Burden of Disease Study 2016. Schizophrenia Bulletin, 44, 1195–1203.
+Chouinard, S., Poulin, J., Stip, E., & Godbout, R. (2004). Sleep in untreated patients with schizo-
+phrenia. Schizophrenia Bulletin, 30, 957–967.
+Cohen, A., Patel, V., Thara, R., & Gureje, O. (2008). Questioning an axiom: Better prognosis for
+schizophrenia in the developing world? Schizophrenia Bulletin, 34(2), 229–244.
+de Vries, B., van Busschbach, J. T., van der Stouwe, E. C. D., Aleman, A., van Dijk, J. J. M., Lysa-
+ker, P. H., . . . Pijnenborg, G. H. M. (2019). Prevalence rate and risk factors of victimiza-
+tion in adult patients with a psychotic disorder: A systematic review and meta-analysis.
+Schizophrenia Bulletin, 45, 114–126.
+Demjaha, A., Morgan, K., Morgan, C., Landau, S., Dean, K., Reichenberg, A., . . . Dazzan, P.
+(2009). Combining dimensional and categorical representation of psychosis: The way
+forward for DSM-V and ICD-11? Psychological Medicine, 39(12), 1943–1955.
+Dixon, L. B., Dickerson, F., Bellack, A. S., Bennett, M., Dickinson, D., Goldberg, R. W., . . .
+Schizophrenia Patient Outcomes Research Team (PORT). (2010). The 2009 schizophrenia
+PORT psychosocial treatment recommendations and summary statements. Schizophrenia
+Bulletin, 36, 48–70.
+Dyck, D. G., Short, R., & Vitaliano, P. P. (1999). Predictors of burden and infectious illness in
+schizophrenia caregivers. Psychosomatic Medicine, 61, 411–419.
+Eack, S. M., Bahorik, A. L., Newhill, A. L., Neighbors, H. W., & Davis, L. E. (2012). Interviewer-
+perceived honesty as a mediator of racial disparities in the diagnosis of Schizophrenia.
+Psychiatric Services, 63, 875–880.
+Eack, S. M., & Newhill, C. E. (2007). Psychiatric symptoms and quality of life in schizophrenia:
+A meta-analysis. Schizophrenia Bulletin, 33, 1225–1237.
+Eckblad, M. L., Chapman, L. J., Chapman, J. P., & Mishlove, M. (1982). The Revised Social Anhe-
+donia Scale. Unpublished test, University of Wisconsin–Madison, Madison, WI.
+Elis, O., Caponigro, J. M., & Kring, A. M. (2013). Psychosocial treatments for negative symp-
+toms in schizophrenia: Current practices and future directions. Clinical Psychology
+Review, 33(8), 914–928.
+Fenton, W. S., & McGlashan, T. H. (1991). Natural history of schizophrenia subtypes: II. Positive
+and negative symptoms and long-term course. Archives of General Psychiatry, 48, 978–986.
+Finn, S. E. (2007). In our clients’ shoes: Theory and techniques of therapeutic assessment. Mahwah,
+NJ: Erlbaum.
+First, M. B., Williams, J. B. W., Karg, R. S., & Spitzer R. L. (2015). Structured Clinical Interview
+for DSM-5 Disorders, Clinician Version (SCID-5-CV). Arlington, VA: American Psychiatric
+Association.
+Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-
+developmental inquiry. American Psychologist, 34(10), 906–911.
+Freeman, D. (2016). Persecutory delusions: A cognitive perspective on understanding and
+treatment. Lancet Psychiatry, 3(7), 685–692.
+
+-- 359 of 498 --
+
+Schizophrenia 	339
+Freeman, D., Taylor, K. M., Molodynski, A., & Waite, F. (2019). Treatable clinical intervention
+targets for patients with schizophrenia. Schizophrenia Research, 211, 44–50.
+Frost, K. H., & Strauss, G. P. (2016). A review of anticipatory pleasure in schizophrenia. Current
+Behavioral Neuroscience Reports, 3, 232–247.
+Fulford, D., Campellone, T., & Gard, D. E. (2018). Social motivation in schizophrenia: How
+research on basic reward processes informs and limits our understanding. Clinical Psy-
+chology Review, 63, 12–24.
+Fusar-Poli, P., Papanastasiou, E., Stahl, D., Rocchetti, M., Carpenter, W., Shergill, S., & McGuire,
+P. (2015). Treatments of negative symptoms in schizophrenia: Meta-analysis of 168 ran-
+domized placebo-controlled trials. Schizophrenia Bulletin, 41(4), 892–899.
+Gard, D. E., Germans Gard, M., Kring, A. M., & John, O. P. (2006). Anticipatory and consum-
+matory components of the experience of pleasure: A scale development study. Journal of
+Research in Personality, 40, 1086–1102.
+Gard, D. E., Kring, A. M., Germans Gard, M., Horan, W. P., & Green, M. F. (2007). Anhedo-
+nia in schizophrenia: Distinctions between anticipatory and consummatory pleasure.
+Schizophrenia Research, 93, 253–260.
+Garety, P. A., Fowler, D., & Kuipers, E. (2000). Cognitive behavioral therapy for medication-
+resistant symptoms. Schizophrenia Bulletin, 26, 73–86.
+Gibson, L. E., Alloy, L. B., & Ellman, L. M. (2016). Trauma and the psychosis spectrum: A
+review of symptom specificity and explanatory mechanisms. Clinical Psychology Review,
+49, 92–105.
+Granholm, E., Holden, J. L., Link, P., & McQuaid, J. R. (2014). Randomized clinical trial of
+cognitive behavioral social skills training for schizophrenia: Improvement in function-
+ing and experiential negative symptoms. Journal of Consulting and Clinical Psychology, 82,
+1173–1185.
+Granholm, E. L., McQuaid, J. R., & Holden, J. L. (2016). Cognitive-behavioral social skills training
+for schizophrenia: A practical treatment guide. New York: Guilford Press.
+Granholm, E., McQuaid, J. R., McClure, F. S., Auslander, L. A., Perivoliotis, D., Paola Pedrelli,
+M. S., . . . Jeste, D. V. (2005). A randomized, controlled trial for cognitive behavioral social
+skills training for middle-aged and older outpatients with chronic schizophrenia. Ameri-
+can Journal of Psychiatry, 162, 520–529.
+Grant, P. M., Huh, G., Perivoliotis, D., Stolar, N., & Beck, A. T. (2012). Randomized trial to
+evaluate the efficacy of cognitive therapy for low-functioning patients with schizophre-
+nia. Archives of General Psychiatry, 69, 121–127.
+Griswold, K. S., Del Regno, P. A., & Berger, R. C. (2015). Recognition and differential diagnosis
+of psychosis in primary care. American Family Physician, 91(12), 856–863.
+Guloksuz, S., & van Os, J. (2018). The slow death of the concept of schizophrenia and the pain-
+ful birth of the psychosis spectrum. Psychological Medicine, 48(2), 229–244.
+Haddock, G., McCarron, J., Tarrier, N., & Faragher, E. (1999). Scales to measure dimensions of
+hallucinations and delusions: The Psychotic Symptom Rating Scales (PSYRATS). Psycho-
+logical Medicine, 29, 879–889.
+Hartz, S. M., Pato, C. N., Medeiros, H., Cavazos-Rehg, P., Sobell, J. L., Knowles, J. A., . . .
+Genomic Psychiatry Cohort Consortium. (2014). Comorbidity of severe psychotic disor-
+ders with measures of substance use. JAMA Psychiatry, 71(3), 248–254.
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). Acceptance and commitment therapy: An
+experiential approach to behavior change. New York: Guilford Press.
+Heerey, E. A., & Gold, J. M. (2007). Patients with schizophrenia demonstrate dissociation
+between affective experience and motivated behavior. Journal of Abnormal Psychology,
+116, 268–278.
+Heinssen, R. K., Liberman, R. P., & Kopelowicz, A. (2000). Psychosocial skills training for
+schizophrenia: Lessons from the laboratory. Schizophrenia Bulletin, 26, 21–46.
+
+-- 360 of 498 --
+
+340 	P s y c h o P a t h o l o g y
+Herman, Y., Shireen, H., Bromley, S., Yiu, N., & Granholm, E. (2018). Cognitive-behavioural
+social skills training for first-episode psychosis: A feasibility study. Early Intervention in
+Psychiatry, 12(5), 863–868.
+Ho, B. C., Nopoulos, P., Flaum, M., Arndt, S., & Andreasen, N. C. (1998). Two-year outcome in
+first-episode schizophrenia: Predictive value of symptoms for quality of life. American
+Journal of Psychiatry, 155, 1196–1201.
+Hooley, J. M. (2007). Expressed emotion and relapse of psychopathology. Annual Review of
+Clinical Psychology, 3, 329–352.
+Hooley, J. M., Richters, J. E., Weintraub, S., & Neale, J. M. (1987). Psychopathology and mari-
+tal distress: The positive side of positive symptoms. Journal of Abnormal Psychology, 96,
+27–33.
+Horan, W. P., Green, M. F., Kring, A. M., & Nuechterlein, K. H. (2006). Does anhedonia in
+schizophrenia reflect faulty memory for subjectively experienced emotions? Journal of
+Abnormal Psychology, 115, 496–508.
+Horan, W. P., Kring, A. M., & Blanchard, J. J. (2006). Anhedonia in schizophrenia: A review of
+assessment strategies. Schizophrenia Bulletin, 32, 259–273.
+Huhn, M., Nikolakopoulou, A., Schneider-Thoma, J., Krause, M., Samara, M., Peter, N., . . .
+Leucht, S. (2019). Comparative efficacy and tolerability of 32 oral antipsychotics for the
+acute treatment of adults with multi-episode schizophrenia: A systematic review and
+network meta-analysis. Lancet, 394, 939–951.
+Iacovino, J. M., Jackson, J. J., & Oltmanns, T. F. (2014). The relative impact of socioeconomic sta-
+tus and childhood trauma on Black–White differences in paranoid personality disorder
+symptoms. Journal of Abnormal Psychology, 123(1), 225–230.
+Jablensky, A. (2010). The diagnostic concept of schizophrenia: Its history, evolution, and future
+prospects. Dialogues in Clinical Neuroscience, 12(3), 271–287.
+Johnson, D. J., Penn, D. L., Fredrickson, B. L., Kring, A. M., Meyer, P. S., Catalino, L. I., & Brant-
+ley, M. (2011). A pilot study of loving-kindness meditation for the negative symptoms of
+schizophrenia. Schizophrenia Research, 129, 137–140.
+Johnson, D. J., Penn, D. L., Fredrickson, B. L., Meyer, P. S., Kring, A. M., & Brantley, M. (2009).
+Loving-kindness meditation to enhance recovery from negative symptoms of schizo-
+phrenia. Journal of Clinical Psychology, 65, 499–509.
+Jones, P. B., Barnes, T. R. E., Davies, L., Dunn, G., Lloyd, H., Hayhurst, K. P., . . . Lewis, S. W.
+(2006). Randomized controlled trial of the effect on quality of life of second- vs first-
+generation antipsychotic drugs in schizophrenia: Cost Utility of the Latest Antipsychotic
+Drugs in Schizophrenia Study (CUtLASS 1). Archives of General Psychiatry, 63, 1079–1087.
+Kabat-Zinn, J. (1990). Full catastrophe living: Using the wisdom of your body and mind to face stress,
+pain and illness. New York: Delacorte.
+Kane, J., Honigfeld, G., Singer, J., Meltzer, H., & the Clozapine Collaborative Study Group.
+(1988). Clozapine for treatment resistant schizophrenics. Archives of General Psychiatry,
+45, 789–796.
+Kane, J. M., Robinson, D. G., Schooler, N. R., Mueser, K. T., Penn, D. L., Rosenheck, R. A., . . .
+Heinssen, R. K. (2016). Comprehensive versus usual community care for first-episode
+psychosis: 2-year outcomes from the NIMH RAISE early treatment program. American
+Journal of Psychiatry, 173, 362–372.
+Kay, S., Fiszbein, A., & Opler, L. (1987). The Positive and Negative Syndrome Scale (PANSS) for
+schizophrenia. Schizophrenia Bulletin, 13, 261–276.
+Kendler, K. S. (2016). Phenomenology of schizophrenia and the representativeness of modern
+diagnostic criteria. JAMA Psychiatry, 73(10), 1082–1092.
+Khoury, B., Lecomte, T., Gaudiano, B. A., & Paquin, K. (2013). Mindfulness interventions for
+psychosis: A meta-analysis. Schizophrenia Research, 150(1), 176–184.
+Kirkbride, J. B., Fearon, P., Morgan, C., Dazzon, P., Morgan, K., Dazzan, P., . . . Jones, P. B. (2006).
+
+-- 361 of 498 --
+
+Schizophrenia 	341
+Heterogeneity in the incidence of schizophrenia and other psychotic illnesses: Results
+from the 3-center Aesop study. Archives of General Psychiatry, 63, 250–258.
+Kirkpatrick, B., Fenton, W. S., Carpenter, W. T., & Marder, S. R. (2006). The NIMH-MATRICS
+Consensus Statement on Negative Symptoms. Schizophrenia Bulletin, 32(2), 214–219.
+Kohler, C. G., Martin, E. A., Milonova, M., Wang, P., Verma, R., Brensinger, C. M., . . . Gur, R.
+C. (2008). Dynamic evoked facial expressions of emotions in schizophrenia. Schizophrenia
+Research, 105, 30–39.
+Konings, M., Bak, M., Hanssen, M., van Os, J., & Krabbendam, L. (2006). Validity and reliabil-
+ity of the CAPE: A self-report instrument for the measurement of psychotic experiences
+in the general population. Acta Psychiatrica Scandinavica, 114(1), 55–61.
+Kotov, R., Jonas, K. G., Carpenter, W. T., Dretsch, M. N., Eaton, N. R., Forbes, M. K., . . . Watson,
+D. (2020). Validity and utility of Hierarchical Taxonomy of Psychopathology (HiTOP): I.
+Psychosis superspectrum. World Psychiatry, 19(2), 151–172.
+Kotov, R., Krueger, R. F., Watson, D., Achenbach, T. M., Althoff, R. R., Bagby, R. M., . . . Zimmer-
+man, M. (2017). The Hierarchical Taxonomy of Psychopathology (HiTOP): A dimensional
+alternative to traditional nosologies. Journal of Abnormal Psychology, 126(4), 454–477.
+Krause, R., Steimer-Krause, E., & Hufnagel, H. (1992). Expression and experience of affects in
+paranoid schizophrenia. European Review of Applied Psychology, 42, 131–138.
+Kreyenbuhl, J., Buchanan, R. W., Dickerson, F. B., & Dixon, L. B. (2010). The Schizophrenia
+Patient Outcomes Research Team (PORT): Updated treatment recommendations 2009.
+Schizophrenia Bulletin, 36, 94–103.
+Kring, A. M., & Barch, D. M. (2014). The motivation and pleasure dimension of negative symp-
+toms: Neural substrates and behavioral outputs. European Neuropsychopharmacology, 24,
+725–736.
+Kring, A. M., Barrett, L. F., & Gard, D. E. (2003). On the broad applicability of the affective
+circumplex: Representations of affective knowledge in schizophrenia. Psychological Sci-
+ence, 14, 207–214.
+Kring, A. M., & Elis, O. (2013). Emotion deficits in people with schizophrenia. Annual Review
+of Clinical Psychology, 9, 409–433.
+Kring, A. M., Gur, R. E., Blanchard, J. J., Horan, W. P., & Reise, S. P. (2013). The Clinical Assess-
+ment Interview for Negative Symptoms (CAINS): Final development and validation.
+American Journal of Psychiatry, 170, 165–172.
+Kurtz, M. M., & Mueser, K. T. (2008). A meta-analysis of controlled research on social skills
+training for schizophrenia. Journal of Consulting and Clinical Psychology, 76, 491–504.
+Laursen, T. M., Nordentoft, M., & Mortensen, P. B. (2014). Excess early mortality in schizophre-
+nia. Annual Review of Clinical Psychology, 10, 425–448.
+Leslie, D. L., & Rosenheck, R. A. (2004). Incidence of newly diagnosed diabetes attributable to
+atypical antipsychotic medications. American Journal of Psychiatry, 161, 1709–1711.
+Leucht, S., Corves, C., Arbter, D., Engel, R. R., Li, C., & Davis, J. M. (2009). Second-generation
+versus first-generation antipsychotic drugs for schizophrenia: A meta-analysis. Lancet,
+373, 31–41.
+Leucht, S., Leucht, C., Huhn, M., Chaimani, A., Mavridis, D., Helfer, B., . . . Davis, J. M. (2017).
+Sixty years of placebo-controlled antipsychotic drug trials in acute schizophrenia: Sys-
+tematic review, Bayesian meta-analysis, and meta-regression of efficacy predictors.
+American Journal of Psychiatry, 174(10), 927–942.
+Liberman, R. P., Eckman, T. A., Kopelowicz, A., & Stolar, D. (2000). Friendship and intimacy
+module. Available from Psychiatric Rehabilitation Consultants, PO Box 2867, Camarillo,
+CA 93011.
+Lieberman, J. A., Scott Stroup, T., McEvoy, J. P., Swartz, M. S., Rosenheck, R. A., Perkins, D.
+O., . . . Hsiao, J. K. (2005). Effectiveness of antipsychotic drugs in patients with chronic
+schizophrenia. New England Journal of Medicine, 353(12), 1209–1223.
+
+-- 362 of 498 --
+
+342 	P s y c h o P a t h o l o g y
+Lincoln, T. M., Dollfus, S., & Lyne, J. (2017). Current developments and challenges in the
+assessment of negative symptoms. Schizophrenia Research, 186, 8–18.
+Lopez, S. (2008). The soloist: A lost dream, an unlikely friendship, and the redemptive power of music.
+New York: Putnam.
+Louise, S., Fitzpatrick, M., Strauss, C., Rossell, S. L., & Thomas, N. (2018). Mindfulness- and
+acceptance-based interventions for psychosis: Our current understanding and a meta-
+analysis. Schizophrenia Research, 192, 57–63.
+Lukoff, D., Nuechterlein, K. H., & Ventura, J. (1986). Manual for the Expanded Brief Psychiatric
+Rating Scale. Schizophrenia Bulletin, 12, 594–602.
+Maher, B. A. (2001). Delusions. In P. B. Sutker & H. E. Adams (Eds.), Comprehensive handbook of
+psychopathology (3rd ed., pp. 309–339). Hingham, MA: Kluwer Academic/Plenum.
+McCarthy-Jones, S., Smailes, D., Corvin, A., Gill, M., Morris, D. W., Dinan, T. G., . . . Dudley,
+R. (2017). Occurrence and co-occurrence of hallucinations by modality in schizophrenia-
+spectrum disorders. Psychiatry Research, 252, 154–160.
+Messinger, J. W., Tremeau, F., Antonius, D., Mendelsohn, E., Prudent, V., Stanfore, A. D., &
+Malaspina, C. (2011). Avolition and expressive deficits capture negative symptom phe-
+nomoenology: Implications for DSM-5 and schizophrenia research. Clinical Psychology
+Review, 31, 161–168.
+Milev, P., Ho, B. C., Arndt, S., & Andreasen, N. C. (2005). Predictive values of neurocognition
+and negative symptoms on functional outcome in schizophrenia: A longitudinal first-
+episode study with 7-year follow-up. American Journal of Psychiatry, 162, 495–506.
+Mueser, K. T., Penn, D. L., Addington, J., Brunette, M. F., Gingerich, S., Glynn, S. M., . . . Kane, J.
+M. (2015). The NAVIGATE program for first-episode psychosis: Rationale, overview, and
+description of psychosocial components. Psychiatric Services, 66, 680–690.
+Murphy, B. P., Chung, Y.-C., Park, T.-W., & McGorry, P. D. (2006). Pharmacological treatment
+of primary negative symptoms in schizophrenia: A systematic review. Schizophrenia
+Research, 88, 5–25.
+Murray, R. M., Quattrone, D., Natesan, S., van Os, J., Nordentoft, M., Howes, O., . . . Taylor,
+D. (2016). Should psychiatrists be more cautious about the long-term prophylactic use of
+antipsychotics? British Journal of Psychiatry, 209(5), 361–365.
+National Institute for Health and Care Excellence. (2014). Psychosis and schizophrenia in adults:
+Treatment and management (NICE Clinical Guideline 178). London: Author.
+Neale, J. M., Oltmanns, T. F., & Harvey, P. D. (1985). The need to relate cognitive deficits to
+specific behavioral referents of schizophrenia. Schizophrenia Bulletin, 11(2), 286–291.
+Overall, J. E., & Gorham, D. R. (1962). The Brief Psychiatric Rating Scale. Psychological Reports,
+10, 799–812.
+Owen, M. J., Sawa, A., & Mortensen, P. B. (2016). Schizophrenia. Lancet, 388, 86–97.
+Palmer, B. A., Pankratz, V. S., & Bostwick, J. M. (2005). The lifetime risk of suicide in schizo-
+phrenia: A reexamination. Archives of General Psychiatry, 62, 247–253.
+Park, S. G., Llerena, K., McCarthy, J. M., Couture, S. M., Bennett, M. E., & Blanchard, J. J. (2012).
+Screening for negative symptoms: Preliminary results from the self-report version of the
+Clinical Assessment Interview for Negative Symptoms. Schizophrenia Research, 135(1–3),
+139–143.
+Peralta, V., & Cuesta, M. J. (2001). How many and which are the psychopathological dimen-
+sions in schizophrenia?: Issues influencing their ascertainment. Schizophrenia Research,
+49, 269–285.
+Perlick, D. A., Rosenheck, R. A., Kaczynski, R., Swartz, M. S., Canive, J. M., & Lieberman,
+J. A. (2006). Components and correlates of family burden in schizophrenia. Psychiatric
+Services, 57, 1117–1125.
+Persons, J. B. (1986). The advantages of studying psychological phenomena rather than psy-
+chiatric diagnoses. American Psychologist, 41, 1252–1260.
+
+-- 363 of 498 --
+
+Schizophrenia 	343
+Peters, E. R., Joseph, S. A., & Garety, P. A. (1999). Measurement of delusional ideation in the
+normal population: Introducing the PDI (Peters et al. Delusions Inventory). Schizophrenia
+Bulletin, 25(3), 553–576.
+Pharoah, F., Mari, J., Rathbone, J., & Wong, W. (2010). Family intervention for schizophrenia.
+Cochrane Database of Systematic Reviews, 12, CD000088.
+Powers, A., Fani, N., Cross, D., Ressler, K. J., & Bradley, B. (2016). Childhood trauma, PTSD,
+and psychosis: Findings from a highly traumatized, minority sample. Child Abuse and
+Neglect, 58, 111–118.
+Provencher, H. L., & Mueser, K. T. (1997). Positive and negative symptom behaviors and care-
+giver burden in the relatives of persons with schizophrenia. Schizophrenia Research, 26,
+71–80.
+Putnam, K. M., & Kring, A. M. (2007). Accuracy and intensity of posed emotional expressions
+in unmedicated schizophrenia patients: Vocal and facial channels. Psychiatry Research,
+151, 67–76.
+Rector, N. A., Beck, A. T., & Stolar, N. (2005). The negative symptoms of schizophrenia: A cog-
+nitive perspetive. Canadian Journal of Psychiatry, 50, 247–257.
+Rummel-Kluge, C., Komossa, K., Schwarz, S., Hunger, H., Schmid, F., Lobos, C. A., . . . Leucht,
+S. (2010). Head-to-head comparisons of metabolic side effects of second generation anti-
+psychotics in the treatment of schizophrenia: A systematic review and meta-analysis.
+Schizophrenia Research, 123, 225–233.
+Sabe, M., Sentissi, O., & Kaiser, S. (2019). Meditation-based mind–body therapies for nega-
+tive symptoms of schizophrenia: Systematic review of randomized controlled trials and
+meta-analysis. Schizophrenia Research, 212, 15–25.
+Saha, S., Chant, D., Welham, J., & McGrath, J. (2005). The systematic review of the prevalence
+of schizophrenia. PLOS Medicine, 2, 413–433.
+Saha, S., Welham, J., Chant, D., & McGrath, J. (2006). Incidence of schizophrenia does not vary
+with economic status of the country: Evidence from a systematic review. Social Psychiatry
+and Psychiatric Epidemiology, 41, 338–340.
+Salem, J. E., & Kring, A. M. (1998). The role of gender differences in the reduction of etiologic
+heterogeneity in schizophrenia. Clinical Psychology Review, 18, 795–819.
+Sauvé, G., Lavigne, K. M., Pochiet, G., Brodeur, M. B., & Lepage, M. (2020). Efficacy of psycho-
+logical interventions targeting cognitive biases in schizophrenia: A systematic review
+and meta-analysis. Clinical Psychology Review, 78, Article 101854.
+Savill, M., Orfanos, S., Reininghaus, U., Wykes, T., Bentall, R., & Priebe, S. (2016). The relation-
+ship between experiential deficits of negative symptoms and subjective quality of life in
+schizophrenia. Schizophrenia Research, 176(2), 387–391.
+Schwartz, E. K., Docherty, N. M., Najolia, G. M., & Cohen, A. S. (2019). Exploring the racial
+diagnostic bias of schizophrenia using behavioral and clinical-based measures. Journal
+of Abnormal Psychology, 128, 263–271.
+Schwartz, R. C., & Blankenship, D. M. (2014). Racial disparities in psychotic disorder diagno-
+sis: A review of empirical literature. World Journal of Psychiatry, 4(4), 133–140.
+Selten, J. P., Gernaat, H. B., Nolen, W. A., Wiersma, D., & van den Bosch, R. J. (1998). Experience
+of negative symptoms: Comparison of schizophrenic patients to patients with a depres-
+sive disorder and to normal subjects. American Journal of Psychiatry, 155, 350–354.
+Shattock, L., Berry, K., Degnan, A., & Edge, D. (2018). Therapeutic alliance in psychological
+therapy for people with schizophrenia and related psychoses: A systematic review. Clini-
+cal Psychology and Psychotherapy, 25(1), e60–e85.
+Siegel, S. J., Irani, F., Brensinger, C. M., Kohler, C. G., Bilker, W. B., Ragland, J. D., . . . Gur, R. E.
+(2006). Prognostic variables at intake and long-term level of function in schizophrenia.
+American Journal of Psychiatry, 163, 433–441.
+Siskind, D., Siskind, V., & Kisely, S. (2017). Clozapine response rates among people with
+
+-- 364 of 498 --
+
+344 	P s y c h o P a t h o l o g y
+treatment-resistant schizophrenia: Data from a systematic review and meta-analysis.
+Canadian Journal of Psychiatry, 62(11), 772–777.
+Smith, D. A., Mar, C. M., & Turoff, B. K. (1998). The structure of schizophrenic symptoms: A
+meta-analytic confirmatory factor analysis. Schizophrenia Research, 31, 57–70.
+Strauss, G. P., Nuñez, A., Ahmed, A. O., Barchard, K. A., Granholm, E., Kirkpatrick, B., . . .
+Allen, D. N. (2018). The latent structure of negative symptoms in schizophrenia. JAMA
+Psychiatry, 75(12), 1271–1279.
+Tandon, R., Nasrallah, H. A., & Keshavan, M. A. (2009). Schizophrenia, just the facts: 4. Clini-
+cal features and conceptualization. Schizophrenia Research, 110, 1–23.
+Trierweiler, S. J., Neighbors, H. W., Thompson, E. E., Munday, C., Binion, V. J., & Gomez, J. P.
+(2000). Clinician attributions associated with the diagnosis of schizophrenia in African
+American and non-African American patients. Journal of Consulting and Clinical Psychol-
+ogy, 68(1), 171–175.
+Turkington, D., Kingdon, D., & Weiden, P. J. (2006). Cognitive behavior therapy for schizo-
+phrenia. American Journal of Psychiatry, 163, 365–373.
+Turner, D. T., van der Gaag, M., Karyotaki, E., & Cuijpers, P. (2014). Psychological interven-
+tions for psychosis: A meta-analysis of comparative outcome studies. American Journal of
+Psychiatry, 171, 523–538.
+van der Gaag, M., Valmaggia, L. R., & Smit, F. (2014). The effects of individually tailored
+formulation-based cognitive behavioural therapy in auditory hallucinations and delu-
+sions: A meta-analysis. Schizophrenia Research, 156(1), 30–37.
+Vasconcelos e Sa, D., Wearden, A., & Barrowclough, C. (2013). Expressed emotion, types of
+behavioural control and controllability attributions in relatives of people with recent-
+onset psychosis. Social Psychiatry and Psychiatric Epidemiology, 48(9), 1377–1388.
+Visser, K. F., Chapman, H. C., Ruiz, I., Raugh, I. M., & Strauss, G. P. (2020). A meta-analysis of
+self-reported anticipatory and consummatory pleasure in the schizophrenia-spectrum.
+Journal of Psychiatric Research, 121, 68–81.
+Walker, E., Kestler, L., Bollini, A., & Hochman, K. (2004). Schizophrenia: Etiology and course.
+Annual Review of Psychology, 55, 401–430.
+Weisman, A. G., Nuechterlein, K. H., Goldstein, M. J., & Snyder, K. S. (2000). Controllability
+perceptions and reactions to symptoms of schizophrenia: A within-family comparison
+of relatives with high and low expressed emotion. Journal of Abnormal Psychology, 109,
+167–171.
+Wolthaus, J., Dingemans, P., Schene, A., Linszen, D., Wiersma, D., van den Bosch, R., . . . Hij-
+man, R. (2002). Caregiver burden in recent-onset schizophrenia and spectrum disorders:
+The influence of symptoms and personality traits. Journal of Nervous and Mental Disease,
+190, 241–247.
+World Health Organization. (1992). The ICD-10 classification of mental and behavioural disorders:
+Clinical descriptions and diagnostic guidelines. Geneva, Switzerland: Author.
+Wykes, T., Steel, C., Everitt, T., & Tarrier, N. (2008). Cognitive behavior therapy for schizo-
+phrenia: Effect sizes, clinical models, and methodological rigor. Schizophrenia Bulletin,
+34, 523–537.
+Zhao, S., Sampson, S., Xia, J., & Jayaram, M. B. (2015). Psychoeducation (brief) for people with
+serious mental illness. Cochrane Database of Systematic Reviews, 4, CD010823.

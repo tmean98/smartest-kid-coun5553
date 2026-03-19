@@ -1,0 +1,93 @@
+{
+  "id": "bYR6SQpVDD-VLk-XzyO2h",
+  "courseId": "coun5173",
+  "title": "/explainCan you define and outline the ABC-X and D",
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "/explainCan you define and outline the ABC-X and Double ABC-x model for me"
+        }
+      ],
+      "id": "zVZAXYWML4JoOoqD",
+      "role": "user"
+    },
+    {
+      "id": "af010c3FviVGUcz2",
+      "role": "assistant",
+      "parts": [
+        {
+          "type": "step-start"
+        },
+        {
+          "type": "text",
+          "text": "I'll explain the ABC-X and Double ABC-X models, which are foundational frameworks for understanding family crisis and adaptation.",
+          "state": "done"
+        },
+        {
+          "type": "tool-flashcard",
+          "toolCallId": "toolu_01KAQBmGVFiAci9Nb8F1z6vp",
+          "state": "output-available",
+          "input": {
+            "front": "ABC-X Model of Crisis (Hill, 1949)",
+            "back": "A framework showing how crisis develops through interaction of three factors: (A) the provoking stressor event, (B) the family's resources, and (C) the meaning/perception attached to the stressor. These interact to produce (X) the crisis - a state of acute disequilibrium and immobilization.",
+            "source": "Jackson-Cherry & Erford, Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        },
+        {
+          "type": "tool-flashcard",
+          "toolCallId": "toolu_01V6gnYDxEcrQMR2TpmrW8bU",
+          "state": "output-available",
+          "input": {
+            "front": "Double ABC-X Model (McCubbin & Patterson, 1982)",
+            "back": "An expanded crisis model that considers post-crisis adaptation. Double A = original stressor plus pileup of additional stressors. Double B = original resources plus newly acquired/strengthened resources. Double C = reframed perceptions of the entire situation. Double X = adaptation (long-term functional changes), not just stress reduction.",
+            "source": "Jackson-Cherry & Erford, Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        },
+        {
+          "type": "tool-flashcard",
+          "toolCallId": "toolu_01Kejzo8HANLPausEzok9dJq",
+          "state": "output-available",
+          "input": {
+            "front": "Bonadaptation",
+            "back": "Positive long-term changes that occur in response to crises. Following crises, some individuals and families don't merely return to equilibrium - they become better able to function and handle future stress and crisis events. Also called stress-related growth or posttraumatic growth.",
+            "source": "Jackson-Cherry & Erford, Chapter 1"
+          },
+          "output": {
+            "displayed": true
+          },
+          "callProviderMetadata": {
+            "anthropic": {
+              "caller": {
+                "type": "direct"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-26T23:22:35.668Z",
+  "updatedAt": "2026-02-26T23:22:35.668Z"
+}
