@@ -14,3 +14,7 @@
 node_modules/
 sync.log
 materials/videos/
+
+# Large files excluded from git
+*.pptx
+Books/
